@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wochennachrichten – Welt, Europa &amp; Deutschland</title>
+    <link>https://example.com/wochennachrichten</link>
+    <atom:link href="https://example.com/wochennachrichten/feed.xml" rel="self" type="application/rss+xml" />
+    <description>Wöchentliche Zusammenfassung der wichtigsten Nachrichten aus aller Welt mit Schwerpunkt Europa und Deutschland – Politik, Wirtschaft &amp; Finanzen, IT/Tech. Inklusive Einordnung der Auswirkungen.</description>
+    <language>de-DE</language>
+    <lastBuildDate>Sun, 31 May 2026 12:00:00 +0200</lastBuildDate>
+    <pubDate>Sun, 31 May 2026 12:00:00 +0200</pubDate>
+    <generator>Claude Code</generator>
+
+    <!-- ════════ WELT ════════ -->
+    <item>
+      <title>Iran-Deal kurz vor der Unterzeichnung</title>
+      <link>https://www.axios.com/2026/05/28/iran-peace-deal-trump-approval</link>
+      <guid isPermaLink="false">wn-2026-05-31-iran-deal</guid>
+      <category>Welt</category>
+      <category>Geopolitik</category>
+      <pubDate>Thu, 28 May 2026 18:00:00 +0200</pubDate>
+      <description><![CDATA[US-amerikanische und iranische Unterhändler einigten sich am 28. Mai auf ein vorläufiges 60-tägiges Memorandum of Understanding: Waffenruhe-Verlängerung, Aufhebung der US-Seeblockade, Wiedereröffnung der Straße von Hormus und Aufnahme neuer Atomgespräche. Präsident Trump bezeichnete den Deal als „weitgehend ausgehandelt", erteilte aber noch keine finale Genehmigung.<br/><br/><strong>Auswirkung:</strong> Die Straße von Hormus ist eine der wichtigsten Energieschlagadern der Welt (~20 % des globalen Ölhandels). Ein erfolgreicher Abschluss würde die Energiepreise in Europa erheblich senken und den Inflationsdruck auf EZB und Bundesregierung reduzieren.]]></description>
+    </item>
+
+    <item>
+      <title>Israel: Mehr als 120 Luftangriffe im Libanon</title>
+      <link>https://www.foreignexchanges.news/p/world-roundup-may-26-2026</link>
+      <guid isPermaLink="false">wn-2026-05-31-libanon</guid>
+      <category>Welt</category>
+      <category>Naher Osten</category>
+      <pubDate>Tue, 26 May 2026 20:00:00 +0200</pubDate>
+      <description><![CDATA[Das israelische Militär flog am 26. Mai über 120 Luftangriffe im Süd- und Ostlibanon – mindestens 31 Tote. Bereits in der Nacht zuvor kamen bei einem Dorfangriff im Osten elf Menschen ums Leben.<br/><br/><strong>Auswirkung:</strong> Die Eskalation erhöht den Druck auf europäische Regierungen und die EU, humanitäre Hilfe zu leisten und Migrationsbewegungen über Zypern zu managen.]]></description>
+    </item>
+
+    <item>
+      <title>Ukraine: Russland verliert Gebiete – aber Drohnenrekord</title>
+      <link>https://www.russiamatters.org/news/russia-ukraine-war-report-card/russia-ukraine-war-report-card-may-20-2026</link>
+      <guid isPermaLink="false">wn-2026-05-31-ukraine</guid>
+      <category>Welt</category>
+      <category>Ukraine</category>
+      <pubDate>Wed, 27 May 2026 09:00:00 +0200</pubDate>
+      <description><![CDATA[Im Zeitraum 21. April – 19. Mai verlor Russland netto 69 Quadratmeilen ukrainisches Territorium. Gleichzeitig feuerte Moskau im April über 8.000 Drohnen ab – ein neuer Monatsrekord. 61 % der Ukrainer befürworten laut Umfrage territoriale Kompromisse zur Beendigung des Krieges.<br/><br/><strong>Auswirkung:</strong> Der Rückzug Russlands stärkt Europas Position. Der Drohnenrekord zeigt jedoch: Infrastrukturangriffe bleiben eine reale Bedrohung.]]></description>
+    </item>
+
+    <item>
+      <title>Neuer Ebola-Ausbruch im Kongo</title>
+      <link>https://en.wikipedia.org/wiki/Portal:Current_events/May_2026</link>
+      <guid isPermaLink="false">wn-2026-05-31-ebola</guid>
+      <category>Welt</category>
+      <category>Gesundheit</category>
+      <pubDate>Mon, 25 May 2026 10:00:00 +0200</pubDate>
+      <description><![CDATA[Die Goldminenstadt Mongbwalu im Osten der Demokratischen Republik Kongo wurde als Epizentrum eines neuen Ebola-Ausbruchs identifiziert. Internationale Gesundheitsbehörden haben Notfallmaßnahmen eingeleitet.<br/><br/><strong>Auswirkung:</strong> Direkte Gefahr für Europa gering, aber der Ausbruch bindet Ressourcen von WHO, EU-Entwicklungshilfe und deutschen Hilfsorganisationen.]]></description>
+    </item>
+
+    <!-- ════════ DEUTSCHLAND ════════ -->
+    <item>
+      <title>Merz kämpft gegen Parteiquerelen und Beliebtheitstief</title>
+      <link>https://www.bloomberg.com/news/articles/2026-05-28/merz-aims-to-shut-down-party-unrest-with-vow-to-revive-germany</link>
+      <guid isPermaLink="false">wn-2026-05-31-merz</guid>
+      <category>Deutschland</category>
+      <category>Politik</category>
+      <pubDate>Thu, 28 May 2026 17:00:00 +0200</pubDate>
+      <description><![CDATA[Kanzler Friedrich Merz sieht sich wachsendem Unmut in der eigenen CDU gegenüber – nur 15 % der Deutschen zeigten sich zuletzt (April) mit seiner Regierungsarbeit zufrieden. Auf einer CDU-Versammlung appellierte er: „Deutschland hat die Kraft für einen neuen Anfang." Bloomberg berichtete am 28. Mai über interne Planspiele, ihn als Kanzlerkandidaten zu ersetzen, die Merz entschieden zurückwies.<br/><br/><strong>Auswirkung:</strong> Die Koalitionsinstabilität gefährdet die Reformagenda. Vorgezogene Neuwahlen wären für Märkte und Partner destabilisierend – besonders in einem ohnehin angespannten Wirtschaftsumfeld.]]></description>
+    </item>
+
+    <item>
+      <title>Bundeshaushalt 2026: 519 Mrd. Euro beschlossen</title>
+      <link>https://www.bundeskanzler.de/bk-en/news/merz-bundestag-budget-2026-2396326</link>
+      <guid isPermaLink="false">wn-2026-05-31-haushalt</guid>
+      <category>Deutschland</category>
+      <category>Politik</category>
+      <category>Finanzen</category>
+      <pubDate>Wed, 27 May 2026 14:00:00 +0200</pubDate>
+      <description><![CDATA[Im Bundestag hielt Merz die Generalaussprache zum Bundeshaushalt 2026. Kernpunkte: Rekordverteidigungsausgaben von über 100 Mrd. Euro, 11,5 Mrd. Euro Ukraine-Hilfe, 191 Mio. Euro für Zivilgesellschaft/NGOs. Erstmals seit dem Zweiten Weltkrieg stationiert Deutschland dauerhaft Truppen im Ausland: eine Panzerbrigade (~4.800 Soldaten) in Litauen.<br/><br/><strong>Auswirkung:</strong> Der Haushalt signalisiert Deutschlands neues Selbstverständnis als Sicherheitsanker in Europa – stärkt die NATO-Ostflanke, erhöht aber die Staatsverschuldung in konjunkturell schwacher Zeit.]]></description>
+    </item>
+
+    <item>
+      <title>BIP +0,3 % – aber Sachverständigenrat senkt Prognose</title>
+      <link>https://www.datev-magazin.de/nachrichten-steuern-recht/wirtschaft/die-wirtschaftliche-lage-in-deutschland-im-mai-2026-146771</link>
+      <guid isPermaLink="false">wn-2026-05-31-de-bip</guid>
+      <category>Deutschland</category>
+      <category>Wirtschaft</category>
+      <pubDate>Wed, 27 May 2026 11:00:00 +0200</pubDate>
+      <description><![CDATA[Das deutsche BIP wuchs im 1. Quartal 2026 um +0,3 % ggü. Vorquartal – leicht über Erwartungen. Treiber: privater Konsum und Exporte. Am 27. Mai legte der Sachverständigenrat sein Frühjahrsgutachten vor und dürfte die Jahresprognose deutlich unter das Herbstziel von +0,9 % senken. Das ifo-Beschäftigungsbarometer fiel auf ein Tief wie zuletzt während COVID-19.<br/><br/><strong>Auswirkung:</strong> Das kurzfristige BIP-Plus täuscht nicht über strukturelle Schwäche hinweg. Steigende Energiekosten und schwache Einstellungsbereitschaft erhöhen das Rezessionsrisiko für H2 2026.]]></description>
+    </item>
+
+    <item>
+      <title>Baugesetzbuch-Reform: Schnellere Planung, Enteignung möglich</title>
+      <link>https://www.cleanenergywire.org/news/historic-german-spending-package-gets-final-approval-clears-path-merzs-coalition-government</link>
+      <guid isPermaLink="false">wn-2026-05-31-baurecht</guid>
+      <category>Deutschland</category>
+      <category>Politik</category>
+      <pubDate>Tue, 26 May 2026 13:00:00 +0200</pubDate>
+      <description><![CDATA[Das Bundeskabinett brachte Änderungen am Baugesetzbuch auf den Weg: Kommunen sollen Bauvorhaben schneller genehmigen können. Im Extremfall können verwahrloste Immobilien enteignet werden – ein politisch heißes Eisen.<br/><br/><strong>Auswirkung:</strong> Die Reform ist ein Signal an den angespannten Wohnungsmarkt, dürfte aber Zeit brauchen, bevor sie Wirkung zeigt. Eigentümerverbände kündigen rechtlichen Widerstand gegen Enteignungsklauseln an.]]></description>
+    </item>
+
+    <!-- ════════ EUROPA & EU ════════ -->
+    <item>
+      <title>Eurozone auf Rezessionskurs – PMI auf 31-Monatstief</title>
+      <link>https://www.euronews.com/business/2026/05/21/europe-flashes-recession-warning-as-activity-slumps-due-to-iran-war</link>
+      <guid isPermaLink="false">wn-2026-05-31-eurozone-pmi</guid>
+      <category>Europa</category>
+      <category>Wirtschaft</category>
+      <pubDate>Fri, 29 May 2026 10:00:00 +0200</pubDate>
+      <description><![CDATA[Der S&amp;P-Flash-PMI für die Eurozone fiel im Mai auf 47,5 (April: 48,8) – der niedrigste Stand seit 31 Monaten und der zweite Monat in Folge unter der 50er-Wachstumsschwelle. Für Deutschland, Frankreich, Italien und das UK werden reale BIP-Schrumpfungen erwartet. Hauptursache: gestiegene Energiepreise durch den Nahost-Konflikt.<br/><br/><strong>Auswirkung:</strong> Europa steht vor einer Stagflation – schwaches Wachstum trifft auf steigende Preise. Die EZB gerät in ein Dilemma: Zinserhöhungen bekämpfen Inflation, verschärfen aber die Konjunkturschwäche.]]></description>
+    </item>
+
+    <item>
+      <title>EZB hält Zinsen – Märkte erwarten Erhöhung</title>
+      <link>https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp260430~81b7179e6f.en.html</link>
+      <guid isPermaLink="false">wn-2026-05-31-ezb</guid>
+      <category>Europa</category>
+      <category>Geldpolitik</category>
+      <pubDate>Thu, 28 May 2026 12:00:00 +0200</pubDate>
+      <description><![CDATA[Die EZB beließ die Leitzinsen im April unverändert. Doch die Märkte preisen inzwischen mit über 80 % Wahrscheinlichkeit eine Zinserhöhung um 25 Basispunkte bei der nächsten Sitzung ein – plus zwei weitere Erhöhungen bis Jahresende. Die HVPI-Inflation 2026 wird auf 2,7 % geschätzt (2025: 2,1 %).<br/><br/><strong>Auswirkung:</strong> Steigende Zinsen verteuern Hypotheken und Unternehmenskredite in der gesamten Eurozone – eine zusätzliche Belastung für ohnehin schwächelnde Volkswirtschaften.]]></description>
+    </item>
+
+    <item>
+      <title>EU-KI-Gesetz: Fristen verlängert, Deepfakes verboten</title>
+      <link>https://www.consilium.europa.eu/en/press/press-releases/2026/05/07/artificial-intelligence-council-and-parliament-agree-to-simplify-and-streamline-rules/</link>
+      <guid isPermaLink="false">wn-2026-05-31-ai-act</guid>
+      <category>Europa</category>
+      <category>Regulierung</category>
+      <category>Tech</category>
+      <pubDate>Wed, 27 May 2026 15:00:00 +0200</pubDate>
+      <description><![CDATA[Am 7. Mai einigten sich EU-Rat und Parlament auf ein KI-Omnibus-Paket – die erste Änderung des AI Act seit 2024. Wichtigste Neuerungen: Umsetzungsfristen für Hochrisiko-KI um ~16 Monate verlängert (bis Dez. 2027); ab Dezember 2026 sind sogenannte „Nudifier"-Apps (sexuelle Deepfakes ohne Einwilligung) und KI-generiertes CSAM explizit verboten.<br/><br/><strong>Auswirkung:</strong> Entlastung für europäische KI-Startups und Industrieunternehmen. Die Deepfake-Verbote schließen eine dringende Schutzlücke. Deutsche Unternehmen in Automotive-KI und Fintech gewinnen mehr Zeit zur Compliance.]]></description>
+    </item>
+
+    <item>
+      <title>EU-China-Interparlamentarisches Treffen in Peking</title>
+      <link>https://www.eubusiness.com/politics/eucalendar/</link>
+      <guid isPermaLink="false">wn-2026-05-31-eu-china</guid>
+      <category>Europa</category>
+      <category>Außenpolitik</category>
+      <pubDate>Mon, 25 May 2026 12:00:00 +0200</pubDate>
+      <description><![CDATA[Mitglieder des EU-Parlaments reisten zum 43. interparlamentarischen Treffen nach Peking – erstmals seit der Aufhebung chinesischer Sanktionen gegen EU-Abgeordnete. Auf der Agenda: Handelsstreitigkeiten, E-Autos, kritische Rohstoffe.<br/><br/><strong>Auswirkung:</strong> Ein vorsichtiges diplomatisches Tauwetter. Für die deutsche Exportwirtschaft, die stark vom China-Geschäft abhängt, ist das Wiederaufleben des Dialogs ein positives Signal.]]></description>
+    </item>
+
+    <!-- ════════ WIRTSCHAFT & FINANZEN (GLOBAL) ════════ -->
+    <item>
+      <title>Energieschock aus dem Nahen Osten treibt globale Inflation</title>
+      <link>https://www.crestwoodadvisors.com/may-2026-economic-and-market-update/</link>
+      <guid isPermaLink="false">wn-2026-05-31-energieschock</guid>
+      <category>Wirtschaft</category>
+      <category>Energie</category>
+      <pubDate>Fri, 29 May 2026 16:00:00 +0200</pubDate>
+      <description><![CDATA[Der Nahost-Konflikt hat einen erheblichen Ölpreisanstieg ausgelöst. Die US-Inflation (CPI) kletterte im März auf 3,3 % (Februar: 2,4 %); Benzinpreise stiegen um 21,2 % in einem Monat. Die Wahrscheinlichkeit einer Fed-Zinserhöhung in 2026 stieg auf fast 15 %. Die IEA rechnet im Q2 2026 mit einem globalen Rückgang der Ölnachfrage um 1,5 Mio. Barrel/Tag – dem stärksten seit der COVID-Pandemie.<br/><br/><strong>Auswirkung:</strong> Für Europa und Deutschland bedeutet das höhere Energieimportkosten, hartnäckige Inflation und eingeschränkten Spielraum für Notenbanken. Ein erfolgreicher Iran-Deal wäre der größte positive Makrokatalysator des Jahres.]]></description>
+    </item>
+
+    <item>
+      <title>Big Tech investiert 700 Mrd. $ – und entlässt Zehntausende</title>
+      <link>https://www.cnbc.com/2026/04/24/20k-job-cuts-at-meta-microsoft-raise-concern-of-ai-labor-crisis-.html</link>
+      <guid isPermaLink="false">wn-2026-05-31-bigtech-capex</guid>
+      <category>Wirtschaft</category>
+      <category>Tech</category>
+      <pubDate>Thu, 28 May 2026 14:00:00 +0200</pubDate>
+      <description><![CDATA[Alphabet, Microsoft, Meta und Amazon investieren 2026 zusammen fast 700 Mrd. Dollar in KI-Infrastruktur. Gleichzeitig verloren seit Jahresbeginn über 134.000 US-Tech-Beschäftigte ihren Job, rund 50.000 direkt durch KI-bedingte Umstrukturierungen.<br/><br/><strong>Auswirkung:</strong> Die KI-Dividende fließt zu wenigen Infrastrukturbesitzern; der Arbeitsplatzverlust ist breit gestreut. Europäische Regulatoren und Gewerkschaften beobachten die Entwicklung genau.]]></description>
+    </item>
+
+    <!-- ════════ IT & TECH ════════ -->
+    <item>
+      <title>Google I/O: Gemini 3.5, KI-Agenten und XR-Brillen</title>
+      <link>https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/</link>
+      <guid isPermaLink="false">wn-2026-05-31-google-io</guid>
+      <category>Tech</category>
+      <category>KI</category>
+      <pubDate>Tue, 26 May 2026 18:00:00 +0200</pubDate>
+      <description><![CDATA[Google stellte auf der Google I/O 2026 Gemini 3.5 Flash vor – ein Modell, das Flaggschiff-Leistung bei Flash-Geschwindigkeit liefert und Gemini 3.1 Pro auf Coding-Benchmarks übertrifft. Neu: Gemini Omni (Video-Editing via KI), die Managed Agents API (ein einzelner API-Aufruf startet eine vollständige KI-Agentenumgebung) sowie Android-XR-Audiobrillen für Herbst 2026 (Partner: Gentle Monster, Warby Parker).<br/><br/><strong>Auswirkung:</strong> Google greift OpenAI und Microsoft im lukrativen Markt für KI-Agenten direkt an. Für europäische Entwickler und Unternehmen entsteht mehr Wettbewerb – aber auch mehr Auswahl bei der Umsetzung von KI-Workflows.]]></description>
+    </item>
+
+    <item>
+      <title>Meta entlässt 8.000 und baut für KI um</title>
+      <link>https://www.npr.org/2026/05/20/nx-s1-5826917/meta-layoffs-ai-jobs</link>
+      <guid isPermaLink="false">wn-2026-05-31-meta-layoffs</guid>
+      <category>Tech</category>
+      <category>Stellenabbau</category>
+      <pubDate>Mon, 25 May 2026 16:00:00 +0200</pubDate>
+      <description><![CDATA[Am 20. Mai entließ Meta 8.000 Mitarbeitende weltweit (10 % der Belegschaft), strich 6.000 offene Stellen und versetzte 7.000 Beschäftigte in KI-Teams. Am härtesten betroffen: Abteilungen für Sicherheit, Cybersicherheit und Content-Design. Metas KI-Investitionsplan für 2026: 125–145 Mrd. Dollar.<br/><br/><strong>Auswirkung:</strong> Der Abbau der Trust-&amp;-Safety-Teams ist ein Warnsignal für EU-Regulatoren, die Meta unter dem Digital Services Act überwachen. Weniger Moderationspersonal könnte zu mehr schädlichen Inhalten auf Plattformen führen.]]></description>
+    </item>
+
+    <item>
+      <title>Microsoft und OpenAI beenden Exklusivpartnerschaft</title>
+      <link>https://imfounder.com/science-tech/ai/ai-updates-may-2026/</link>
+      <guid isPermaLink="false">wn-2026-05-31-msft-openai</guid>
+      <category>Tech</category>
+      <category>KI</category>
+      <pubDate>Wed, 27 May 2026 09:00:00 +0200</pubDate>
+      <description><![CDATA[Microsoft und OpenAI strukturierten ihre Partnerschaft zu einem nicht-exklusiven Abkommen um. OpenAI kann nun mit anderen Cloud-Anbietern kooperieren; Microsoft entwickelt eigene Modelle. Parallel einigten sich große KI-Unternehmen (u.a. Microsoft, xAI) darauf, Regulatoren frühzeitigen Zugang zu neuen Modellen vor der Veröffentlichung zu gewähren.<br/><br/><strong>Auswirkung:</strong> Der Cloud-KI-Markt wird wettbewerbsintensiver – gut für europäische Unternehmen, die mehr Anbieter-Optionen erhalten. Das US-Regulierungsmodell für KI-Vorabprüfung könnte EU-Diskussionen beeinflussen.]]></description>
+    </item>
+
+    <item>
+      <title>AMD EPYC „Venice": Erster 2-nm-HPC-Chip in Serienproduktion</title>
+      <link>https://imfounder.com/science-tech/ai/ai-updates-may-2026/</link>
+      <guid isPermaLink="false">wn-2026-05-31-amd-venice</guid>
+      <category>Tech</category>
+      <category>Hardware</category>
+      <pubDate>Mon, 25 May 2026 11:00:00 +0200</pubDate>
+      <description><![CDATA[AMD startete die Serienproduktion der 6. Generation EPYC-Prozessoren (Codename „Venice") auf TSMCs 2-nm-Fertigungsknoten – dem ersten High-Performance-Computing-Produkt auf diesem Prozessknoten überhaupt.<br/><br/><strong>Auswirkung:</strong> Ein Meilenstein für KI-Infrastruktur. Europäische Rechenzentren und Forschungseinrichtungen (auch in Deutschland) erhalten eine neue Leistungs- und Effizienzklasse – relevant für Europas KI-Souveränitätsstrategie.]]></description>
+    </item>
+
+  </channel>
+</rss>
