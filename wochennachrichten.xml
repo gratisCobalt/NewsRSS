@@ -6,11 +6,31 @@
     <atom:link href="https://example.com/wochennachrichten/feed.xml" rel="self" type="application/rss+xml" />
     <description>Wöchentliche Zusammenfassung der wichtigsten Nachrichten aus aller Welt mit Schwerpunkt Europa und Deutschland – Politik, Wirtschaft &amp; Finanzen, IT/Tech. Inklusive Einordnung der Auswirkungen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Sun, 31 May 2026 20:00:00 +0200</lastBuildDate>
-    <pubDate>Sun, 31 May 2026 20:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 31 May 2026 23:30:00 +0200</lastBuildDate>
+    <pubDate>Sun, 31 May 2026 23:30:00 +0200</pubDate>
     <generator>Claude Code</generator>
 
     <!-- ════════ WELT ════════ -->
+    <item>
+      <title>Israel erobert Beaufort-Burg – tiefster Vorstoß im Südlibanon seit Jahrzehnten</title>
+      <link>https://www.npr.org/2026/05/31/g-s1-125056/israel-seizes-medieval-beaufort-castle-southern-lebanon</link>
+      <guid isPermaLink="false">wn-2026-05-31-beaufort</guid>
+      <category>Welt</category>
+      <category>Naher Osten</category>
+      <pubDate>Sun, 31 May 2026 10:00:00 +0200</pubDate>
+      <description><![CDATA[Die israelische Armee meldete am 31. Mai die Einnahme der strategisch gelegenen Beaufort-Burg – einer Kreuzfahrerfestung aus dem 12. Jahrhundert auf einer Anhöhe über dem Litani, rund 14,5 km nördlich der israelischen Grenze. Es ist der tiefste Bodenvorstoß in den Südlibanon seit etwa 26 Jahren. Ministerpräsident Netanjahu sprach von einem „dramatischen Wendepunkt" im Kampf gegen die Hisbollah und ordnete an, die Operationen über den Litani hinaus auszuweiten. Nach Angaben aus Israel wurde ein Soldat bei einem Hisbollah-Drohnenangriff getötet. Die US-vermittelte Waffenruhe vom April ist offiziell weiterhin in Kraft; Frankreich verurteilte das Vorgehen scharf.<br/><br/><strong>Auswirkung:</strong> Der Vorstoß setzt die ohnehin brüchige Waffenruhe weiter unter Druck und erhöht die Gefahr eines größeren Regionalbrands – mit Folgen für Energiepreise, EZB-Kurs und Migrationsbewegungen über Zypern. Für die EU wächst der Druck, zwischen der scharfen französischen Linie und zurückhaltenderen Partnern eine gemeinsame Haltung zu finden.<br/><br/><strong>Bias-Hinweis:</strong> Die Faktenlage ist stark perspektivisch. Israelische Quellen und die Times of Israel framen die Einnahme als strategischen Sieg gegen die Hisbollah, arabische Medien (z. B. Al-Jazeera) als Bruch der Waffenruhe und Besatzung. Euronews verwendet „retakes" (Israel hielt die Burg 1982–2000 schon einmal), andere „captures" – beide Lesarten sind hier kenntlich gemacht. Kernaussagen sind den Akteuren zugeordnet: Einnahme und „Wendepunkt" = von Netanjahu/IDF bestätigt; Verurteilung = französische Regierung; Opferzahlen einzelner Seiten sind unabhängig nicht verifiziert.]]></description>
+    </item>
+
+    <item>
+      <title>Iran-Deal: Trump trifft keine finale Entscheidung – Eskalation im Golf</title>
+      <link>https://www.cnbc.com/2026/05/29/trump-iran-deal-hormuz-nuclear-war.html</link>
+      <guid isPermaLink="false">wn-2026-05-31-iran-deal-stockt</guid>
+      <category>Welt</category>
+      <category>Geopolitik</category>
+      <pubDate>Sat, 30 May 2026 22:00:00 +0200</pubDate>
+      <description><![CDATA[Präsident Trump beendete am 29./30. Mai ein Treffen im Lagezentrum des Weißen Hauses, ohne die zuvor angekündigte „finale Entscheidung" über das vorläufige Iran-Abkommen zu verkünden. Stattdessen gingen weitere Änderungen an den Iran – u. a. zur Öffnung der Straße von Hormus (ohne Gebühren, freier Schiffsverkehr in beide Richtungen) und zur Bergung und Zerstörung hochangereicherten Urans unter Aufsicht der IAEO. Parallel verschärfte sich die Lage im Golf: US-Streitkräfte legten den unter Gambia-Flagge fahrenden Massengutfrachter „Lian Star" im Golf von Oman lahm, nachdem dieser Warnungen ignoriert haben soll; Trümmer einer abgefangenen Fateh-110-Rakete trafen die Luftwaffenbasis Ali Al Salem in Kuwait und verletzten nach US-Angaben fünf Soldaten/Vertragskräfte leicht.<br/><br/><strong>Auswirkung:</strong> Die Verzögerung verlängert die Unsicherheit an den Energiemärkten. Ein Scheitern würde die Hoffnung auf sinkende Öl- und Gaspreise zunichtemachen und die Stagflationsgefahr für die Eurozone verschärfen – ein erfolgreicher Abschluss bliebe der größte positive Makrokatalysator des Jahres. (Aktualisierung zur Meldung vom 28. Mai.)<br/><br/><strong>Bias-Hinweis:</strong> Trumps Forderungen wurden über seinen eigenen Kanal (Truth Social) formuliert und sind US-Verhandlungsposition, keine neutrale Lagebeschreibung. Die Schilderung der Vorfälle um die „Lian Star" und die Basis in Kuwait beruht auf US-Militärangaben; eine iranische Darstellung liegt nicht gesichert vor. Zahlen und Tathergang sind als einseitig bestätigt gekennzeichnet.]]></description>
+    </item>
+
     <item>
       <title>Iran-Deal kurz vor der Unterzeichnung</title>
       <link>https://www.axios.com/2026/05/28/iran-peace-deal-trump-approval</link>
@@ -72,6 +92,17 @@
     </item>
 
     <!-- ════════ DEUTSCHLAND ════════ -->
+    <item>
+      <title>Wirtschaftsweise fordern harte Reformen – Rückenwind und Risiko für Merz</title>
+      <link>https://www.berliner-zeitung.de/article/die-wirtschaftsweisen-stuetzen-merz-und-stellen-ihn-so-vor-ein-riesiges-problem-10038881</link>
+      <guid isPermaLink="false">wn-2026-05-31-svr-reform</guid>
+      <category>Deutschland</category>
+      <category>Wirtschaft</category>
+      <category>Politik</category>
+      <pubDate>Sun, 31 May 2026 12:00:00 +0200</pubDate>
+      <description><![CDATA[Das Frühjahrsgutachten des Sachverständigenrats („Wirtschaftsweise") dringt auf raschen Reformkurs: kürzen, sparen, reformieren – mit Schwerpunkt auf dem Sozialstaat. Zentrale Warnung: Ohne Eingriffe könnten die Sozialbeiträge bis 2040 von derzeit rund 42 % auf etwa 50 % steigen. Inhaltlich stützt das Gutachten den Reformkurs von Kanzler Merz, verschärft aber zugleich den Konflikt in der Koalition, da der Koalitionspartner SPD weitreichende Sozialkürzungen ablehnt. (Vertiefung zur Prognosesenkung des Rates vom 27. Mai.)<br/><br/><strong>Auswirkung:</strong> Die Empfehlungen erhöhen den innenpolitischen Druck: Setzt Merz sie um, riskiert er offenen Streit mit der SPD; tut er es nicht, droht laut Rat ein langfristig steigender Beitrags- und damit Lohnnebenkostendruck, der die Wettbewerbsfähigkeit schwächt. Für Investoren und EU-Partner ist die Stabilität der Koalition der entscheidende Faktor.<br/><br/><strong>Bias-Hinweis:</strong> Zu trennen sind zwei Ebenen: (1) der Inhalt des Gutachtens (Faktenlage, geringes Verzerrungsrisiko, der SVR vertritt jedoch traditionell eine eher angebotsorientiert-marktliberale Linie) und (2) die Einordnung der Berliner Zeitung, die das Gutachten als „Schützenhilfe" für Merz und – aus SPD-Sicht – als Botschaft „aus der neoliberalen Vorhölle" deutet. Letzteres ist Kommentar/Meinung und hier ausdrücklich als Deutung der Zeitung markiert, nicht als neutrale Tatsache. Der 50-%-Wert ist eine Projektion unter Annahmen, kein feststehender Wert.]]></description>
+    </item>
+
     <item>
       <title>Merz kämpft gegen Parteiquerelen und Beliebtheitstief</title>
       <link>https://www.bloomberg.com/news/articles/2026-05-28/merz-aims-to-shut-down-party-unrest-with-vow-to-revive-germany</link>
@@ -146,6 +177,27 @@
     </item>
 
     <!-- ════════ EUROPA & EU ════════ -->
+    <item>
+      <title>Champions League: PSG verteidigt Titel gegen Arsenal</title>
+      <link>https://www.uefa.com/uefachampionsleague/match/2047742--paris-vs-arsenal/final/</link>
+      <guid isPermaLink="false">wn-2026-05-31-ucl-finale</guid>
+      <category>Europa</category>
+      <category>Sport</category>
+      <pubDate>Sat, 30 May 2026 23:30:00 +0200</pubDate>
+      <description><![CDATA[Paris Saint-Germain hat am 30. Mai im Finale der UEFA Champions League in Budapest (Puskás Aréna) gegen den FC Arsenal gewonnen – nach 1:1 über 120 Minuten mit 4:3 im Elfmeterschießen. Kai Havertz hatte Arsenal in der 6. Minute mit einem Eigentor von PSG in Führung gebracht (1:0 für Arsenal), Ousmane Dembélé glich per Foulelfmeter in der 62. Minute aus. Im Elfmeterschießen schoss Gabriel entscheidend über das Tor. PSG ist damit nach Real Madrid erst der zweite Klub, der den Titel im Format der Champions League erfolgreich verteidigt.<br/><br/><strong>Auswirkung:</strong> Über den Sport hinaus ist das Finale ein Milliardenmarkt: TV-Rechte, Sponsoring und Tourismus. Der erneute Triumph des katarisch finanzierten PSG befeuert zudem die europäische Debatte über staatlich gestützte Klub-Investments und Financial Fair Play.<br/><br/><strong>Bias-Hinweis:</strong> Sportergebnis mit geringem Verzerrungsrisiko; Spielverlauf und Endstand sind quellenübergreifend (UEFA, CNN, ESPN, Al-Jazeera) übereinstimmend belegt.]]></description>
+    </item>
+
+    <item>
+      <title>EU baut Chips Act um: Fokus auf Nachfrage und Tech-Souveränität</title>
+      <link>https://www.euronews.com/my-europe/2026/05/28/eu-seeks-to-boost-europes-chip-demand-in-tech-sovereignty-bid</link>
+      <guid isPermaLink="false">wn-2026-05-31-chips-act</guid>
+      <category>Europa</category>
+      <category>Tech</category>
+      <category>Regulierung</category>
+      <pubDate>Thu, 28 May 2026 16:00:00 +0200</pubDate>
+      <description><![CDATA[Die EU will ihren Chips Act grundlegend überarbeiten und den Schwerpunkt von der Förderung des Angebots (Fertigung) hin zur Stärkung der Nachfrage verschieben – vor allem für KI-Chips. Der Gesetzentwurf sieht u. a. eine Bündelung der Nachfrage und Krisenwerkzeuge vor und ist Teil eines breiteren Vorstoßes für „technologische Souveränität", der auch Cloud-Dienste und Open Source umfasst. Hintergrund ist u. a. der Rückzug Intels aus Teilen der europäischen Spitzenfertigung.<br/><br/><strong>Auswirkung:</strong> Für deutsche Industrie- und Automotive-Unternehmen, die stark von verlässlicher Chip-Versorgung abhängen, könnte eine nachfrageseitige Strategie kurzfristig mehr bringen als der teure Aufbau eigener Spitzenfabriken. Zugleich bleibt Europa technologisch von US- und asiatischen Herstellern abhängig – die Souveränitätslücke wird kleiner, aber nicht geschlossen.<br/><br/><strong>Bias-Hinweis:</strong> Es handelt sich um einen Gesetzentwurf, nicht um beschlossenes Recht – Inhalte können sich im Verfahren ändern. „Technologische Souveränität" ist ein politisches Framing der EU-Kommission; ob die Maßnahmen die Abhängigkeit real verringern, ist umstritten und hier nicht als gesicherte Wirkung dargestellt.]]></description>
+    </item>
+
     <item>
       <title>Eurozone auf Rezessionskurs – PMI auf 31-Monatstief</title>
       <link>https://www.euronews.com/business/2026/05/21/europe-flashes-recession-warning-as-activity-slumps-due-to-iran-war</link>
