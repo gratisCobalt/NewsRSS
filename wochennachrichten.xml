@@ -6,8 +6,8 @@
     <atom:link href="https://example.com/wochennachrichten/feed.xml" rel="self" type="application/rss+xml" />
     <description>Wöchentliche Zusammenfassung der wichtigsten Nachrichten aus aller Welt mit Schwerpunkt Europa und Deutschland – Politik, Wirtschaft &amp; Finanzen, IT/Tech. Inklusive Einordnung der Auswirkungen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Sun, 31 May 2026 12:00:00 +0200</lastBuildDate>
-    <pubDate>Sun, 31 May 2026 12:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 31 May 2026 20:00:00 +0200</lastBuildDate>
+    <pubDate>Sun, 31 May 2026 20:00:00 +0200</pubDate>
     <generator>Claude Code</generator>
 
     <!-- ════════ WELT ════════ -->
@@ -49,6 +49,26 @@
       <category>Gesundheit</category>
       <pubDate>Mon, 25 May 2026 10:00:00 +0200</pubDate>
       <description><![CDATA[Die Goldminenstadt Mongbwalu im Osten der Demokratischen Republik Kongo wurde als Epizentrum eines neuen Ebola-Ausbruchs identifiziert. Internationale Gesundheitsbehörden haben Notfallmaßnahmen eingeleitet.<br/><br/><strong>Auswirkung:</strong> Direkte Gefahr für Europa gering, aber der Ausbruch bindet Ressourcen von WHO, EU-Entwicklungshilfe und deutschen Hilfsorganisationen.]]></description>
+    </item>
+
+    <item>
+      <title>Shangri-La-Dialog: Hegseth warnt vor China – Peking schickt nur Wissenschaftler</title>
+      <link>https://www.cnbc.com/2026/05/31/takeways-from-the-2026-shangri-la-dialogue-.html</link>
+      <guid isPermaLink="false">wn-2026-05-31-shangrila</guid>
+      <category>Welt</category>
+      <category>Geopolitik</category>
+      <pubDate>Sun, 31 May 2026 11:00:00 +0200</pubDate>
+      <description><![CDATA[Beim 23. IISS Shangri-La-Dialog in Singapur (29.–31. Mai) war US-Verteidigungsminister Pete Hegseth Hauptredner. Er sprach von „berechtigter Beunruhigung über Chinas historischen Militäraufbau". Chinas Verteidigungsminister blieb dem Treffen zum zweiten Mal in Folge fern; Peking entsandte nur Wissenschaftler unter Leitung von Generalmajor Meng Xiangqing. Dominierende Themen: Verteidigungsausgaben, Chinas Rolle im Indopazifik und Lehren aus dem Ukraine-Krieg.<br/><br/><strong>Auswirkung:</strong> Die Debatte um höhere Verteidigungsausgaben und „Lehren aus der Ukraine" trifft direkt europäische Haushalte – Deutschland hat seine Rüstungsausgaben bereits auf über 100 Mrd. Euro angehoben. Eine stärkere US-Fokussierung auf den Indopazifik bedeutet tendenziell weniger US-Ressourcen für Europa.<br/><br/><strong>Bias-Hinweis:</strong> Die Bewertung von Chinas Fernbleiben ist quellenabhängig: westliche Medien deuten es teils als Zeichen wachsender Selbstsicherheit, der chinesische Staatssender CGTN präsentiert es als bewusste Botschaft. Hegseths „Beunruhigung" ist eine US-Regierungsposition, keine neutrale Lagebeschreibung – hier als Zitat gekennzeichnet.]]></description>
+    </item>
+
+    <item>
+      <title>Gaza-Waffenruhe vor dem Kollaps – Israel überschreitet den Litani</title>
+      <link>https://www.aljazeera.com/news/2026/5/30/egypt-warns-israel-that-dangerous-gaza-escalations-threaten-ceasefire</link>
+      <guid isPermaLink="false">wn-2026-05-31-gaza-litani</guid>
+      <category>Welt</category>
+      <category>Naher Osten</category>
+      <pubDate>Sat, 30 May 2026 19:00:00 +0200</pubDate>
+      <description><![CDATA[Ägypten warnte Israel am 30. Mai, die jüngste Eskalation bringe die Waffenruhe vom Oktober 2025 an den Rand des Scheiterns, und nahm intensive Vermittlungskontakte auf. Hamas wirft Ministerpräsident Netanjahu einen „eklatanten Bruch" vor, nachdem dieser die Ausweitung der Kontrolle auf rund 70 % des Gazastreifens angekündigt hatte. Parallel bestätigte Netanjahu, dass Einheiten der 36. Division im Südlibanon den Litani überschritten haben.<br/><br/><strong>Auswirkung:</strong> Ein Zusammenbruch der Waffenruhe würde den jüngsten Iran-Deal und die Hoffnung auf sinkende Energiepreise gefährden – mit direkten Folgen für Inflation und EZB-Kurs in Europa. Zudem steigt der Druck auf EU-Staaten bei humanitärer Hilfe und Migrationsmanagement über Zypern.<br/><br/><strong>Bias-Hinweis:</strong> Die Faktenlage ist stark perspektivisch. Al-Jazeera (katarisch finanziert) berichtet tendenziell propalästinensisch, israelische Quellen prоisraelisch. Daher sind die Kernaussagen den jeweiligen Akteuren zugeordnet: Bruch-Vorwurf = Hamas; Gebietskontrolle und Litani-Überquerung = von Netanjahu bestätigt; Vermittlung = ägyptische Regierung.]]></description>
     </item>
 
     <!-- ════════ DEUTSCHLAND ════════ -->
@@ -93,6 +113,38 @@
       <description><![CDATA[Das Bundeskabinett brachte Änderungen am Baugesetzbuch auf den Weg: Kommunen sollen Bauvorhaben schneller genehmigen können. Im Extremfall können verwahrloste Immobilien enteignet werden – ein politisch heißes Eisen.<br/><br/><strong>Auswirkung:</strong> Die Reform ist ein Signal an den angespannten Wohnungsmarkt, dürfte aber Zeit brauchen, bevor sie Wirkung zeigt. Eigentümerverbände kündigen rechtlichen Widerstand gegen Enteignungsklauseln an.]]></description>
     </item>
 
+    <item>
+      <title>USA wollen Truppenabzug aus Europa beschleunigen</title>
+      <link>https://www.usnews.com/news/world/articles/2026-05-30/us-planning-faster-troop-withdrawal-from-europe-newspaper-says</link>
+      <guid isPermaLink="false">wn-2026-05-31-ustruppen</guid>
+      <category>Deutschland</category>
+      <category>Sicherheit</category>
+      <category>Politik</category>
+      <pubDate>Sun, 31 May 2026 09:00:00 +0200</pubDate>
+      <description><![CDATA[Laut einem Bericht der „Welt am Sonntag" (unter Berufung auf eine namentlich nicht genannte Pentagon-Quelle) wollen die USA ihren Truppenabzug aus Europa beschleunigen und die Pläne den NATO-Partnern bereits im kommenden Monat bei der Force-Sourcing-Konferenz vorlegen. Im Mai war bereits der Abzug von 5.000 Soldaten aus Deutschland angekündigt worden – ursprünglich über 6 bis 12 Monate. In Deutschland sind rund 35.000 aktive US-Soldaten stationiert, mehr als in jedem anderen europäischen Land.<br/><br/><strong>Auswirkung:</strong> Ein beschleunigter Abzug erhöht den Druck auf Deutschland und die EU, Fähigkeitslücken (Luftabwehr, Aufklärung, Logistik) schneller selbst zu schließen – und untermauert die Rekord-Verteidigungsausgaben im Bundeshaushalt 2026. Wirtschaftlich betroffen sind auch Standortregionen wie Rheinland-Pfalz.<br/><br/><strong>Bias-Hinweis:</strong> Die Meldung beruht auf einer einzelnen, anonymen Quelle; Tempo und betroffene Standorte sind unbestätigt, eine offizielle Pentagon-/NATO-Bestätigung steht aus. Die Nachricht wurde besonders stark von kremlnahen Aggregatoren (Pravda-Netzwerk) verbreitet, die einen Keil zwischen die NATO-Partner betonen – hier bewusst auf die nüchterne Reuters-/„Welt"-Faktenlage reduziert.]]></description>
+    </item>
+
+    <item>
+      <title>Umfrage: AfD bei Rekord-41 % vor Landtagswahl in Sachsen-Anhalt</title>
+      <link>https://www.iamexpat.de/expat-info/germany-news/afd-polling-record-high-41-ahead-saxony-anhalt-election</link>
+      <guid isPermaLink="false">wn-2026-05-31-afd-lsa</guid>
+      <category>Deutschland</category>
+      <category>Politik</category>
+      <pubDate>Sat, 30 May 2026 12:00:00 +0200</pubDate>
+      <description><![CDATA[Vor der Landtagswahl in Sachsen-Anhalt am 6. September 2026 erreicht die AfD in aktuellen Umfragen mit rund 41 % einen Rekordwert, gefolgt von der CDU (knapp 25 %), Die Linke (rund 13 %) und SPD (gut 6 %). Die amtierende Koalition käme zusammen nur noch auf etwa 36 % der Sitze und verlöre damit ihre Mehrheit. Andere Parteien schließen eine Zusammenarbeit mit der AfD weiterhin aus, was eine Regierungsbildung trotz Umfrageführung erschweren würde.<br/><br/><strong>Auswirkung:</strong> Ein historisch starkes AfD-Ergebnis in einem Ostland würde die Koalitionsarithmetik bundesweit verschärfen und den ohnehin unter Druck stehenden Kanzler Merz weiter belasten. Politische Unsicherheit in Deutschland gilt Märkten und EU-Partnern als Risikofaktor.<br/><br/><strong>Bias-Hinweis:</strong> Es handelt sich um Umfragewerte (Momentaufnahme mit Fehlertoleranz von mehreren Prozentpunkten), nicht um ein Wahlergebnis. Verwendet wurden aggregierte Werte mehrerer Institute (politpro). Die in Medien übliche Einordnung der AfD (z. B. „rechtsaußen") variiert je nach Quelle und ist hier nicht Teil der Faktendarstellung.]]></description>
+    </item>
+
+    <item>
+      <title>Deutschland: Inflation sinkt im Mai auf 2,6 %, Arbeitslosigkeit leicht runter</title>
+      <link>https://tradingeconomics.com/germany/inflation-cpi</link>
+      <guid isPermaLink="false">wn-2026-05-31-de-inflation-mai</guid>
+      <category>Deutschland</category>
+      <category>Wirtschaft</category>
+      <category>Finanzen</category>
+      <pubDate>Fri, 29 May 2026 14:00:00 +0200</pubDate>
+      <description><![CDATA[Die Inflation in Deutschland sank im Mai auf 2,6 % (April: 2,9 %). Treiber des Rückgangs: nachlassender Preisdruck bei Energie (6,6 % statt 10,1 %) und Lebensmitteln (0,4 % statt 1,2 %). Die Dienstleistungsinflation zog hingegen auf 3,1 % an. Die saisonbereinigte Arbeitslosenquote fiel auf 6,3 % (April: 6,4 %); die Zahl der Arbeitslosen sank um 12.000 auf 2,987 Mio. – laut Bundesagentur für Arbeit jedoch teils durch einen Einmaleffekt.<br/><br/><strong>Auswirkung:</strong> Der Rückgang der Gesamtinflation entlastet Verbraucher, doch die hartnäckige Dienstleistungsinflation und der als „Einmaleffekt" markierte Arbeitsmarkt-Rückgang dämpfen die Entwarnung. Die Daten fließen in die EZB-Sitzung am 11. Juni ein.<br/><br/><strong>Bias-Hinweis:</strong> Amtliche bzw. aggregierte Statistikdaten mit geringem Verzerrungsrisiko. Der von der Bundesagentur selbst genannte Einmaleffekt bei der Arbeitslosigkeit ist transparent ausgewiesen, um keinen zu positiven Eindruck zu erwecken.]]></description>
+    </item>
+
     <!-- ════════ EUROPA & EU ════════ -->
     <item>
       <title>Eurozone auf Rezessionskurs – PMI auf 31-Monatstief</title>
@@ -135,6 +187,17 @@
       <description><![CDATA[Mitglieder des EU-Parlaments reisten zum 43. interparlamentarischen Treffen nach Peking – erstmals seit der Aufhebung chinesischer Sanktionen gegen EU-Abgeordnete. Auf der Agenda: Handelsstreitigkeiten, E-Autos, kritische Rohstoffe.<br/><br/><strong>Auswirkung:</strong> Ein vorsichtiges diplomatisches Tauwetter. Für die deutsche Exportwirtschaft, die stark vom China-Geschäft abhängt, ist das Wiederaufleben des Dialogs ein positives Signal.]]></description>
     </item>
 
+    <item>
+      <title>Eurozone-Inflation bei 3,0 % – Ölpreis fällt auf Monatstief vor EZB-Sitzung</title>
+      <link>https://www.indexbox.io/blog/european-stocks-rise-oil-falls-on-us-iran-ceasefire-hopes/</link>
+      <guid isPermaLink="false">wn-2026-05-31-eurozone-cpi</guid>
+      <category>Europa</category>
+      <category>Wirtschaft</category>
+      <category>Geldpolitik</category>
+      <pubDate>Fri, 29 May 2026 17:00:00 +0200</pubDate>
+      <description><![CDATA[Die Jahresinflation im Euroraum wurde für April mit 3,0 % bestätigt – der höchste Stand seit September 2023 und deutlich über dem EZB-Ziel von 2,0 %; Energie verteuerte sich um 10,8 %. Zugleich gaben europäische Aktien am Freitag leicht nach oben und der Ölpreis fiel auf ein Monatstief, getragen von der Hoffnung auf eine 60-tägige Verlängerung der US-Iran-Waffenruhe. Die Daten gelten als zentrale Grundlage für die EZB-Sitzung am 11. Juni, bei der Märkte mehrheitlich eine Zinserhöhung erwarten.<br/><br/><strong>Auswirkung:</strong> Die Eurozone steckt im Stagflationsdilemma: hohe Inflation bei schwachem Wachstum. Sinkende Ölpreise könnten die Lage entspannen – aber nur, wenn der Iran-Deal hält und die Straße von Hormuz wieder voll passierbar wird. Bis dahin bleibt der Druck auf die EZB, die Zinsen anzuheben, hoch.<br/><br/><strong>Bias-Hinweis:</strong> Inflationszahlen (Eurostat) und Marktdaten mit geringem Verzerrungsrisiko. Markt­erwartungen zur Zinserhöhung sind Prognosen, kein EZB-Beschluss, und entsprechend gekennzeichnet.]]></description>
+    </item>
+
     <!-- ════════ WIRTSCHAFT & FINANZEN (GLOBAL) ════════ -->
     <item>
       <title>Energieschock aus dem Nahen Osten treibt globale Inflation</title>
@@ -154,6 +217,17 @@
       <category>Tech</category>
       <pubDate>Thu, 28 May 2026 14:00:00 +0200</pubDate>
       <description><![CDATA[Alphabet, Microsoft, Meta und Amazon investieren 2026 zusammen fast 700 Mrd. Dollar in KI-Infrastruktur. Gleichzeitig verloren seit Jahresbeginn über 134.000 US-Tech-Beschäftigte ihren Job, rund 50.000 direkt durch KI-bedingte Umstrukturierungen.<br/><br/><strong>Auswirkung:</strong> Die KI-Dividende fließt zu wenigen Infrastrukturbesitzern; der Arbeitsplatzverlust ist breit gestreut. Europäische Regulatoren und Gewerkschaften beobachten die Entwicklung genau.]]></description>
+    </item>
+
+    <item>
+      <title>Anthropic mit 965 Mrd. $ wertvollstes KI-Startup – Mega-IPO-Welle rückt näher</title>
+      <link>https://www.axios.com/2026/05/28/anthropic-ai-fundraising-openai</link>
+      <guid isPermaLink="false">wn-2026-05-31-anthropic-965</guid>
+      <category>Wirtschaft</category>
+      <category>Tech</category>
+      <category>Finanzen</category>
+      <pubDate>Thu, 28 May 2026 22:00:00 +0200</pubDate>
+      <description><![CDATA[Anthropic sammelte in einer von Altimeter, Dragoneer, Greenoaks und Sequoia angeführten Runde 65 Mrd. Dollar ein und wird mit 965 Mrd. Dollar bewertet – damit erstmals vor dem Rivalen OpenAI (zuletzt 730 Mrd.). Zugleich rückt eine Mega-IPO-Welle näher: SpaceX reichte am 20. Mai sein S-1 ein (angepeiltes Volumen bis 75 Mrd. $), OpenAI bereitet einen vertraulichen Börsengang vor (Notierung evtl. ab September), Anthropic peilt Oktober an.<br/><br/><strong>Auswirkung:</strong> Die Bewertungen markieren einen Höhepunkt des KI-Investitionsbooms. Für europäische Anleger und Pensionsfonds entstehen neue, aber hochvolatile Anlageziele; für europäische KI-Firmen wächst der Kapital- und Wettbewerbsdruck gegenüber den US-Schwergewichten. Eine Korrektur dieser Bewertungen wäre ein Risiko für die global vernetzten Aktienmärkte.<br/><br/><strong>Bias-Hinweis:</strong> Die Zahlen stammen aus übereinstimmender Finanzberichterstattung (Bloomberg, Axios, CNBC). Wichtig zur Entzerrung: Es handelt sich um Bewertungen aus privaten Finanzierungsrunden bzw. um angestrebte Emissionspreise – keine am Markt bestätigten Werte. IPO-Termine sind Plan­angaben unter Vorbehalt von Marktlage und Regulierung.]]></description>
     </item>
 
     <!-- ════════ IT & TECH ════════ -->
