@@ -6,11 +6,31 @@
     <atom:link href="https://example.com/wochennachrichten/feed.xml" rel="self" type="application/rss+xml" />
     <description>Wöchentliche Zusammenfassung der wichtigsten Nachrichten aus aller Welt mit Schwerpunkt Europa und Deutschland – Politik, Wirtschaft &amp; Finanzen, IT/Tech. Inklusive Einordnung der Auswirkungen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Sun, 31 May 2026 23:30:00 +0200</lastBuildDate>
-    <pubDate>Sun, 31 May 2026 23:30:00 +0200</pubDate>
+    <lastBuildDate>Mon, 01 Jun 2026 23:30:00 +0200</lastBuildDate>
+    <pubDate>Mon, 01 Jun 2026 23:30:00 +0200</pubDate>
     <generator>Claude Code</generator>
 
     <!-- ════════ WELT ════════ -->
+    <item>
+      <title>USA und Iran tauschen neue Schläge aus – Eskalation am Golf, Ölpreis springt</title>
+      <link>https://www.cnbc.com/2026/05/28/kuwait-air-defenses-activated-us-carries-out-new-strikes-in-iran.html</link>
+      <guid isPermaLink="false">wn-2026-06-01-iran-eskalation</guid>
+      <category>Welt</category>
+      <category>Geopolitik</category>
+      <pubDate>Mon, 01 Jun 2026 08:00:00 +0200</pubDate>
+      <description><![CDATA[Am Wochenende (30./31. Mai) hat sich der US-iranische Konflikt erneut verschärft. Nach dem Abschuss einer US-Drohne über internationalen Gewässern nahe der Straße von Hormus führte das US-Militär nach eigenen Angaben „Selbstverteidigungsschläge" gegen iranische Radar-, Luftabwehr- und Drohnen­steuerungsanlagen auf den Inseln Goruk und Qeshm aus. Die iranischen Revolutionsgarden (IRGC) erklärten, im Gegenzug einen US-nahen Luftwaffenstützpunkt angegriffen zu haben; Kuwait aktivierte landesweit seine Luftabwehr gegen einfliegende Raketen und Drohnen und löste Luftalarm aus. Beide Seiten verhandeln parallel weiter über ein Abkommen zur Beendigung des seit über drei Monaten andauernden Krieges.<br/><br/><strong>Auswirkung:</strong> Jeder neue Schlagabtausch untergräbt die ohnehin brüchige Waffenruhe und das Ende Mai ausgehandelte vorläufige Memorandum. Für Europa und Deutschland bedeutet die Eskalation unmittelbar höhere Energie­import­kosten, anhaltenden Inflationsdruck und ein gestiegenes Risiko, dass die EZB am 11. Juni die Zinsen anhebt. Eine direkte Störung des Schiffsverkehrs durch die Straße von Hormus (~20 % des globalen Ölhandels) bleibt das zentrale Eskalationsrisiko.<br/><br/><strong>Bias-Hinweis:</strong> Die Faktenlage ist einseitig: Tathergang, Zielauswahl und „Selbstverteidigungs"-Einordnung beruhen auf Angaben des US-Zentralkommandos (CENTCOM); der angebliche Gegenschlag auf einen US-Stützpunkt auf IRGC-Angaben. Eine unabhängige Verifikation der jeweiligen Schadens- und Opferdarstellungen liegt nicht vor. Die Kernaussagen sind daher den jeweiligen Akteuren zugeordnet und nicht als neutrale Tatsache dargestellt.]]></description>
+    </item>
+
+    <item>
+      <title>Krebsforschung: Wirkstoff Daraxonrasib verdoppelt Überleben bei Bauchspeicheldrüsenkrebs nahezu</title>
+      <link>https://ascopost.com/news/june-2026/daraxonrasib-nearly-doubles-survival-in-previously-treated-metastatic-pancreatic-cancer/</link>
+      <guid isPermaLink="false">wn-2026-06-01-daraxonrasib</guid>
+      <category>Welt</category>
+      <category>Gesundheit</category>
+      <pubDate>Mon, 01 Jun 2026 07:00:00 +0200</pubDate>
+      <description><![CDATA[Beim Jahreskongress der US-Krebsgesellschaft ASCO 2026 wurden Daten der Phase-III-Studie RASolute 302 zum RAS(ON)-Inhibitor Daraxonrasib vorgestellt. Bei vorbehandeltem, metastasiertem Bauchspeicheldrüsenkrebs (PDAC) verlängerte der Wirkstoff das mediane Gesamtüberleben auf 13,2 Monate gegenüber 6,7 Monaten unter Standard-Chemotherapie (Hazard Ratio 0,40; p &lt; 0,0001) – eine Senkung des Sterberisikos um rund 60 %. Die Verträglichkeit galt als beherrschbar. Bauchspeicheldrüsenkrebs zählt zu den tödlichsten Krebsarten mit bislang sehr schlechter Prognose.<br/><br/><strong>Auswirkung:</strong> Sollten sich die Ergebnisse in der Zulassung bestätigen, wäre dies einer der größten Fortschritte bei einer bisher kaum behandelbaren Krebsart. Für europäische und deutsche Patienten hängt der Zugang von der Zulassung durch die EMA und von Erstattungsentscheidungen ab, die der US-Zulassung (FDA) typischerweise nachfolgen.<br/><br/><strong>Bias-Hinweis:</strong> Die Studie wurde vom Hersteller Revolution Medicines finanziert; Begriffe wie „beispiellos" stammen teils aus der Unternehmens- und Kongresskommunikation. Die genannten Zahlen sind belastbare Studienendpunkte, eine behördliche Zulassung steht jedoch noch aus – „verdoppeltes Überleben" ist ein Studienergebnis, kein Versorgungsstandard.]]></description>
+    </item>
+
     <item>
       <title>Israel erobert Beaufort-Burg – tiefster Vorstoß im Südlibanon seit Jahrzehnten</title>
       <link>https://www.npr.org/2026/05/31/g-s1-125056/israel-seizes-medieval-beaufort-castle-southern-lebanon</link>
@@ -92,6 +112,17 @@
     </item>
 
     <!-- ════════ DEUTSCHLAND ════════ -->
+    <item>
+      <title>Tankrabatt 2.0 gilt auch im Juni – Entlastung von 17 Cent wegen der Iran-Krise</title>
+      <link>https://www.bundesfinanzministerium.de/Content/DE/FAQ/energiesteuersenkung.html</link>
+      <guid isPermaLink="false">wn-2026-06-01-tankrabatt</guid>
+      <category>Deutschland</category>
+      <category>Wirtschaft</category>
+      <category>Finanzen</category>
+      <pubDate>Mon, 01 Jun 2026 10:00:00 +0200</pubDate>
+      <description><![CDATA[Die befristete Senkung der Energiesteuer auf Benzin und Diesel bleibt auch im Juni in Kraft. Sie wurde mit dem 2. Energiesteuersenkungsgesetz (verabschiedet am 24. April, in Kraft seit 1. Mai) für den Zeitraum 1. Mai bis 30. Juni 2026 beschlossen und soll den durch die Nahost-/Iran-Krise stark gestiegenen Kraftstoffpreis teilweise abfedern – besonders für Handwerk und Logistik. Die Steuersenkung beträgt 14,04 Cent je Liter, was inklusive Mehrwertsteueranteil rund 17 Cent ausmacht. Die erneute Ölpreis-Rallye nach den jüngsten US-Iran-Schlägen erhöht den Druck auf die Regierung, über eine Verlängerung über Ende Juni hinaus zu entscheiden.<br/><br/><strong>Auswirkung:</strong> Für Verbraucher und Unternehmen ist die Entlastung spürbar, kostet den Staat jedoch rund 1,6 Mrd. Euro an Steuereinnahmen in einem ohnehin angespannten Haushalt. Läuft die Maßnahme Ende Juni aus, während die Ölpreise hoch bleiben, droht ein sprunghafter Anstieg an der Zapfsäule – ein politisch heikles Thema für die Koalition.<br/><br/><strong>Bias-Hinweis:</strong> Faktenlage auf Basis amtlicher Quellen (BMF, Bundestag) mit geringem Verzerrungs­risiko. Ob die Entlastung in voller Höhe an die Verbraucher weitergegeben wird, ist umstritten und wird von Verbraucherschützern bezweifelt – der „17-Cent"-Wert ist die steuerliche Entlastung, nicht zwingend die tatsächliche Preissenkung an der Tankstelle.]]></description>
+    </item>
+
     <item>
       <title>Wirtschaftsweise fordern harte Reformen – Rückenwind und Risiko für Merz</title>
       <link>https://www.berliner-zeitung.de/article/die-wirtschaftsweisen-stuetzen-merz-und-stellen-ihn-so-vor-ein-riesiges-problem-10038881</link>
@@ -178,6 +209,28 @@
 
     <!-- ════════ EUROPA & EU ════════ -->
     <item>
+      <title>EU einigt sich auf schärferes Rückführungsrecht – Weg frei für „Rückkehr-Hubs"</title>
+      <link>https://www.consilium.europa.eu/en/press/press-releases/2026/06/01/council-and-parliament-reach-deal-on-returns-of-illegally-staying-third-country-nationals/</link>
+      <guid isPermaLink="false">wn-2026-06-01-eu-returns</guid>
+      <category>Europa</category>
+      <category>Migration</category>
+      <category>Politik</category>
+      <pubDate>Mon, 01 Jun 2026 16:00:00 +0200</pubDate>
+      <description><![CDATA[Unterhändler von EU-Rat und EU-Parlament erzielten am 1. Juni eine vorläufige Einigung über ein neues, EU-weites Rückführungsrecht. Es soll Abschiebungen beschleunigen, sieht erweiterte Haftzeiten vor und ermöglicht erstmals die Einrichtung sogenannter „Rückkehr-Hubs" (return hubs) in Drittstaaten außerhalb der EU – als Ziel- oder Transitzentren für Personen ohne Bleiberecht, „unter Wahrung der Grundrechte". Die Regelung ergänzt den Migrations- und Asylpakt, der ab dem 12. Juni 2026 angewendet wird. Die Einigung ist vorläufig und muss von Rat und Parlament noch formell bestätigt werden.<br/><br/><strong>Auswirkung:</strong> Für Deutschland, das auf schnellere Rückführungen drängt, ist die Einigung ein zentrales innenpolitisches Signal in der Migrationsdebatte – und potenziell entlastend für die unter Druck stehende Bundesregierung. Praktisch hängt die Wirkung davon ab, ob sich Drittstaaten als Standorte für Hubs gewinnen lassen; Menschenrechts­organisationen warnen vor rechtlichen und humanitären Risiken.<br/><br/><strong>Bias-Hinweis:</strong> Es handelt sich um eine vorläufige Einigung, kein endgültig beschlossenes Recht. Die Bewertung ist stark lagerabhängig: Befürworter (u. a. mehrere Regierungen) framen sie als überfällige Härte, NGOs und Teile der Linken als Aushöhlung des Asylrechts. Die EU-Formel „unter Wahrung der Grundrechte" ist eine politische Zusicherung, deren praktische Einlösung umstritten ist und hier nicht als gesichert dargestellt wird.]]></description>
+    </item>
+
+    <item>
+      <title>Ungarns neuer Premier Magyar reist zu Merz und Macron – „EU-Reset" nach Orbán</title>
+      <link>https://www.euronews.com/my-europe/2026/06/01/hungarys-peter-magyar-heads-to-berlin-and-paris-to-seal-eu-reset</link>
+      <guid isPermaLink="false">wn-2026-06-01-magyar-eu</guid>
+      <category>Europa</category>
+      <category>Politik</category>
+      <category>Außenpolitik</category>
+      <pubDate>Mon, 01 Jun 2026 14:00:00 +0200</pubDate>
+      <description><![CDATA[Ungarns neuer Ministerpräsident Péter Magyar (Tisza-Partei), der im April 2026 mit Zweidrittelmehrheit den langjährigen Amtsinhaber Viktor Orbán abgelöst hatte, setzt seine Europa-Reise fort: Am Dienstag wird er von Bundeskanzler Merz in Berlin empfangen (gemeinsame Pressekonferenz geplant), am Mittwoch von Präsident Macron in Paris. Zuvor war Magyar bereits in Warschau und Wien. Hintergrund ist eine Einigung mit Brüssel, die zuvor eingefrorenen EU-Mittel in Höhe von 16,4 Mrd. Euro freizugeben; zudem soll ein von Orbán blockierter 90-Mrd-Euro-EU-Kredit an die Ukraine freigemacht werden.<br/><br/><strong>Auswirkung:</strong> Magyars Kurswechsel beendet jahrelange Blockaden Budapests in der EU und stärkt Berlins und Brüssels Handlungsfähigkeit – besonders bei der Ukraine-Finanzierung und in der gemeinsamen Außenpolitik. Für Deutschland entsteht ein neuer, kooperativer Partner im Rat, was Mehrheits­bildungen erleichtert.<br/><br/><strong>Bias-Hinweis:</strong> Die Einordnung ist polarisiert: Pro-europäische Medien feiern den Wechsel als „Rückkehr Ungarns in den Mainstream", orbán-nahe und national-konservative Stimmen werten die Mittelfreigabe als politisch motiviert bzw. die Reformversprechen als bloße Inszenierung. Die Faktenangaben (Wahlsieg, Termine, 16,4-Mrd-Freigabe) sind quellenübergreifend belegt; die Bewertung der Motive ist hier ausdrücklich als Deutung gekennzeichnet.]]></description>
+    </item>
+
+    <item>
       <title>Champions League: PSG verteidigt Titel gegen Arsenal</title>
       <link>https://www.uefa.com/uefachampionsleague/match/2047742--paris-vs-arsenal/final/</link>
       <guid isPermaLink="false">wn-2026-05-31-ucl-finale</guid>
@@ -252,6 +305,17 @@
 
     <!-- ════════ WIRTSCHAFT & FINANZEN (GLOBAL) ════════ -->
     <item>
+      <title>Ölpreis springt über 5 % – Brent nahe 96 Dollar nach neuen US-Iran-Schlägen</title>
+      <link>https://www.thenationalnews.com/business/energy/2026/06/01/oil-prices-surge-as-us-and-iran-launch-fresh-strikes/</link>
+      <guid isPermaLink="false">wn-2026-06-01-oelpreis</guid>
+      <category>Wirtschaft</category>
+      <category>Finanzen</category>
+      <category>Energie</category>
+      <pubDate>Mon, 01 Jun 2026 18:00:00 +0200</pubDate>
+      <description><![CDATA[Die Ölpreise sind am Montag deutlich gestiegen, nachdem die USA und der Iran am Wochenende erneut Schläge ausgetauscht hatten. Die Nordsee-Sorte Brent legte um rund 5,3 % auf etwa 95,94 Dollar je Barrel zu, die US-Sorte WTI um rund 6,2 % auf etwa 92,78 Dollar. Analysten warnen, der Markt habe die Risikoprämie zu früh abgebaut; bei intensiveren Luftangriffen sei eine Rückkehr in den mittleren bis hohen 90er-Bereich wahrscheinlich, bei direkten Störungen des Schiffsverkehrs die 100-Dollar-Marke wieder im Spiel.<br/><br/><strong>Auswirkung:</strong> Höhere Ölpreise verteuern Energie und Transport in der gesamten Eurozone, halten die Inflation hartnäckig und verengen den Spielraum von EZB und Fed. Für Deutschland als energieimportabhängige Industrienation steigt das Stagflationsrisiko; zugleich wächst der Druck, Entlastungen wie den Tankrabatt zu verlängern.<br/><br/><strong>Bias-Hinweis:</strong> Marktdaten mit geringem Verzerrungsrisiko (zeitpunktbezogene Kurse). Die Prognosen zu 100 Dollar und „zu früh abgebauter Risikoprämie" sind Einschätzungen einzelner Analysten (u. a. Equiti Group), keine gesicherten Vorhersagen, und entsprechend gekennzeichnet.]]></description>
+    </item>
+
+    <item>
       <title>Energieschock aus dem Nahen Osten treibt globale Inflation</title>
       <link>https://www.crestwoodadvisors.com/may-2026-economic-and-market-update/</link>
       <guid isPermaLink="false">wn-2026-05-31-energieschock</guid>
@@ -283,6 +347,27 @@
     </item>
 
     <!-- ════════ IT & TECH ════════ -->
+    <item>
+      <title>Nvidia greift den PC-Markt an: „RTX Spark"-Superchip auf Arm-Basis (Computex 2026)</title>
+      <link>https://www.cnbc.com/2026/05/31/nvidias-new-chip-to-power-fresh-line-of-windows-laptops-by-dell-hp.html</link>
+      <guid isPermaLink="false">wn-2026-06-01-nvidia-rtx-spark</guid>
+      <category>Tech</category>
+      <category>Hardware</category>
+      <category>Finanzen</category>
+      <pubDate>Mon, 01 Jun 2026 12:00:00 +0200</pubDate>
+      <description><![CDATA[Nvidia-CEO Jensen Huang stellte auf der Computex 2026 in Taipeh den „RTX Spark"-Superchip vor – eine Windows-on-Arm-Plattform für Laptops und Desktops, die eine Arm-CPU (Grace, entwickelt mit MediaTek) mit einer Blackwell-GPU und bis zu 128 GB einheitlichem Speicher kombiniert. Damit dringt Nvidia erstmals in den von Intel, AMD, Qualcomm und Apple beherrschten Markt für PC-Hauptprozessoren vor. Erste Geräte sollen ab Herbst 2026 von Dell, HP, Lenovo, Asus, MSI sowie als „Surface Ultra" von Microsoft erscheinen. Die Ankündigung bewegte die Märkte: Microsoft legte vorbörslich rund 4,6 % zu, Arm Holdings rund 12 %.<br/><br/><strong>Auswirkung:</strong> Der Vorstoß verschärft den Wettbewerb im PC-Prozessormarkt und treibt die Verlagerung von KI-Rechenleistung direkt auf das Endgerät („agentic AI" lokal). Für europäische Hersteller, Rechenzentren und Entwickler bedeutet das mehr Auswahl und Leistung – verstärkt aber zugleich die Abhängigkeit von US-Chip-Architekturen, was die EU-Debatte um „technologische Souveränität" (Chips Act) zusätzlich befeuert.<br/><br/><strong>Bias-Hinweis:</strong> Produkt-Spezifikationen und Partnerangaben stammen von Nvidia bzw. aus der Computex-Keynote (Herstellermarketing); reale Leistung und Verfügbarkeit sind unabhängig noch nicht überprüft. Die genannten Aktienbewegungen sind zeitpunktbezogene, vorbörsliche Reaktionen, keine dauerhaften Kursgewinne.]]></description>
+    </item>
+
+    <item>
+      <title>GitHub Copilot stellt auf Token-Abrechnung um – Entwickler fürchten Kostenexplosion</title>
+      <link>https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/</link>
+      <guid isPermaLink="false">wn-2026-06-01-copilot-billing</guid>
+      <category>Tech</category>
+      <category>KI</category>
+      <pubDate>Mon, 01 Jun 2026 11:00:00 +0200</pubDate>
+      <description><![CDATA[Microsofts GitHub Copilot hat zum 1. Juni die Abrechnung von einer pauschalen, anfrage­basierten Gebühr auf ein token- bzw. verbrauchsbasiertes Modell („GitHub AI Credits") umgestellt. Nutzer zahlen künftig nach verbrauchten Tokens. Reine Code-Vervollständigungen bleiben unbegrenzt und kostenlos, doch das bisherige Ausweichen auf ein günstigeres Modell nach Aufbrauchen des Kontingents entfällt. In Foren berichten Power-User von projizierten Kostensteigerungen um das 10- bis 50-Fache; der offizielle Community-Thread sammelte hunderte Gegenstimmen. Auslöser sind laut Berichten wöchentlich nahezu verdoppelte Betriebskosten der KI-Infrastruktur.<br/><br/><strong>Auswirkung:</strong> Für Unternehmen und Entwickler – auch in Deutschland – wird die Kalkulation von KI-gestützter Softwareentwicklung schwerer planbar; intensive „agentische" Workflows können deutlich teurer werden. Der Vorgang ist ein Signal, dass die bisher quersubventionierten KI-Dienste in eine Phase realistischerer (höherer) Preise eintreten – mit Folgen für die gesamte Branche.<br/><br/><strong>Bias-Hinweis:</strong> Die drastischen „10- bis 50-fach"-Zahlen sind Nutzer-Projektionen für Extremfälle, keine repräsentativen Durchschnittswerte – die Mehrheit (reine Vervollständigung) ist nicht betroffen. Die Begründung über „verdoppelte Betriebskosten" beruht auf einem journalistischen Bericht unter Berufung auf interne Dokumente und ist von GitHub nicht offiziell bestätigt.]]></description>
+    </item>
+
     <item>
       <title>Google I/O: Gemini 3.5, KI-Agenten und XR-Brillen</title>
       <link>https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/</link>
