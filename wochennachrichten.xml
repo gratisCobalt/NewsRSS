@@ -6,11 +6,41 @@
     <atom:link href="https://example.com/wochennachrichten/feed.xml" rel="self" type="application/rss+xml" />
     <description>Wöchentliche Zusammenfassung der wichtigsten Nachrichten aus aller Welt mit Schwerpunkt Europa und Deutschland – Politik, Wirtschaft &amp; Finanzen, IT/Tech. Inklusive Einordnung der Auswirkungen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Mon, 01 Jun 2026 23:30:00 +0200</lastBuildDate>
-    <pubDate>Mon, 01 Jun 2026 23:30:00 +0200</pubDate>
+    <lastBuildDate>Tue, 02 Jun 2026 10:00:00 +0200</lastBuildDate>
+    <pubDate>Tue, 02 Jun 2026 10:00:00 +0200</pubDate>
     <generator>Claude Code</generator>
 
     <!-- ════════ WELT ════════ -->
+    <item>
+      <title>Russland fliegt einen der schwersten Angriffe seit Monaten – Dutzende Tote in Kyiv und Dnipro</title>
+      <link>https://www.npr.org/2026/06/02/nx-s1-5844071/russian-attack-ukraine</link>
+      <guid isPermaLink="false">wn-2026-06-02-ukraine-grossangriff</guid>
+      <category>Welt</category>
+      <category>Ukraine</category>
+      <pubDate>Tue, 02 Jun 2026 07:00:00 +0200</pubDate>
+      <description><![CDATA[In der Nacht zum 2. Juni feuerte Russland nach ukrainischen Angaben 73 Raketen und 656 Drohnen auf Kyiv, Dnipro und weitere Städte – einer der schwersten Angriffe seit Monaten. Die ukrainische Luftwaffe meldete, 40 Raketen und 602 Drohnen abgefangen oder unterdrückt zu haben. Nach Behördenangaben wurden mindestens 23 Menschen getötet (u. a. rund 7 in Kyiv und etwa 16 in Dnipro, darunter ein Kind) und über 100 verletzt; in Dnipro stürzte ein vierstöckiges Wohnhaus ein. In Kyiv wurden fünf medizinische Einrichtungen sowie Wohn- und Geschäftsgebäude beschädigt, Trümmer trafen einen Kindergarten.<br/><br/><strong>Auswirkung:</strong> Der Angriff zeigt, dass russische Großangriffe auf zivile Infrastruktur trotz territorialer Rückschläge an der Front eine reale Bedrohung bleiben. Für Europa und Deutschland erhöht sich der Druck, Luftabwehrsysteme schneller nachzuliefern; die Meldung untermauert die Debatte um höhere Verteidigungsausgaben. (Aktualisierung zur Ukraine-Meldung vom 27. Mai.)<br/><br/><strong>Bias-Hinweis:</strong> Opferzahlen und Abschussquoten stammen von ukrainischen Behörden bzw. der Luftwaffe und schwankten im Tagesverlauf (Meldungen zwischen 13 und 23 Toten), da die Rettungsarbeiten andauerten. Eine unabhängige Verifikation und eine russische Darstellung liegen nicht gesichert vor; die Zahlen sind als vorläufig und quellenabhängig gekennzeichnet.]]></description>
+    </item>
+
+    <item>
+      <title>Iran setzt Gespräche mit den USA aus und droht mit Hormus-Blockade – Trump widerspricht</title>
+      <link>https://www.cnbc.com/2026/06/01/iran-us-negotiations-strait-of-hormuz.html</link>
+      <guid isPermaLink="false">wn-2026-06-02-iran-stopp</guid>
+      <category>Welt</category>
+      <category>Geopolitik</category>
+      <pubDate>Mon, 01 Jun 2026 21:00:00 +0200</pubDate>
+      <description><![CDATA[Iranische Staatsmedien meldeten am 1. Juni, Teheran setze den Austausch von Botschaften mit den USA über Vermittler aus und werde die Straße von Hormus „vollständig" blockieren – als Reaktion auf anhaltende israelische Angriffe im Libanon, die der Iran als Bruch der zuvor vereinbarten Waffenruhe wertet. Außenminister Araghchi erklärte, die Waffenruhe gelte „an allen Fronten, auch im Libanon". US-Präsident Trump und Vizepräsident Vance hielten dem entgegen, der Libanon sei nie Teil der US-iranischen Vereinbarung gewesen; Trump erklärte, die Gespräche liefen „in rasantem Tempo" weiter.<br/><br/><strong>Auswirkung:</strong> Eine Blockade der Straße von Hormus (~20 % des globalen Ölhandels) ist das zentrale Eskalationsszenario für die Energiemärkte. Allein die Ankündigung erhöht die Risikoprämie auf Öl und damit den Inflationsdruck für die Eurozone – mit Blick auf die EZB-Sitzung am 11. Juni. (Kehrtwende zur Iran-Deal-Meldung vom 28.–30. Mai.)<br/><br/><strong>Bias-Hinweis:</strong> Die Darstellungen widersprechen sich direkt: Der Verhandlungsstopp beruht auf iranischen Staatsmedien bzw. Araghchi, das Dementi auf Trump/Vance. Ob die Waffenruhe den Libanon einschließt, ist genau der umstrittene Kernpunkt – beide Lesarten sind hier den jeweiligen Akteuren zugeordnet, keine Seite ist als neutrale Tatsache dargestellt.]]></description>
+    </item>
+
+    <item>
+      <title>Israelische Angriffe im Südlibanon fordern weitere Tote – USA bremsen laut Bericht Schlag gegen Beirut</title>
+      <link>https://www.washingtonpost.com/world/2026/06/01/iran-us-trade-strikes-deal-end-war-remains-elusive/</link>
+      <guid isPermaLink="false">wn-2026-06-02-libanon-beirut</guid>
+      <category>Welt</category>
+      <category>Naher Osten</category>
+      <pubDate>Tue, 02 Jun 2026 06:00:00 +0200</pubDate>
+      <description><![CDATA[Bei israelischen Angriffen im Südlibanon wurden in der Nacht nach libanesischen Angaben mindestens acht Menschen getötet, darunter ein Zahnarzt und seine zwei Kinder, deren Auto von einer Drohne getroffen wurde. Das libanesische Gesundheitsministerium beziffert die Zahl der seit Anfang März Getöteten auf über 3.400, die der Verwundeten auf mehr als 10.000. Laut Washington Post hält Israel auf Bitte der USA vorerst von einem Schlag gegen Beirut ab.<br/><br/><strong>Auswirkung:</strong> Die fortgesetzten Angriffe sind der von Teheran genannte Auslöser für den iranischen Verhandlungsstopp und gefährden die regionale Waffenruhe. Für Europa bedeuten Eskalation und eine mögliche Hormus-Blockade höhere Energiepreise sowie wachsenden Druck bei humanitärer Hilfe und Migration über Zypern.<br/><br/><strong>Bias-Hinweis:</strong> Die Opferzahlen stammen vom libanesischen Gesundheitsministerium und sind unabhängig nicht verifiziert; eine israelische Einordnung der einzelnen Angriffe liegt nicht durchgängig vor. Die Angabe zum zurückgehaltenen Beirut-Schlag beruht auf einem Bericht der Washington Post unter Berufung auf Quellen, nicht auf einer offiziellen Bestätigung.]]></description>
+    </item>
+
     <item>
       <title>USA und Iran tauschen neue Schläge aus – Eskalation am Golf, Ölpreis springt</title>
       <link>https://www.cnbc.com/2026/05/28/kuwait-air-defenses-activated-us-carries-out-new-strikes-in-iran.html</link>
@@ -113,6 +143,17 @@
 
     <!-- ════════ DEUTSCHLAND ════════ -->
     <item>
+      <title>Paritätischer Armutsbericht 2026: 13,3 Millionen Menschen in Armut – Verband meldet Höchststand</title>
+      <link>https://www.der-paritaetische.de/alle-meldungen/paritaetischer-armutsbericht-2026-soziale-spaltung-verschaerft-sich-133-millionen-menschen-leben-in-armut/</link>
+      <guid isPermaLink="false">wn-2026-06-02-armutsbericht</guid>
+      <category>Deutschland</category>
+      <category>Soziales</category>
+      <category>Politik</category>
+      <pubDate>Tue, 02 Jun 2026 09:00:00 +0200</pubDate>
+      <description><![CDATA[Der Paritätische Gesamtverband veröffentlichte am 2. Juni seinen Armutsbericht 2026 („Wachsende Armut, schrumpfende Sicherheit"). Demnach lebten 2025 rund 13,3 Mio. Menschen in Armut; die Armutsquote stieg auf 16,1 % (+0,6 Prozentpunkte gegenüber 2024) – laut Verband ein neuer Höchststand. Besonders betroffen sind die ostdeutschen Flächenländer (Sachsen-Anhalt 21,3 %, Thüringen 17,4 %, Mecklenburg-Vorpommern 16,8 %, Sachsen 16,7 %) sowie ältere Menschen: Bei den über 65-Jährigen liegt die Quote bei 19,5 %, bei Frauen über 75 Jahren bei 21,3 %.<br/><br/><strong>Auswirkung:</strong> Der Bericht verschärft die innenpolitische Debatte über den Sozialstaat – im direkten Spannungsfeld zu den Spar- und Reformforderungen der Wirtschaftsweisen. Der Spitzenwert in Sachsen-Anhalt fällt zudem mit der dortigen Landtagswahl am 6. September und den AfD-Rekordumfragen zusammen, was der sozialen Frage zusätzliches politisches Gewicht gibt.<br/><br/><strong>Bias-Hinweis:</strong> Die Zahlen beruhen auf Mikrozensus-Daten (amtliche Basis, geringes Verzerrungsrisiko). Die Definition folgt jedoch der EU-Konvention der relativen Armutsgefährdung (Einkommen unter 60 % des Medians) – ein Verteilungs-, kein absolutes Mangelmaß. Der Paritätische ist als Wohlfahrtsverband ein Interessenakteur, der tendenziell für höhere Sozialausgaben wirbt; Wertungen wie „Höchststand" und „schrumpfende Sicherheit" sind als Verbandsdeutung gekennzeichnet, nicht als neutrale Tatsache.]]></description>
+    </item>
+
+    <item>
       <title>Tankrabatt 2.0 gilt auch im Juni – Entlastung von 17 Cent wegen der Iran-Krise</title>
       <link>https://www.bundesfinanzministerium.de/Content/DE/FAQ/energiesteuersenkung.html</link>
       <guid isPermaLink="false">wn-2026-06-01-tankrabatt</guid>
@@ -208,6 +249,16 @@
     </item>
 
     <!-- ════════ EUROPA & EU ════════ -->
+    <item>
+      <title>Dänemark: Frederiksen sichert dritte Amtszeit – Mitte-Links-Koalition nach Rekord-Verhandlungen</title>
+      <link>https://www.france24.com/en/europe/20260601-pm-frederiksen-secures-third-term-with-new-danish-coalition-government</link>
+      <guid isPermaLink="false">wn-2026-06-02-daenemark-frederiksen</guid>
+      <category>Europa</category>
+      <category>Politik</category>
+      <pubDate>Mon, 01 Jun 2026 18:00:00 +0200</pubDate>
+      <description><![CDATA[Die dänische Sozialdemokratin Mette Frederiksen tritt eine dritte Amtszeit als Ministerpräsidentin an. Nach den mit 69 Tagen längsten Koalitionsverhandlungen der dänischen Geschichte bildet sie eine Mitte-Links-Minderheitsregierung aus vier Parteien (Sozialdemokraten, Grüne Linke, Sozialliberale und die zentristischen Moderaten), die zusammen 82 der 179 Sitze im Folketing halten und auf wechselnde Unterstützung weiterer Linksparteien angewiesen sind. Bei der Wahl vom 24. März hatten die Sozialdemokraten mit 21,9 % (38 Sitze) ihr schlechtestes Ergebnis seit 1903 erzielt.<br/><br/><strong>Auswirkung:</strong> Frederiksen steht vor der Aufgabe, die belasteten Beziehungen zu den USA – auch im Streit um Grönland – zu steuern. Eine handlungsfähige Regierung in Kopenhagen ist für die EU bei Sicherheits- und Migrationsfragen relevant, in denen Dänemark traditionell eine harte Linie vertritt – eine Position, die Berlin in der aktuellen Migrationsdebatte näher liegt als vielen anderen Partnern.<br/><br/><strong>Bias-Hinweis:</strong> Wahl- und Sitzdaten mit geringem Verzerrungsrisiko (amtliche Ergebnisse). Ob die Regierung als „geschwächt" oder „handlungsfähig" gilt, variiert je nach Quelle; hier sind die Fakten (Sitzverteilung, Minderheitsstatus, Verhandlungsdauer) dargestellt, ohne die künftige Stabilität zu bewerten.]]></description>
+    </item>
+
     <item>
       <title>EU einigt sich auf schärferes Rückführungsrecht – Weg frei für „Rückkehr-Hubs"</title>
       <link>https://www.consilium.europa.eu/en/press/press-releases/2026/06/01/council-and-parliament-reach-deal-on-returns-of-illegally-staying-third-country-nationals/</link>
@@ -305,6 +356,16 @@
 
     <!-- ════════ WIRTSCHAFT & FINANZEN (GLOBAL) ════════ -->
     <item>
+      <title>Wall Street auf Rekordhoch – S&amp;P 500 erstmals über 7.600, Ölpreis gibt wieder nach</title>
+      <link>https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-02-2026</link>
+      <guid isPermaLink="false">wn-2026-06-02-wallstreet-rekord</guid>
+      <category>Wirtschaft</category>
+      <category>Finanzen</category>
+      <pubDate>Mon, 01 Jun 2026 22:30:00 +0200</pubDate>
+      <description><![CDATA[Die US-Leitindizes Dow Jones, S&amp;P 500 und Nasdaq schlossen am Montag (1. Juni) auf Rekordhochs; der S&amp;P 500 beendete den Handel erstmals über 7.600 Punkten – getragen vor allem von Technologie- und Energiewerten (u. a. im Sog von Nvidias PC-Chip-Vorstoß). Der Ölpreis gab am Dienstag wieder nach: WTI fiel rund 1 % in Richtung 91 Dollar, nachdem es am Vortag um über 5 % gesprungen war; Brent notierte bei rund 93,6 Dollar. Hintergrund war die widersprüchliche Nachrichtenlage zu den US-Iran-Gesprächen und zur Straße von Hormus. Gold und Silber legten zu.<br/><br/><strong>Auswirkung:</strong> Der Rekord an der Wall Street spiegelt vor allem den anhaltenden KI- und Chip-Boom und strahlt auf europäische Börsen aus. Für deutsche und europäische Anleger bleibt das Bild zweischneidig: Die Tech-Rally trägt die Kurse, während die volatile Energiepreislage und das ungelöste Iran-Risiko die Inflations- und Zinsaussichten (EZB-Sitzung 11. Juni) belasten. Eine starke Konzentration der Gewinne auf wenige Tech-Titel erhöht zudem das Korrekturrisiko.<br/><br/><strong>Bias-Hinweis:</strong> Markt- und Kursdaten sind zeitpunktbezogen und mit geringem Verzerrungsrisiko. Die Zuordnung der Kursbewegungen zu einzelnen Ursachen (Iran-Lage, Chip-Boom) ist eine gängige, aber nicht gesicherte journalistische Deutung der Kausalität.]]></description>
+    </item>
+
+    <item>
       <title>Ölpreis springt über 5 % – Brent nahe 96 Dollar nach neuen US-Iran-Schlägen</title>
       <link>https://www.thenationalnews.com/business/energy/2026/06/01/oil-prices-surge-as-us-and-iran-launch-fresh-strikes/</link>
       <guid isPermaLink="false">wn-2026-06-01-oelpreis</guid>
@@ -347,6 +408,16 @@
     </item>
 
     <!-- ════════ IT & TECH ════════ -->
+    <item>
+      <title>Malaysia verbietet Social Media für unter 16-Jährige – Testfeld für die EU-Debatte</title>
+      <link>https://www.nbcnews.com/world/asia/malaysia-enforces-ban-social-media-accounts-children-younger-16-rcna347823</link>
+      <guid isPermaLink="false">wn-2026-06-02-malaysia-socialmedia</guid>
+      <category>Tech</category>
+      <category>Regulierung</category>
+      <pubDate>Mon, 01 Jun 2026 13:00:00 +0200</pubDate>
+      <description><![CDATA[Malaysia setzt seit dem 1. Juni ein Verbot von Social-Media-Konten für Kinder unter 16 Jahren durch. Plattformen mit mindestens 8 Mio. Nutzern – darunter Facebook, Instagram, TikTok und YouTube – müssen eine Altersverifikation einführen (per Personalausweis „MyKad", Reisepass oder der staatlichen „MyDigital ID") und Minderjährige am Anlegen von Konten hindern. Die Prüfung bestehender Konten wird über sechs Monate ausgerollt; betroffene Nutzer erhalten einen Monat, um ihre Daten zu sichern. Bei Verstößen drohen Bußgelder bis 10 Mio. Ringgit (~2,5 Mio. US-Dollar).<br/><br/><strong>Auswirkung:</strong> Malaysia reiht sich neben Australien in eine globale Welle strengerer Jugendschutzregeln ein. Für die EU und Deutschland, wo über Altersgrenzen und Verifizierungspflichten – auch im Rahmen des Digital Services Act – diskutiert wird, liefert das Land ein praktisches Testfeld, inklusive der Streitfragen Datenschutz und mögliche Überwachung.<br/><br/><strong>Bias-Hinweis:</strong> Faktenlage (Gesetz, Schwellenwerte, Fristen, Bußgelder) auf Basis übereinstimmender Berichterstattung mit geringem Verzerrungsrisiko. Wie wirksam die Altersverifikation tatsächlich ist und wie groß die Datenschutzrisiken sind, ist umstritten; entsprechende Kritikpunkte sind als Bedenken von Bürgerrechtlern gekennzeichnet, nicht als belegte Folgen.]]></description>
+    </item>
+
     <item>
       <title>Nvidia greift den PC-Markt an: „RTX Spark"-Superchip auf Arm-Basis (Computex 2026)</title>
       <link>https://www.cnbc.com/2026/05/31/nvidias-new-chip-to-power-fresh-line-of-windows-laptops-by-dell-hp.html</link>
