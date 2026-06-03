@@ -6,11 +6,43 @@
     <atom:link href="https://example.com/wochennachrichten/feed.xml" rel="self" type="application/rss+xml" />
     <description>Wöchentliche Zusammenfassung der wichtigsten Nachrichten aus aller Welt mit Schwerpunkt Europa und Deutschland – Politik, Wirtschaft &amp; Finanzen, IT/Tech. Inklusive Einordnung der Auswirkungen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 02 Jun 2026 10:00:00 +0200</lastBuildDate>
-    <pubDate>Tue, 02 Jun 2026 10:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 03 Jun 2026 12:00:00 +0200</lastBuildDate>
+    <pubDate>Wed, 03 Jun 2026 12:00:00 +0200</pubDate>
     <generator>Claude Code</generator>
 
     <!-- ════════ WELT ════════ -->
+    <item>
+      <title>Iran greift Kuwaits Hauptflughafen an – ein Toter, Dutzende Verletzte; Trump nennt Waffenruhe intakt</title>
+      <link>https://www.pbs.org/newshour/world/iran-strikes-kuwaits-main-airport-and-kills-1-as-ceasefire-is-tested-again</link>
+      <guid isPermaLink="false">wn-2026-06-03-kuwait-flughafen</guid>
+      <category>Welt</category>
+      <category>Naher Osten</category>
+      <category>Geopolitik</category>
+      <pubDate>Wed, 03 Jun 2026 07:00:00 +0200</pubDate>
+      <description><![CDATA[In der Nacht zum 3. Juni beschädigten iranische Drohnen schwer ein Passagierterminal (Terminal 1) des internationalen Flughafens von Kuwait; mindestens ein Mensch wurde getötet, Dutzende verletzt. Der Flughafen wurde vorübergehend geschlossen. Iran erklärte, man habe US-Stützpunkte in Kuwait und Bahrain sowie ein Schiff nahe der Straße von Hormus als „Selbstverteidigung" angegriffen, nachdem das US-Militär einen unter Botswana-Flagge fahrenden Öltanker auf dem Weg zu einem iranischen Hafen lahmgelegt habe. Trotz des Schlagabtauschs erklärte Präsident Trump, die US-iranische Waffenruhe bleibe in Kraft, und stellte einen möglichen Fortschritt „noch an diesem Wochenende" in Aussicht. Iranische halbamtliche Agenturen meldeten dagegen, Teheran habe die Kommunikation mit Vermittlern über eine Verlängerung gestoppt und verlange zunächst die Einhaltung der Waffenruhe im Libanon.<br/><br/><strong>Auswirkung:</strong> Der Angriff auf ein ziviles Drehkreuz markiert eine neue Eskalationsstufe und hält die Risikoprämie auf Öl hoch. Für Europa und Deutschland bedeutet das anhaltenden Energiepreis- und Inflationsdruck unmittelbar vor der EZB-Sitzung am 11. Juni. (Fortsetzung der Iran-Meldungen vom 1.–2. Juni.)<br/><br/><strong>Bias-Hinweis:</strong> Tathergang und Opferzahlen am Flughafen beruhen auf kuwaitischen/US-Angaben, die „Selbstverteidigungs"-Einordnung auf iranischer Darstellung – beide Lesarten sind den Akteuren zugeordnet, keine ist als neutrale Tatsache dargestellt. Ob die Waffenruhe „intakt" ist, ist genau der umstrittene Punkt: Trumps optimistische Darstellung und die iranische Gegendarstellung (Gesprächsstopp) widersprechen sich direkt und sind hier als Positionen, nicht als gesicherte Lage, gekennzeichnet.]]></description>
+    </item>
+
+    <item>
+      <title>Ukrainische Drohnen treffen Öl-Terminal in St. Petersburg – Schlag zum Auftakt von „Putins Davos"</title>
+      <link>https://www.npr.org/2026/06/03/nx-s1-5844793/ukrainian-drones-hit-st-petersburg</link>
+      <guid isPermaLink="false">wn-2026-06-03-stpetersburg</guid>
+      <category>Welt</category>
+      <category>Ukraine</category>
+      <pubDate>Wed, 03 Jun 2026 08:00:00 +0200</pubDate>
+      <description><![CDATA[Ukrainische Drohnen haben nach Angaben von Präsident Selenskyj ein Öl-Terminal in St. Petersburg getroffen und in Brand gesetzt – die Drohnen legten dafür mehr als 1.000 km zurück. Der Angriff fiel mit dem Beginn des St. Petersburger Internationalen Wirtschaftsforums zusammen, das der Kreml als Prestigeprojekt („russisches Davos") inszeniert; Putin will dort am Freitag sprechen. Der Flughafen von St. Petersburg setzte den Betrieb zeitweise aus, das mobile Internet wurde abgeschaltet. Das getroffene Terminal zählt laut Berichten zu Russlands größten Treibstoff-Lager- und Exportanlagen (Durchsatz rund 12,5 Mio. Tonnen/Jahr).<br/><br/><strong>Auswirkung:</strong> Die Ukraine zielt mit solchen Angriffen auf Russlands Öleinnahmen – die zentrale Finanzierungsquelle des Krieges. Symbolisch ist der Schlag zum Forum-Auftakt eine Blamage für Putin (wenige Wochen nach der gekürzten Moskauer Siegesparade). Für Europa zeigt der Fernschlag die wachsende Reichweite ukrainischer Drohnen, kann aber globale Ölmärkte zusätzlich nervös machen.<br/><br/><strong>Bias-Hinweis:</strong> Urheberschaft und Treffererfolg beruhen auf ukrainischen Angaben (Selenskyj); eine russische Schadensbilanz liegt nur eingeschränkt vor. Durchsatzzahl und Reichweite stammen aus Medienberichten und sind unabhängig nicht vollständig verifiziert.]]></description>
+    </item>
+
+    <item>
+      <title>US-Repräsentantenhaus rügt Trumps Iran-Kurs – Mehrheit für War-Powers-Resolution</title>
+      <link>https://abcnews.com/International/live-updates/iran-live-updates-irgc-claims-airbase-attack-after/?id=133475855</link>
+      <guid isPermaLink="false">wn-2026-06-03-warpowers</guid>
+      <category>Welt</category>
+      <category>USA</category>
+      <category>Politik</category>
+      <pubDate>Wed, 03 Jun 2026 06:30:00 +0200</pubDate>
+      <description><![CDATA[Das US-Repräsentantenhaus hat mit 215 zu 208 Stimmen eine War-Powers-Resolution angenommen, die Präsident Trumps Kriegsvollmachten im Iran-Konflikt einhegen soll – die erste derartige Rüge des Kongresses seit Beginn der Auseinandersetzung. Die Resolution verlangt, dass das Militär ohne ausdrückliche Zustimmung des Kongresses keine weiteren Feindseligkeiten gegen den Iran führt.<br/><br/><strong>Auswirkung:</strong> Der Beschluss ist vor allem ein politisches Signal; im Senat und gegen ein mögliches Veto Trumps hat er es schwer und entfaltet kaum unmittelbare Bindungswirkung. Für Europa zeigt er jedoch die innenpolitische Brüchigkeit der US-Iran-Politik – ein Unsicherheitsfaktor für Energiemärkte und die Verlässlichkeit amerikanischer Zusagen.<br/><br/><strong>Bias-Hinweis:</strong> Das Abstimmungsergebnis (215:208) ist eine harte, protokollierte Tatsache. Die Einordnung als „Rüge" ist eine politische Deutung; ob die Resolution rechtlich durchgreift, ist offen und hier ausdrücklich nicht als gesichert dargestellt.]]></description>
+    </item>
+
     <item>
       <title>Russland fliegt einen der schwersten Angriffe seit Monaten – Dutzende Tote in Kyiv und Dnipro</title>
       <link>https://www.npr.org/2026/06/02/nx-s1-5844071/russian-attack-ukraine</link>
@@ -143,6 +175,17 @@
 
     <!-- ════════ DEUTSCHLAND ════════ -->
     <item>
+      <title>Uber, Autobrains und Nvidia starten Robotaxi-Programm in München</title>
+      <link>https://investor.uber.com/news-events/news/press-release-details/2026/Autobrains-and-Uber-to-Launch-Agentic-AI-Robotaxi-Program-in-Munich-built-on-NVIDIA-DRIVE-Hyperion-2026-yMEt3xDSDA/default.aspx</link>
+      <guid isPermaLink="false">wn-2026-06-03-uber-muenchen</guid>
+      <category>Deutschland</category>
+      <category>Tech</category>
+      <category>Wirtschaft</category>
+      <pubDate>Mon, 01 Jun 2026 20:00:00 +0200</pubDate>
+      <description><![CDATA[Uber und das israelische KI-Start-up Autobrains kündigten auf der GTC Taipei (Computex 2026) ein Robotaxi-Programm in München an – aufgebaut auf Nvidias Level-4-Plattform „DRIVE Hyperion". München soll – vorbehaltlich behördlicher Genehmigung – die erste Einsatzstadt werden. Autobrains setzt statt auf ein einziges Ende-zu-Ende-Modell auf mehrere spezialisierte „Agenten", die den Fahrkontext laufend bewerten. Als Begründung für die Standortwahl nennen die Partner Münchens Rolle als Automobil-Hub, die dichte Innenstadt und den „durchdachten" deutschen Rechtsrahmen.<br/><br/><strong>Auswirkung:</strong> Für den Standort Deutschland ist die Wahl Münchens ein Signal, dass das hiesige Regulierungsumfeld für autonomes Fahren international als attraktiv gilt. Zugleich verschärft sich der Wettbewerb für deutsche Autobauer und Mobilitätsanbieter auf ihrem Heimatmarkt; offen ist, ob und wann die Genehmigungen erteilt werden.<br/><br/><strong>Bias-Hinweis:</strong> Die Angaben stammen aus der gemeinsamen Pressemitteilung der beteiligten Unternehmen (Marketing). Ein konkreter Starttermin und die behördliche Freigabe stehen aus; werbliche Begriffe wie „agentic AI" und „skalierbar" sind Hersteller-Framing, keine unabhängig belegte Leistung.]]></description>
+    </item>
+
+    <item>
       <title>Paritätischer Armutsbericht 2026: 13,3 Millionen Menschen in Armut – Verband meldet Höchststand</title>
       <link>https://www.der-paritaetische.de/alle-meldungen/paritaetischer-armutsbericht-2026-soziale-spaltung-verschaerft-sich-133-millionen-menschen-leben-in-armut/</link>
       <guid isPermaLink="false">wn-2026-06-02-armutsbericht</guid>
@@ -250,6 +293,39 @@
 
     <!-- ════════ EUROPA & EU ════════ -->
     <item>
+      <title>Ungarn hebt Veto gegen Ukraine-EU-Beitritt auf – Magyar-Deal zu Minderheitenrechten</title>
+      <link>https://www.euronews.com/my-europe/2026/06/03/hungary-lifts-veto-on-ukraines-eu-accession-ending-two-year-deadlock</link>
+      <guid isPermaLink="false">wn-2026-06-03-ungarn-veto</guid>
+      <category>Europa</category>
+      <category>Politik</category>
+      <category>Außenpolitik</category>
+      <pubDate>Wed, 03 Jun 2026 13:00:00 +0200</pubDate>
+      <description><![CDATA[Ungarns Ministerpräsident Péter Magyar hat angekündigt, das rund zweijährige Veto seines Vorgängers Orbán gegen Ukraines EU-Beitritt aufzugeben. Vorausgegangen war eine „umfassende Einigung" mit Kyjiw über die sprachlichen, schulischen, kulturellen und politischen Rechte der rund 100.000 Menschen zählenden ungarischen Minderheit in der Ukraine. Der EU-Rat signalisierte Kyjiw und Chișinău die Bereitschaft, das erste Verhandlungs-Cluster („Fundamentals": Rechtsstaat, Grundrechte, Justiz) zu öffnen; die formelle Regierungskonferenz dazu ist für den 15. Juni in Luxemburg geplant.<br/><br/><strong>Auswirkung:</strong> Der Schritt löst eine der hartnäckigsten EU-Blockaden und bringt Ukraine (und Moldau) den Beitrittsverhandlungen näher – ein außenpolitischer Erfolg für Berlin und Brüssel. Er fügt sich in Magyars „EU-Reset" ein (vgl. seine Reise zu Merz und Macron) und erleichtert künftige Mehrheiten im Rat. Praktisch bleibt der Beitritt jedoch ein Prozess über viele Jahre.<br/><br/><strong>Bias-Hinweis:</strong> Verfahrensfakten und Termine sind quellenübergreifend belegt. Die Bewertung der Motive ist polarisiert: pro-europäische Medien feiern die „Rückkehr Ungarns", orbán-nahe Stimmen werten den Deal als Inszenierung. Ob die Minderheitenrechts-Einigung tatsächlich greift, ist eine Zusage, kein bereits vollzogenes Ergebnis.]]></description>
+    </item>
+
+    <item>
+      <title>EU legt Tech-Souveränitätspaket vor: Chips Act 2.0 und „Cloud and AI Development Act"</title>
+      <link>https://digital-strategy.ec.europa.eu/en/news/commission-proposes-tech-sovereignty-package-strengthen-europes-digital-autonomy-and-resilience</link>
+      <guid isPermaLink="false">wn-2026-06-03-eu-techsouveraenitaet</guid>
+      <category>Europa</category>
+      <category>Tech</category>
+      <category>Regulierung</category>
+      <pubDate>Wed, 03 Jun 2026 11:00:00 +0200</pubDate>
+      <description><![CDATA[Die EU-Kommission stellte am 3. Juni ihr „europäisches Tech-Souveränitätspaket" vor. Es bündelt zwei Gesetzentwürfe – den Chips Act 2.0 (Aufbau von Spitzen-Halbleiterkapazitäten, Stärkung von Angebot und Nachfrage, Investitionen) und den Cloud and AI Development Act (Förderung von Rechenzentren, einheitlicher EU-Rahmen zur Bewertung von Cloud- und KI-„Souveränität") – sowie eine Open-Source-Strategie und eine Roadmap für Digitalisierung und KI im Energiesektor. Ziel ist es, Europas starke Abhängigkeit von außereuropäischen Anbietern bei Halbleitern, KI und Cloud zu verringern; eine EU-Vertreterin formulierte das Anliegen mit den Worten, „niemand soll einen Kill-Switch haben".<br/><br/><strong>Auswirkung:</strong> Für die deutsche Industrie (Automotive, Maschinenbau, Cloud-Nutzer) kann ein einheitlicher EU-Rahmen Planungssicherheit schaffen und Rechenzentrums-Ansiedlungen erleichtern. Kritiker warnen jedoch vor Protektionismus gegenüber US-Cloud-Anbietern und vor hohem bürokratischem Aufwand. (Konkretisierung der Chips-Act-Umbau-Meldung vom 28. Mai.)<br/><br/><strong>Bias-Hinweis:</strong> Es handelt sich um Gesetzentwürfe, nicht um beschlossenes Recht – Inhalte können sich im Verfahren ändern. „Technologische Souveränität" und das „Kill-Switch"-Zitat sind politisches Framing der Kommission; ob die Maßnahmen die Abhängigkeit real verringern, ist umstritten und hier nicht als gesicherte Wirkung dargestellt.]]></description>
+    </item>
+
+    <item>
+      <title>Portugal: Zweiter Generalstreik in sechs Monaten legt Verkehr, Schulen und Kliniken lahm</title>
+      <link>https://www.euronews.com/my-europe/2026/06/02/portugal-general-strike-what-you-need-to-know</link>
+      <guid isPermaLink="false">wn-2026-06-03-portugal-streik</guid>
+      <category>Europa</category>
+      <category>Soziales</category>
+      <category>Politik</category>
+      <pubDate>Wed, 03 Jun 2026 09:00:00 +0200</pubDate>
+      <description><![CDATA[Ein von der Gewerkschaftsdachorganisation CGTP ausgerufener Generalstreik hat am 3. Juni weite Teile Portugals lahmgelegt: Züge und U-Bahnen in Lissabon und Porto fielen aus, bis zu 500 Flüge wurden gestrichen, Schulen blieben geschlossen. Es ist der zweite Generalstreik binnen sechs Monaten. Protestiert wird gegen eine Arbeitsrechtsreform der konservativen Minderheitsregierung, die über 100 Artikel des Arbeitsgesetzbuchs ändern und u. a. Kündigungen erleichtern sowie Leiharbeit und Outsourcing ausweiten würde. Die Regierung will das Vorhaben voraussichtlich mit Stimmen der rechten Chega durchs Parlament bringen.<br/><br/><strong>Auswirkung:</strong> Der Streik zeigt den wachsenden Verteilungskonflikt in Südeuropa zwischen wachstumsorientierten Arbeitsmarktreformen und gewerkschaftlichem Widerstand – ein Muster, das auch die deutsche Debatte um Sozialstaats- und Arbeitsmarktreformen (Wirtschaftsweise) spiegelt. Kurzfristig drohen Reise- und Lieferkettenstörungen.<br/><br/><strong>Bias-Hinweis:</strong> Streikumfang und Reforminhalte sind quellenübergreifend belegt. Die Bewertung ist lagerabhängig: „verschlechtert die Arbeitsbedingungen" stammt von der CGTP, „steigert Produktivität und Wachstum" von der Regierung – beide Positionen sind als solche gekennzeichnet, keine als neutrale Tatsache.]]></description>
+    </item>
+
+    <item>
       <title>Dänemark: Frederiksen sichert dritte Amtszeit – Mitte-Links-Koalition nach Rekord-Verhandlungen</title>
       <link>https://www.france24.com/en/europe/20260601-pm-frederiksen-secures-third-term-with-new-danish-coalition-government</link>
       <guid isPermaLink="false">wn-2026-06-02-daenemark-frederiksen</guid>
@@ -356,6 +432,17 @@
 
     <!-- ════════ WIRTSCHAFT & FINANZEN (GLOBAL) ════════ -->
     <item>
+      <title>Alphabet sammelt 80 Mrd. $ über Aktien für KI-Infrastruktur ein – Berkshire steigt mit 10 Mrd. ein</title>
+      <link>https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx</link>
+      <guid isPermaLink="false">wn-2026-06-03-alphabet-kapital</guid>
+      <category>Wirtschaft</category>
+      <category>Tech</category>
+      <category>Finanzen</category>
+      <pubDate>Tue, 02 Jun 2026 21:00:00 +0200</pubDate>
+      <description><![CDATA[Alphabet (Google) kündigte am 1. Juni eine Eigenkapital-Beschaffung von zunächst 80 Mrd. Dollar an, um seine KI-Recheninfrastruktur auszubauen – bei der Preisfestsetzung am 2. Juni auf 84,75 Mrd. Dollar aufgestockt. Das Paket umfasst u. a. rund 30 Mrd. $ aus öffentlichen Platzierungen (teils Wandelanleihen), ein 40-Mrd.-$-„At-the-Market"-Programm sowie eine Privatplatzierung von 10 Mrd. $ an Berkshire Hathaway. Begründung: eine „beispiellose" Nachfrage nach KI-Rechenleistung.<br/><br/><strong>Auswirkung:</strong> Dass selbst ein hochprofitabler Konzern wie Alphabet erstmals in dieser Größenordnung frisches Eigenkapital für KI-Investitionen aufnimmt, zeigt die enorme Kapitalintensität des KI-Booms. Für europäische Anleger und Pensionsfonds sind die Titel attraktiv, doch das Klumpenrisiko weniger Tech-Werte steigt – eine Bewertungskorrektur träfe die global vernetzten Märkte auch in Europa.<br/><br/><strong>Bias-Hinweis:</strong> Die Zahlen stammen aus Alphabets eigener Mitteilung bzw. übereinstimmender Finanzberichterstattung (Bloomberg, SEC-Unterlagen). „Beispiellose Nachfrage" ist Unternehmenskommunikation und als solche gekennzeichnet; die langfristige Rendite dieser Investitionen ist nicht gesichert.]]></description>
+    </item>
+
+    <item>
       <title>Wall Street auf Rekordhoch – S&amp;P 500 erstmals über 7.600, Ölpreis gibt wieder nach</title>
       <link>https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-02-2026</link>
       <guid isPermaLink="false">wn-2026-06-02-wallstreet-rekord</guid>
@@ -408,6 +495,28 @@
     </item>
 
     <!-- ════════ IT & TECH ════════ -->
+    <item>
+      <title>Trump-Dekret zu „Frontier"-KI: bis zu 30 Tage Vorabprüfung durch die US-Regierung</title>
+      <link>https://www.npr.org/2026/06/02/nx-s1-5844347/ai-safety-trump-executive-order</link>
+      <guid isPermaLink="false">wn-2026-06-03-trump-ki-dekret</guid>
+      <category>Tech</category>
+      <category>KI</category>
+      <category>Politik</category>
+      <pubDate>Tue, 02 Jun 2026 19:00:00 +0200</pubDate>
+      <description><![CDATA[Präsident Trump unterzeichnete am 2. Juni ein Dekret („Promoting Advanced Artificial Intelligence Innovation and Security"), das KI-Unternehmen bittet, der Regierung besonders leistungsfähige „Frontier"-Modelle bis zu 30 Tage vor der Veröffentlichung freiwillig für eine Cybersicherheitsprüfung zugänglich zu machen. Die Frist wurde gegenüber einem früheren Entwurf (90 Tage) verkürzt – nach Einwänden der Industrie. Kritiker bemängeln, das Dekret schaffe eine Regierungsrolle bei der Frage, wer früh Zugang zu Modellen erhält („trusted partners"), ohne klare Auswahlkriterien, und warnen vor möglichem Missbrauch zu politischen Zwecken.<br/><br/><strong>Auswirkung:</strong> Auch wenn formal „freiwillig", markiert das Dekret den bislang stärksten Eingriff der US-Regierung in die KI-Branche und eine Abkehr vom bisherigen Laissez-faire. Für die EU und Deutschland ist es ein wichtiger Referenzpunkt in der eigenen KI-Governance-Debatte (AI Act, Tech-Souveränität) und für die Frage, nach welchen Regeln US-Modelle international ausgeliefert werden.<br/><br/><strong>Bias-Hinweis:</strong> Der Begriff „freiwillig" stammt aus dem Dekret selbst; ob die Teilnahme praktisch freiwillig bleibt, ist umstritten und wird von Fachleuten bezweifelt – hier als offene Frage, nicht als gesichert, dargestellt. Die genannten Kritikpunkte sind als Einschätzungen von Policy-Experten gekennzeichnet.]]></description>
+    </item>
+
+    <item>
+      <title>Nvidia „Vera": erste CPU speziell für KI-Agenten geht in Serienproduktion</title>
+      <link>https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai</link>
+      <guid isPermaLink="false">wn-2026-06-03-nvidia-vera</guid>
+      <category>Tech</category>
+      <category>Hardware</category>
+      <category>KI</category>
+      <pubDate>Mon, 01 Jun 2026 14:00:00 +0200</pubDate>
+      <description><![CDATA[Nvidia stellte auf der GTC Taipei (Computex 2026) die „Vera"-CPU vor – nach eigenen Angaben der erste speziell für agentische KI und Reinforcement Learning gebaute Prozessor. Vera setzt auf eine eigene 88-Kern-Arm-Architektur (Codename „Olympus") und soll laut Hersteller rund 1,8-mal schneller als klassische x86-CPUs bei KI-Datenpipelines und Token-Generierung sein. Der Chip ist Teil der „Vera Rubin"-Plattform, die für eine Auslieferung im Herbst in die Serienproduktion geht. Als frühe Abnehmer nennt Nvidia u. a. Anthropic, OpenAI und SpaceXAI sowie Cloud-Anbieter wie Oracle, Alibaba, Meta und Microsoft.<br/><br/><strong>Auswirkung:</strong> Vera unterstreicht den Trend zu Hardware, die nicht mehr für menschliche Nutzer, sondern für autonom agierende KI-„Agenten" optimiert ist. Für europäische Rechenzentren und KI-Firmen bedeutet das mehr Leistung – verstärkt aber zugleich die Abhängigkeit von US-Chip-Architekturen und befeuert die EU-Souveränitätsdebatte (Chips Act 2.0).<br/><br/><strong>Bias-Hinweis:</strong> Leistungsangaben (1,8-fach, Effizienz) und die Liste der Abnehmer stammen aus Nvidias Keynote bzw. Pressemitteilung (Herstellermarketing) und sind unabhängig noch nicht verifiziert. „Erster Prozessor für agentische KI" ist eine Eigenbezeichnung Nvidias.]]></description>
+    </item>
+
     <item>
       <title>Malaysia verbietet Social Media für unter 16-Jährige – Testfeld für die EU-Debatte</title>
       <link>https://www.nbcnews.com/world/asia/malaysia-enforces-ban-social-media-accounts-children-younger-16-rcna347823</link>
