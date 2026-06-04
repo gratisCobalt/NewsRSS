@@ -6,11 +6,33 @@
     <atom:link href="https://example.com/wochennachrichten/feed.xml" rel="self" type="application/rss+xml" />
     <description>Wöchentliche Zusammenfassung der wichtigsten Nachrichten aus aller Welt mit Schwerpunkt Europa und Deutschland – Politik, Wirtschaft &amp; Finanzen, IT/Tech. Inklusive Einordnung der Auswirkungen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 03 Jun 2026 12:00:00 +0200</lastBuildDate>
-    <pubDate>Wed, 03 Jun 2026 12:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 04 Jun 2026 18:00:00 +0200</lastBuildDate>
+    <pubDate>Thu, 04 Jun 2026 18:00:00 +0200</pubDate>
     <generator>Claude Code</generator>
 
     <!-- ════════ WELT ════════ -->
+    <item>
+      <title>Nordkorea zeigt neue Urananreicherungsanlage – Kim kündigt „exponentiellen" Ausbau des Atomwaffenarsenals an</title>
+      <link>https://www.npr.org/2026/06/04/g-s1-126041/north-korea-unveils-a-new-plant-to-produce-fuel-for-nuclear-weapons</link>
+      <guid isPermaLink="false">wn-2026-06-04-nordkorea-uran</guid>
+      <category>Welt</category>
+      <category>Asien</category>
+      <category>Sicherheit</category>
+      <pubDate>Thu, 04 Jun 2026 09:00:00 +0200</pubDate>
+      <description><![CDATA[Nordkorea hat eine neue Anlage zur Produktion von Kernwaffen-Spaltmaterial präsentiert. Staatsmedien (KCNA) berichteten, Machthaber Kim Jong Un habe die Einrichtung am 3. Juni besucht und angekündigt, die nuklearen Streitkräfte des Landes „in exponentiellem Tempo" auszubauen. KCNA sprach von „fortschrittlicherer Technologie", nannte aber weder den Standort noch weitere Details; veröffentlichte Fotos zeigten Kim in einer mutmaßlichen Zentrifugenhalle mit dichten Reihen silberner Rohre. Südkoreas Generalstab bewertete die Anlage als Urananreicherungswerk und koordiniere sich eng mit den USA. Es ist das dritte Mal (nach 2010 in Yongbyon und 2024 in Kangson), dass Pjöngjang eine Anreicherungsanlage öffentlich zeigt; die Carnegie-Stiftung vermutet, es handele sich um die seit 2025 von der IAEA beobachtete Zusatzanlage in Yongbyon.<br/><br/><strong>Auswirkung:</strong> Die offene Zurschaustellung signalisiert, dass Nordkorea sein Spaltmaterial-Inventar weiter ausweitet – ein Rückschlag für jede Aussicht auf Denuklearisierung und ein zusätzlicher Sicherheitsfaktor für Europa, da nordkoreanische Technologie- und Truppenkooperation mit Russland im Ukraine-Krieg eine Rolle spielt. Für die NATO und Deutschland verschärft sich das Bild paralleler nuklearer Aufrüstung.<br/><br/><strong>Bias-Hinweis:</strong> Die Existenz und der Zweck der Anlage beruhen auf nordkoreanischen Staatsmedien (KCNA) als Quelle eigener Stärke-Inszenierung; eine unabhängige Verifikation von Standort und Kapazität gibt es nicht. Die Einordnung als „Urananreicherungswerk" stammt vom südkoreanischen Generalstab und von Fachinstituten und ist als Experteneinschätzung, nicht als gesicherte Tatsache, gekennzeichnet.]]></description>
+    </item>
+
+    <item>
+      <title>USA verkünden Waffenruhe zwischen Israel und Libanon – Hisbollah weist die Vereinbarung zurück</title>
+      <link>https://www.washingtonpost.com/world/2026/06/04/israel-lebanon-renew-ceasefire-deal-without-hezbollah/</link>
+      <guid isPermaLink="false">wn-2026-06-04-libanon-waffenruhe</guid>
+      <category>Welt</category>
+      <category>Naher Osten</category>
+      <category>Diplomatie</category>
+      <pubDate>Thu, 04 Jun 2026 11:00:00 +0200</pubDate>
+      <description><![CDATA[Das US-Außenministerium teilte am 4. Juni mit, Israel und Libanon hätten sich nach dem vierten hochrangigen trilateralen Treffen (2./3. Juni) auf die Umsetzung einer Waffenruhe geeinigt. Die Vereinbarung ist an eine vollständige Einstellung des Hisbollah-Feuers und den Abzug aller Hisbollah-Kämpfer aus dem Sektor südlich des Litani geknüpft; in „Pilotzonen" soll allein die libanesische Armee die Kontrolle übernehmen. Politische und sicherheitspolitische Gespräche sollen in der Woche ab 22. Juni fortgesetzt werden. Die Hisbollah wies das Abkommen umgehend zurück – ihr Anführer erklärte, man habe „niemandem irgendeine Zusage gegeben".<br/><br/><strong>Auswirkung:</strong> Eine belastbare Waffenruhe würde die seit März eskalierte Südfront entschärfen und – über die Verbindung zum Iran-Konflikt und zur Straße von Hormus – die Risikoprämie auf Öl senken, was Europa und Deutschland beim Inflationsdruck entlasten würde. Die sofortige Ablehnung durch die Hisbollah, die das Feuer am Boden führt, lässt jedoch offen, ob die Vereinbarung in der Praxis hält.<br/><br/><strong>Bias-Hinweis:</strong> Inhalt und Bedingungen der Waffenruhe beruhen auf einer gemeinsamen Erklärung von USA, Israel und Libanon, also auf den Verhandlungsparteien selbst; die Ablehnung stammt von der Hisbollah. Beide Darstellungen sind den jeweiligen Akteuren zugeordnet. Ob eine Waffenruhe ohne Zustimmung der kämpfenden Partei umsetzbar ist, ist der offene Kernpunkt und hier nicht als gesichert dargestellt.]]></description>
+    </item>
+
     <item>
       <title>Iran greift Kuwaits Hauptflughafen an – ein Toter, Dutzende Verletzte; Trump nennt Waffenruhe intakt</title>
       <link>https://www.pbs.org/newshour/world/iran-strikes-kuwaits-main-airport-and-kills-1-as-ceasefire-is-tested-again</link>
@@ -174,6 +196,17 @@
     </item>
 
     <!-- ════════ DEUTSCHLAND ════════ -->
+    <item>
+      <title>Deutschland verfehlt erstmals einen Sitz im UN-Sicherheitsrat – 104 von 127 nötigen Stimmen</title>
+      <link>https://www.euronews.com/my-europe/2026/06/04/un-security-council-defeat-raises-questions-about-germanys-global-standing</link>
+      <guid isPermaLink="false">wn-2026-06-04-unsc-deutschland</guid>
+      <category>Deutschland</category>
+      <category>Außenpolitik</category>
+      <category>Welt</category>
+      <pubDate>Thu, 04 Jun 2026 16:00:00 +0200</pubDate>
+      <description><![CDATA[Deutschland ist bei der Wahl zu den nichtständigen Sitzen im UN-Sicherheitsrat erstmals seit seinem UN-Beitritt 1973 gescheitert. Für die zwei Plätze der Gruppe „Westeuropa und andere Staaten" erhielt Deutschland 104 Stimmen – nötig waren 127 (Zweidrittelmehrheit der Generalversammlung). Portugal (134) und Österreich (131) setzten sich durch. Außenminister Johann Wadephul führte die Niederlage auf mehrere Faktoren zurück: russische Lobbyarbeit gegen die deutsche Kandidatur wegen Berlins Ukraine-Unterstützung, die deutsche Israel-Unterstützung sowie den späten Einstieg ins Rennen (Österreich bewarb sich seit 2011, Portugal seit 2013, Deutschland erst seit 2020).<br/><br/><strong>Auswirkung:</strong> Der Misserfolg ist vor allem ein diplomatischer Prestigeverlust und befeuert die Debatte über Deutschlands internationales Gewicht und seine Nahost-Linie. Konkrete Folgen für die Bundesregierung sind begrenzt, doch fehlt Berlin nun bis auf Weiteres die Bühne des wichtigsten UN-Gremiums – ein Nachteil bei der Gestaltung von Sanktions- und Sicherheitsfragen, die auch Europa betreffen.<br/><br/><strong>Bias-Hinweis:</strong> Das Abstimmungsergebnis (104 zu nötigen 127) ist eine protokollierte Tatsache. Die genannten Gründe – russischer Einfluss und Israel-Unterstützung – sind die Deutung des deutschen Außenministers; sie sind plausibel, aber als geheime Wahl nicht direkt belegbar und hier ausdrücklich als seine Lesart, nicht als gesicherte Ursache, gekennzeichnet.]]></description>
+    </item>
+
     <item>
       <title>Uber, Autobrains und Nvidia starten Robotaxi-Programm in München</title>
       <link>https://investor.uber.com/news-events/news/press-release-details/2026/Autobrains-and-Uber-to-Launch-Agentic-AI-Robotaxi-Program-in-Munich-built-on-NVIDIA-DRIVE-Hyperion-2026-yMEt3xDSDA/default.aspx</link>
@@ -431,6 +464,17 @@
     </item>
 
     <!-- ════════ WIRTSCHAFT & FINANZEN (GLOBAL) ════════ -->
+    <item>
+      <title>Ölpreis gibt nach – Brent fällt auf rund 98 Dollar nach Hoffnung auf Libanon-Waffenruhe</title>
+      <link>https://fortune.com/article/price-of-oil-06-04-2026/</link>
+      <guid isPermaLink="false">wn-2026-06-04-oelpreis</guid>
+      <category>Wirtschaft</category>
+      <category>Finanzen</category>
+      <category>Energie</category>
+      <pubDate>Thu, 04 Jun 2026 15:30:00 +0200</pubDate>
+      <description><![CDATA[Der Ölpreis ist am 4. Juni gefallen: Die Sorte Brent notierte am Vormittag (US-Ostküstenzeit) bei rund 97,95 Dollar je Barrel – etwa 3,41 Dollar unter dem Vortagsmorgen, aber noch rund 32,50 Dollar über dem Niveau vor einem Jahr. Brent rutschte nach drei Gewinnsitzungen unter die Marke von 97 Dollar, gestützt auf die Aussicht auf eine US-vermittelte Waffenruhe zwischen Israel und Libanon. Der Verkehr durch die Straße von Hormus – Route für rund ein Fünftel des globalen Öl- und LNG-Handels – hat laut Berichten zuletzt wieder zugenommen, bleibt aber unter dem Vorkriegsniveau. Die US-Rohölvorräte sanken die sechste Woche in Folge; Analysten erwarten für die nächsten Monate eine Spanne von 90–100 Dollar.<br/><br/><strong>Auswirkung:</strong> Ein nachgebender Ölpreis dämpft den importierten Inflationsdruck in der Eurozone – relevant vor der EZB-Sitzung am 11. Juni, für die die Märkte eine Zinserhöhung einpreisen. Für Deutschland als energieintensiven Industriestandort ist jede Entspannung an den Energiemärkten unmittelbar entlastend; ein Niveau dauerhaft über 90 Dollar hält den Druck auf Verbraucher und Industrie jedoch hoch.<br/><br/><strong>Bias-Hinweis:</strong> Die Preisangaben sind Marktdaten (Stichzeitpunkt 4. Juni) und damit eine harte, aber zeitpunktabhängige Momentaufnahme. Die Begründung „wegen Hoffnung auf eine Waffenruhe" ist eine gängige Marktinterpretation von Analysten – die tatsächlichen Treiber von Tagesbewegungen sind nie eindeutig zuzuordnen und hier als Deutung, nicht als belegte Ursache, dargestellt.]]></description>
+    </item>
+
     <item>
       <title>Alphabet sammelt 80 Mrd. $ über Aktien für KI-Infrastruktur ein – Berkshire steigt mit 10 Mrd. ein</title>
       <link>https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx</link>
