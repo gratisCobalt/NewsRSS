@@ -6,11 +6,33 @@
     <atom:link href="https://example.com/wochennachrichten/feed.xml" rel="self" type="application/rss+xml" />
     <description>Wöchentliche Zusammenfassung der wichtigsten Nachrichten aus aller Welt mit Schwerpunkt Europa und Deutschland – Politik, Wirtschaft &amp; Finanzen, IT/Tech. Inklusive Einordnung der Auswirkungen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 05 Jun 2026 18:00:00 +0200</lastBuildDate>
-    <pubDate>Fri, 05 Jun 2026 18:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 06 Jun 2026 12:00:00 +0200</lastBuildDate>
+    <pubDate>Sat, 06 Jun 2026 12:00:00 +0200</pubDate>
     <generator>Claude Code</generator>
 
     <!-- ════════ WELT ════════ -->
+    <item>
+      <title>Putin lehnt Treffen mit Selenskyj ab – „kein Sinn" beim Wirtschaftsforum in St. Petersburg</title>
+      <link>https://www.aljazeera.com/news/2026/6/5/russias-putin-says-no-point-meeting-ukraines-zelenskyy-for-now</link>
+      <guid isPermaLink="false">wn-2026-06-05-putin-selenskyj</guid>
+      <category>Welt</category>
+      <category>Ukraine</category>
+      <category>Diplomatie</category>
+      <pubDate>Fri, 05 Jun 2026 17:00:00 +0200</pubDate>
+      <description><![CDATA[Beim Petersburger Internationalen Wirtschaftsforum erteilte Kremlchef Wladimir Putin am 5. Juni einem persönlichen Treffen mit dem ukrainischen Präsidenten Wolodymyr Selenskyj vorerst eine Absage. Auf die Frage nach einem Gipfel sagte Putin, er sehe „derzeit keinen Sinn" darin; sinnvoll werde ein Treffen erst, „wenn die ukrainische Seite den Vormarsch unserer Streitkräfte stoppt". Einen tags zuvor veröffentlichten offenen Brief Selenskyjs mit der Bitte um direkte Gespräche bezeichnete Putin als unhöflich. Selenskyj erklärte daraufhin am Freitag, die Zurückweisung zeige, dass der Kreml den Krieg nicht beenden wolle. Die Gespräche über ein Kriegsende stocken im inzwischen fünften Kriegsjahr vor allem an Russlands Forderung, die besetzten Gebiete zu behalten – was Kiew ablehnt. (Anschluss an die St.-Petersburg-Meldung vom 3. Juni.)<br/><br/><strong>Auswirkung:</strong> Die Absage dämpft die ohnehin geringe Hoffnung auf eine baldige diplomatische Lösung. Für Europa und Deutschland bedeutet sie eine Fortdauer des Krieges mit anhaltendem Druck auf Verteidigungsausgaben, Energiepreise und die Aufnahme von Geflüchteten – und untermauert die Linie, die Ukraine militärisch und finanziell weiter zu stützen.<br/><br/><strong>Bias-Hinweis:</strong> Putins Wortlaut und seine Wertung des Briefs als „unhöflich" sind seine Darstellung; Selenskyjs Deutung, der Kreml wolle den Krieg nicht beenden, ist dessen politische Lesart. Beide Positionen sind den jeweiligen Akteuren zugeordnet und nicht als neutrale Tatsache wiedergegeben. Die Bedingung „erst Vormarsch stoppen" ist Putins Verhandlungsposition, kein gesicherter Sachverhalt über die tatsächliche Lage an der Front.]]></description>
+    </item>
+
+    <item>
+      <title>Ebola-Ausbruch in Zentralafrika: über 470 Fälle, 84 Tote – rund 100 Neuinfektionen binnen 24 Stunden</title>
+      <link>https://www.euronews.com/2026/06/06/ebola-cases-surge-over-400-as-fears-grow-over-central-africa-outbreak</link>
+      <guid isPermaLink="false">wn-2026-06-06-ebola-zentralafrika</guid>
+      <category>Welt</category>
+      <category>Gesundheit</category>
+      <category>Afrika</category>
+      <pubDate>Sat, 06 Jun 2026 10:00:00 +0200</pubDate>
+      <description><![CDATA[Der seit dem 15. Mai laufende Ebola-Ausbruch im Nordosten der Demokratischen Republik Kongo weitet sich rasch aus. Die WHO meldete am 6. Juni 452 bestätigte Fälle und 82 Todesfälle in der DR Kongo; im benachbarten Uganda kommen 19 Fälle und zwei Tote hinzu – zusammen 471 Fälle und 84 Tote, ein Anstieg von rund 100 Fällen und 20 Toten innerhalb von 24 Stunden. Verursacher ist der seltene Bundibugyo-Stamm, für den es bislang weder zugelassene Impfstoffe noch zugelassene Therapien gibt. Die WHO hatte den Ausbruch bereits zur „gesundheitlichen Notlage von internationaler Tragweite" (PHEIC) erklärt; WHO und Africa CDC legten einen Reaktionsplan über 518 Mio. US-Dollar (rund 450 Mio. €) für Überwachung, Labortests und Infektionsschutz auf.<br/><br/><strong>Auswirkung:</strong> Die schnelle Ausbreitung ohne verfügbaren Impfstoff erhöht das regionale und – über Reiseverbindungen – globale Gesundheitsrisiko. Für Europa und Deutschland geht es vorerst um Vorsorge (Einreise-Screening, Diagnostik-Bereitschaft) und Beiträge zur internationalen Eindämmung; ein direktes Infektionsrisiko hierzulande gilt als gering, hängt aber vom Erfolg der Eindämmung vor Ort ab.<br/><br/><strong>Bias-Hinweis:</strong> Die Fall- und Totenzahlen stammen von der WHO und sind vorläufig; bei dynamischen Ausbrüchen werden Angaben laufend nach oben korrigiert und können je nach Quelle abweichen (Schlagzeilen sprechen von „über 400", die WHO-Detailzahl von rund 471, andere Meldungen von „fast 500"). Die Aussage, es gebe keinen zugelassenen Impfstoff gegen den Bundibugyo-Stamm, ist fachlich belegt.]]></description>
+    </item>
+
     <item>
       <title>Iran-Atomstreit: IAEA-Chef Grossi sieht „vorläufigen" Rahmen – Kasachstan bietet Lagerung von Irans hochangereichertem Uran an</title>
       <link>https://abc7news.com/live-updates/iran-war-peace-talks-oil-prices-lebanon-strait-of-hormuz/19212967/</link>
@@ -520,6 +542,18 @@
 
     <!-- ════════ WIRTSCHAFT & FINANZEN (GLOBAL) ════════ -->
     <item>
+      <title>DAX gibt nach – KI-Rally kühlt nach enttäuschenden Broadcom-Zahlen ab; Infineon verliert über 5 %</title>
+      <link>https://tradingeconomics.com/germany/stock-market</link>
+      <guid isPermaLink="false">wn-2026-06-05-dax-ki-abkuehlung</guid>
+      <category>Wirtschaft</category>
+      <category>Finanzen</category>
+      <category>Börse</category>
+      <category>Tech</category>
+      <pubDate>Fri, 05 Jun 2026 18:30:00 +0200</pubDate>
+      <description><![CDATA[Der DAX 40 schloss am 5. Juni leicht im Minus bei rund 24.845 Punkten und gab damit die Gewinne des Vortags wieder ab. Auslöser war eine abkühlende Begeisterung für Künstliche Intelligenz, nachdem ein enttäuschender Quartalsbericht des US-Chipkonzerns Broadcom die Tech-Werte belastet hatte; zusätzlich drückten die anhaltenden Nahost-Spannungen und die stockenden US-iranischen Verhandlungen auf die Stimmung. Im Technologiesektor stand Infineon mit einem Minus von über 5 % besonders unter Druck, auch die Schwergewichte Siemens (−0,9 %) und Siemens Energy (−0,6 %) gaben nach. Im Hintergrund: Die deutsche Inflation lag im Mai bei rund 2,6 %, die EZB tagt am 11. Juni.<br/><br/><strong>Auswirkung:</strong> Der Rückgang zeigt, wie stark der deutsche Leitindex am globalen KI- und Halbleiterzyklus hängt – schon die Zahlen eines einzelnen US-Chipkonzerns bewegen DAX-Schwergewichte wie Infineon. Für Anlegerinnen und Anleger in Deutschland signalisiert das erhöhte Schwankungsanfälligkeit; die nächsten Impulse dürften von der EZB-Sitzung am 11. Juni und vom Energiepreisrisiko aus dem Nahen Osten kommen. Es handelt sich um einen moderaten Rücksetzer, nicht um einen Einbruch.<br/><br/><strong>Bias-Hinweis:</strong> Indexstand und die Kursbewegungen der Einzelwerte sind Marktdaten. Die Begründung – „KI-Abkühlung wegen Broadcom" und Nahost – ist die Deutung aus Markt- und Analystenkommentaren; Tagesbewegungen an der Börse sind in der Regel mehrfach verursacht, und die hier genannten Gründe sind als berichtete Erklärung, nicht als gesicherte alleinige Ursache, wiedergegeben.]]></description>
+    </item>
+
+    <item>
       <title>Ölpreis gibt nach – Brent fällt auf rund 98 Dollar nach Hoffnung auf Libanon-Waffenruhe</title>
       <link>https://fortune.com/article/price-of-oil-06-04-2026/</link>
       <guid isPermaLink="false">wn-2026-06-04-oelpreis</guid>
@@ -594,6 +628,17 @@
     </item>
 
     <!-- ════════ IT & TECH ════════ -->
+    <item>
+      <title>NASA X-59 durchbricht erstmals die Schallmauer – leiser „Thump" statt Überschallknall</title>
+      <link>https://www.space.com/technology/aerospace/going-supersonic-nasas-x-59-jet-breaks-sound-barrier-for-the-1st-time</link>
+      <guid isPermaLink="false">wn-2026-06-05-nasa-x59</guid>
+      <category>Tech</category>
+      <category>Luftfahrt</category>
+      <category>Forschung</category>
+      <pubDate>Fri, 05 Jun 2026 21:00:00 +0200</pubDate>
+      <description><![CDATA[Das experimentelle Überschallflugzeug X-59 der NASA hat am 5. Juni zum ersten Mal die Schallmauer durchbrochen. Mit Testpilot Jim „Clue" Less an Bord startete die in Zusammenarbeit mit Lockheed Martin gebaute Maschine um 14:08 Uhr Ortszeit (EDT) und landete 81 Minuten später; sie erreichte eine maximale Höhe von rund 43.400 Fuß und eine Höchstgeschwindigkeit von etwa 713 mph – ungefähr Mach 1,1. Das Flugzeug ist das Herzstück des Quesst-Programms („Quiet Supersonic Technology") und soll den lauten Überschallknall durch einen deutlich leiseren „Thump" ersetzen. In wenigen Tagen ist ein erster Flug unter „Missionsbedingungen" mit Mach 1,4 in rund 55.000 Fuß geplant.<br/><br/><strong>Auswirkung:</strong> Der Flug ist ein Meilenstein auf dem Weg, kommerziellen Überschallverkehr über bewohntem Gebiet wieder zu ermöglichen – seit dem Concorde-Zeitalter wegen des Knalls weitgehend untersagt. Sollte sich „leiser Überschall" bewähren und passen Aufsichtsbehörden (zunächst die US-FAA, perspektivisch die europäische EASA) ihre Regeln an, könnte dies den Langstreckenflug – auch für Europa und die europäische Luftfahrtindustrie – langfristig verändern.<br/><br/><strong>Bias-Hinweis:</strong> Die Leistungsdaten (Geschwindigkeit, Höhe, Flugzeiten) stammen von der NASA. Der versprochene Nutzen – ein leiser „Thump" und damit Überschallflug über Land – ist ein Programmziel bzw. eine Projektion und noch nicht im Routinebetrieb bewiesen oder von Behörden zugelassen; er ist hier als Zielsetzung, nicht als gesicherte Tatsache, dargestellt.]]></description>
+    </item>
+
     <item>
       <title>„Great American AI Act": US-Abgeordnete legen überparteilichen Entwurf vor – dreijähriger Vorrang vor Gesetzen der Bundesstaaten</title>
       <link>https://rollcall.com/2026/06/04/bipartisan-ai-draft-proposes-three-year-preemption-of-state-laws/</link>
