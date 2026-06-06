@@ -6,11 +6,44 @@
     <atom:link href="https://example.com/wochennachrichten/feed.xml" rel="self" type="application/rss+xml" />
     <description>Wöchentliche Zusammenfassung der wichtigsten Nachrichten aus aller Welt mit Schwerpunkt Europa und Deutschland – Politik, Wirtschaft &amp; Finanzen, IT/Tech. Inklusive Einordnung der Auswirkungen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 04 Jun 2026 18:00:00 +0200</lastBuildDate>
-    <pubDate>Thu, 04 Jun 2026 18:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 05 Jun 2026 18:00:00 +0200</lastBuildDate>
+    <pubDate>Fri, 05 Jun 2026 18:00:00 +0200</pubDate>
     <generator>Claude Code</generator>
 
     <!-- ════════ WELT ════════ -->
+    <item>
+      <title>Iran-Atomstreit: IAEA-Chef Grossi sieht „vorläufigen" Rahmen – Kasachstan bietet Lagerung von Irans hochangereichertem Uran an</title>
+      <link>https://abc7news.com/live-updates/iran-war-peace-talks-oil-prices-lebanon-strait-of-hormuz/19212967/</link>
+      <guid isPermaLink="false">wn-2026-06-05-iaea-grossi-iran</guid>
+      <category>Welt</category>
+      <category>Naher Osten</category>
+      <category>Atomprogramm</category>
+      <pubDate>Fri, 05 Jun 2026 13:00:00 +0200</pubDate>
+      <description><![CDATA[IAEA-Generaldirektor Rafael Grossi erklärte am 5. Juni, die Gespräche mit dem Iran bewegten sich möglicherweise auf einen „vorläufigen" nuklearen Rahmen zu – das Ergebnis sei aber offen. Parallel verhandeln Washington und Teheran über ein Memorandum of Understanding (MoU), das eine 60-tägige Verlängerung der Waffenruhe und weitere Atomgespräche vorsieht; Präsident Trump muss es noch billigen. Für Irans auf rund 60 % angereichertes Uran nannte Grossi mehrere technisch machbare Optionen – Ausfuhr, Verdünnung oder Verbleib unter IAEA-Kontrolle –, die jedoch politische Entscheidungen seien. Kasachstan habe Bereitschaft signalisiert, das hochangereicherte Material in seiner IAEA-gestützten Uranbank zu lagern. Haupthindernis für eine vollständige Wiederaufnahme der Verifikation sei der fehlende dauerhafte Inspektorenzugang.<br/><br/><strong>Auswirkung:</strong> Ein belastbarer Rahmen würde die seit Monaten schwelende Golf-Krise entschärfen und die Risikoprämie auf Öl senken – eine spürbare Entlastung für Europas und Deutschlands Energiepreise und Inflationsdruck. Eine externe Lagerung in Kasachstan könnte einen Verifikationsweg eröffnen, der für Teheran und Washington gleichermaßen akzeptabel ist. Bis zur Unterschrift unter das MoU bleibt dies alles jedoch unverbindlich.<br/><br/><strong>Bias-Hinweis:</strong> Die Einschätzung „vorläufiger Rahmen" stammt von der IAEA und ist als vorsichtige Lagebewertung, nicht als Durchbruch, gekennzeichnet; Grossi selbst nennt den Ausgang offen. US- und iranische Darstellungen zum Verhandlungsstand widersprechen sich weiterhin (vgl. Meldungen vom 1.–3. Juni). Das kasachische Angebot ist eine Absichtserklärung, kein abgeschlossenes Abkommen.]]></description>
+    </item>
+
+    <item>
+      <title>Libanon: Präsident Aoun nennt Waffenruhe-Entwurf „letzte Chance" – Hisbollah pocht auf israelischen Abzug, neue Luftangriffe</title>
+      <link>https://www.npr.org/2026/06/04/g-s1-125942/israel-lebanon-ceasefire</link>
+      <guid isPermaLink="false">wn-2026-06-04-aoun-letzte-chance</guid>
+      <category>Welt</category>
+      <category>Naher Osten</category>
+      <category>Diplomatie</category>
+      <pubDate>Thu, 04 Jun 2026 20:00:00 +0200</pubDate>
+      <description><![CDATA[Der libanesische Präsident Joseph Aoun bezeichnete am 4. Juni das in Washington ausgehandelte Abkommen zur Umsetzung einer Waffenruhe als „letzte Chance" für einen umfassenden Waffenstillstand; jede Partei trage Verantwortung, falls sie nicht positiv reagiere. Die vierte Verhandlungsrunde sieht „Pilotzonen" vor, in denen allein die libanesische Armee die Kontrolle übernimmt. Wenige Stunden nach der vorläufigen Einigung flog Israel jedoch neue Angriffe, und die Hisbollah wies jede Waffenruhe zurück, die nicht mit dem Abzug israelischer Truppen aus dem Südlibanon beginne; ein Hisbollah-Vertreter erklärte gegenüber NPR, man habe den Präsidenten bereits offiziell entsprechend informiert. (Fortführung der Libanon-Meldung vom 4. Juni.)<br/><br/><strong>Auswirkung:</strong> Eine haltende Waffenruhe würde die seit März eskalierte Südfront entschärfen und – über den Zusammenhang mit dem Iran-Konflikt – die Risikoprämie auf Öl dämpfen, was Europa beim Inflationsdruck entlasten würde. Die strikte Bedingung der Hisbollah (zuerst israelischer Abzug) und die neuen Angriffe lassen jedoch offen, ob die Vereinbarung praktisch trägt.<br/><br/><strong>Bias-Hinweis:</strong> Die Formulierung „letzte Chance" ist Aouns politische Wertung. Der Inhalt des Entwurfs beruht auf den Verhandlungsparteien, die Ablehnung auf der Hisbollah; beide Positionen sind den jeweiligen Akteuren zugeordnet. Ob eine Waffenruhe ohne Zustimmung der kämpfenden Partei umsetzbar ist, bleibt der offene Kernpunkt und ist nicht als gesichert dargestellt.]]></description>
+    </item>
+
+    <item>
+      <title>US-Senat beschließt 70-Mrd.-Dollar-Paket für Einwanderungsbehörden – knappe Mehrheit nach Nachtsitzung</title>
+      <link>https://www.npr.org/2026/06/05/nx-s1-5847589/senate-passes-immigration-enforcement-bill-without-limits-on-trump-settlement-fund</link>
+      <guid isPermaLink="false">wn-2026-06-05-senat-ice</guid>
+      <category>Welt</category>
+      <category>USA</category>
+      <category>Politik</category>
+      <pubDate>Fri, 05 Jun 2026 07:00:00 +0200</pubDate>
+      <description><![CDATA[Der US-Senat verabschiedete in den frühen Morgenstunden des 5. Juni mit 52 zu 47 Stimmen ein 70-Mrd.-Dollar-Gesetz zur Finanzierung der Einwanderungsbehörde ICE und der Grenzpolizei für drei Jahre – bis zum Ende von Trumps Amtszeit. Enthalten sind u. a. 38,6 Mrd. $ für ICE, 22,6 Mrd. $ für die Border Patrol und 5 Mrd. $ für das Heimatschutzministerium. Die Abstimmung folgte auf eine rund 19-stündige „Vote-a-rama" im filibuster-sicheren Reconciliation-Verfahren. Als einzige Republikanerin stimmte Lisa Murkowski mit den Demokraten dagegen. Umstritten blieb ein 1,8-Mrd.-$-„Anti-Weaponization"-Fonds, der trotz mehrerer Streichungsversuche im Gesetz blieb. Das Paket geht nun ins Repräsentantenhaus.<br/><br/><strong>Auswirkung:</strong> Das Paket sichert die Finanzierung des verschärften Migrationskurses der Trump-Regierung langfristig ab und macht ihn schwerer umkehrbar. Unmittelbare Folgen für Europa sind gering; mittelbar zeigt der knappe Ausgang samt parteiinternem Streit die fragile Mehrheitslage im Kongress.<br/><br/><strong>Bias-Hinweis:</strong> Abstimmungsergebnis (52:47), Summen und Murkowskis Gegenstimme sind protokollierte Tatsachen. Die Bezeichnung „Anti-Weaponization"-Fonds stammt aus der politischen Debatte; die Lesart, er diene der Entschädigung von Trump-Verbündeten, ist eine Deutung von Kritikern und hier als solche, nicht als gesicherte Tatsache, gekennzeichnet. Das Gesetz ist noch nicht in Kraft (Abstimmung im Repräsentantenhaus steht aus).]]></description>
+    </item>
+
     <item>
       <title>Nordkorea zeigt neue Urananreicherungsanlage – Kim kündigt „exponentiellen" Ausbau des Atomwaffenarsenals an</title>
       <link>https://www.npr.org/2026/06/04/g-s1-126041/north-korea-unveils-a-new-plant-to-produce-fuel-for-nuclear-weapons</link>
@@ -197,6 +230,17 @@
 
     <!-- ════════ DEUTSCHLAND ════════ -->
     <item>
+      <title>EU-Entgelttransparenzrichtlinie: Frist zur Umsetzung in Deutschland läuft am 7. Juni ab</title>
+      <link>https://www.newsworm.de/news/june-2026-in-germany-important-changes-you-need-to-know</link>
+      <guid isPermaLink="false">wn-2026-06-05-entgelttransparenz</guid>
+      <category>Deutschland</category>
+      <category>Wirtschaft</category>
+      <category>Arbeitsmarkt</category>
+      <pubDate>Fri, 05 Jun 2026 10:00:00 +0200</pubDate>
+      <description><![CDATA[Bis zum 7. Juni 2026 muss Deutschland die EU-Entgelttransparenzrichtlinie in nationales Recht umsetzen. Die Regeln sollen den geschlechtsspezifischen Lohnunterschied (Gender Pay Gap) verringern und Gehälter über Betriebe hinweg transparenter machen – unter anderem durch Auskunftsrechte von Beschäftigten zu Vergleichsgehältern und durch Berichtspflichten für Arbeitgeber.<br/><br/><strong>Auswirkung:</strong> Für Unternehmen bedeutet die Umsetzung zusätzlichen Dokumentations- und Berichtsaufwand; für Beschäftigte schafft sie mehr Klarheit über Vergütungsstrukturen und eine stärkere Verhandlungsposition. Da Deutschland bei der Transparenz von Gehältern bislang zurückhaltend war, ist der Schritt arbeitsrechtlich erheblich – die konkrete Wirkung hängt jedoch von der genauen Ausgestaltung des deutschen Umsetzungsgesetzes ab.<br/><br/><strong>Bias-Hinweis:</strong> Das Umsetzungsdatum (7. Juni 2026) und der Grundinhalt der Richtlinie sind durch EU-Recht festgelegte Tatsachen. Wie weitreichend die deutsche Umsetzung ausfällt und ob sie fristgerecht gelingt, ist zum Stichtag offen. Bewertungen von Kosten und Nutzen unterscheiden sich je nach Interessenlage (Arbeitgeberverbände vs. Gewerkschaften und Gleichstellungsverbände); solche Einschätzungen sind hier nicht als neutrale Tatsache wiedergegeben.]]></description>
+    </item>
+
+    <item>
       <title>Deutschland verfehlt erstmals einen Sitz im UN-Sicherheitsrat – 104 von 127 nötigen Stimmen</title>
       <link>https://www.euronews.com/my-europe/2026/06/04/un-security-council-defeat-raises-questions-about-germanys-global-standing</link>
       <guid isPermaLink="false">wn-2026-06-04-unsc-deutschland</guid>
@@ -325,6 +369,17 @@
     </item>
 
     <!-- ════════ EUROPA & EU ════════ -->
+    <item>
+      <title>EU-Westbalkan-Gipfel in Tivat: Merz, von der Leyen und Macron bekräftigen Erweiterungsperspektive – Montenegro als Vorreiter</title>
+      <link>https://www.consilium.europa.eu/en/meetings/international-summit/2026/06/05/</link>
+      <guid isPermaLink="false">wn-2026-06-05-eu-westbalkan-tivat</guid>
+      <category>Europa</category>
+      <category>EU</category>
+      <category>Erweiterung</category>
+      <pubDate>Fri, 05 Jun 2026 14:00:00 +0200</pubDate>
+      <description><![CDATA[Am 5. Juni trafen sich EU- und Westbalkan-Spitzen in Tivat (Montenegro) – das erste Treffen dieser Größenordnung in der Geschichte des Landes. Teilnehmer waren unter anderem EU-Ratspräsident António Costa, Kommissionspräsidentin Ursula von der Leyen, Parlamentspräsidentin Roberta Metsola und Außenbeauftragte Kaja Kallas sowie die Regierungschefs Friedrich Merz (Deutschland), Emmanuel Macron (Frankreich), Giorgia Meloni (Italien), Mette Frederiksen (Dänemark) und Pedro Sánchez (Spanien). Unter dem Motto „Gemeinsamer Wohlstand und Stabilität" standen Erweiterungsfortschritte, Sicherheits- und Verteidigungspartnerschaften, die Abwehr hybrider Bedrohungen und die wirtschaftliche Integration über den „Growth Plan" auf der Agenda. Erwartet wurde unter anderem ein Mandat für Verhandlungen über kostenloses Roaming zwischen der EU und der Region. Montenegro und Albanien gelten als Beitrittsvorreiter; in Brüssel kursiert für Montenegro 2028 als mögliche Zielmarke.<br/><br/><strong>Auswirkung:</strong> Für Deutschland und die EU ist der Gipfel ein Signal, die Erweiterung angesichts russischen und chinesischen Einflusses auf dem Balkan zu beschleunigen; Merz unterstreicht damit außenpolitisches Engagement in einer Phase innenpolitischer Schwäche. Konkrete Erleichterungen (etwa Roaming, Growth-Plan-Mittel) bringen den Kandidaten greifbare Vorteile; ein tatsächlicher EU-Beitritt bleibt jedoch an Reformfortschritte und die Einstimmigkeit der Mitgliedstaaten gebunden.<br/><br/><strong>Bias-Hinweis:</strong> Teilnehmerliste und Agenda sind belegt. Die Zielmarke „2028" für Montenegro ist eine in Brüssel diskutierte Erwartung, kein beschlossenes Beitrittsdatum, und hier als solche gekennzeichnet. Der genaue Wortlaut der Abschlusserklärung („Tivat-Erklärung") lag zum Zeitpunkt der Zusammenstellung noch nicht abschließend vor.]]></description>
+    </item>
+
     <item>
       <title>Ungarn hebt Veto gegen Ukraine-EU-Beitritt auf – Magyar-Deal zu Minderheitenrechten</title>
       <link>https://www.euronews.com/my-europe/2026/06/03/hungary-lifts-veto-on-ukraines-eu-accession-ending-two-year-deadlock</link>
@@ -539,6 +594,29 @@
     </item>
 
     <!-- ════════ IT & TECH ════════ -->
+    <item>
+      <title>„Great American AI Act": US-Abgeordnete legen überparteilichen Entwurf vor – dreijähriger Vorrang vor Gesetzen der Bundesstaaten</title>
+      <link>https://rollcall.com/2026/06/04/bipartisan-ai-draft-proposes-three-year-preemption-of-state-laws/</link>
+      <guid isPermaLink="false">wn-2026-06-04-great-american-ai-act</guid>
+      <category>Tech</category>
+      <category>KI</category>
+      <category>Regulierung</category>
+      <pubDate>Thu, 04 Jun 2026 22:00:00 +0200</pubDate>
+      <description><![CDATA[Die Abgeordneten Jay Obernolte (Republikaner) und Lori Trahan (Demokratin) stellten am 4. Juni einen 269-seitigen Diskussionsentwurf vor: den „Great American Artificial Intelligence Act of 2026". Kern ist ein dreijähriger Vorrang von Bundesrecht (Preemption) für die Entwicklung von KI gegenüber Gesetzen der Bundesstaaten – Staaten dürften zwar weiterhin die Nutzung von KI-Systemen in ihrem Gebiet regeln, nicht aber, wie diese Systeme gebaut werden. Große „Frontier"-Entwickler mit über 500 Mio. $ Jahresumsatz müssten Sicherheits-Frameworks veröffentlichen, kritische Vorfälle melden und sich halbjährlichen Audits durch Dritte unterziehen; das „Center for AI Standards and Innovation" des Handelsministeriums würde gesetzlich verankert. Der Entwurf folgt wenige Tage auf Trumps Dekret zur freiwilligen Vorabprüfung (siehe Meldung vom 2. Juni).<br/><br/><strong>Auswirkung:</strong> Sollte der Entwurf Gesetz werden, entstünde erstmals ein bundesweiter US-Rahmen für KI-Entwicklung – mit Pflichten für die größten Anbieter, aber ohne den Flickenteppich einzelstaatlicher Regeln. Für die EU ist das doppelt relevant: Ein US-Standard mit verbindlichen Audits könnte den transatlantischen Regulierungsabstand zum EU-AI-Act verringern; zugleich verschärft die Preemption-Debatte den Wettbewerb darum, KI-Regeln innovationsfreundlich zu halten.<br/><br/><strong>Bias-Hinweis:</strong> Es handelt sich ausdrücklich um einen Diskussionsentwurf, nicht um geltendes Recht; ob und in welcher Form er Mehrheiten findet, ist offen. Die Preemption-Klausel ist parteiintern (besonders bei Mit-Sponsorin Trahan) umstritten – diese Kontroverse ist benannt, eine Bewertung pro oder contra wird nicht vorgenommen.]]></description>
+    </item>
+
+    <item>
+      <title>„Choose France": 93 Mrd. Euro Investitionszusagen – SoftBank plant 5-GW-KI-Rechenzentren für bis zu 75 Mrd. Euro</title>
+      <link>https://www.euinsider.eu/news/softbank-france-ai-data-centers-75-billion-2026</link>
+      <guid isPermaLink="false">wn-2026-06-02-choose-france-softbank</guid>
+      <category>Tech</category>
+      <category>KI</category>
+      <category>Europa</category>
+      <category>Wirtschaft</category>
+      <pubDate>Tue, 02 Jun 2026 18:00:00 +0200</pubDate>
+      <description><![CDATA[Auf dem jährlichen „Choose France"-Gipfel (Schloss Versailles) sagten ausländische Unternehmen Investitionen von zusammen rund 93 Mrd. Euro zu – der Großteil entfällt auf KI- und Dateninfrastruktur. Kernstück ist eine Zusage der japanischen SoftBank Group, in Frankreich 5 GW KI-Rechenzentrumskapazität aufzubauen, mit einem Investitionsvolumen von bis zu 75 Mrd. Euro; eine erste Phase von 45 Mrd. Euro soll 3,1 GW in der Region Hauts-de-France liefern. Weitere Zusagen kamen unter anderem von Brookfield (bis 30 Mrd. Euro), MGX/Bpifrance (rund 7,5 Mrd. Euro) sowie Ardian/Verne (bis 5 Mrd. Euro). Frankreich wirbt mit Atomstrom, Industrieflächen und staatlicher Unterstützung für strategische Rechenkapazität.<br/><br/><strong>Auswirkung:</strong> Die Zusagen unterstreichen Europas Ambition digitaler Souveränität und Frankreichs Rolle als KI-Standort – mit Strahlkraft auch auf Deutschland, das im Wettbewerb um Rechenzentren und KI-Investitionen steht. Offen ist, wie viel der angekündigten Milliarden tatsächlich und wie schnell fließt und ob Stromnetze und Genehmigungen Schritt halten.<br/><br/><strong>Bias-Hinweis:</strong> Es handelt sich um Investitions-Ankündigungen auf einem von der französischen Regierung ausgerichteten Standort-Gipfel; die Zahlen sind Zusagen bzw. Absichtserklärungen, keine bereits getätigten Investitionen, und stammen teils von den investierenden Unternehmen selbst. Tatsächliche Umsetzung, Zeitrahmen und Nettoeffekt sind hier ausdrücklich nicht als gesichert dargestellt.]]></description>
+    </item>
+
     <item>
       <title>Trump-Dekret zu „Frontier"-KI: bis zu 30 Tage Vorabprüfung durch die US-Regierung</title>
       <link>https://www.npr.org/2026/06/02/nx-s1-5844347/ai-safety-trump-executive-order</link>
