@@ -6,11 +6,33 @@
     <atom:link href="https://example.com/wochennachrichten/feed.xml" rel="self" type="application/rss+xml" />
     <description>Wöchentliche Zusammenfassung der wichtigsten Nachrichten aus aller Welt mit Schwerpunkt Europa und Deutschland – Politik, Wirtschaft &amp; Finanzen, IT/Tech. Inklusive Einordnung der Auswirkungen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Sat, 06 Jun 2026 12:00:00 +0200</lastBuildDate>
-    <pubDate>Sat, 06 Jun 2026 12:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 07 Jun 2026 20:00:00 +0200</lastBuildDate>
+    <pubDate>Sun, 07 Jun 2026 20:00:00 +0200</pubDate>
     <generator>Claude Code</generator>
 
     <!-- ════════ WELT ════════ -->
+    <item>
+      <title>Iran feuert erstmals seit der Waffenruhe Raketen auf Israel – Eskalation nach israelischen Angriffen auf Beirut</title>
+      <link>https://www.cnbc.com/2026/06/07/iran-fires-missiles-israel-ceasefire-strains.html</link>
+      <guid isPermaLink="false">wn-2026-06-07-iran-raketen-israel</guid>
+      <category>Welt</category>
+      <category>Naher Osten</category>
+      <category>Eskalation</category>
+      <pubDate>Sun, 07 Jun 2026 18:00:00 +0200</pubDate>
+      <description><![CDATA[Israel teilte am Sonntag, 7. Juni, mit, der Iran habe Raketen auf israelisches Gebiet abgefeuert – die erste derartige Beschießung seit Inkrafttreten der brüchigen Waffenruhe Anfang April. Das iranische Staatsfernsehen bestätigte den Start; im Norden Israels waren mehrere Explosionen zu hören, Sirenen heulten in mehreren Landesteilen. Die israelischen Streitkräfte erklärten, an der Abwehr zu arbeiten, schränkten aber ein, der Schutz sei „nicht hermetisch". Auslöser war nach iranischer Darstellung ein israelischer Luftangriff auf die südlichen Vororte Beiruts früher am Sonntag, der ohne Vorwarnung und entgegen einer Bitte Washingtons erfolgte; Israel bezeichnete diesen wiederum als Vergeltung für Beschuss der vom Iran unterstützten Hisbollah auf Nordisrael am selben Tag. Vermittlungsbemühungen liefen parallel weiter: Pakistans Innenminister reiste nach Teheran, Ägypten und Katar berieten über „Elemente" eines möglichen Abkommens. (Fortführung der Libanon- und Iran-Meldungen vom 4.–5. Juni.)<br/><br/><strong>Auswirkung:</strong> Die erste Raketensalve seit der Waffenruhe gefährdet sowohl den Waffenstillstand als auch die laufenden US-iranischen Atomverhandlungen und droht den Krieg neu zu entfachen. Für Europa und Deutschland ist die unmittelbare Folge ein erneuter Aufschlag auf die Risikoprämie für Öl und Gas – mit Druck auf Energiepreise und Inflation (siehe Wirtschaftsteil) – sowie wachsende Unsicherheit über die Versorgungswege am Persischen Golf.<br/><br/><strong>Bias-Hinweis:</strong> Die wechselseitigen Schuldzuweisungen sind den jeweiligen Konfliktparteien zugeordnet: Israels Angabe zum Raketenbeschuss, der iranischen Begründung über den Beirut-Angriff und Israels Rechtfertigung als „Vergeltung" liegen jeweils nur Aussagen einer Seite zugrunde und sind nicht unabhängig verifiziert. Schadens- und Trefferangaben standen zur Meldungszeit noch aus; frühe Konfliktmeldungen werden erfahrungsgemäß nachträglich korrigiert.]]></description>
+    </item>
+
+    <item>
+      <title>Papst Leo XIV. feiert Fronleichnam in Madrid – rund 1,2 Mio. Menschen bei erster Spanien-Reise eines Papstes seit 15 Jahren</title>
+      <link>https://www.npr.org/2026/06/07/nx-s1-5849147/1-million-flood-madrid-streets-pope-procession</link>
+      <guid isPermaLink="false">wn-2026-06-07-papst-madrid</guid>
+      <category>Welt</category>
+      <category>Religion</category>
+      <category>Spanien</category>
+      <pubDate>Sun, 07 Jun 2026 16:00:00 +0200</pubDate>
+      <description><![CDATA[Papst Leo XIV. hat am Sonntag, 7. Juni, am zweiten Tag seiner siebentägigen Apostolischen Reise in Madrid das Hochfest Fronleichnam mit Messe, Prozession und eucharistischem Segen auf der Plaza de Cibeles begangen – die erste Spanien-Reise eines Papstes seit 15 Jahren. Nach Angaben der Organisatoren versammelten sich rund 1,2 Millionen Menschen; Zugänge mussten geschlossen werden, Tausende blieben draußen. Die rund 600 Meter lange Prozessionsroute entlang der Calle de Alcalá war mit 16 Blumenteppichen aus mehr als 30.000 Nelken geschmückt. In seiner Predigt rief der Papst das überwiegend säkulare Spanien auf, seinen jahrhundertealten Glauben nicht zu einem „Museum der Vergangenheit" werden zu lassen, sondern als „Schule des Glaubens" lebendig zu halten.<br/><br/><strong>Auswirkung:</strong> Der Massenzulauf unterstreicht die fortbestehende kulturelle und gesellschaftliche Bindekraft der katholischen Kirche in Südeuropa, auch in einem zunehmend säkularen Land. Für die EU ist die Reise vor allem ein gesellschaftspolitisches Signal; unmittelbare wirtschaftliche oder politische Folgen sind gering.<br/><br/><strong>Bias-Hinweis:</strong> Die Teilnehmerzahl von „1,2 Millionen" stammt von den Veranstaltern und ist nicht behördlich bestätigt – Schätzungen von Organisatoren fallen erfahrungsgemäß höher aus als unabhängige Zählungen. Die Bewertung der gesellschaftlichen Bedeutung ist eine Einordnung, kein gemessener Befund; der Wortlaut der Predigt ist als Zitat des Papstes gekennzeichnet.]]></description>
+    </item>
+
     <item>
       <title>Putin lehnt Treffen mit Selenskyj ab – „kein Sinn" beim Wirtschaftsforum in St. Petersburg</title>
       <link>https://www.aljazeera.com/news/2026/6/5/russias-putin-says-no-point-meeting-ukraines-zelenskyy-for-now</link>
@@ -252,6 +274,17 @@
 
     <!-- ════════ DEUTSCHLAND ════════ -->
     <item>
+      <title>Bundeswehr-Reserve: Pistorius-Entwurf soll „doppelte Freiwilligkeit" beenden – Arbeitgeber kritisieren Pflicht-Übungen</title>
+      <link>https://www.bundesregierung.de/breg-en/news/new-draft-military-service-law-2397962</link>
+      <guid isPermaLink="false">wn-2026-06-07-bundeswehr-reserve</guid>
+      <category>Deutschland</category>
+      <category>Verteidigung</category>
+      <category>Wirtschaft</category>
+      <pubDate>Sun, 07 Jun 2026 12:00:00 +0200</pubDate>
+      <description><![CDATA[Das Verteidigungsministerium von Boris Pistorius (SPD) bereitet ein „Gesetz zur Stärkung der Reserve" vor, das Anfang Juli ins Kabinett gehen soll. Es beendet die bisherige „doppelte Freiwilligkeit", nach der sowohl Reservistinnen und Reservisten als auch deren Arbeitgeber eine Teilnahme an Wehrübungen ablehnen konnten. Künftig sollen Arbeitgeber nur noch ein Anhörungsrecht haben und eine Zurückstellung beantragen können, aber kein Vetorecht mehr. Wer mindestens sechs Monate freiwilligen Wehrdienst geleistet hat, soll bis zum 45. Lebensjahr zu Reservedienst herangezogen werden können; bei mindestens einem Jahr als Berufs- oder Zeitsoldat reicht die Pflicht bis 65. Arbeitgeberpräsident Reiner Dulger (BDA) kritisierte gegenüber der FAZ, das bisherige Modell habe sich bewährt; Unternehmen bräuchten „Planbarkeit und Rechtssicherheit".<br/><br/><strong>Auswirkung:</strong> Der Schritt ist Teil des Aufwuchses der Bundeswehr und würde die Verfügbarkeit von Reservekräften erhöhen – zugleich verschiebt er Lasten auf Betriebe, die Beschäftigte für Übungen freistellen müssten. Für den ohnehin angespannten Arbeitsmarkt und den Fachkräftemangel ist das ein spürbarer Zielkonflikt zwischen Verteidigungsfähigkeit und Wirtschaftsinteressen.<br/><br/><strong>Bias-Hinweis:</strong> Der Gesetzentwurf ist noch nicht beschlossen; Details können sich im Kabinett und im parlamentarischen Verfahren ändern. Das Thema wird auffällig stark von russlandnahen Auslandsmedien (z. B. „news-pravda") in zugespitzter Form verbreitet, die Begriffe wie „Zwangseinberufung" verwenden – die hier wiedergegebenen Eckdaten stützen sich dagegen auf die Darstellung der Bundesregierung sowie auf das BDA-Zitat in der FAZ. Die Arbeitgeberkritik ist als Position der BDA gekennzeichnet.]]></description>
+    </item>
+
+    <item>
       <title>EU-Entgelttransparenzrichtlinie: Frist zur Umsetzung in Deutschland läuft am 7. Juni ab</title>
       <link>https://www.newsworm.de/news/june-2026-in-germany-important-changes-you-need-to-know</link>
       <guid isPermaLink="false">wn-2026-06-05-entgelttransparenz</guid>
@@ -391,6 +424,28 @@
     </item>
 
     <!-- ════════ EUROPA & EU ════════ -->
+    <item>
+      <title>Parlamentswahl in Armenien: Paschinjans „Zivilvertrag" laut frühen Teilergebnissen vorn – höchste Beteiligung seit über zehn Jahren</title>
+      <link>https://www.france24.com/en/armenia-s-parliamentary-election-a-vote-on-nation-s-geopolitical-future</link>
+      <guid isPermaLink="false">wn-2026-06-07-armenien-wahl</guid>
+      <category>Europa</category>
+      <category>Wahlen</category>
+      <category>Südkaukasus</category>
+      <pubDate>Sun, 07 Jun 2026 19:00:00 +0200</pubDate>
+      <description><![CDATA[In Armenien wurde am Sonntag, 7. Juni, das Parlament (9. Nationalversammlung) neu gewählt – eine Abstimmung, die vielfach als Richtungsentscheidung zwischen einer Annäherung an Europa und der traditionellen Bindung an Russland gedeutet wird. Nach frühen Teilergebnissen lag die Regierungspartei „Zivilvertrag" von Ministerpräsident Nikol Paschinjan mit rund 55 % vorn, gefolgt von „Starkes Armenien" (rund 22 %) und der „Armenien-Allianz" (rund 9 %). Die Wahlbeteiligung erreichte mit der höchsten Quote seit über einem Jahrzehnt einen auffälligen Wert. Am selben Tag fand auch in Kosovo eine Parlamentswahl statt. Endgültige Ergebnisse standen zur Meldungszeit noch aus.<br/><br/><strong>Auswirkung:</strong> Ein Sieg Paschinjans würde dessen vorsichtigen West- und Reformkurs sowie den Friedensprozess mit Aserbaidschan stützen – für die EU ein günstiges Signal im strategisch sensiblen Südkaukasus, einer Transitregion für Energie. Ein stärkeres Oppositionslager könnte dagegen den russischen Einfluss festigen. Konkrete Folgen hängen vom amtlichen Endergebnis und der Regierungsbildung ab.<br/><br/><strong>Bias-Hinweis:</strong> Die genannten Prozentwerte sind vorläufige Auszählungsstände aus einem Bruchteil der Wahllokale und nicht das amtliche Endergebnis; sie können sich deutlich verschieben. Die Rahmung als „geopolitische Richtungswahl" (Russland vs. Europa) ist eine verbreitete Deutung westlicher Medien und Analysten – sie vereinfacht ein innenpolitisch vielschichtiges Wahlgeschehen und ist als Interpretation, nicht als Tatsache zu lesen.]]></description>
+    </item>
+
+    <item>
+      <title>EVP-Chef Weber warnt vor Handelskrieg mit China – Ruf nach härterer EU-Linie vor dem Gipfel am 18. Juni</title>
+      <link>https://www.euronews.com/my-europe/2026/06/07/eu-must-act-before-china-cripples-european-industries-warns-epp-chief</link>
+      <guid isPermaLink="false">wn-2026-06-07-weber-china</guid>
+      <category>Europa</category>
+      <category>Handel</category>
+      <category>China</category>
+      <pubDate>Sun, 07 Jun 2026 11:00:00 +0200</pubDate>
+      <description><![CDATA[Manfred Weber, Vorsitzender der christdemokratischen EVP-Fraktion im Europaparlament, hat die EU am 7. Juni zu einer deutlich härteren Haltung gegenüber China aufgefordert: „Die Ära der Naivität ist vorbei." Vor dem EU-Gipfel am 18. Juni dringen mehrere Mitgliedstaaten unter Führung Frankreichs auf eine festere Linie und warnen, chinesische Überproduktion und Billigexporte unterböten eine ohnehin fragile europäische Wirtschaft. Weber bezifferte das Handelsdefizit auf „fast eine Milliarde Euro pro Tag" und nannte die bereits verhängten EU-Zölle auf chinesische Elektroautos als Beispiel für Instrumente, die Brüssel breiter und entschlossener einsetzen solle: „Entweder wir wehren uns, oder China legt Teile unserer Industrie lahm."<br/><br/><strong>Auswirkung:</strong> Härtere Handelsinstrumente könnten europäische – und gerade deutsche – Industrien wie Auto- und Maschinenbau kurzfristig schützen, bergen aber das Risiko chinesischer Gegenmaßnahmen, die exportabhängige Branchen treffen würden. Für Deutschland mit seiner starken China-Verflechtung ist die Linie besonders zweischneidig. Konkrete Beschlüsse hängen vom Gipfel am 18. Juni ab.<br/><br/><strong>Bias-Hinweis:</strong> Die Aussagen sind die politische Position Webers bzw. der EVP und einzelner Mitgliedstaaten; Formulierungen wie „Ära der Naivität" und „China legt unsere Industrie lahm" sind wertend und parteipolitisch gefärbt. Die Defizitzahl „fast eine Milliarde Euro pro Tag" ist Webers Angabe und nicht in dieser Meldung unabhängig geprüft. Eine chinesische Gegenposition ist hier nicht vertreten.]]></description>
+    </item>
+
     <item>
       <title>EU-Westbalkan-Gipfel in Tivat: Merz, von der Leyen und Macron bekräftigen Erweiterungsperspektive – Montenegro als Vorreiter</title>
       <link>https://www.consilium.europa.eu/en/meetings/international-summit/2026/06/05/</link>
@@ -542,6 +597,17 @@
 
     <!-- ════════ WIRTSCHAFT & FINANZEN (GLOBAL) ════════ -->
     <item>
+      <title>Energiepreis-Risiko zurück: Nahost-Eskalation droht Ölprämie neu anzuheizen – ECB-Forecaster heben Inflationserwartung für 2026 an</title>
+      <link>https://www.ecb.europa.eu/stats/ecb_surveys/survey_of_professional_forecasters/html/ecb.spf2026q2.en.html</link>
+      <guid isPermaLink="false">wn-2026-06-07-energie-inflation-ezb</guid>
+      <category>Wirtschaft</category>
+      <category>Energie</category>
+      <category>Geldpolitik</category>
+      <pubDate>Sun, 07 Jun 2026 14:00:00 +0200</pubDate>
+      <description><![CDATA[Die erneute Eskalation zwischen Iran und Israel am 7. Juni (siehe Weltteil) rückt das Energiepreis-Risiko für Europa wieder in den Vordergrund. Der seit dem Frühjahr laufende Nahost-Konflikt hatte die Ölpreise bereits stark steigen lassen und über zeitweise unterbrochene Lieferwege am Persischen Golf die Inflation angeheizt. Die Eurozonen-Teuerung war im April auf 3 % gestiegen, getrieben von einem Energiepreis-Anstieg von rund 11 %, während die Kernrate (ohne Energie) auf 2,2 % zurückging. Im ECB Survey of Professional Forecasters für das zweite Quartal 2026 hoben die Befragten ihre Inflationserwartung für 2026 spürbar an – von 2,1 % (2025) auf nun erwartete rund 2,7 %, mit Rückgang auf 2,1 % im Jahr 2027. Die EZB hatte ihre Leitzinsen im April unverändert gelassen; am Markt wird mit einer Anpassung im Juni gerechnet.<br/><br/><strong>Auswirkung:</strong> Eine neuerliche Ölpreisspitze würde Energie- und Spritkosten in Deutschland und der EU weiter belasten – zumal hierzulande zugleich die Steuererleichterung auf Kraftstoffe ausläuft. Das verengt den Spielraum der EZB: Höhere importierte Inflation spricht gegen Zinssenkungen, während die schwache Konjunktur (EZB-Wachstumsschätzung 2026 nur rund 0,9 %) eigentlich Entlastung bräuchte – ein klassischer geldpolitischer Zielkonflikt.<br/><br/><strong>Bias-Hinweis:</strong> Der Zusammenhang zwischen der Eskalation vom 7. Juni und konkreten Preisbewegungen ist zum Meldungszeitpunkt eine plausible Erwartung, kein gemessener Marktbefund – die Reaktion der Ölmärkte stand noch aus. Die Inflations- und Wachstumszahlen sind teils vorläufig bzw. Prognosen (Survey of Professional Forecasters, EZB-Stab) und keine feststehenden Ist-Werte; Prognosen sind mit Unsicherheit behaftet.]]></description>
+    </item>
+
+    <item>
       <title>DAX gibt nach – KI-Rally kühlt nach enttäuschenden Broadcom-Zahlen ab; Infineon verliert über 5 %</title>
       <link>https://tradingeconomics.com/germany/stock-market</link>
       <guid isPermaLink="false">wn-2026-06-05-dax-ki-abkuehlung</guid>
@@ -628,6 +694,17 @@
     </item>
 
     <!-- ════════ IT & TECH ════════ -->
+    <item>
+      <title>Frankreich testet eigenes KI-Gefechtssystem „Arcadia" bei NATO-Übung – europäische Alternative zu Palantirs „Maven"</title>
+      <link>https://www.euronews.com/my-europe/2026/06/07/nato-drills-france-to-test-ai-battlefield-tech-as-alternative-to-us-system</link>
+      <guid isPermaLink="false">wn-2026-06-07-arcadia-ki-nato</guid>
+      <category>Tech</category>
+      <category>KI</category>
+      <category>Verteidigung</category>
+      <pubDate>Sun, 07 Jun 2026 09:00:00 +0200</pubDate>
+      <description><![CDATA[Frankreich will sein KI-gestütztes Gefechtsführungssystem „Arcadia" bei der NATO-Interoperabilitätsübung „Coalition Warrior Interoperability Exercise" in Polen (8.–26. Juni) gemeinsam mit Verbündeten erproben. Arcadia gilt als europäische Antwort auf das von Palantir entwickelte „Maven Smart System" der USA; an der Entwicklung sind die französischen Firmen Mistral AI, Safran, Thales und Airbus beteiligt. Anders als das stärker zentralisierte Maven ist Arcadia laut General Patrick Justel dezentral aufgebaut und vernetzt Gefechtsstände über ein Mesh-Netz mit Servern im Feld. Frankreich hat das System bereits in den Übungen „Dacian Fall" (Rumänien) und „Orion 26" getestet und will es europäischen Partnern anbieten; mehrere Länder und auch die NATO zeigten Interesse.<br/><br/><strong>Auswirkung:</strong> Arcadia adressiert die in Europa wachsende Sorge um „digitale Souveränität": Eine europäische Alternative zu US-Software verringerte die Abhängigkeit von einem einzelnen außereuropäischen Anbieter bei sicherheitskritischer Militär-KI. Für die deutsche und europäische Rüstungs- und KI-Industrie eröffnet das einen Markt – wirft aber Fragen zu Standardisierung, Interoperabilität und der Rolle autonomer Systeme in der Gefechtsführung auf.<br/><br/><strong>Bias-Hinweis:</strong> Die Charakterisierung als „Antwort auf Maven" und die Betonung der „digitalen Souveränität" stammen von französischen Militärvertretern und sind Teil einer industrie- und standortpolitischen Erzählung. Der tatsächliche Leistungsvergleich beider Systeme ist nicht unabhängig belegt; es handelt sich um eine Test-/Erprobungsphase, nicht um einen abgeschlossenen Beschaffungserfolg. Ethische Fragen zu KI in tödlichen Entscheidungsketten bleiben in der Herstellerdarstellung weitgehend unbeleuchtet.]]></description>
+    </item>
+
     <item>
       <title>NASA X-59 durchbricht erstmals die Schallmauer – leiser „Thump" statt Überschallknall</title>
       <link>https://www.space.com/technology/aerospace/going-supersonic-nasas-x-59-jet-breaks-sound-barrier-for-the-1st-time</link>
