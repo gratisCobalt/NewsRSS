@@ -6,11 +6,33 @@
     <atom:link href="https://example.com/wochennachrichten/feed.xml" rel="self" type="application/rss+xml" />
     <description>Wöchentliche Zusammenfassung der wichtigsten Nachrichten aus aller Welt mit Schwerpunkt Europa und Deutschland – Politik, Wirtschaft &amp; Finanzen, IT/Tech. Inklusive Einordnung der Auswirkungen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Sun, 07 Jun 2026 20:00:00 +0200</lastBuildDate>
-    <pubDate>Sun, 07 Jun 2026 20:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 08 Jun 2026 20:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 08 Jun 2026 20:00:00 +0200</pubDate>
     <generator>Claude Code</generator>
 
     <!-- ════════ WELT ════════ -->
+    <item>
+      <title>Israel und Iran ziehen sich nach Raketenaustausch zurück – beide bekräftigen Gewaltverzicht „unter Bedingungen", Trump drängt Netanjahu</title>
+      <link>https://www.npr.org/2026/06/08/g-s1-126844/iran-war-updates</link>
+      <guid isPermaLink="false">wn-2026-06-08-israel-iran-rueckzug</guid>
+      <category>Welt</category>
+      <category>Naher Osten</category>
+      <category>Diplomatie</category>
+      <pubDate>Mon, 08 Jun 2026 14:00:00 +0200</pubDate>
+      <description><![CDATA[Nur Stunden nach dem ersten Raketenaustausch seit der April-Waffenruhe erklärten Israel und Iran am Montag, 8. Juni, sie wollten ihre gegenseitigen Angriffe einstellen – beide allerdings unter Vorbehalten, die eine Wiederaufnahme der Kämpfe ermöglichen würden. Nach Angaben des israelischen Militärs hatte der Iran zuvor rund 30 ballistische Raketen abgefeuert; Israel meldete, die Geschosse abgefangen zu haben, herabfallende Trümmer hätten Buschbrände ausgelöst, Schäden oder Verletzte seien nicht gemeldet worden. US-Präsident Donald Trump erklärte, beide Seiten strebten eine „sofortige Waffenruhe" an und die Verhandlungen über einen „Frieden" liefen weiter. Zugleich gab Trump an, Premier Benjamin Netanjahu gewarnt zu haben: „Ich habe Bibi gesagt: Sei sehr vorsichtig, was du tust – du könntest bald allein gegen den Iran dastehen." (Fortführung der Raketen-Meldung vom 7. Juni.)<br/><br/><strong>Auswirkung:</strong> Der rasche Rückzug stabilisiert die brüchige Waffenruhe vorerst und nahm den Energiemärkten Druck – Öl gab nach, Aktien legten zu (siehe Wirtschaftsteil). Für Europa und Deutschland mindert die Deeskalation kurzfristig das Risiko eines erneuten Energiepreisschocks; die in den Bedingungen beider Seiten angelegte Fragilität hält die Unsicherheit über Versorgungswege am Golf jedoch aufrecht.<br/><br/><strong>Bias-Hinweis:</strong> Die Zahl von „rund 30 Raketen" und die vollständige Abwehr stammen ausschließlich vom israelischen Militär und sind nicht unabhängig verifiziert; iranische Angaben zu Zielen und Wirkung lagen abweichend vor. Trumps Schilderung des Telefonats mit Netanjahu ist seine eigene Darstellung. Die Formel „beide wollen aufhören" verdeckt, dass beide Seiten Bedingungen nannten – die Meldung gibt daher keine gesicherte dauerhafte Beruhigung wieder, sondern eine vorläufige, bedingte Zusage.]]></description>
+    </item>
+
+    <item>
+      <title>Schweres Erdbeben (Stärke 7,8) vor Mindanao – mindestens 32 Tote auf den Philippinen, Tsunami und Erdrutsch</title>
+      <link>https://www.npr.org/2026/06/07/g-s1-126830/7-8-magnitude-quake-hits-southern-philippines-tsunami-risk-for-some-coasts</link>
+      <guid isPermaLink="false">wn-2026-06-08-philippinen-erdbeben</guid>
+      <category>Welt</category>
+      <category>Naturkatastrophe</category>
+      <category>Asien</category>
+      <pubDate>Mon, 08 Jun 2026 09:00:00 +0200</pubDate>
+      <description><![CDATA[Ein Seebeben der Stärke 7,8 hat am Montag, 8. Juni, kurz vor 7:40 Uhr Ortszeit (Sonntag 23:40 GMT) vor der südphilippinischen Insel Mindanao mindestens 32 Menschen getötet und über 200 verletzt. Das Beben löste einen rund einen Meter hohen Tsunami an nahegelegenen Küsten aus; in der Provinz Sarangani begrub ein Erdrutsch 13 Dorfbewohner. Besonders schwer betroffen war die Stadt General Santos (rund 722.000 Einwohner), wo Gebäude einstürzten und Infrastruktur beschädigt wurde. Pegel maßen Wellen von 83 cm vor Indonesiens Sulawesi und 30 cm vor Palau; auch an japanischen Küsten wurden kleine Wellen registriert. Nachbeben bis zur Stärke 6,5 wurden gemessen, die Tsunami-Warnung wurde am Nachmittag aufgehoben.<br/><br/><strong>Auswirkung:</strong> Für die Philippinen bedeutet das Beben eine humanitäre Notlage mit Such- und Rettungseinsätzen, beschädigter Infrastruktur und Versorgungsbedarf in der Region Mindanao. Direkte Folgen für Europa und Deutschland sind gering; relevant sind allenfalls Hilfszusagen und mögliche Beeinträchtigungen regionaler Lieferketten.<br/><br/><strong>Bias-Hinweis:</strong> Opfer- und Schadenszahlen sind vorläufig und stammen von Behörden bzw. Katastrophenschutz; bei Naturkatastrophen werden sie in den Folgetagen erfahrungsgemäß nach oben korrigiert. Frühe Angaben unterschiedlicher Quellen wichen voneinander ab (zunächst 19 Tote, später ≥32); die Magnitudenangabe (7,8) kann von verschiedenen seismologischen Diensten geringfügig abweichen.]]></description>
+    </item>
+
     <item>
       <title>Iran feuert erstmals seit der Waffenruhe Raketen auf Israel – Eskalation nach israelischen Angriffen auf Beirut</title>
       <link>https://www.cnbc.com/2026/06/07/iran-fires-missiles-israel-ceasefire-strains.html</link>
@@ -273,6 +295,17 @@
     </item>
 
     <!-- ════════ DEUTSCHLAND ════════ -->
+    <item>
+      <title>Merz beschwört „Kraft der Koalition" für Reformen – schwarz-rotes Reformpaket soll vor der Sommerpause stehen</title>
+      <link>https://www.zdfheute.de/politik/deutschland/merz-reformen-sozialreformen-sozialpartner-treffen-100.html</link>
+      <guid isPermaLink="false">wn-2026-06-08-merz-reformen</guid>
+      <category>Deutschland</category>
+      <category>Politik</category>
+      <category>Reformen</category>
+      <pubDate>Sun, 07 Jun 2026 18:00:00 +0200</pubDate>
+      <description><![CDATA[Vor den entscheidenden Wochen für die Reformvorhaben seiner schwarz-roten Koalition hat Bundeskanzler Friedrich Merz (CDU) am Wochenende Zuversicht verbreitet. „Wir schaffen das", sagte er beim Landesparteitag der CDU Mecklenburg-Vorpommern in Linstow und ergänzte, die Modernisierung Deutschlands könne gelingen, „wenn wir alle zusammenstehen". Die Regierung aus CDU/CSU und SPD will bis zur parlamentarischen Sommerpause ein größeres Reformpaket schnüren, das Einkommensteuer, Arbeitsmarkt, Rente und Bürokratieabbau umfassen soll; hinzu kommen bereits vorliegende Reformen der gesetzlichen Kranken- und Pflegeversicherung, die noch durch Bundestag und Bundesrat müssen. Das Gelingen gilt als mitentscheidend für den Fortbestand der Koalition, die in Umfragen zuletzt an Rückhalt verlor – knapp die Hälfte der Befragten rechnet mit einem vorzeitigen Bruch des Bündnisses.<br/><br/><strong>Auswirkung:</strong> Gelingt das Paket, könnte es Steuer- und Arbeitsmarktentlastungen sowie eine Konsolidierung der Sozialsysteme bringen – mit Wirkung auf Wachstum, Lohnnebenkosten und Haushaltsspielräume in einem konjunkturell schwachen Jahr. Scheitert es, drohen Vertrauensverlust und neue Spekulationen über die Stabilität der Regierung. Für Bürgerinnen und Bürger stehen konkrete Belastungen bei Steuern, Rente und Krankenkassenbeiträgen auf dem Spiel.<br/><br/><strong>Bias-Hinweis:</strong> „Wir schaffen das" und die optimistische Lagebewertung sind Aussagen des Kanzlers auf einem Parteitag (Eigeninteresse, Wahlkampfkontext in Ostdeutschland) und keine neutrale Prognose über den Reformerfolg. Die Umfragewerte zum möglichen Koalitionsbruch sind Stimmungsbilder, keine Vorhersage. Welche Maßnahmen das Paket konkret enthält, war zum Meldungszeitpunkt offen – die genannten Themenfelder sind angekündigt, nicht beschlossen.]]></description>
+    </item>
+
     <item>
       <title>Bundeswehr-Reserve: Pistorius-Entwurf soll „doppelte Freiwilligkeit" beenden – Arbeitgeber kritisieren Pflicht-Übungen</title>
       <link>https://www.bundesregierung.de/breg-en/news/new-draft-military-service-law-2397962</link>
@@ -597,6 +630,17 @@
 
     <!-- ════════ WIRTSCHAFT & FINANZEN (GLOBAL) ════════ -->
     <item>
+      <title>Börsen erholen sich auf Nahost-Deeskalation – Chip-Aktien führen Rebound an, Micron springt zweistellig</title>
+      <link>https://www.cnbc.com/2026/06/07/stock-market-today-live-updates.html</link>
+      <guid isPermaLink="false">wn-2026-06-08-maerkte-rebound</guid>
+      <category>Wirtschaft &amp; Finanzen</category>
+      <category>Börse</category>
+      <category>Halbleiter</category>
+      <pubDate>Mon, 08 Jun 2026 17:30:00 +0200</pubDate>
+      <description><![CDATA[Die US-Aktienmärkte legten am Montag, 8. Juni, zu, nachdem Anzeichen einer Deeskalation im Nahen Osten und ein Ende des jüngsten Ausverkaufs bei Chipwerten die Stimmung aufhellten. Der S&amp;P 500 gewann rund 0,3 % und schloss bei 7.405 Punkten, der technologielastige Nasdaq legte etwa 0,9 % auf 25.930 Punkte zu, während der Dow Jones leicht nachgab (−0,16 % auf 50.786). Treiber war eine kräftige Erholung der Halbleiterwerte: Speicherchip-Hersteller Micron stieg um knapp 10 %, nachdem die Aktie am Freitag rund 13 % verloren hatte; auch Nvidia und Broadcom rückten vor. Hintergrund war die Mitteilung des Iran, seine Militäroperation gegen Israel beendet zu haben, sowie Trumps optimistische Äußerungen zu einem Iran-Abkommen.<br/><br/><strong>Auswirkung:</strong> Die Erholung zeigt, wie stark die Märkte derzeit am geopolitischen Risiko und am Halbleiterzyklus hängen. Für europäische und deutsche Anlegerinnen und Anleger – etwa über Chipwerte wie Infineon oder ASML – bedeutet die enge Kopplung an US-Tech und den Nahost-Verlauf erhöhte Schwankungsanfälligkeit. Eine nachhaltige Beruhigung der Energiepreise würde Inflations- und Zinsdruck in der Eurozone mindern; bestätigt ist sie noch nicht.<br/><br/><strong>Bias-Hinweis:</strong> Index- und Einzelwertbewegungen sind Marktdaten. Die Begründung – „Erholung wegen Nahost-Deeskalation und Chip-Rebound" – ist die Deutung aus Markt- und Analystenkommentaren; Tagesbewegungen sind meist mehrfach verursacht und hier als berichtete Erklärung, nicht als gesicherte alleinige Ursache wiedergegeben. Es handelt sich um eine Tagesreaktion, kein bestätigter Trendwechsel.]]></description>
+    </item>
+
+    <item>
       <title>Energiepreis-Risiko zurück: Nahost-Eskalation droht Ölprämie neu anzuheizen – ECB-Forecaster heben Inflationserwartung für 2026 an</title>
       <link>https://www.ecb.europa.eu/stats/ecb_surveys/survey_of_professional_forecasters/html/ecb.spf2026q2.en.html</link>
       <guid isPermaLink="false">wn-2026-06-07-energie-inflation-ezb</guid>
@@ -694,6 +738,17 @@
     </item>
 
     <!-- ════════ IT & TECH ════════ -->
+    <item>
+      <title>Apple eröffnet Entwicklerkonferenz WWDC 2026 – Fokus auf KI, überarbeitetes Siri soll auf Google- und Nvidia-Chips laufen</title>
+      <link>https://www.macrumors.com/2026/06/04/apple-siri-rely-on-google-nvidia-chips/</link>
+      <guid isPermaLink="false">wn-2026-06-08-apple-wwdc</guid>
+      <category>IT &amp; Tech</category>
+      <category>Künstliche Intelligenz</category>
+      <category>Apple</category>
+      <pubDate>Mon, 08 Jun 2026 19:00:00 +0200</pubDate>
+      <description><![CDATA[Apple hat am Montag, 8. Juni, seine jährliche Entwicklerkonferenz WWDC 2026 eröffnet. Im Zentrum stehen Berichten zufolge KI-Funktionen – Apple will mehrfach verschobene Features nachreichen und neue KI-Fähigkeiten vorstellen. Laut Medienberichten (u. a. Bloomberg, aufgegriffen von MacRumors und 9to5Mac) soll die überarbeitete Sprachassistentin Siri bei ihrem Start im September auf eine von Google bereitgestellte Infrastruktur mit Nvidia-„Blackwell"-B200-Chips zurückgreifen und ein angepasstes Gemini-Modell von Google nutzen. Apple positioniert sich damit weiter als KI-Anbieter, der stark auf externe Modelle und Rechenleistung setzt, statt vollständig auf eigene.<br/><br/><strong>Auswirkung:</strong> Für Verbraucherinnen und Verbraucher in Europa und Deutschland dürften die WWDC-Neuerungen ab Herbst in iOS, iPadOS und macOS einfließen – mit Fragen zu Datenschutz und DSGVO-Konformität, wenn Anfragen über Google-Infrastruktur laufen. Die Abhängigkeit Apples von Google-Modellen und Nvidia-Hardware unterstreicht zudem die Konzentration der KI-Wertschöpfung bei wenigen US-Konzernen – ein Kernargument der EU-Debatte um „technologische Souveränität".<br/><br/><strong>Bias-Hinweis:</strong> Konkrete Funktionen und der Zuschnitt der KI-Strategie beruhen zum Teil auf Medienberichten und Vorab-Erwartungen, nicht auf bestätigten Apple-Ankündigungen – Details können von der tatsächlichen Keynote abweichen. Die Angaben zur Nutzung von Google-Gemini und Nvidia-Chips stammen aus Berichten unter Berufung auf nicht namentlich genannte Quellen und sind von Apple und Google nicht offiziell bestätigt.]]></description>
+    </item>
+
     <item>
       <title>Frankreich testet eigenes KI-Gefechtssystem „Arcadia" bei NATO-Übung – europäische Alternative zu Palantirs „Maven"</title>
       <link>https://www.euronews.com/my-europe/2026/06/07/nato-drills-france-to-test-ai-battlefield-tech-as-alternative-to-us-system</link>
