@@ -6,11 +6,33 @@
     <atom:link href="https://example.com/wochennachrichten/feed.xml" rel="self" type="application/rss+xml" />
     <description>Wöchentliche Zusammenfassung der wichtigsten Nachrichten aus aller Welt mit Schwerpunkt Europa und Deutschland – Politik, Wirtschaft &amp; Finanzen, IT/Tech. Inklusive Einordnung der Auswirkungen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Mon, 08 Jun 2026 20:00:00 +0200</lastBuildDate>
-    <pubDate>Mon, 08 Jun 2026 20:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 09 Jun 2026 20:00:00 +0200</lastBuildDate>
+    <pubDate>Tue, 09 Jun 2026 20:00:00 +0200</pubDate>
     <generator>Claude Code</generator>
 
     <!-- ════════ WELT ════════ -->
+    <item>
+      <title>Schwerer russischer Drohnen- und Raketenangriff auf die Region Charkiw – mindestens fünf Tote und über 100 Verletzte, Teil einer landesweiten Angriffswelle</title>
+      <link>https://newsukraine.rbc.ua/news/kharkiv-under-russian-drone-attack-as-multiple-1780961165.html</link>
+      <guid isPermaLink="false">wn-2026-06-09-charkiw-angriff</guid>
+      <category>Welt</category>
+      <category>Ukraine</category>
+      <category>Krieg</category>
+      <pubDate>Tue, 09 Jun 2026 09:00:00 +0200</pubDate>
+      <description><![CDATA[In der Nacht zum Dienstag, 9. Juni, hat Russland die ostukrainische Region Charkiw mit einem massiven Drohnen- und Raketenangriff überzogen. Nach Angaben örtlicher Behörden wurden in der Kleinstadt Tschuhujiw mindestens fünf Menschen getötet und mehrere verletzt; rund acht mehrstöckige Gebäude und über zehn Wohnhäuser wurden beschädigt. In der Stadt Charkiw brachen in zwei Stadtbezirken Brände aus, etwa zehn Menschen wurden verletzt. Insgesamt sprachen ukrainische Stellen von über 100 Verletzten in der Region. Der Angriff war Teil einer breiteren nächtlichen Angriffswelle gegen mehrere ukrainische Städte. (Anschluss an die Putin-Selenskyj-Meldung vom 5. Juni und die Großangriffs-Meldung vom 2. Juni.)<br/><br/><strong>Auswirkung:</strong> Der Angriff unterstreicht, dass Russland trotz stockender Friedensgespräche militärisch eskaliert. Für Europa und Deutschland bedeutet die Fortdauer des Krieges anhaltenden Druck auf Verteidigungsausgaben, Energiepreise und die Versorgung der Ukraine mit Luftabwehr; die Bilder zerstörter Wohnviertel erhöhen den politischen Druck, weitere Flugabwehrsysteme zu liefern.<br/><br/><strong>Bias-Hinweis:</strong> Opfer- und Schadenszahlen stammen von ukrainischen Behörden, sind vorläufig und nicht unabhängig verifiziert; bei Angriffen werden sie in den Folgestunden erfahrungsgemäß nach oben korrigiert. Russische Stellen bezeichnen solche Angriffe regelmäßig als Treffer „militärischer Ziele" – eine umstrittene Darstellung, die hier nicht als Tatsache übernommen wird. Eine landesweite Gesamtopferzahl wich je nach Quelle ab und ist hier bewusst nicht als gesicherte Zahl angegeben.]]></description>
+    </item>
+
+    <item>
+      <title>Messerangriff an Schule in Manchester – drei Verletzte, 14-jährige Schülerin festgenommen</title>
+      <link>https://www.gmp.police.uk/news/greater-manchester/news/news/2026/june/update-following-incident-at-school-on-plant-hill-road-blackley/</link>
+      <guid isPermaLink="false">wn-2026-06-09-manchester-schule</guid>
+      <category>Welt</category>
+      <category>Großbritannien</category>
+      <category>Kriminalität</category>
+      <pubDate>Tue, 09 Jun 2026 15:00:00 +0200</pubDate>
+      <description><![CDATA[An der Co-op Academy an der Plant Hill Road im Stadtteil Blackley im Norden Manchesters ist es am Dienstag, 9. Juni, zu einem Messerangriff gekommen. Nach Angaben der Greater Manchester Police wurden drei Menschen verletzt: eine 14-jährige Schülerin, ein 14-jähriger Schüler und ein 27-jähriger männlicher Mitarbeiter. Alle drei kamen ins Krankenhaus, ihre Verletzungen gelten als nicht lebensbedrohlich, ihr Zustand als stabil. Eine 14-jährige Schülerin wurde wegen des Verdachts der schweren Körperverletzung („section 18") festgenommen; nach weiteren Tatverdächtigen werde nicht gefahndet.<br/><br/><strong>Auswirkung:</strong> Schulische Gewalttaten lösen in Großbritannien wiederkehrend Debatten über Messergewalt und Sicherheit an Schulen aus. Unmittelbare Folgen für Deutschland und die EU bestehen nicht; das Ereignis fügt sich jedoch in die europaweite Diskussion über den Umgang mit Jugendgewalt ein.<br/><br/><strong>Bias-Hinweis:</strong> Die Angaben stammen aus der offiziellen Mitteilung der Greater Manchester Police; frühe Medienberichte enthielten abweichende Details (etwa zur festgenommenen Person), die hier zugunsten der Polizeiangaben korrigiert sind. Da die Festgenommene minderjährig ist und die Ermittlungen laufen, sind Tatmotiv und Tathergang noch ungeklärt – Spekulationen darüber sind bewusst ausgespart.]]></description>
+    </item>
+
     <item>
       <title>Israel und Iran ziehen sich nach Raketenaustausch zurück – beide bekräftigen Gewaltverzicht „unter Bedingungen", Trump drängt Netanjahu</title>
       <link>https://www.npr.org/2026/06/08/g-s1-126844/iran-war-updates</link>
@@ -296,6 +318,17 @@
 
     <!-- ════════ DEUTSCHLAND ════════ -->
     <item>
+      <title>Generaldebatte zum Bundeshaushalt 2026 – Merz dringt auf Infrastrukturgesetz, Koalitionsstreit mit der SPD spitzt sich zu</title>
+      <link>https://www.bundeskanzler.de/bk-en/news/merz-bundestag-budget-2026-2396326</link>
+      <guid isPermaLink="false">wn-2026-06-09-haushalt-koalitionsstreit</guid>
+      <category>Deutschland</category>
+      <category>Politik</category>
+      <category>Haushalt</category>
+      <pubDate>Tue, 09 Jun 2026 11:00:00 +0200</pubDate>
+      <description><![CDATA[In der Generaldebatte zum Bundeshaushalt 2026 hat Bundeskanzler Friedrich Merz (CDU) die „Wettbewerbsfähigkeit unserer Wirtschaft, die Sicherheit unseres Landes und den Zusammenhalt in einem demokratischen Rahmen" als zentrale Ziele des Etats benannt. Parallel verschärft sich der Streit in der schwarz-roten Koalition: Nach Darstellung aus Unionskreisen blockiert die SPD weiterhin den bereits im Dezember 2025 vom Kabinett gebilligten Gesetzentwurf zum Infrastrukturausbau, der den Bundestag noch nicht passiert hat. Merz signalisierte, seine Geduld mit dem Koalitionspartner gehe zur Neige. Hintergrund ist das schuldenfinanzierte Sondervermögen für Infrastruktur und Verteidigung, dessen konkrete Verwendung zwischen den Partnern umstritten ist.<br/><br/><strong>Auswirkung:</strong> Verzögerungen beim Infrastrukturgesetz bremsen Investitionen in Verkehr, Netze und Verteidigung – in einem konjunkturell schwachen Jahr ein spürbarer Faktor für Wachstum und öffentliche Aufträge. Ein offener Koalitionskonflikt nährt zudem Zweifel an der Handlungsfähigkeit der Regierung, die in Umfragen ohnehin unter Druck steht; mehrere Erhebungen sehen die AfD vorn.<br/><br/><strong>Bias-Hinweis:</strong> Die Aussage, die SPD „blockiere" das Gesetz, ist die Lesart aus Unionskreisen und wurde auffällig prominent von russlandnahen Auslandsmedien („news-pravda") aufgegriffen und zugespitzt; die SPD-Sicht auf die strittigen Punkte ist in dieser Meldung nicht vertreten. Merz' Zielbeschreibung stammt aus einer Regierungserklärung (Eigeninteresse, kein neutraler Befund). Umfragewerte sind Momentaufnahmen, keine Wahlergebnisse.]]></description>
+    </item>
+
+    <item>
       <title>Merz beschwört „Kraft der Koalition" für Reformen – schwarz-rotes Reformpaket soll vor der Sommerpause stehen</title>
       <link>https://www.zdfheute.de/politik/deutschland/merz-reformen-sozialreformen-sozialpartner-treffen-100.html</link>
       <guid isPermaLink="false">wn-2026-06-08-merz-reformen</guid>
@@ -457,6 +490,17 @@
     </item>
 
     <!-- ════════ EUROPA & EU ════════ -->
+    <item>
+      <title>EU-Kommission legt 21. Sanktionspaket gegen Russland vor – über 100 Banken, Schattenflotte, Krypto-Plattformen und Einreiseverbot für Kriegsteilnehmer</title>
+      <link>https://euneighbourseast.eu/news/latest-news/european-commission-presents-21st-sanctions-package-against-russia/</link>
+      <guid isPermaLink="false">wn-2026-06-09-eu-sanktionen-21</guid>
+      <category>Europa</category>
+      <category>EU</category>
+      <category>Sanktionen</category>
+      <pubDate>Tue, 09 Jun 2026 12:00:00 +0200</pubDate>
+      <description><![CDATA[Die Europäische Kommission hat am Dienstag, 9. Juni, den Entwurf für ein 21. Sanktionspaket gegen Russland vorgestellt; die endgültige Entscheidung im EU-Rat soll bis zum 15. Juli fallen. Vorgesehen sind unter anderem Vermögenssperren gegen rund 90 Banken und Transaktionsverbote gegen über 30 weitere Institute in Russland und Drittstaaten – zusammen über 100 Banken, die nach Kommissionsangaben mehr als die Hälfte der international vernetzten russischen Kreditinstitute ausmachen. Hinzu kommen ein vorübergehendes Einfrieren des Ölpreisdeckels, 30 weitere Sanktionen gegen Schiffe der russischen „Schattenflotte", ein Transaktionsverbot für elf Krypto-Plattformen sowie Exportkontrollen gegen rund 50 Unternehmen, darunter Firmen in China, der Türkei, Kasachstan, den VAE und Indien. Erstmals sollen auch Personen, die aufseiten Russlands gegen die Ukraine gekämpft haben, mit einem EU-Einreiseverbot belegt werden; zudem sind Beschränkungen für russische Fischereiprodukte geplant.<br/><br/><strong>Auswirkung:</strong> Das Paket zielt darauf, Russlands Kriegsfinanzierung und Umgehungswege weiter einzuschränken. Für die EU – und exportstarke Mitgliedstaaten wie Deutschland – bedeuten verschärfte Exportkontrollen gegenüber Drittstaaten auch zusätzliche Compliance-Lasten für Unternehmen. Ob das Paket in vollem Umfang kommt, hängt von der Einstimmigkeit im Rat ab, wo einzelne Staaten erfahrungsgemäß Ausnahmen aushandeln.<br/><br/><strong>Bias-Hinweis:</strong> Die genannten Zahlen und Maßnahmen stammen aus der Darstellung der EU-Kommission und betreffen einen Entwurf, kein beschlossenes Recht – Umfang und Einzelheiten können sich im Ratsverfahren noch ändern. Die Wirksamkeit früherer Pakete ist umstritten; Befürworter betonen den Druck auf Moskau, Kritiker verweisen auf Umgehung und begrenzte Wirkung. Russische und teils ungarische Gegenpositionen sind hier nicht abgebildet.]]></description>
+    </item>
+
     <item>
       <title>Parlamentswahl in Armenien: Paschinjans „Zivilvertrag" laut frühen Teilergebnissen vorn – höchste Beteiligung seit über zehn Jahren</title>
       <link>https://www.france24.com/en/armenia-s-parliamentary-election-a-vote-on-nation-s-geopolitical-future</link>
@@ -630,6 +674,17 @@
 
     <!-- ════════ WIRTSCHAFT & FINANZEN (GLOBAL) ════════ -->
     <item>
+      <title>EZB-Zinsentscheid am 11. Juni erwartet – Märkte preisen erste Zinserhöhung seit 2023 ein</title>
+      <link>https://tradingeconomics.com/euro-area/interest-rate</link>
+      <guid isPermaLink="false">wn-2026-06-09-ezb-zinserhoehung</guid>
+      <category>Wirtschaft &amp; Finanzen</category>
+      <category>Geldpolitik</category>
+      <category>EZB</category>
+      <pubDate>Tue, 09 Jun 2026 13:00:00 +0200</pubDate>
+      <description><![CDATA[Vor der Sitzung des EZB-Rats am Donnerstag, 11. Juni, preisen die Finanzmärkte mit hoher Wahrscheinlichkeit eine Anhebung des Einlagensatzes um 0,25 Prozentpunkte auf 2,25 % ein – es wäre die erste Zinserhöhung der Europäischen Zentralbank seit 2023. Hintergrund ist der durch den Iran-Krieg ausgelöste Energiepreisschock: Die Eurozonen-Inflation war im April auf 3 % gestiegen, und Notenbankvertreter warnen, der angebotsseitige Energieschock erweise sich als hartnäckiger als erwartet. Im April hatte die EZB die Zinsen noch unverändert gelassen und auf die unsichere Lage verwiesen. Für den weiteren Jahresverlauf ist am Markt mindestens eine weitere Anhebung eingepreist.<br/><br/><strong>Auswirkung:</strong> Eine Zinserhöhung verteuert Kredite und Hypotheken in der gesamten Eurozone, stärkt tendenziell Sparzinsen und belastet zinssensible Aktien. Für Deutschland trifft das eine ohnehin schwache Konjunktur und erhöht die Finanzierungskosten für Staat und Unternehmen – ein Zielkonflikt zwischen Inflationsbekämpfung und Wachstumsstützung.<br/><br/><strong>Bias-Hinweis:</strong> Es handelt sich um eine Markterwartung, nicht um eine getroffene Entscheidung; die EZB entscheidet erst am 11. Juni, und Wahrscheinlichkeiten aus Terminmärkten sind keine Garantie. Die genannten Eintrittswahrscheinlichkeiten und Zinsprognosen stammen aus Marktdaten bzw. Analystenkommentaren und können sich kurzfristig ändern. Die Zuschreibung der Inflation allein zum Iran-Krieg verkürzt – auch binnenwirtschaftliche Faktoren spielen eine Rolle.]]></description>
+    </item>
+
+    <item>
       <title>Börsen erholen sich auf Nahost-Deeskalation – Chip-Aktien führen Rebound an, Micron springt zweistellig</title>
       <link>https://www.cnbc.com/2026/06/07/stock-market-today-live-updates.html</link>
       <guid isPermaLink="false">wn-2026-06-08-maerkte-rebound</guid>
@@ -738,6 +793,28 @@
     </item>
 
     <!-- ════════ IT & TECH ════════ -->
+    <item>
+      <title>WWDC 2026: Apple bestätigt KI-„Siri AI" auf Basis eines Google-Gemini-Modells – Milliarden-Deal, neue Jahresnamen für die Betriebssysteme</title>
+      <link>https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/</link>
+      <guid isPermaLink="false">wn-2026-06-09-apple-wwdc-siri</guid>
+      <category>IT &amp; Tech</category>
+      <category>Künstliche Intelligenz</category>
+      <category>Apple</category>
+      <pubDate>Tue, 09 Jun 2026 08:00:00 +0200</pubDate>
+      <description><![CDATA[Nach der Eröffnungs-Keynote vom Montag (8. Juni) stehen die WWDC-2026-Neuerungen fest und bestätigen die zuvor kursierenden Berichte: Apple stellt eine vollständig neu gebaute Sprachassistentin „Siri AI" vor, die auf einem maßgeschneiderten Modell von Googles Gemini basiert und über Apples „Private Cloud Compute" läuft. Medienberichten zufolge zahlt Apple dafür rund eine Milliarde US-Dollar pro Jahr für ein angepasstes Gemini-Modell mit etwa 1,2 Billionen Parametern. Siri AI soll mehrstufige Dialoge führen, auf Bildschirminhalte und persönliche App-Daten zugreifen und eine eigene App mit iCloud-synchronisiertem Verlauf erhalten. Zudem wechselt Apple zu einer jahresbasierten Namensgebung: Die im Herbst erscheinende Software trägt die „27" (iOS 27, macOS „Golden Gate" u. a.); die Designsprache „Liquid Glass" wurde überarbeitet.<br/><br/><strong>Auswirkung:</strong> Für Nutzerinnen und Nutzer in Europa und Deutschland fließen die Funktionen ab Herbst in die Apple-Betriebssysteme ein – mit offenen Fragen zu Datenschutz und DSGVO, wenn Anfragen über ein Google-Modell verarbeitet werden. Strategisch bestätigt der Schritt Apples Abhängigkeit von externen Modellen und unterstreicht die Konzentration der KI-Wertschöpfung bei wenigen US-Konzernen – ein Kernargument der EU-Debatte um „digitale Souveränität". Für Google ist der Deal zugleich ein Prestigeerfolg.<br/><br/><strong>Bias-Hinweis:</strong> Die offiziellen Apple-Ankündigungen (Siri AI, Jahresnamen, Betriebssystemversionen) sind belegt. Die finanziellen Eckdaten – rund 1 Mrd. US-Dollar jährlich, ca. 1,2 Billionen Parameter – stammen aus Medienberichten (u. a. Bloomberg) und sind von Apple und Google nicht offiziell bestätigt. Leistungsversprechen wie eine „deutlich fähigere" Assistentin sind Herstellerangaben aus der Produktpräsentation, kein unabhängig geprüfter Befund. (Bestätigung und Aktualisierung der WWDC-Vorbericht-Meldung vom 8. Juni.)]]></description>
+    </item>
+
+    <item>
+      <title>Nvidia schließt KI-Großdeals in Südkorea – Partnerschaften mit SK Hynix, Naver, Hyundai, LG und Doosan</title>
+      <link>https://www.malaymail.com/news/money/2026/06/08/nvidia-clinches-deals-with-south-korean-giants-including-sk-group-to-advance-ai-boom/222987</link>
+      <guid isPermaLink="false">wn-2026-06-08-nvidia-suedkorea</guid>
+      <category>IT &amp; Tech</category>
+      <category>Künstliche Intelligenz</category>
+      <category>Halbleiter</category>
+      <pubDate>Mon, 08 Jun 2026 20:00:00 +0200</pubDate>
+      <description><![CDATA[Nvidia hat am Montag, 8. Juni, eine Reihe von KI-Kooperationen mit südkoreanischen Konzernen angekündigt – darunter SK Hynix, SK Telecom, Naver, Hyundai, LG und Doosan. Die Vereinbarungen reichen von KI-Speicherchips über Cloud-Infrastruktur und Robotik bis zu autonomem Fahren und Rechenzentren. Speicherchip-Hersteller SK Hynix, größter Speicherpartner Nvidias, schloss eine mehrjährige Technologiepartnerschaft zur Entwicklung fortschrittlicher Speicher für KI-Rechenzentren. Die Deals fielen in einen vielbeachteten Besuch von Nvidia-Chef Jensen Huang in Südkorea; Hyundais geplantes KI-Rechenzentrum in Saemangeum bezeichnete Huang als „AI Valley".<br/><br/><strong>Auswirkung:</strong> Die Vereinbarungen festigen Nvidias zentrale Stellung in der globalen KI-Lieferkette und binden Südkoreas Chip- und Industriekonzerne enger an US-Technologie. Für europäische und deutsche Akteure verschärft das den Wettbewerb um KI-Rechenkapazität und Speicher – und unterstreicht, wie sehr Schlüsselkomponenten der KI bei wenigen außereuropäischen Anbietern konzentriert sind.<br/><br/><strong>Bias-Hinweis:</strong> Die Aufzählung der Partner und Felder stammt aus den Ankündigungen Nvidias und der beteiligten Konzerne; konkretes Volumen und vertragliche Details wurden nur teilweise offengelegt. Werbewirksame Formulierungen wie „AI Valley" sind Aussagen von Jensen Huang im PR-Kontext. Berichte über eine zugleich erfolgte Talfahrt von Chip-Aktien (etwa ein zweistelliger Tagesverlust des Kospi) sind quellenabhängig und stehen im Widerspruch zu anderen Meldungen über einen Halbleiter-Rebound am 8. Juni – die Marktreaktion ist daher nicht eindeutig und hier bewusst nicht als gesicherter Befund wiedergegeben.]]></description>
+    </item>
+
     <item>
       <title>Apple eröffnet Entwicklerkonferenz WWDC 2026 – Fokus auf KI, überarbeitetes Siri soll auf Google- und Nvidia-Chips laufen</title>
       <link>https://www.macrumors.com/2026/06/04/apple-siri-rely-on-google-nvidia-chips/</link>
