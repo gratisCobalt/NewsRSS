@@ -6,11 +6,35 @@
     <atom:link href="https://example.com/wochennachrichten/feed.xml" rel="self" type="application/rss+xml" />
     <description>Wöchentliche Zusammenfassung der wichtigsten Nachrichten aus aller Welt mit Schwerpunkt Europa und Deutschland – Politik, Wirtschaft &amp; Finanzen, IT/Tech. Inklusive Einordnung der Auswirkungen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 09 Jun 2026 20:00:00 +0200</lastBuildDate>
-    <pubDate>Tue, 09 Jun 2026 20:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 10 Jun 2026 22:30:00 +0200</lastBuildDate>
+    <pubDate>Wed, 10 Jun 2026 22:30:00 +0200</pubDate>
     <generator>Claude Code</generator>
 
     <!-- ════════ WELT ════════ -->
+    <item>
+      <title>USA und Iran in offener Konfrontation am Persischen Golf – US-Kampfhubschrauber über der Straße von Hormus abgeschossen, US-Vergeltungsschläge gegen Südiran</title>
+      <link>https://www.newstribune.com/news/2026/jun/10/us-launches-new-strikes-on-iran-after-helicopter/</link>
+      <guid isPermaLink="false">wn-2026-06-10-usa-iran-hormus</guid>
+      <category>Welt</category>
+      <category>Naher Osten</category>
+      <category>USA</category>
+      <category>Iran</category>
+      <category>Krieg</category>
+      <pubDate>Wed, 10 Jun 2026 11:00:00 +0200</pubDate>
+      <description><![CDATA[Die seit Anfang Juni brüchige Lage am Golf ist in eine direkte Konfrontation zwischen den USA und dem Iran umgeschlagen. Nach US-Angaben brachte am 10. Juni eine iranische Angriffsdrohne über der Straße von Hormus einen US-Kampfhubschrauber vom Typ Apache zum Absturz; die beiden Piloten überlebten nach Darstellung eines US-Vertreters unverletzt. Innerhalb weniger Stunden meldete das US-Zentralkommando (CENTCOM) Vergeltungsschläge gegen iranische Luftabwehrstellungen, Bodenkontrollstationen und Radaranlagen nahe der Meerenge; die Angriffe wurden als „Selbstverteidigung" bezeichnet. Iranische Staatsmedien (Fars) berichteten von Explosionen in der Provinz Hormozgan, unter anderem in der Hafenstadt Bandar Abbas sowie bei Sirik und auf der Insel Qeschm. Teheran lenkte daraufhin nach eigenen Angaben Drohnen auf die US-Fünfte Flotte in Bahrain; zudem wurden Angriffe auf weitere Golfstaaten gemeldet. Der Schiffsverkehr durch die Straße von Hormus ist erheblich gestört. (Fortführung der Israel-Iran-Meldungen vom 7. und 8. Juni.)<br/><br/><strong>Auswirkung:</strong> Die direkte US-Beteiligung hebt den Konflikt auf eine neue Stufe über den bisherigen Schlagabtausch zwischen Israel und Iran hinaus. Durch die Straße von Hormus laufen rund ein Fünftel des weltweiten Ölhandels; eine anhaltende Störung treibt die Energiepreise (siehe Wirtschaftsteil) und damit die Inflation in Europa und Deutschland. Steigt die Eskalationsgefahr weiter, drohen erneute Energiepreisschocks und Druck auf Lieferketten.<br/><br/><strong>Bias-Hinweis:</strong> Angaben zu Abschuss, Zielen und Wirkung stammen getrennt von US-Stellen (CENTCOM) und iranischen Staatsmedien und sind nicht unabhängig verifiziert; beide Seiten stellen die jeweils eigene Darstellung als Tatsache dar. Die Einordnung der US-Schläge als „Selbstverteidigung" ist die US-Lesart und wird hier nicht als wertende Tatsache übernommen. Umfang und Ziele der iranischen Angriffe auf Golfstaaten sind im Detail unbestätigt; Opferzahlen lagen zunächst nicht belastbar vor und sind hier bewusst nicht beziffert.]]></description>
+    </item>
+
+    <item>
+      <title>Ukraine: Massiver russischer Drohnenangriff in der Nacht zum 9. Juni – Kiew meldet Treffer ukrainischer „Flamingo"-Raketen auf Rüstungswerk in Tscheboksary</title>
+      <link>https://www.globalsecurity.org/military/world/war/russo-ukraine-2026-06-09.htm</link>
+      <guid isPermaLink="false">wn-2026-06-09-ukraine-flamingo</guid>
+      <category>Welt</category>
+      <category>Ukraine</category>
+      <category>Krieg</category>
+      <pubDate>Tue, 09 Jun 2026 22:00:00 +0200</pubDate>
+      <description><![CDATA[Der Krieg in der Ukraine setzt sich mit unverminderter Intensität fort. Nach Angaben der ukrainischen Luftwaffe setzte Russland in der Nacht zum 9. Juni 207 Drohnen ein, von denen 181 abgefangen worden seien. Über den Tag verteilt zählte Kiew 180 Gefechtskontakte, die meisten im Raum Pokrowsk. Bei russischen Angriffen wurden u. a. in Cherson zwei Zivilisten getroffen, in der Region Dnipropetrowsk sieben und in der Region Cherson vier Menschen verletzt; die Brücke bei Tschonhar wurde nach einem zweiten Schlag vollständig unbrauchbar. Präsident Wolodymyr Selenskyj bestätigte einen Treffer ukrainischer FP-5-„Flamingo"-Raketen auf ein Werk in Tscheboksary (rund 600 km hinter der Front), das Komponenten für russische Drohnen und Raketen liefert.<br/><br/><strong>Auswirkung:</strong> Die Tiefenschläge belegen Kiews wachsende Fähigkeit, russische Rüstungsproduktion weit im Hinterland zu treffen. Für Deutschland und die EU bedeutet die Fortdauer des Krieges anhaltenden Bedarf an Luftabwehr-Nachschub und politischen Druck, Verteidigungszusagen einzulösen.<br/><br/><strong>Bias-Hinweis:</strong> Drohnenzahlen, Gefechts- und Opferangaben stammen von ukrainischen Stellen und sind nicht unabhängig verifiziert; russische Angaben weichen ab oder fehlen. Der gemeldete Treffer in Tscheboksary beruht auf Selenskyjs Darstellung; das tatsächliche Schadensausmaß ist unbestätigt.]]></description>
+    </item>
+
     <item>
       <title>Schwerer russischer Drohnen- und Raketenangriff auf die Region Charkiw – mindestens fünf Tote und über 100 Verletzte, Teil einer landesweiten Angriffswelle</title>
       <link>https://newsukraine.rbc.ua/news/kharkiv-under-russian-drone-attack-as-multiple-1780961165.html</link>
@@ -318,6 +342,28 @@
 
     <!-- ════════ DEUTSCHLAND ════════ -->
     <item>
+      <title>Reformtreffen im Kanzleramt: Merz empfängt die Sozialpartner – Arbeitsmarkt, Sozialversicherung, Steuern und Bürokratie auf der Agenda</title>
+      <link>https://www.zdfheute.de/politik/deutschland/friedrich-merz-gewerkschaft-arbeitgeber-kanzleramt-treffen-100.html</link>
+      <guid isPermaLink="false">wn-2026-06-10-merz-sozialpartner</guid>
+      <category>Deutschland</category>
+      <category>Politik</category>
+      <category>Wirtschaft</category>
+      <pubDate>Wed, 10 Jun 2026 19:00:00 +0200</pubDate>
+      <description><![CDATA[Bundeskanzler Friedrich Merz hat am Abend des 10. Juni Vertreter von Arbeitgebern und Gewerkschaften ins Kanzleramt geladen. In dem intern „4+4" genannten Format kamen die Arbeitgeber- und Wirtschaftsverbände (BDA, BDI, DIHK, ZDH) sowie die Gewerkschaften (DGB, IG Metall, IG BCE, Verdi) mit der Koalitionsspitze zusammen. Ziel war es, die Erwartungen zu vier großen Reformfeldern abzugleichen: Arbeitsmarkt, Sozialversicherungen, Steuern und Bürokratieabbau. Entscheidungen wurden für diesen Termin nicht erwartet; festgelegt werden sollen die Eckpunkte des Reformpakets erst im Koalitionsausschuss am 1. Juli.<br/><br/><strong>Auswirkung:</strong> Für die Union/SPD-Koalition beginnen entscheidende Wochen: Vor dem Hintergrund schwacher Konjunktur (siehe DIW-Meldung) und einer in Umfragen führenden AfD entscheidet das Reformpaket über Belastungen und Entlastungen für Beschäftigte und Unternehmen. Der frühzeitige Einbezug der Sozialpartner soll Reformen tragfähiger machen.<br/><br/><strong>Bias-Hinweis:</strong> Berichten zufolge betrachtet Merz die Einbindung der Sozialpartner als freiwillig, nicht bindend, und will Verantwortung nicht „delegieren". Die mediale Einordnung schwankt: Manche Beiträge betonen Spannungen („Merz ist kein Fan dieses Treffens"), andere den Konsenscharakter – beide Lesarten sind hier kenntlich gemacht und nicht als Tatsache gewertet.]]></description>
+    </item>
+
+    <item>
+      <title>DIW halbiert Wachstumsprognose: Energiepreisschock durch den Iran-Krieg droht Deutschland in die Rezession zu treiben</title>
+      <link>https://www.diw.de/de/diw_01.c.1002338.de/konjunkturprognose_fruehjahr_2026.html</link>
+      <guid isPermaLink="false">wn-2026-06-10-diw-prognose</guid>
+      <category>Deutschland</category>
+      <category>Wirtschaft</category>
+      <category>Konjunktur</category>
+      <pubDate>Wed, 10 Jun 2026 09:00:00 +0200</pubDate>
+      <description><![CDATA[Das Deutsche Institut für Wirtschaftsforschung (DIW) hat am 10. Juni seine Wachstumsprognose für Deutschland für 2026 von zuvor 1,0 auf nur noch 0,5 Prozent halbiert und verweist auf den Energiepreisschock infolge des Konflikts im Nahen Osten. Im ersten Quartal seien über eine Viertelmillion Industriearbeitsplätze abgebaut worden. Es gibt auch leicht positive Signale: Im April legte die Produktion erstmals nach vier Rückgängen wieder zu (+0,4 Prozent), die Ausfuhren stiegen um 0,9 Prozent gegenüber März. Die Inflation dürfte 2026 mit rund 2,9 Prozent deutlich über dem EZB-Ziel von 2 Prozent liegen, die Arbeitslosenquote auf etwa 6,4 Prozent steigen.<br/><br/><strong>Auswirkung:</strong> Schwächeres Wachstum verengt den finanziellen Spielraum genau in der Phase, in der die Koalition ihr Reformpaket verhandelt (siehe Kanzleramts-Meldung). Die energiegetriebene Inflation belastet die Realeinkommen der Haushalte und dämpft den privaten Konsum.<br/><br/><strong>Bias-Hinweis:</strong> Die Zahlen sind eine Prognose eines einzelnen Instituts unter mehreren und mit Unsicherheit behaftet; Prognosen werden regelmäßig revidiert. Die Zuspitzung auf den Iran-Krieg ist die Deutung des DIW – die strukturellen Schwächen der exportorientierten Industrie bestehen unabhängig vom Konflikt bereits länger.]]></description>
+    </item>
+
+    <item>
       <title>Generaldebatte zum Bundeshaushalt 2026 – Merz dringt auf Infrastrukturgesetz, Koalitionsstreit mit der SPD spitzt sich zu</title>
       <link>https://www.bundeskanzler.de/bk-en/news/merz-bundestag-budget-2026-2396326</link>
       <guid isPermaLink="false">wn-2026-06-09-haushalt-koalitionsstreit</guid>
@@ -490,6 +536,17 @@
     </item>
 
     <!-- ════════ EUROPA & EU ════════ -->
+    <item>
+      <title>Zweite Nacht der Unruhen in Nordirland: Gewalt gegen Migranten in Belfast nach Messerangriff, Ausschreitungen greifen auf Schottland und England über</title>
+      <link>https://www.rte.ie/news/ireland/2026/0610/1577829-ni-unrest/</link>
+      <guid isPermaLink="false">wn-2026-06-10-nordirland-unruhen</guid>
+      <category>Europa</category>
+      <category>Großbritannien</category>
+      <category>Migration</category>
+      <pubDate>Wed, 10 Jun 2026 08:00:00 +0200</pubDate>
+      <description><![CDATA[In Belfast ist es in der Nacht zum 10. Juni die zweite Nacht in Folge zu schweren Ausschreitungen gekommen. Auslöser war ein Messerangriff vom 8. Juni, bei dem ein Mann (40er) schwer verletzt wurde und ein Auge verlor; ein 30-jähriger sudanesischer Tatverdächtiger wurde festgenommen und angeklagt. Am Abend des 9. Juni brachen daraufhin Krawalle aus: Vermummte setzten nach Polizei- und Medienangaben mehrere Wohnhäuser, einen nahöstlichen Supermarkt, einen Glider-Bus und zahlreiche Fahrzeuge in Brand; Berichten zufolge wurden gezielt Angehörige ethnischer Minderheiten attackiert. Weitere Proteste wurden aus Glasgow, Edinburgh und Southampton gemeldet. Die Ereignisse fallen fast auf den Jahrestag der Ballymena-Unruhen von 2025.<br/><br/><strong>Auswirkung:</strong> Die Gewalt belastet Polizei und das Zusammenleben in Nordirland und reiht sich in die breitere europäische Debatte über Migration, Online-Mobilisierung und rechtsextreme Netzwerke ein. Unmittelbare Folgen für Deutschland bestehen nicht; das Muster – Gewalttat als Auslöser organisierter Ausschreitungen – wird jedoch europaweit beobachtet.<br/><br/><strong>Bias-Hinweis:</strong> Die Einordnung als rassistisch bzw. migrantenfeindlich stützt sich auf Angaben von Behörden, Abgeordneten und mehreren Medien. Die Schwerpunktsetzung unterscheidet sich je nach Quelle: Manche betonen den Messerangriff als Auslöser, andere den organisierten, rechtsextremen Charakter der Krawalle – beide Aspekte sind hier benannt. Der Tatverdächtige ist angeklagt, gilt bis zu einer Verurteilung als unschuldig; die Ermittlungen laufen, Schadens- und Verletztenangaben sind vorläufig.]]></description>
+    </item>
+
     <item>
       <title>EU-Kommission legt 21. Sanktionspaket gegen Russland vor – über 100 Banken, Schattenflotte, Krypto-Plattformen und Einreiseverbot für Kriegsteilnehmer</title>
       <link>https://euneighbourseast.eu/news/latest-news/european-commission-presents-21st-sanctions-package-against-russia/</link>
@@ -674,6 +731,17 @@
 
     <!-- ════════ WIRTSCHAFT & FINANZEN (GLOBAL) ════════ -->
     <item>
+      <title>Börsen unter Druck, Ölpreis steigt: US-Iran-Konflikt verunsichert die Märkte – Dow Jones fällt über 700 Punkte</title>
+      <link>https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-10-2026</link>
+      <guid isPermaLink="false">wn-2026-06-10-boersen-oel</guid>
+      <category>Wirtschaft</category>
+      <category>Finanzmärkte</category>
+      <category>Energie</category>
+      <pubDate>Wed, 10 Jun 2026 22:00:00 +0200</pubDate>
+      <description><![CDATA[Die Eskalation zwischen den USA und dem Iran (siehe Welt-Teil) hat am 10. Juni die Finanzmärkte belastet. Der Dow Jones fiel um 736,74 Punkte auf 50.135,37 Zähler, der Nasdaq verlor 399,62 Punkte auf 25.279,20 und der S&amp;P 500 gab 90,95 Punkte auf 7.295,70 nach. Zugleich zog der Ölpreis an: US-Sorte WTI stieg um 2,07 Prozent auf 90,03 Dollar, Brent um 1,8 Prozent auf 93,10 Dollar je Barrel, im Tagesverlauf bis nahe 94 Dollar. Als Treiber galten die Sorge um die Schifffahrt durch die Straße von Hormus sowie Signale von US-Präsident Trump, weitere Maßnahmen zu erwägen.<br/><br/><strong>Auswirkung:</strong> Höhere Energiepreise befeuern die Inflation in Europa und erschweren die Geldpolitik der EZB, deren Zinsentscheid am 11. Juni ansteht (siehe folgende Meldung). Die Risikoscheu trifft Aktien breit, auch europäische und deutsche Chip- und Exportwerte.<br/><br/><strong>Bias-Hinweis:</strong> Index- und Preisangaben sind faktische Marktdaten zu einem Zeitpunkt und im Tagesverlauf volatil. Die Zuordnung der Bewegung allein zum Iran-Konflikt ist Marktkommentar; in der Regel wirken mehrere Faktoren. Eine einzelne Tagesbewegung sollte nicht als Trend gelesen werden.]]></description>
+    </item>
+
+    <item>
       <title>EZB-Zinsentscheid am 11. Juni erwartet – Märkte preisen erste Zinserhöhung seit 2023 ein</title>
       <link>https://tradingeconomics.com/euro-area/interest-rate</link>
       <guid isPermaLink="false">wn-2026-06-09-ezb-zinserhoehung</guid>
@@ -793,6 +861,28 @@
     </item>
 
     <!-- ════════ IT & TECH ════════ -->
+    <item>
+      <title>OpenAI reicht vertraulich Unterlagen für US-Börsengang ein – Bewertung im Billionen-Dollar-Bereich im Gespräch</title>
+      <link>https://techstartups.com/2026/06/09/top-tech-news-today-june-9-2026/</link>
+      <guid isPermaLink="false">wn-2026-06-09-openai-ipo</guid>
+      <category>Tech</category>
+      <category>KI</category>
+      <category>Börse</category>
+      <pubDate>Tue, 09 Jun 2026 18:00:00 +0200</pubDate>
+      <description><![CDATA[OpenAI hat einem Bericht zufolge vertraulich Unterlagen für einen Börsengang in den USA eingereicht. Im Gespräch ist eine Bewertung, die in den Billionen-Dollar-Bereich reichen könnte. Anleger müssten dabei das starke Umsatzwachstum gegen hohe Infrastrukturausgaben, regulatorische Prüfungen und offene Fragen zur langfristigen Profitabilität abwägen.<br/><br/><strong>Auswirkung:</strong> Ein börsennotiertes OpenAI würde Bewertungsmaßstäbe für die gesamte KI-Branche setzen. Europäische Investoren und Regulierer dürften genau hinschauen; zugleich verschärft sich die Debatte über die Marktkonzentration bei den führenden KI-Konzernen.<br/><br/><strong>Bias-Hinweis:</strong> Die „Billionen-Dollar"-Bewertung ist eine berichtete Erwartung, keine bestätigte Tatsache; eine vertrauliche Einreichung bedeutet, dass Details nicht öffentlich verifizierbar sind. Bewusst ohne Hype-Rahmung wiedergegeben.]]></description>
+    </item>
+
+    <item>
+      <title>China plant landesweites Netz vernetzter KI-Rechenzentren für rund 295 Milliarden Dollar</title>
+      <link>https://www.crescendo.ai/news/latest-ai-news-and-updates</link>
+      <guid isPermaLink="false">wn-2026-06-09-china-ki-rechenzentren</guid>
+      <category>Tech</category>
+      <category>KI</category>
+      <category>Infrastruktur</category>
+      <pubDate>Tue, 09 Jun 2026 12:00:00 +0200</pubDate>
+      <description><![CDATA[China bereitet Berichten zufolge eine auf fünf Jahre angelegte Initiative im Umfang von rund 2 Billionen Yuan (etwa 295 Milliarden Dollar) vor, um ein landesweites Netz miteinander verbundener KI-Rechenzentren aufzubauen.<br/><br/><strong>Auswirkung:</strong> Das Vorhaben verschärft den globalen Wettlauf um KI-Infrastruktur zwischen den USA und China und erhöht den Druck auf Europa in Sachen KI- und Rechenkapazitäts-Souveränität – relevant für die Rechenzentrums- und Energieplanung in Deutschland und der EU.<br/><br/><strong>Bias-Hinweis:</strong> Summe und Umfang sind berichtete Planzahlen und können sich ändern; die Angabe von „295 Milliarden Dollar" ist eine Schätzung. Staatlich gesteuerte Großankündigungen haben mitunter programmatischen Charakter und werden hier nicht als gesicherte Umsetzung dargestellt.]]></description>
+    </item>
+
     <item>
       <title>WWDC 2026: Apple bestätigt KI-„Siri AI" auf Basis eines Google-Gemini-Modells – Milliarden-Deal, neue Jahresnamen für die Betriebssysteme</title>
       <link>https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/</link>
