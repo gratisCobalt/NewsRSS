@@ -6,11 +6,33 @@
     <atom:link href="https://example.com/wochennachrichten/feed.xml" rel="self" type="application/rss+xml" />
     <description>Wöchentliche Zusammenfassung der wichtigsten Nachrichten aus aller Welt mit Schwerpunkt Europa und Deutschland – Politik, Wirtschaft &amp; Finanzen, IT/Tech. Inklusive Einordnung der Auswirkungen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 10 Jun 2026 22:30:00 +0200</lastBuildDate>
-    <pubDate>Wed, 10 Jun 2026 22:30:00 +0200</pubDate>
+    <lastBuildDate>Thu, 11 Jun 2026 22:30:00 +0200</lastBuildDate>
+    <pubDate>Thu, 11 Jun 2026 22:30:00 +0200</pubDate>
     <generator>Claude Code</generator>
 
     <!-- ════════ WELT ════════ -->
+    <item>
+      <title>Fußball-WM 2026 in Nordamerika eröffnet – Gastgeber Mexiko gewinnt das Auftaktspiel im Aztekenstadion mit 2:0 gegen Südafrika</title>
+      <link>https://www.espn.com/soccer/story/_/id/49033183/mexico-south-africa-2026-world-cup-azetca-opening-game</link>
+      <guid isPermaLink="false">wn-2026-06-11-wm-2026-eroeffnung</guid>
+      <category>Welt</category>
+      <category>Sport</category>
+      <category>Fußball-WM</category>
+      <pubDate>Thu, 11 Jun 2026 23:00:00 +0200</pubDate>
+      <description><![CDATA[Mit dem Spiel von Co-Gastgeber Mexiko gegen Südafrika ist am Donnerstag, 11. Juni, im Aztekenstadion von Mexiko-Stadt die Fußball-Weltmeisterschaft 2026 eröffnet worden – mit 48 Mannschaften und 104 Spielen die bislang größte WM der Geschichte, ausgerichtet gemeinsam von den USA, Kanada und Mexiko. Mexiko gewann das Auftaktspiel mit 2:0 (Tore: Julián Quiñones früh in der Partie, Raúl Jiménez in der zweiten Hälfte). Die Begegnung sah drei Platzverweise (zwei für Südafrika, einer für Mexiko) – nach Angaben von ESPN die meisten je in einem WM-Eröffnungsspiel. Bei der Eröffnungsfeier traten unter anderem Shakira, Andrea Bocelli und J Balvin auf.<br/><br/><strong>Auswirkung:</strong> Für die drei Gastgeberländer ist das XXL-Turnier ein bedeutender Wirtschafts- und Tourismusfaktor. Für Deutschland und Europa ist die WM vor allem sportlich-gesellschaftlich relevant – die teilnehmenden europäischen Nationalmannschaften prägen über Wochen das öffentliche Interesse; unmittelbare politische oder wirtschaftliche Folgen für die EU bestehen kaum.<br/><br/><strong>Bias-Hinweis:</strong> Spielstand, Torschützen und Platzverweise sind überprüfbare Sportfakten. Die Einordnung als „größte WM der Geschichte" bezieht sich messbar auf die Zahl der Teams (48) und Spiele (104). Bewertungen der Eröffnungsfeier sind subjektiv und hier nicht als Tatsache wiedergegeben.]]></description>
+    </item>
+
+    <item>
+      <title>Papst Leo XIV. besucht die Kanarischen Inseln – mahnende Worte zur Migrationspolitik zum Abschluss seiner Spanien-Reise</title>
+      <link>https://www.foxnews.com/world/pope-leo-hits-beaches-popular-european-migrant-entry-point-criticizing-global-immigration-policies</link>
+      <guid isPermaLink="false">wn-2026-06-11-papst-kanaren</guid>
+      <category>Welt</category>
+      <category>Religion</category>
+      <category>Migration</category>
+      <pubDate>Thu, 11 Jun 2026 12:00:00 +0200</pubDate>
+      <description><![CDATA[Zum Abschluss seiner Apostolischen Reise durch Spanien hat Papst Leo XIV. die Kanarischen Inseln besucht – einen der zentralen atlantischen Ankunftspunkte für Migranten auf dem Weg nach Europa. Der Besuch folgte wenige Tage nach einer Rede vor dem spanischen Parlament, in der der Papst die globale und europäische Migrationspolitik kritisiert und einen menschlicheren Umgang mit Geflüchteten angemahnt hatte. (Fortführung der Madrid-Meldung vom 7. Juni.)<br/><br/><strong>Auswirkung:</strong> Die symbolträchtige Geste fällt in eine Phase verschärfter Migrationsdebatten in Europa – zeitgleich kam es in Nordirland zu anti-migrantischen Ausschreitungen (siehe Europa-Meldung). Der päpstliche Appell setzt ein gesellschaftspolitisches Signal, hat aber keine unmittelbaren Auswirkungen auf die Asyl- und Grenzpolitik der EU-Mitgliedstaaten.<br/><br/><strong>Bias-Hinweis:</strong> Die hier verlinkte Quelle (Fox News) rahmt den Besuch betont kritisch im Spannungsfeld „Papst vs. strenge Migrationspolitik"; diese Zuspitzung ist hier neutralisiert. Die Aussagen des Papstes sind als dessen Position gekennzeichnet, nicht als wertende Tatsache. Die Verknüpfung mit den Vorfällen in Belfast ist eine zeitliche Einordnung, kein vom Vatikan hergestellter Zusammenhang.]]></description>
+    </item>
+
     <item>
       <title>USA und Iran in offener Konfrontation am Persischen Golf – US-Kampfhubschrauber über der Straße von Hormus abgeschossen, US-Vergeltungsschläge gegen Südiran</title>
       <link>https://www.newstribune.com/news/2026/jun/10/us-launches-new-strikes-on-iran-after-helicopter/</link>
@@ -341,6 +363,18 @@
     </item>
 
     <!-- ════════ DEUTSCHLAND ════════ -->
+    <item>
+      <title>Regierungserklärung im Bundestag: Merz wirbt vor dem EU-Gipfel für Reformkurs, bekräftigt Ukraine-Hilfe und ein 21. Russland-Sanktionspaket</title>
+      <link>https://www.bundestag.de/dokumente/textarchiv/2026/kw24-de-regierungserklaerung-1181878</link>
+      <guid isPermaLink="false">wn-2026-06-11-merz-regierungserklaerung</guid>
+      <category>Deutschland</category>
+      <category>Politik</category>
+      <category>EU</category>
+      <category>Ukraine</category>
+      <pubDate>Thu, 11 Jun 2026 10:00:00 +0200</pubDate>
+      <description><![CDATA[Bundeskanzler Friedrich Merz (CDU) hat am Donnerstag, 11. Juni, im Bundestag eine Regierungserklärung zum bevorstehenden Europäischen Rat (18./19. Juni in Brüssel) abgegeben, gefolgt von einer rund einstündigen Debatte. Themen waren der Ukraine-Krieg, die Lage im Nahen Osten, das Verhältnis zu China, die EU-Finanzplanung sowie Wettbewerbsfähigkeit und Reformen. Mit Blick auf die russische Bedrohung sprach sich Merz für eine Stärkung der NATO-Ostflanke aus und bekräftigte, eine Verhandlungslösung für die Ukraine sei nur unter Beteiligung Kiews, der USA und Europas möglich; die Ukraine gehöre zu Europa und „in der längeren Perspektive" auch in die EU. Er bestätigte die Freigabe eines 90-Milliarden-Euro-EU-Kredits für die Ukraine, kündigte ein härteres Vorgehen gegen die russische „Schattenflotte" sowie die Arbeit an einem 21. Sanktionspaket an. Aus der Opposition kam scharfe Kritik: AfD-Fraktionschefin Alice Weidel bezeichnete Merz als „Gescheiterten". (Anschluss an die Reformtreffen-Meldung vom 10. Juni.)<br/><br/><strong>Auswirkung:</strong> Die Erklärung steckt die deutsche Position vor dem Gipfel ab und signalisiert Kontinuität bei der Ukraine-Unterstützung – mit anhaltendem Druck auf Verteidigungs- und EU-Haushalte. Innenpolitisch verschärft sich die Polarisierung mit der in Umfragen starken AfD. Der angekündigte EU-Kredit und das Sanktionspaket binden Deutschland weiter finanziell und außenpolitisch an die Ukraine-Hilfe.<br/><br/><strong>Bias-Hinweis:</strong> Die inhaltlichen Aussagen sind als Regierungsposition von Merz gekennzeichnet, nicht als neutrale Tatsache. Weidels Bezeichnung „Gescheiterter" ist Oppositionsrhetorik der AfD und entsprechend zugeordnet. Die genannten Zahlen (90-Mrd.-Kredit, 21. Sanktionspaket) beruhen auf der Ankündigung der Bundesregierung bzw. dem laufenden EU-Prozess und sind noch nicht abschließend beschlossen.]]></description>
+    </item>
+
     <item>
       <title>Reformtreffen im Kanzleramt: Merz empfängt die Sozialpartner – Arbeitsmarkt, Sozialversicherung, Steuern und Bürokratie auf der Agenda</title>
       <link>https://www.zdfheute.de/politik/deutschland/friedrich-merz-gewerkschaft-arbeitgeber-kanzleramt-treffen-100.html</link>
@@ -731,6 +765,29 @@
 
     <!-- ════════ WIRTSCHAFT & FINANZEN (GLOBAL) ════════ -->
     <item>
+      <title>EZB erhöht erstmals seit 2023 die Leitzinsen um 0,25 Punkte – Reaktion auf den durch den Nahost-Krieg getriebenen Inflationsschub</title>
+      <link>https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp260611~4d41bd5e83.en.html</link>
+      <guid isPermaLink="false">wn-2026-06-11-ezb-zinserhoehung</guid>
+      <category>Wirtschaft</category>
+      <category>Finanzmärkte</category>
+      <category>EZB</category>
+      <category>Europa</category>
+      <pubDate>Thu, 11 Jun 2026 14:15:00 +0200</pubDate>
+      <description><![CDATA[Der EZB-Rat hat am Donnerstag, 11. Juni, die drei Leitzinsen um 0,25 Prozentpunkte angehoben – die erste Zinserhöhung seit 2023. Der Einlagensatz steigt auf 2,25 Prozent, der Hauptrefinanzierungssatz auf 2,40 Prozent und der Spitzenrefinanzierungssatz auf 2,65 Prozent, wirksam ab dem 17. Juni. Hintergrund ist die auf 3,2 Prozent beschleunigte Inflation im Euroraum im Mai, die weiter deutlich über dem 2-Prozent-Ziel liegt. In den neuen Projektionen erwartet die EZB im Schnitt 3,0 Prozent Inflation 2026, 2,3 Prozent 2027 und 2,0 Prozent 2028. Zur Begründung erklärte die EZB, der Krieg im Nahen Osten erzeuge Inflationsdruck und die Entscheidung sei „über eine Reihe von Szenarien hinweg robust". Märkte rechnen mit mindestens einer weiteren Erhöhung im Jahresverlauf.<br/><br/><strong>Auswirkung:</strong> Höhere Zinsen verteuern Kredite für Haushalte, Unternehmen und Staaten – und das ausgerechnet in einer Phase, in der Deutschland an der Rezession entlangschrammt (siehe DIW-Meldung). Der Schritt stützt zwar den Euro und dämpft importierte Inflation, verschärft aber die Finanzierungsbedingungen, während die Konjunktur schwächelt – ein klassisches Stagflations-Dilemma. Für die schwarz-rote Koalition steigen die Kosten der geplanten schuldenfinanzierten Investitionen.<br/><br/><strong>Bias-Hinweis:</strong> Die Zuspitzung auf den Nahost-Krieg als Inflationstreiber ist die Lesart der EZB; der Preisdruck hat daneben auch strukturelle und binnenwirtschaftliche Ursachen. Die Projektionen sind Prognosen mit erheblicher Unsicherheit und werden regelmäßig revidiert. Markterwartungen zu weiteren Schritten sind keine beschlossene Politik.]]></description>
+    </item>
+
+    <item>
+      <title>US-Inflation springt erstmals seit drei Jahren über 4 Prozent – Energiepreise als Haupttreiber, Iran-Krieg als wesentliche Ursache</title>
+      <link>https://www.npr.org/2026/06/10/nx-s1-5853077/inflation-over-4-cpi-gasoline-prices</link>
+      <guid isPermaLink="false">wn-2026-06-10-us-inflation-cpi</guid>
+      <category>Wirtschaft</category>
+      <category>USA</category>
+      <category>Inflation</category>
+      <pubDate>Wed, 10 Jun 2026 16:00:00 +0200</pubDate>
+      <description><![CDATA[Die US-Verbraucherpreise lagen im Mai nach Angaben des Arbeitsministeriums um 4,2 Prozent über dem Vorjahr – der höchste Wert seit April 2023 und erstmals seit drei Jahren über der 4-Prozent-Marke. Treiber waren vor allem die Energiekosten: Die Benzinpreise stiegen im Jahresvergleich um 40,5 Prozent, Energie machte über 60 Prozent des monatlichen Preisanstiegs aus. Als Ursache gilt der seit acht Wochen laufende Krieg mit dem Iran, der den Schiffsverkehr durch die Straße von Hormus stört, über die rund ein Fünftel des weltweiten Öls läuft. Zuletzt gaben die Benzinpreise allerdings wieder nach – getragen von Hoffnungen auf eine Verhandlungslösung im US-Iran-Konflikt; der Mai könnte daher der Inflationshöhepunkt 2026 gewesen sein.<br/><br/><strong>Auswirkung:</strong> Der Sprung erschwert die Geldpolitik der US-Notenbank Fed und spiegelt die energiegetriebene Inflation in Europa (siehe EZB-Meldung). Gibt der Ölpreis – wie zuletzt – weiter nach, könnte die Teuerung beidseits des Atlantiks ihren Scheitelpunkt überschreiten, was den weiteren Zinspfad und die deutsche Konjunktur entlasten würde. Der Schock zeigt die enge Kopplung von Nahost-Eskalation und westlicher Teuerung.<br/><br/><strong>Bias-Hinweis:</strong> Die offiziellen Preisdaten stammen vom US-Arbeitsministerium (BLS). Die Zuschreibung „Iran-Krieg als Hauptursache" ist eine Einordnung von Ökonomen; ein Teil des Preisdrucks bestand bereits vor dem Krieg. Die Aussage, der Mai sei der „Höhepunkt" gewesen, ist eine optimistische Prognose und kein gesicherter Befund.<br/><br/><strong>Quellenvielfalt:</strong> Bestätigt u. a. durch CNN (cnn.com/2026/06/10/economy/us-cpi-consumer-inflation-may) und CBS News (cbsnews.com/news/cpi-report-today-may-2026-inflation-iran-war-trump).]]></description>
+    </item>
+
+    <item>
       <title>Börsen unter Druck, Ölpreis steigt: US-Iran-Konflikt verunsichert die Märkte – Dow Jones fällt über 700 Punkte</title>
       <link>https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-10-2026</link>
       <guid isPermaLink="false">wn-2026-06-10-boersen-oel</guid>
@@ -861,6 +918,17 @@
     </item>
 
     <!-- ════════ IT & TECH ════════ -->
+    <item>
+      <title>Streit um den Digital Markets Act: Apple bringt das neue „Siri AI" nicht in der EU – Brüssel weist die Schuldzuweisung zurück</title>
+      <link>https://www.apple.com/newsroom/2026/06/due-to-dma-siri-ai-delayed-in-eu-for-ios-27-and-ipados-27/</link>
+      <guid isPermaLink="false">wn-2026-06-10-apple-siri-dma</guid>
+      <category>Tech</category>
+      <category>KI</category>
+      <category>EU-Regulierung</category>
+      <pubDate>Wed, 10 Jun 2026 18:00:00 +0200</pubDate>
+      <description><![CDATA[Apple hat auf seiner Entwicklerkonferenz WWDC (8. Juni) ein grundlegend überarbeitetes „Siri AI" vorgestellt – die größte Neuerung des Sprachassistenten seit 15 Jahren, gebaut auf einer angepassten Version von Googles Gemini-Modell mit nach Apple-Angaben 1,2 Billionen Parametern. Auf iPhones und iPads in der EU soll das neue Siri zum Start von iOS 27 und iPadOS 27 im Herbst jedoch nicht verfügbar sein; Apple verweist auf eine ungelöste Auseinandersetzung mit der EU-Kommission über den Digital Markets Act (DMA). Betroffen wären rund 450 Millionen EU-Nutzer. Die EU-Kommission wies die Darstellung am 9. Juni öffentlich zurück: Das Zurückhalten sei eine freiwillige unternehmerische Entscheidung Apples und keine rechtliche Pflicht aus dem DMA. Auf macOS 27 und visionOS 27 soll Siri AI in der EU verfügbar sein. Am 10. Juni forderte zudem ein US-Thinktank (ITIF), Washington solle mit dem Handelsinstrument „Section 301" gegen aus seiner Sicht diskriminierende EU-Digitalregeln vorgehen.<br/><br/><strong>Auswirkung:</strong> Der Konflikt verschärft den transatlantischen Streit über die Regulierung großer Tech-Konzerne. EU-Verbraucher bleiben vorerst von einer zentralen KI-Funktion ausgeschlossen, während die Drohung mit „Section 301" das Risiko handelspolitischer Vergeltung gegen EU-Digitalgesetze erhöht – ein zusätzlicher Reizpunkt in den ohnehin angespannten Beziehungen zwischen Brüssel und Washington. Der Fall gilt als Bewährungsprobe für die Durchsetzbarkeit des DMA.<br/><br/><strong>Bias-Hinweis:</strong> Es stehen sich zwei gegensätzliche Darstellungen gegenüber: Apple gibt dem DMA bzw. der EU die Schuld, die Kommission verweist auf eine freiwillige Entscheidung Apples. Beide Positionen sind als Parteivortrag gekennzeichnet; der Streit ist ungeklärt. Die „Section 301"-Forderung ist die Lobbyposition eines Thinktanks, keine US-Regierungspolitik. Die Parameterzahl (1,2 Bio.) ist eine Apple-Angabe von der WWDC.<br/><br/><strong>Quellenvielfalt:</strong> EU-Gegendarstellung u. a. via TechTimes (techtimes.com/articles/318136/20260610/eu-rejects-apple-siri-ai-exemption-commission-says-dma-never-blocked-launch.htm).]]></description>
+    </item>
+
     <item>
       <title>OpenAI reicht vertraulich Unterlagen für US-Börsengang ein – Bewertung im Billionen-Dollar-Bereich im Gespräch</title>
       <link>https://techstartups.com/2026/06/09/top-tech-news-today-june-9-2026/</link>
