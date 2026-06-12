@@ -6,11 +6,34 @@
     <atom:link href="https://example.com/wochennachrichten/feed.xml" rel="self" type="application/rss+xml" />
     <description>Wöchentliche Zusammenfassung der wichtigsten Nachrichten aus aller Welt mit Schwerpunkt Europa und Deutschland – Politik, Wirtschaft &amp; Finanzen, IT/Tech. Inklusive Einordnung der Auswirkungen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 11 Jun 2026 22:30:00 +0200</lastBuildDate>
-    <pubDate>Thu, 11 Jun 2026 22:30:00 +0200</pubDate>
+    <lastBuildDate>Fri, 12 Jun 2026 22:30:00 +0200</lastBuildDate>
+    <pubDate>Fri, 12 Jun 2026 22:30:00 +0200</pubDate>
     <generator>Claude Code</generator>
 
     <!-- ════════ WELT ════════ -->
+    <item>
+      <title>Israel fliegt neue Angriffe auf den Libanon – trotz Trumps Erklärung, alle Seiten hätten ein Ende der Kämpfe vereinbart</title>
+      <link>https://www.nbcnews.com/world/iran/trump-iran-deal-israel-lebanon-strikes-tyre-christians-rcna349149</link>
+      <guid isPermaLink="false">wn-2026-06-12-israel-libanon-angriffe</guid>
+      <category>Welt</category>
+      <category>Naher Osten</category>
+      <category>Israel</category>
+      <category>Libanon</category>
+      <pubDate>Fri, 12 Jun 2026 08:00:00 +0200</pubDate>
+      <description><![CDATA[Israel hat nach Medienberichten in der Nacht zum 12. Juni erneut Ziele im Libanon angegriffen; nach Angaben libanesischer Stellen wurden dabei mehrere Menschen getötet. Die Angriffe erfolgten, obwohl US-Präsident Trump zuvor öffentlich erklärt hatte, Israel und Iran hätten zugestimmt, „alle Kampfhandlungen einzustellen". Israel hatte zuvor zugesagt, Angriffe auf den Iran auszusetzen, zugleich aber betont, Operationen gegen die Hisbollah im Südlibanon fortzusetzen. (Fortführung der Israel-Iran- und Libanon-Meldungen vom 7.–10. Juni.)<br/><br/><strong>Auswirkung:</strong> Die Fortsetzung der Libanon-Schläge unterläuft die ohnehin brüchige Deeskalation und hält das Risiko eines erneuten Flächenbrands hoch – mit anhaltender Risikoprämie auf Öl und damit Inflationsdruck für Europa und Deutschland (siehe Wirtschaftsteil). Teheran hat wiederholt gewarnt, seine Angriffe auf Israel wieder aufzunehmen, falls die Schläge im Libanon andauern.<br/><br/><strong>Bias-Hinweis:</strong> Opferangaben stammen von libanesischen Stellen und sind unabhängig nicht verifiziert; israelische Angaben zu Zielen und Anlass liegen getrennt vor und sind ebenfalls nicht überprüft. Trumps Aussage, „alle Seiten" hätten ein Ende der Kämpfe vereinbart, steht im Widerspruch zur Fortsetzung der Angriffe und ist als Position des US-Präsidenten gekennzeichnet, nicht als gesicherte Lage. Ob eine Waffenruhe den Libanon einschließt, ist der seit Wochen umstrittene Kernpunkt – beide Lesarten sind den jeweiligen Akteuren zugeordnet.]]></description>
+    </item>
+
+    <item>
+      <title>Fußball-WM 2026, Tag 2: Auch die Co-Gastgeber Kanada und USA starten ins Turnier</title>
+      <link>https://www.espn.com/soccer/story/_/id/49039447/2026-world-cup-june-12-schedule-soccer-games-today</link>
+      <guid isPermaLink="false">wn-2026-06-12-wm-tag2-gastgeber</guid>
+      <category>Welt</category>
+      <category>Sport</category>
+      <category>Fußball-WM</category>
+      <pubDate>Fri, 12 Jun 2026 20:00:00 +0200</pubDate>
+      <description><![CDATA[Am zweiten Turniertag der Fußball-Weltmeisterschaft 2026 sind die beiden weiteren Co-Gastgeber in den Wettbewerb eingestiegen: Kanada eröffnete seine Gruppenphase im BMO Field in Toronto gegen Bosnien-Herzegowina (Gruppe B), die USA trafen am Abend (Ortszeit) auf Paraguay (Gruppe D). Am Vortag hatten bereits Gastgeber Mexiko und Südkorea ihre Auftaktspiele gewonnen. Die deutsche Nationalmannschaft greift erst am Sonntag, 14. Juni, mit ihrem Auftaktspiel gegen Curaçao (Gruppe E) ins Turnier ein.<br/><br/><strong>Auswirkung:</strong> Für die nordamerikanischen Gastgeber ist das XXL-Turnier (48 Teams, 104 Spiele) ein bedeutender Wirtschafts- und Tourismusfaktor. Für Deutschland und Europa ist die WM vor allem sportlich-gesellschaftlich relevant; unmittelbare politische oder wirtschaftliche Folgen für die EU bestehen kaum.<br/><br/><strong>Bias-Hinweis:</strong> Spielpaarungen, Spielorte und der deutsche Auftakttermin (14. Juni) sind überprüfbare Fakten aus dem offiziellen Turnierplan. Die Endergebnisse der Partien vom 12. Juni lagen bei Redaktionsschluss noch nicht vollständig vor und sind hier bewusst nicht als feststehend wiedergegeben.]]></description>
+    </item>
+
     <item>
       <title>Fußball-WM 2026 in Nordamerika eröffnet – Gastgeber Mexiko gewinnt das Auftaktspiel im Aztekenstadion mit 2:0 gegen Südafrika</title>
       <link>https://www.espn.com/soccer/story/_/id/49033183/mexico-south-africa-2026-world-cup-azetca-opening-game</link>
@@ -364,6 +387,29 @@
 
     <!-- ════════ DEUTSCHLAND ════════ -->
     <item>
+      <title>Bundesrat billigt Apothekenreform und Rentenpaket – höhere Apothekenhonorare und neue Impfbefugnisse beschlossen</title>
+      <link>https://www.bundesrat.de/DE/plenum/bundesrat-kompakt/26/1066/1066-node.html</link>
+      <guid isPermaLink="false">wn-2026-06-12-bundesrat-apotheke-rente</guid>
+      <category>Deutschland</category>
+      <category>Politik</category>
+      <category>Gesundheit</category>
+      <category>Soziales</category>
+      <pubDate>Fri, 12 Jun 2026 13:00:00 +0200</pubDate>
+      <description><![CDATA[In seiner 1066. Sitzung am 12. Juni hat der Bundesrat mehrere vom Bundestag beschlossene Gesetze gebilligt – darunter die Apothekenreform und ein Rentenpaket. Die Apothekenreform hebt das Fixhonorar je verschreibungspflichtiger Packung stufenweise an (auf 9,00 Euro ab Juli 2026 und 9,50 Euro ab Januar 2027) und erlaubt Apotheken künftig zusätzliche Schutzimpfungen mit Totimpfstoffen (etwa gegen Tetanus) über die bisherigen Grippe- und Corona-Impfungen hinaus. Ziel ist es, das wirtschaftliche Umfeld inhabergeführter Apotheken zu stabilisieren und eine wohnortnahe Arzneimittelversorgung zu sichern. Mit dem Rentenpaket machte die Länderkammer zugleich den Weg für die Stabilisierung des Rentenniveaus frei.<br/><br/><strong>Auswirkung:</strong> Apotheken sollen wirtschaftlich gestärkt werden, was vor allem in ländlichen Räumen die Versorgung sichern soll; höhere Honorare und Impfangebote bedeuten aber auch zusätzliche Kosten bzw. Aufgaben im System. Das Rentenpaket sichert kurzfristig das Leistungsniveau, verschiebt jedoch die Debatte über die langfristige Finanzierung der Rente. Für die schwarz-rote Koalition sind die Beschlüsse ein Signal, dass ihr Reformkurs in den Sozialsystemen vorankommt.<br/><br/><strong>Bias-Hinweis:</strong> Die beschlossenen Maßnahmen sind hier sachlich wiedergegeben; ihre Bewertung fällt je nach Interessengruppe (Apothekerschaft, Krankenkassen, Patienten- und Sozialverbände) unterschiedlich aus und ist nicht als neutrale Tatsache dargestellt. Langfristige Wirkungen auf Versorgung und Beiträge sind Prognosen.<br/><br/><strong>Quellenvielfalt:</strong> bestätigt u. a. durch Handelsblatt („Bundesrat macht Weg frei für mehr Rente und Apothekenreform") und ad-hoc-news.]]></description>
+    </item>
+
+    <item>
+      <title>Bundestag berät erstmals Warkens GKV-Sparpaket – 16,3 Milliarden Euro Entlastung für die Krankenkassen 2027 geplant</title>
+      <link>https://www.bundestag.de/dokumente/textarchiv/2026/kw24-de-gkv-1181958</link>
+      <guid isPermaLink="false">wn-2026-06-12-bundestag-gkv-sparpaket</guid>
+      <category>Deutschland</category>
+      <category>Politik</category>
+      <category>Gesundheit</category>
+      <pubDate>Fri, 12 Jun 2026 11:00:00 +0200</pubDate>
+      <description><![CDATA[Der Bundestag hat sich am 12. Juni in erster Lesung mit dem Sparpaket von Gesundheitsministerin Nina Warken (CDU) zur Stabilisierung der gesetzlichen Krankenversicherung befasst. Der Entwurf soll die Kassen 2027 um mindestens 16,3 Milliarden Euro entlasten und einen weiteren Anstieg der Zusatzbeiträge verhindern. Vorgesehen sind unter anderem Ausgabenbremsen für Arztpraxen, Krankenhäuser und Pharmaunternehmen sowie höhere Zuzahlungen für Versicherte bei Arzneimitteln und Einschränkungen bei der beitragsfreien Familienmitversicherung. Nach der rund einstündigen Aussprache wurde der Entwurf zur weiteren Beratung in die Ausschüsse überwiesen; die Koalition will das Gesetz bis zur Sommerpause Mitte Juli abschließen.<br/><br/><strong>Auswirkung:</strong> Greifen die Maßnahmen, könnte der Anstieg der Krankenkassenbeiträge gebremst werden – allerdings teils zulasten der Versicherten (höhere Zuzahlungen, eingeschränkte Mitversicherung) und der Leistungserbringer. Für die Bundesregierung ist die fristgerechte Verabschiedung ein wichtiger Belastungstest ihres Reformkurses in den Sozialsystemen.<br/><br/><strong>Bias-Hinweis:</strong> Die Entlastungssumme von 16,3 Mrd. Euro ist eine Prognose des Gesetzgebers, kein garantierter Effekt. Es handelt sich um einen Gesetzentwurf in erster Lesung, nicht um geltendes Recht. Zahlreiche Ärzteverbände kritisieren die Sparmaßnahmen scharf und sehen die Patientenversorgung gefährdet; diese Kritik ist als Position der Verbände gekennzeichnet, der Streit ist ungeklärt.]]></description>
+    </item>
+
+    <item>
       <title>Regierungserklärung im Bundestag: Merz wirbt vor dem EU-Gipfel für Reformkurs, bekräftigt Ukraine-Hilfe und ein 21. Russland-Sanktionspaket</title>
       <link>https://www.bundestag.de/dokumente/textarchiv/2026/kw24-de-regierungserklaerung-1181878</link>
       <guid isPermaLink="false">wn-2026-06-11-merz-regierungserklaerung</guid>
@@ -570,6 +616,30 @@
     </item>
 
     <!-- ════════ EUROPA & EU ════════ -->
+    <item>
+      <title>Neues Gemeinsames Europäisches Asylsystem (GEAS) wird EU-weit anwendbar – einheitlichere und schnellere Asylverfahren</title>
+      <link>https://www.zdfheute.de/politik/neue-eu-asylregeln-treten-in-kraft-100.html</link>
+      <guid isPermaLink="false">wn-2026-06-12-geas-anwendung</guid>
+      <category>Europa</category>
+      <category>EU</category>
+      <category>Migration</category>
+      <category>Asyl</category>
+      <pubDate>Fri, 12 Jun 2026 06:00:00 +0200</pubDate>
+      <description><![CDATA[Am 12. Juni ist das reformierte Gemeinsame Europäische Asylsystem (GEAS) EU-weit anwendbar geworden. Die bereits 2024 beschlossenen Rechtsakte sollen Asylverfahren in der gesamten Union vereinheitlichen, beschleunigen und verbindlicher gestalten – unter anderem durch beschleunigte Grenzverfahren für Antragstellende mit geringer Anerkennungsaussicht, einheitliche Registrierung sowie einen Solidaritätsmechanismus zur Verteilung von Schutzsuchenden bzw. zum finanziellen Ausgleich zwischen den Mitgliedstaaten. Deutschland hat die Vorgaben mit zwei Gesetzen weitgehend zeitgleich in nationales Recht überführt. Die Reform ergänzt das geplante EU-Rückführungsrecht (siehe Meldung vom 1. Juni).<br/><br/><strong>Auswirkung:</strong> Für Deutschland, das einen Großteil der EU-Asylanträge bearbeitet, zielt die Reform auf weniger Sekundärmigration und Doppelanträge sowie auf eine Entlastung der Kommunen. Ob die Verfahren in der Praxis tatsächlich schneller und einheitlicher werden, hängt von der Umsetzung in allen Mitgliedstaaten und von ausreichenden Verwaltungskapazitäten ab.<br/><br/><strong>Bias-Hinweis:</strong> Die Bewertung der Reform ist stark lagerabhängig: Befürworter (mehrere Regierungen, EU-Kommission) sehen ein faireres und funktionsfähigeres System, NGOs wie Pro Asyl warnen vor einer Aushöhlung des Asylrechts und vor schlechteren Schutzstandards, insbesondere bei Grenzverfahren und Haftregelungen. Hier sind die beschlossenen Inhalte sachlich dargestellt; die genannten Wirkungen sind Zielvorgaben und Prognosen, keine gesicherten Ergebnisse.]]></description>
+    </item>
+
+    <item>
+      <title>11. EU-Südkorea-Gipfel in Brüssel: Wettbewerbspartnerschaft gestartet und Abkommen über den digitalen Handel unterzeichnet</title>
+      <link>https://www.eeas.europa.eu/delegations/south-korea/eu-and-republic-korea-sign-landmark-digital-trade-agreement-summit_en</link>
+      <guid isPermaLink="false">wn-2026-06-10-eu-suedkorea-gipfel</guid>
+      <category>Europa</category>
+      <category>EU</category>
+      <category>Handel</category>
+      <category>Digitalpolitik</category>
+      <pubDate>Wed, 10 Jun 2026 18:00:00 +0200</pubDate>
+      <description><![CDATA[Bei ihrem 11. Gipfeltreffen am 10. Juni in Brüssel haben die EU und die Republik Korea ihre strategische Partnerschaft vertieft. Kommissionspräsidentin Ursula von der Leyen und Ratspräsident António Costa vereinbarten mit Präsident Lee Jae-myung den Start einer „Wettbewerbspartnerschaft" (unter anderem Handel, Investitionen, Lieferketten, fortgeschrittene Technologien, Energie) sowie einen hochrangigen Wirtschaftsdialog. Zentrales Ergebnis war die Unterzeichnung eines Abkommens über den digitalen Handel (Digital Trade Agreement), das grenzüberschreitende digitale Geschäfte erleichtern und gemeinsame Regeln für die Datenökonomie setzen soll.<br/><br/><strong>Auswirkung:</strong> Für die EU ist die Annäherung an Südkorea Teil der Strategie, in einem von US-China-Spannungen geprägten Umfeld verlässliche Partner für Technologie, Halbleiter und sichere Lieferketten zu gewinnen. Für europäische und deutsche Unternehmen können einheitlichere Digitalregeln den Marktzugang im Indo-Pazifik erleichtern. Die konkrete Wirkung hängt von Ratifizierung und praktischer Umsetzung ab.<br/><br/><strong>Bias-Hinweis:</strong> Inhalt und Bedeutung des Gipfels beruhen wesentlich auf der gemeinsamen Erklärung beider Seiten und EU-Mitteilungen (Eigendarstellung der Beteiligten). Werbende Einordnungen wie „historisch/landmark" für das Digitalabkommen sind als Wertung der Beteiligten gekennzeichnet; der praktische Mehrwert zeigt sich erst nach Inkrafttreten.]]></description>
+    </item>
+
     <item>
       <title>Zweite Nacht der Unruhen in Nordirland: Gewalt gegen Migranten in Belfast nach Messerangriff, Ausschreitungen greifen auf Schottland und England über</title>
       <link>https://www.rte.ie/news/ireland/2026/0610/1577829-ni-unrest/</link>
@@ -918,6 +988,18 @@
     </item>
 
     <!-- ════════ IT & TECH ════════ -->
+    <item>
+      <title>Rekord-Börsengang: SpaceX (fusioniert mit xAI) startet an der Nasdaq – mit rund 75 Mrd. Dollar größter IPO der Geschichte</title>
+      <link>https://www.cnbc.com/2026/06/12/spacex-ipo-spcx-live-updates.html</link>
+      <guid isPermaLink="false">wn-2026-06-12-spacex-ipo</guid>
+      <category>Tech</category>
+      <category>Raumfahrt</category>
+      <category>KI</category>
+      <category>Finanzmärkte</category>
+      <pubDate>Fri, 12 Jun 2026 16:00:00 +0200</pubDate>
+      <description><![CDATA[Elon Musks Raumfahrtkonzern SpaceX – zuletzt mit dem KI-Unternehmen xAI verschmolzen – ist unter dem Kürzel SPCX an der Technologiebörse Nasdaq an die Börse gegangen. Der Ausgabepreis lag bei 135 Dollar je Aktie; bei rund 555 Millionen platzierten Anteilen nahm das Unternehmen etwa 75 Milliarden Dollar ein – nach Branchenangaben der bislang größte Börsengang der Geschichte (bisheriger Rekord: Saudi Aramco 2019 mit 35,4 Mrd. Dollar). Die Bewertung lag damit bei rund 1,75 Billionen Dollar. Zum Handelsstart eröffnete die Aktie bei etwa 150 Dollar und schloss rund 19 Prozent über dem Ausgabepreis bei etwa 161 Dollar. Der Kurssprung stützte zugleich die US-Leitindizes, die auch von Hoffnungen auf eine Verhandlungslösung im US-Iran-Konflikt getragen wurden.<br/><br/><strong>Auswirkung:</strong> Der Mega-IPO markiert einen neuen Höhepunkt des KI- und Raumfahrt-Investitionsbooms und ist ein Test, ob öffentliche Anleger bereit sind, die kapitalintensive KI-Infrastruktur zu Billionenbewertungen zu finanzieren. Für europäische Anlegerinnen und Anleger sowie Pensionsfonds entsteht ein neues, aber hochvolatiles Anlageziel; zugleich wächst der Kapital- und Wettbewerbsdruck auf europäische Raumfahrt- und KI-Firmen. Eine spätere Korrektur solcher Bewertungen wäre ein Risiko für die global vernetzten Aktienmärkte.<br/><br/><strong>Bias-Hinweis:</strong> Emissionsvolumen, Ausgabepreis und Bewertung beruhen auf Unternehmens- und Börsenangaben sowie übereinstimmender Finanzberichterstattung (CNBC, NPR). Die erste Kursbewegung ist eine Tagesreaktion und kein Beleg für den „fairen" Wert; der Superlativ „größter IPO der Geschichte" bezieht sich auf das nominale Emissionsvolumen. Die Fusion mit xAI und die daraus abgeleitete Gesamtbewertung sind unternehmensseitig kommuniziert und nicht unabhängig geprüft.]]></description>
+    </item>
+
     <item>
       <title>Streit um den Digital Markets Act: Apple bringt das neue „Siri AI" nicht in der EU – Brüssel weist die Schuldzuweisung zurück</title>
       <link>https://www.apple.com/newsroom/2026/06/due-to-dma-siri-ai-delayed-in-eu-for-ios-27-and-ipados-27/</link>
