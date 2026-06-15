@@ -6,11 +6,89 @@
     <atom:link href="https://example.com/wochennachrichten/feed.xml" rel="self" type="application/rss+xml" />
     <description>Wöchentliche Zusammenfassung der wichtigsten Nachrichten aus aller Welt mit Schwerpunkt Europa und Deutschland – Politik, Wirtschaft &amp; Finanzen, IT/Tech. Inklusive Einordnung der Auswirkungen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Sun, 14 Jun 2026 22:30:00 +0200</lastBuildDate>
-    <pubDate>Sun, 14 Jun 2026 22:30:00 +0200</pubDate>
+    <lastBuildDate>Mon, 15 Jun 2026 22:30:00 +0200</lastBuildDate>
+    <pubDate>Mon, 15 Jun 2026 22:30:00 +0200</pubDate>
     <generator>Claude Code</generator>
 
     <!-- ════════ WELT ════════ -->
+    <item>
+      <title>Durchbruch im US-Iran-Krieg: USA und Iran erzielen Abkommen zur Beendigung des Kriegs (inklusive Libanon) und zur Wiederöffnung der Straße von Hormus – Unterzeichnung für Freitag in der Schweiz geplant</title>
+      <link>https://www.npr.org/2026/06/15/nx-s1-5858590/us-iran-deal-updates</link>
+      <guid isPermaLink="false">wn-2026-06-15-usa-iran-deal</guid>
+      <category>Welt</category>
+      <category>Naher Osten</category>
+      <category>USA</category>
+      <category>Iran</category>
+      <category>Diplomatie</category>
+      <pubDate>Sun, 14 Jun 2026 21:00:00 +0200</pubDate>
+      <description><![CDATA[Die USA und der Iran haben sich am Sonntag, 14. Juni, auf ein Rahmenabkommen zur Beendigung ihres rund dreieinhalbmonatigen Kriegs verständigt. Nach übereinstimmender Darstellung soll das Abkommen die US-Seeblockade des Iran aufheben, die Straße von Hormus wieder öffnen und eine sofortige Einstellung der Kampfhandlungen „an allen Fronten, einschließlich im Libanon" vorsehen; daran sollen sich 60 Tage Verhandlungen über das iranische Atomprogramm anschließen. Eine förmliche Unterzeichnung ist für Freitag, 19. Juni, in der Schweiz angekündigt. Am Montag signalisierten mehrere europäische Staaten, im Gegenzug für nachprüfbare Schritte beim Atomprogramm zur Lockerung von Sanktionen bereit zu sein. (Fortführung der USA-Iran-Meldungen vom 10.–14. Juni.)<br/><br/><strong>Auswirkung:</strong> Durch die Straße von Hormus läuft etwa ein Fünftel des weltweiten Öl- und Gashandels. Eine tatsächliche Wiederöffnung würde Energiepreise und Inflationsdruck in Europa und Deutschland spürbar dämpfen und die Wachstumsaussichten verbessern. Eine mögliche Sanktionslockerung könnte mittelfristig zusätzliches iranisches Öl auf den Markt bringen. Da das Abkommen jedoch noch nicht unterzeichnet ist, bleibt ein Scheitern – und damit ein erneuter Preisschock – möglich.<br/><br/><strong>Bias-Hinweis:</strong> Die genauen Vertragsbedingungen wurden von keiner Seite offiziell veröffentlicht. Die Einigung wurde maßgeblich von US-Präsident Trump und dem als Vermittler auftretenden pakistanischen Premier Sharif verkündet – also von Beteiligten mit eigenem Interesse an einem Erfolg; die Reichweite der Libanon-Komponente ist bislang nicht unabhängig bestätigt. Begriffe wie „Friedensabkommen" stammen teils aus Parteierklärungen und werden hier als Angaben gekennzeichnet, nicht als gesicherte Tatsache.<br/><br/><strong>Quellenvielfalt:</strong> NPR, CBC, CNN, Times of Israel und Time berichten übereinstimmend über die Einigung, mit unterschiedlicher Gewichtung der iranischen, israelischen und libanesischen Perspektiven.]]></description>
+    </item>
+
+    <item>
+      <title>Schweiz lehnt in Volksabstimmung eine Bevölkerungsobergrenze von 10 Millionen ab – rund 55 Prozent stimmen mit Nein</title>
+      <link>https://www.admin.ch/en/sustainability-initiative</link>
+      <guid isPermaLink="false">wn-2026-06-15-schweiz-referendum</guid>
+      <category>Europa</category>
+      <category>Schweiz</category>
+      <category>Politik</category>
+      <category>Migration</category>
+      <category>EU</category>
+      <pubDate>Sun, 14 Jun 2026 18:00:00 +0200</pubDate>
+      <description><![CDATA[Die Schweizerinnen und Schweizer haben am Sonntag, 14. Juni, die von der rechtskonservativen SVP unterstützte „Nachhaltigkeitsinitiative" („Nein zu einer 10-Millionen-Schweiz") abgelehnt. Nach vorläufiger Auszählung stimmten rund 55 Prozent mit Nein und 45 Prozent mit Ja; die Beteiligung lag mit etwa 59 Prozent deutlich über dem Durchschnitt früherer Abstimmungen. Die Initiative hätte die ständige Wohnbevölkerung bis 2050 unter 10 Millionen begrenzen wollen. Zustimmung fand sie vor allem in ländlichen Regionen, während sie in den Städten klar abgelehnt wurde.<br/><br/><strong>Auswirkung:</strong> Mit dem Nein vermeidet die Schweiz vorerst einen Konflikt mit der EU: Eine harte Obergrenze hätte die Personenfreizügigkeit und damit zentrale bilaterale Abkommen gefährdet. Wirtschaftsverbände, die auf Zuwanderung von Fachkräften angewiesen sind, werten das Ergebnis als Entlastung. Die Debatte über Zuwanderung und Infrastrukturbelastung dürfte dennoch weitergehen.<br/><br/><strong>Bias-Hinweis:</strong> Die Vorlage wurde in den Medien unterschiedlich gerahmt – von „Migrations-Crackdown" (z. B. Fox News) bis „Sieg für Wirtschaft und EU-Bindung" (u. a. Reuters/AP). Hier werden die überprüfbaren Eckdaten (Ergebnis, Beteiligung, Stadt-Land-Gefälle) neutral wiedergegeben; es handelt sich um eine vorläufige Auszählung.<br/><br/><strong>Quellenvielfalt:</strong> Bundeskanzlei (admin.ch), Reuters/AP, CNN, Fox News.]]></description>
+    </item>
+
+    <item>
+      <title>Märkte starten freundlich in die Woche: Europas Börsen legen zu, Ölpreis fällt nach US-Iran-Einigung – WTI um die 80 US-Dollar</title>
+      <link>https://www.cnbc.com/2026/06/15/europe-japan-countries-welcome-us-iran-deal-strait-of-hormuz-reopening.html</link>
+      <guid isPermaLink="false">wn-2026-06-15-maerkte-oel</guid>
+      <category>Wirtschaft</category>
+      <category>Finanzen</category>
+      <category>Börse</category>
+      <category>Energie</category>
+      <category>Europa</category>
+      <pubDate>Mon, 15 Jun 2026 16:00:00 +0200</pubDate>
+      <description><![CDATA[Zum Wochenauftakt am Montag, 15. Juni, reagierten die Finanzmärkte positiv auf die am Vortag verkündete US-Iran-Einigung. Europäische Aktienindizes legten vor dem Hintergrund nachlassender geopolitischer Spannungen zu, der Ölpreis gab nach: Die US-Sorte WTI notierte um die 80 US-Dollar je Barrel und liegt damit rund ein Fünftel unter ihren Höchstständen des Jahres 2026. In den USA standen die Leitindizes ebenfalls im Plus. Anleger richten den Blick zudem auf die Sitzung der US-Notenbank Fed in der kommenden Woche.<br/><br/><strong>Auswirkung:</strong> Niedrigere Energiepreise entlasten Unternehmen und Haushalte in Europa und Deutschland und verringern den Inflationsdruck – das verschafft EZB und Fed mehr Spielraum. Steigende Kurse verbessern Finanzierungsbedingungen, sind aber stark von der Erwartung abhängig, dass die Einigung tatsächlich umgesetzt wird.<br/><br/><strong>Bias-Hinweis:</strong> Die Kursbewegungen beruhen auf der Erwartung eines noch nicht unterzeichneten Abkommens; ein Scheitern könnte sie rasch umkehren. Genannte Indexstände und der Ölpreis sind Momentaufnahmen des Handelstags und keine Schlusskurse. Marktkommentare einzelner Häuser sind als Einschätzung, nicht als Prognosesicherheit zu verstehen.<br/><br/><strong>Quellenvielfalt:</strong> CNBC, Reuters/Investing.com, Euronews, TradingEconomics.]]></description>
+    </item>
+
+    <item>
+      <title>Vor dem EU-Gipfel am 18./19. Juni: Kanzler Merz dringt auf einen schlankeren EU-Haushalt und lehnt neue gemeinsame Schulden ab</title>
+      <link>https://www.euronews.com/my-europe/2026/05/26/sixteen-eu-countries-ask-for-more-funds-for-agriculture-and-fisheries-in-next-long-term-bu</link>
+      <guid isPermaLink="false">wn-2026-06-15-merz-eu-haushalt</guid>
+      <category>Deutschland</category>
+      <category>EU</category>
+      <category>Politik</category>
+      <category>Wirtschaft</category>
+      <category>Finanzen</category>
+      <pubDate>Mon, 15 Jun 2026 12:00:00 +0200</pubDate>
+      <description><![CDATA[Vor dem Europäischen Rat am 18. und 19. Juni in Brüssel hält Bundeskanzler Friedrich Merz an seiner Forderung nach deutlichen Einschnitten beim nächsten mehrjährigen EU-Finanzrahmen (MFR) fest und bezeichnet die von der EU-Kommission vorgeschlagenen Summen als nicht finanzierbar. Zudem spricht er sich gegen die Aufnahme neuer gemeinsamer EU-Schulden aus. Mehrere Mitgliedstaaten stützen die deutsche Linie, während die Kommission höhere Ausgaben verteidigt; zugleich fordern 16 Länder mehr Mittel für Landwirtschaft und Fischerei. Eine endgültige Einigung wird beim Juni-Gipfel nicht erwartet – er soll vor allem die politische Richtung und den Ausgabenrahmen abstecken.<br/><br/><strong>Auswirkung:</strong> Als größter Nettozahler prägt Deutschland die Verhandlungen über den EU-Haushalt maßgeblich. Niedrigere Beiträge entlasten den Bundeshaushalt, könnten aber Mittel für Landwirtschaft, Kohäsion, Verteidigung und Digitalisierung beschneiden – mit Folgen für ärmere Regionen und EU-weite Investitionsprogramme. Der Streit zeigt den grundlegenden Konflikt zwischen Sparkurs und gemeinsamen Investitionen.<br/><br/><strong>Bias-Hinweis:</strong> Bezeichnungen wie „nicht finanzierbar" sind politische Wertungen, keine objektiven Tatsachen; sie spiegeln die Position eines Nettozahlers wider, der andere (Empfängerländer, Kommission) widersprechen. Hier werden die Positionen als solche gekennzeichnet und der noch offene Verhandlungsstand betont.<br/><br/><strong>Quellenvielfalt:</strong> Euronews, Bundesregierung/Bundestag-Regierungserklärung (11. Juni), World Economic Forum.]]></description>
+    </item>
+
+    <!-- ════════ IT / TECH ════════ -->
+    <item>
+      <title>Goldman Sachs beziffert globale KI-Infrastruktur-Investitionen 2026–2031 auf 7,6 Billionen US-Dollar</title>
+      <link>https://www.goldmansachs.com/insights/articles/tracking-trillions-the-assumptions-shaping-scale-of-the-ai-build-out</link>
+      <guid isPermaLink="false">wn-2026-06-15-ki-investitionen-goldman</guid>
+      <category>Tech</category>
+      <category>KI</category>
+      <category>Wirtschaft</category>
+      <category>Finanzen</category>
+      <pubDate>Mon, 15 Jun 2026 10:00:00 +0200</pubDate>
+      <description><![CDATA[In einer aktuell viel beachteten Analyse („Tracking Trillions") schätzt die US-Investmentbank Goldman Sachs die kumulierten weltweiten Investitionen in KI-Infrastruktur für die Jahre 2026 bis 2031 auf rund 7,6 Billionen US-Dollar. Davon entfielen demnach etwa 5,1 Billionen auf Rechenleistung (Compute), 2,1 Billionen auf Rechenzentren und rund 358 Milliarden auf Energieinfrastruktur. Allein 2026 sollen es laut der Schätzung etwa 765 Milliarden Dollar sein, bis 2031 könnte der jährliche Betrag auf 1,6 Billionen steigen. Beim Compute-Anteil rechnet die Bank mit einem Marktanteil von rund 75 Prozent für Nvidia.<br/><br/><strong>Auswirkung:</strong> Die Größenordnung verdeutlicht die enorme Kapital-, Chip- und Strombindung des KI-Ausbaus. Für Europa und Deutschland ist sie doppelt relevant: als Indikator für die wachsende technologische und energiewirtschaftliche Abhängigkeit von wenigen US-Anbietern und als Begründung für eigene Initiativen wie die EU-Pläne für „KI-Gigafactories". Hohe Energiebedarfe könnten zudem Strompreise und Klimaziele berühren.<br/><br/><strong>Bias-Hinweis:</strong> Es handelt sich ausdrücklich um eine Prognose einer einzelnen Investmentbank, die stark von Annahmen abhängt – etwa von der angenommenen Lebensdauer der KI-Chips: Verkürzt man sie von fünf auf drei Jahre, steigen allein die jährlichen Abschreibungen laut Goldman um fast eine Billion Dollar. Die Zahlen sind also Szenarien, keine gesicherten Werte, und stammen von einem Akteur mit eigenem Marktinteresse. Sie werden hier als Schätzung wiedergegeben.<br/><br/><strong>Quellenvielfalt:</strong> Goldman-Sachs-Bericht „Tracking Trillions" sowie Berichterstattung u. a. von Yahoo Finance und weiteren Wirtschaftsmedien.]]></description>
+    </item>
+
+    <!-- ════════ WISSENSCHAFT / POSITIVES ════════ -->
+    <item>
+      <title>Positive Wissenschaft: Batteriefreie künstliche Photosynthese liefert auch bei schwankendem Sonnenlicht stabil Solartreibstoff</title>
+      <link>https://www.sciencedaily.com/releases/2026/06/260611024601.htm</link>
+      <guid isPermaLink="false">wn-2026-06-15-kuenstliche-photosynthese</guid>
+      <category>Wissenschaft</category>
+      <category>Energie</category>
+      <category>Klima</category>
+      <category>Positiv</category>
+      <pubDate>Mon, 15 Jun 2026 09:00:00 +0200</pubDate>
+      <description><![CDATA[Ein Forschungsteam der Osaka Metropolitan University hat ein System zur künstlichen Photosynthese entwickelt, das ohne Batterien oder zusätzliche Elektronik auskommt. Der Kern ist ein selbstregulierender Elektrolyseur, der seine elektrischen Eigenschaften beim Erwärmen automatisch an wechselnde Lichtintensität anpasst und so die Treibstoffproduktion auch bei schwankendem Sonnenlicht stabil hält. In Tests erzeugte das Gerät unter realen Sonnenbedingungen kontinuierlich Ameisensäure aus Wasser und Kohlendioxid (CO₂). Die zugrunde liegende Studie erschien am 20. März 2026 in der Fachzeitschrift „EES Solar"; international aufgegriffen wurde sie um den 11. Juni.<br/><br/><strong>Auswirkung:</strong> Der Ansatz könnte solare Treibstoffe einfacher und günstiger machen, weil teure und verschleißanfällige Zusatzkomponenten entfallen. Als CO₂-nutzende Technologie ist er potenziell relevant für Klimaschutz und die Speicherung erneuerbarer Energie – auch für Europas Dekarbonisierungsziele. Bis zur großtechnischen Anwendung sind allerdings noch erhebliche Entwicklungsschritte nötig.<br/><br/><strong>Bias-Hinweis:</strong> Es handelt sich um einen im Labor demonstrierten Machbarkeitsnachweis, nicht um ein marktreifes Produkt; Wirkungsgrade und Skalierbarkeit unter Praxisbedingungen sind offen. Da die Meldung teils erst Monate nach der Veröffentlichung breiter aufgegriffen wurde, ist das Erscheinungsdatum der Studie hier transparent ausgewiesen. Die Sachlage ist überprüfbar und wenig wertungsanfällig.<br/><br/><strong>Quellenvielfalt:</strong> ScienceDaily, TechXplore, Asia Research News (Primärquelle: Osaka Metropolitan University, „EES Solar").]]></description>
+    </item>
+
     <item>
       <title>Katar vermittelt im US-Iran-Konflikt: Unterhändler reisen nach Teheran, um eine Absichtserklärung zu finalisieren – neue israelische Angriffe auf Beirut belasten den Prozess</title>
       <link>https://www.nbcnews.com/world/iran/us-iran-deal-expected-reopen-strait-hormuz-signed-days-both-sides-say-rcna349916</link>
