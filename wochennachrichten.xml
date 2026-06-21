@@ -6,9 +6,66 @@
     <atom:link href="https://example.com/wochennachrichten/feed.xml" rel="self" type="application/rss+xml" />
     <description>Wöchentliche Zusammenfassung der wichtigsten Nachrichten aus aller Welt mit Schwerpunkt Europa und Deutschland – Politik, Wirtschaft &amp; Finanzen, IT/Tech. Inklusive Einordnung der Auswirkungen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Sat, 20 Jun 2026 22:30:00 +0200</lastBuildDate>
-    <pubDate>Sat, 20 Jun 2026 22:30:00 +0200</pubDate>
+    <lastBuildDate>Sun, 21 Jun 2026 22:30:00 +0200</lastBuildDate>
+    <pubDate>Sun, 21 Jun 2026 22:30:00 +0200</pubDate>
     <generator>Claude Code</generator>
+
+    <!-- ════════ AUSGABE 21. JUNI 2026 (Nachrichten der letzten 24h) ════════ -->
+
+    <!-- ════════ WELT / POLITIK / NAHER OSTEN ════════ -->
+    <item>
+      <title>Naher Osten: Widersprüchliche Angaben zu US-iranischen Gesprächen in der Schweiz – Trump droht Iran erneut, brüchige Waffenruhe im Libanon</title>
+      <link>https://www.cbsnews.com/live-updates/iran-us-war-talks-suspended-trump-mou-israel-lebanon-hezbollah-fighting/</link>
+      <guid isPermaLink="false">wn-2026-06-21-iran-usa-schweiz-gespraeche</guid>
+      <category>Welt</category>
+      <category>Politik</category>
+      <category>Naher Osten</category>
+      <category>Diplomatie</category>
+      <category>Ukraine</category>
+      <pubDate>Sun, 21 Jun 2026 10:00:00 +0200</pubDate>
+      <description><![CDATA[Rund um den 21. Juni gibt es widersprüchliche Darstellungen zum Stand der Verhandlungen zwischen den USA und dem Iran in der Schweiz, die das am 17. Juni unterzeichnete Interims-Abkommen (Memorandum of Understanding, MoU) in einen dauerhaften Frieden überführen sollen. Auf US-Seite sind laut Berichten Vizepräsident JD Vance, Jared Kushner und Sondergesandter Steve Witkoff beteiligt; Katar und Pakistan vermitteln. US-Präsident Donald Trump drohte, den Iran „erneut sehr hart zu treffen", sollte die Hisbollah weiterkämpfen. Iranische Staatsmedien meldeten daraufhin, die iranische Delegation habe den Verhandlungsort verlassen. US-Vertreter widersprachen: Die Gespräche – an denen Iran, Katar, Pakistan und die USA beteiligt seien – liefen weiter, Berichte über einen iranischen Abzug seien „nicht zutreffend". Schwerpunkt der Gespräche sei die Entflechtung und Durchsetzung der Waffenruhe im Südlibanon. Die Waffenruhe zwischen Israel und der Hisbollah gilt als fragil: Nach Angaben mehrerer Diplomaten gegenüber CBS wurde eine Vereinbarung getroffen, dennoch sollen bei israelischen Angriffen in der Nacht zum Samstag mehr als ein Dutzend Menschen im Libanon getötet worden sein. Das israelische Militär (IDF Home Front Command) hob unterdessen Beschränkungen für Gemeinden nahe der Libanon-Grenze auf – ein Zeichen, dass die Waffenruhe zumindest teilweise hält.<br/><br/><strong>Auswirkung:</strong> Ob das im Juni geschlossene Abkommen Bestand hat, ist für die Energiemärkte, die Schifffahrt am Persischen Golf und die Sicherheitslage in Europa von großer Bedeutung. Ein Scheitern könnte Öl- und Gaspreise und damit den Inflationsdruck in Deutschland und der Eurozone erneut anheben. Für die deutsche Außenpolitik ist eine Stabilisierung des Nahen Ostens auch deshalb relevant, weil sie diplomatische und militärische Ressourcen bindet, die zugleich für die Ukraine-Unterstützung gebraucht werden.<br/><br/><strong>Bias-Hinweis:</strong> Diese Meldung beruht auf einander widersprechenden Angaben der Konfliktparteien. Die Darstellung „Delegation hat Gespräche verlassen" stammt von iranischen Staatsmedien, die Gegendarstellung „Gespräche laufen weiter" von US-Vertretern – beide Seiten haben ein Interesse an ihrer jeweiligen Lesart. Trumps Drohung ist eine rhetorische Zuspitzung, keine konkrete Maßnahme. Die Opferzahlen aus dem Libanon stützen sich auf Diplomatenangaben und ließen sich zum Redaktionsschluss nicht unabhängig verifizieren. Die Lage ist als sich entwickelnd zu lesen.<br/><br/><strong>Quellenvielfalt:</strong> CBS News (Liveblog), CNN (Liveblog 20. Juni), NBC News, Times of Israel – Darstellungen iranischer Staatsmedien und von US-Vertretern wurden gegenübergestellt.]]></description>
+    </item>
+
+    <!-- ════════ WELT / WIRTSCHAFT & FINANZEN / ENERGIE ════════ -->
+    <item>
+      <title>Energie &amp; Märkte: Ölpreis deutlich gefallen – Brent bei rund 80 US-Dollar; Anleger werten Hormus-Krise als weitgehend überwunden, trotz neuer iranischer Drohung</title>
+      <link>https://www.cnbc.com/2026/06/19/oil-prices-wti-brent-crude-us-iran-deal-strait-hormuz-shipping-recovery.html</link>
+      <guid isPermaLink="false">wn-2026-06-21-oelpreis-brent-hormus</guid>
+      <category>Welt</category>
+      <category>Wirtschaft</category>
+      <category>Finanzen</category>
+      <category>Energie</category>
+      <category>Märkte</category>
+      <pubDate>Sat, 20 Jun 2026 18:00:00 +0200</pubDate>
+      <description><![CDATA[Der Ölpreis hat sich nach den Höchstständen während der Hormus-Krise deutlich beruhigt. Die Nordsee-Sorte Brent notierte zuletzt bei rund 80,57 US-Dollar je Barrel und ist über vier Handelstage um etwa 17 US-Dollar gefallen – nachdem der Preis auf dem Höhepunkt der Krise zeitweise über 120 US-Dollar gestiegen war. Als Gründe für die Entspannung nennen Marktbeobachter die bedingte Wiederöffnung der Straße von Hormuz, das Ende der US-Marineblockade sowie die Aufhebung von Force-Majeure-Erklärungen (etwa durch Kuwait). Viele Investoren werten die schlimmste Phase der Lieferunterbrechung damit als „endgültig vorüber". Am Freitag stieg Brent allerdings wieder leicht (rund +0,9 Prozent), nachdem die US-iranischen Gespräche in der Schweiz kurzfristig unterbrochen worden waren – ein Zeichen für die anhaltende Unsicherheit.<br/><br/><strong>Auswirkung:</strong> Niedrigere Ölpreise entlasten die energieabhängige deutsche Industrie und dämpfen den Inflationsdruck in der Eurozone – ein Faktor, den die Europäische Zentralbank (EZB) bei ihren bislang abwartenden Zinsentscheidungen berücksichtigt. Zugleich bleibt das Risiko zweiseitig: Die zuletzt vom Iran erneut verbal angekündigte Schließung der Meerenge zeigt, dass sich die Entspannung schnell umkehren kann. Für Verbraucher in Deutschland sind sinkende Rohölpreise tendenziell günstig für Kraftstoff- und Heizkosten, die zuletzt durch das Auslaufen von Steuererleichterungen ohnehin gestiegen sind.<br/><br/><strong>Bias-Hinweis:</strong> Aussagen wie „das Schlimmste ist vorüber" geben Markterwartungen und Investorensentiment wieder, keine gesicherten Fakten; sie stehen im Widerspruch zur iranischen Ankündigung einer erneuten Schließung. Preisangaben sind Momentaufnahmen eines volatilen Marktes. Marktkommentare von Finanzhäusern können ein Interesse an einer beruhigenden Erzählung haben.<br/><br/><strong>Quellenvielfalt:</strong> CNBC, Al Jazeera (Oil and Gas), Trading Economics – die optimistische Markteinschätzung wurde der gegenläufigen iranischen Position gegenübergestellt.]]></description>
+    </item>
+
+    <!-- ════════ POSITIVE NACHRICHTEN / WISSENSCHAFT / EUROPA ════════ -->
+    <item>
+      <title>Positiv &amp; Wissenschaft: Europäisches Forschungsteam „reprogrammiert" Immunzellen des Gehirns gegen Alzheimer – Molekül „OLE" verbessert Gedächtnis bei Mäusen</title>
+      <link>https://www.sciencedaily.com/releases/2026/06/260619020506.htm</link>
+      <guid isPermaLink="false">wn-2026-06-21-ole-alzheimer-mikroglia</guid>
+      <category>Welt</category>
+      <category>Europa</category>
+      <category>Wissenschaft</category>
+      <category>Medizin</category>
+      <category>Positive Nachrichten</category>
+      <pubDate>Fri, 19 Jun 2026 09:00:00 +0200</pubDate>
+      <description><![CDATA[Forschende des spanischen Forschungsrats CSIC, der Universität Miguel Hernández de Elche (UMH) und der ETH Lausanne (EPFL) haben ein Molekül identifiziert, das ein neuer Ansatz gegen die Alzheimer-Krankheit sein könnte. Das Molekül N-Oleoyl-Leucin (Kurzname „OLE") leitet sich vom Alzheimer-assoziierten Gen PM20D1 ab. In der am 19. Juni über ScienceDaily verbreiteten Studie stellte OLE die Schutzfunktion der Mikroglia – der Immunzellen des Gehirns – wieder her: Nach Gabe von OLE aktivierten die Mikroglia Stoffwechselwege zum Abbau von Beta-Amyloid und gewannen die Fähigkeit zurück, sich zu Amyloid-Plaques zu bewegen und diese einzudämmen. In Mausmodellen führte die Behandlung zu weniger toxischen Plaques, verbesserter Gedächtnisleistung und Neuroprotektion. Die Ergebnisse wurden in der begutachteten Fachzeitschrift „Cell Death and Disease" veröffentlicht.<br/><br/><strong>Auswirkung:</strong> Der Ansatz zielt nicht allein auf den Abbau von Amyloid, sondern auf die Wiederherstellung der körpereigenen Immunfunktion im Gehirn – ein potenziell ergänzender Weg zu bisherigen Antikörper-Therapien. Sollte sich der Effekt auf den Menschen übertragen lassen, könnte das langfristig neue Behandlungsoptionen für eine Krankheit eröffnen, die Millionen Menschen weltweit betrifft und die Gesundheitssysteme – auch in Deutschland mit seiner alternden Bevölkerung – stark belastet. Dass die Arbeit aus einer europäischen Forschungskooperation stammt, unterstreicht die Rolle europäischer Grundlagenforschung.<br/><br/><strong>Bias-Hinweis:</strong> Es handelt sich um präklinische Ergebnisse an Mäusen; eine Übertragbarkeit auf den Menschen ist nicht belegt und keinesfalls garantiert. Meldungen über medizinische „Durchbrüche" neigen zur Überzeichnung – von einem Wirkstoffkandidaten bis zu einer zugelassenen Therapie vergehen üblicherweise viele Jahre, und ein erheblicher Teil der Tierversuche scheitert in späteren Studienphasen. Maßgeblich ist die begutachtete Originalpublikation, nicht die populärwissenschaftliche Aufbereitung.<br/><br/><strong>Quellenvielfalt:</strong> Cell Death and Disease (begutachtete Primärstudie), ScienceDaily, Inside Precision Medicine – ergänzt um Hinweise auf die beteiligten Institutionen (CSIC, UMH, EPFL).]]></description>
+    </item>
+
+    <!-- ════════ DEUTSCHLAND / SPORT ════════ -->
+    <item>
+      <title>Deutschland: DFB-Team gewinnt bei der Fußball-WM 2026 mit 2:1 gegen die Elfenbeinküste – Undav-Doppelpack sichert erstmals seit 2014 wieder den Einzug in die K.-o.-Runde</title>
+      <link>https://www.espn.com/soccer/story/_/id/49129600/germany-ivory-coast-2026-fifa-world-cup-deniz-undav</link>
+      <guid isPermaLink="false">wn-2026-06-21-dfb-wm-elfenbeinkueste</guid>
+      <category>Deutschland</category>
+      <category>Sport</category>
+      <category>Fußball-WM 2026</category>
+      <category>Positive Nachrichten</category>
+      <pubDate>Sat, 20 Jun 2026 23:00:00 +0200</pubDate>
+      <description><![CDATA[Die deutsche Fußball-Nationalmannschaft hat am Samstag, 20. Juni, ihr Gruppenspiel (Gruppe E) bei der Weltmeisterschaft 2026 mit 2:1 gegen die Elfenbeinküste gewonnen. Franck Kessié hatte die Westafrikaner nach etwa einer halben Stunde in Führung gebracht. Der eingewechselte Deniz Undav glich in der 68. Minute aus und erzielte in der 94. Minute den Siegtreffer. Mit dem Sieg zieht die Mannschaft von Bundestrainer Julian Nagelsmann in die K.-o.-Runde (Runde der letzten 32) ein – erstmals seit der WM 2014 übersteht Deutschland damit wieder die Gruppenphase, nachdem es 2018 und 2022 jeweils früh ausgeschieden war. Undav ist laut Berichten erst der vierte Spieler der WM-Geschichte, der als Einwechselspieler im selben Spiel sowohl den Ausgleichs- als auch den Siegtreffer erzielt.<br/><br/><strong>Auswirkung:</strong> Sportlich bedeutet das Ergebnis das Erreichen der nächsten Turnierphase und ist nach den frühen Ausscheiden der jüngeren Turniere ein Stimmungsaufheller im Land. Wirtschaftlich sind solche Erfolge in der Regel mit höheren Einschaltquoten, Konsumeffekten (Gastronomie, Handel) und Sponsoreninteresse verbunden – die Effekte sind allerdings meist kurzfristig und in ihrer gesamtwirtschaftlichen Größenordnung begrenzt.<br/><br/><strong>Bias-Hinweis:</strong> Spielergebnisse und Torschützen sind überprüfbare Fakten. Wertende Zuspitzungen wie „Held der Einwechslung" oder nationale Euphorie-Erzählungen sind mediale bzw. emotionale Einordnungen, keine objektiven Aussagen. Die Angabe „erstmals seit 2014" bezieht sich auf das Überstehen der Gruppenphase und ist als historische Einordnung zu verstehen.<br/><br/><strong>Quellenvielfalt:</strong> ESPN, Sky Sports, CBS Sports, Al Jazeera (Liveblog) – übereinstimmende Spielberichte mehrerer voneinander unabhängiger Sportredaktionen.]]></description>
+    </item>
 
     <!-- ════════ AUSGABE 20. JUNI 2026 (Nachrichten der letzten 24h) ════════ -->
 
