@@ -6,9 +6,80 @@
     <atom:link href="https://example.com/wochennachrichten/feed.xml" rel="self" type="application/rss+xml" />
     <description>Wöchentliche Zusammenfassung der wichtigsten Nachrichten aus aller Welt mit Schwerpunkt Europa und Deutschland – Politik, Wirtschaft &amp; Finanzen, IT/Tech. Inklusive Einordnung der Auswirkungen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 23 Jun 2026 22:30:00 +0200</lastBuildDate>
-    <pubDate>Tue, 23 Jun 2026 22:30:00 +0200</pubDate>
+    <lastBuildDate>Wed, 24 Jun 2026 18:00:00 +0200</lastBuildDate>
+    <pubDate>Wed, 24 Jun 2026 18:00:00 +0200</pubDate>
     <generator>Claude Code</generator>
+
+    <!-- ════════ AUSGABE 24. JUNI 2026 (Nachrichten der letzten 24h) ════════ -->
+
+    <!-- ════════ IT & TECH / WELT ════════ -->
+    <item>
+      <title>IT/Tech &amp; Welt: Chinas Supercomputer „LineShine" ist laut Top500-Liste der schnellste der Welt – erstmals seit sieben Jahren wieder China an der Spitze, vorgestellt in Hamburg</title>
+      <link>https://www.aljazeera.com/economy/2026/6/24/china-takes-us-crown-for-worlds-fastest-supercomputer</link>
+      <guid isPermaLink="false">wn-2026-06-24-lineshine-top500</guid>
+      <category>Welt</category>
+      <category>IT</category>
+      <category>Tech</category>
+      <category>Supercomputing</category>
+      <category>Geopolitik</category>
+      <pubDate>Wed, 24 Jun 2026 09:00:00 +0200</pubDate>
+      <description><![CDATA[Das chinesische System „LineShine" am National Supercomputing Centre in Shenzhen führt die neue Ausgabe der halbjährlichen Top500-Rangliste der schnellsten Supercomputer an. Die Liste wurde auf der Fachkonferenz ISC 2026 im deutschen Hamburg veröffentlicht. LineShine erreichte laut Top500 eine Rechenleistung von rund 2,198 Exaflops (mehr als zwei Trillionen Rechenoperationen pro Sekunde) und liegt damit etwa 20 Prozent vor dem bisherigen Spitzenreiter, dem US-System „El Capitan". Den Angaben zufolge ist LineShine das erste System, das die Marke von zwei Exaflops mit einem reinen CPU-Design (ohne handelsübliche KI-Beschleuniger) überschreitet; es basiert auf einem in China entwickelten Prozessor („LX2" mit 304 Kernen, rund 13,79 Millionen Kerne insgesamt) und einer proprietären Verbindungstechnik. Für China ist es die Rückkehr an die Spitze nach rund sieben Jahren. Jack Dongarra, einer der Organisatoren der Liste, sagte, das Ergebnis zeige, dass China trotz US-Exportbeschränkungen für modernste Chips technologisch mithalten könne – die Kontrollen seien zugleich ein Anreiz, eigene Alternativen zu entwickeln.<br/><br/><strong>Auswirkung:</strong> Die Platzierung ist vor allem ein Symbol im technologischen Wettlauf zwischen den USA und China und ein Beleg dafür, dass Exportkontrollen die heimische Chip- und Rechnerentwicklung in China beschleunigen statt aufhalten können. Für Europa und Deutschland unterstreicht das die strategische Bedeutung eigener Rechenkapazitäten (etwa über das EuroHPC-Programm); dass die Liste ausgerechnet in Hamburg vorgestellt wurde, verweist auf Europas Rolle als Austragungsort, nicht als Spitzenreiter. Praktischer Nutzen für Wirtschaft und Forschung entsteht erst, wenn solche Maschinen breit für reale Anwendungen (Klima, Materialforschung, KI-Training) genutzt werden.<br/><br/><strong>Bias-Hinweis:</strong> Die Leistungsangabe beruht auf dem standardisierten Linpack-Benchmark, den die Betreiber selbst einreichen; er misst eine bestimmte Rechenaufgabe und sagt wenig über die tatsächliche Alltags- oder KI-Leistung aus – mehrere Berichte betonen ausdrücklich, dass ein „KI-Vorsprung" daraus nicht ableitbar ist. Der Rahmen „nationaler Technologie-Wettlauf" ist eine verbreitete, aber zugespitzte Erzählweise; die hier genannten technischen Eckdaten stammen aus der Top500-Organisation und sind unabhängig nicht vollständig überprüfbar.<br/><br/><strong>Quellenvielfalt:</strong> Top500.org (Primärquelle), Al Jazeera, CNN Business, Slashdot, DigiTimes – übereinstimmende Berichte; einschränkende Einordnungen (Benchmark-Aussagekraft, unklarer KI-Vorsprung) wurden ausdrücklich aufgenommen.]]></description>
+    </item>
+
+    <!-- ════════ EUROPA / KLIMA & WETTER ════════ -->
+    <item>
+      <title>Europa &amp; Klima: Hitzewelle eskaliert – Frankreich verzeichnet heißesten Tag der Messgeschichte, mindestens 40 Menschen ertrinken bei der Suche nach Abkühlung</title>
+      <link>https://www.aljazeera.com/news/2026/6/23/about-20-drown-in-france-trying-to-escape-heatwave-sweeping-much-of-europe</link>
+      <guid isPermaLink="false">wn-2026-06-24-hitzewelle-frankreich-rekord</guid>
+      <category>Europa</category>
+      <category>Frankreich</category>
+      <category>Klima</category>
+      <category>Wetter</category>
+      <category>Katastrophe</category>
+      <pubDate>Wed, 24 Jun 2026 08:00:00 +0200</pubDate>
+      <description><![CDATA[Die seit Tagen anhaltende Hitzewelle in West- und Südeuropa hat sich zugespitzt. Frankreich verzeichnete nach Behördenangaben den heißesten Tag seit Beginn der Wetteraufzeichnungen; in Les Herbiers im Südwesten wurden rund 43 Grad Celsius gemessen, vielerorts lagen die Temperaturen über 40 Grad. Mehr als die Hälfte des französischen Festlands stand zeitweise unter der höchsten Warnstufe. Mindestens 40 Menschen kamen ums Leben, weil sie zur Abkühlung in unbeaufsichtigten Gewässern badeten und ertranken. Der Eiffelturm und der Louvre kündigten vorzeitige Schließungen an. Die Hitze erfasste weite Teile Europas: Der britische Wetterdienst Met Office warnte vor bis zu 39 Grad, im spanischen San Sebastián wurden rund 40 Grad erwartet (mehr als das Doppelte des historischen Juni-Mittels der Stadt), und Italiens Gesundheitsministerium gab für 15 Städte die höchste Warnstufe aus.<br/><br/><strong>Auswirkung:</strong> Die Häufung extremer Hitze früh im Sommer belastet Gesundheitssysteme, Verkehr und Stromnetze (steigender Kühlbedarf) und trifft besonders ältere und vorerkrankte Menschen. Für Deutschland, das in der Vorwoche bereits Werte um 38 Grad erreichte, sind ähnliche Belastungen und eine Debatte über Hitzeschutzpläne, Trinkwasser und Arbeitsschutz absehbar. Die Todesfälle durch Ertrinken zeigen ein oft unterschätztes Risiko ungesicherter Badestellen während Hitzeperioden.<br/><br/><strong>Bias-Hinweis:</strong> Opferzahlen in einer laufenden Lage sind vorläufig und können sich ändern; die Zuordnung „heißester Tag der Messgeschichte" bezieht sich auf nationale Aufzeichnungen und kann je nach Messreihe und Bestätigung durch den Wetterdienst noch präzisiert werden. Die Verknüpfung einzelner Hitzewellen mit dem Klimawandel ist wissenschaftlich für den langfristigen Trend gut belegt, für ein einzelnes Ereignis aber nur über eigene Attributionsstudien quantifizierbar; dieser Beitrag stellt keine solche Zuschreibung als gesichert dar.<br/><br/><strong>Quellenvielfalt:</strong> Al Jazeera, Euronews, britisches Met Office, italienisches Gesundheitsministerium (jeweils über Berichterstattung) – mehrere unabhängige Quellen; vorläufige Angaben wurden als solche gekennzeichnet.]]></description>
+    </item>
+
+    <!-- ════════ DEUTSCHLAND / WIRTSCHAFT & FINANZEN ════════ -->
+    <item>
+      <title>Deutschland: Firmenpleiten im ersten Halbjahr 2026 auf höchstem Stand seit über einem Jahrzehnt – rund 12.900 Unternehmensinsolvenzen, Schäden in Milliardenhöhe</title>
+      <link>https://www.interiordaily.com/article/9850266/germany-s-records-approximately-12-900-insolvencies-in-the-first-half-of-2026/</link>
+      <guid isPermaLink="false">wn-2026-06-24-deutschland-insolvenzen</guid>
+      <category>Deutschland</category>
+      <category>Wirtschaft</category>
+      <category>Finanzen</category>
+      <category>Konjunktur</category>
+      <pubDate>Wed, 24 Jun 2026 10:30:00 +0200</pubDate>
+      <description><![CDATA[Die Zahl der Unternehmensinsolvenzen in Deutschland ist im ersten Halbjahr 2026 auf rund 12.900 gestiegen – nach Auswertungen der Wirtschaftsauskunftei Creditreform der höchste Halbjahreswert seit mehr als einem Jahrzehnt und ein Plus von etwa 7,8 Prozent gegenüber dem Vorjahreszeitraum. Die insolvenzbedingten Schäden werden auf rund 28,5 Milliarden Euro geschätzt, etwa 165.000 Arbeitsplätze sind betroffen. Besonders unter Druck stehen Industrie, Einzelhandel und mittelständische Betriebe. Als Ursachen nennen Fachleute anhaltend hohe Kosten (Energie, Löhne, Finanzierung), bürokratische Komplexität sowie eine schwache Inlandsnachfrage. Die Entwicklung fällt mit der laufenden Debatte über die vorgeschlagene Rentenreform und eine seit Jahren stagnierende deutsche Wirtschaft zusammen.<br/><br/><strong>Auswirkung:</strong> Steigende Insolvenzen bremsen Investitionen und Beschäftigung und erhöhen den Druck auf Banken, Lieferketten und öffentliche Haushalte (etwa über Kurzarbeit und Sozialausgaben). Für die Bundesregierung verschärft sich der Handlungsdruck bei Energiekosten, Bürokratieabbau und Standortbedingungen. Für Beschäftigte in betroffenen Branchen steigt das Risiko von Arbeitsplatzverlusten.<br/><br/><strong>Bias-Hinweis:</strong> Die Zahlen stammen überwiegend aus einer privaten Wirtschaftsauskunftei (Creditreform) und sind Schätzungen bzw. Hochrechnungen; amtliche Werte des Statistischen Bundesamtes können abweichen und werden mit zeitlichem Verzug veröffentlicht. Begriffe wie „Pleitewelle" oder „struktureller Krise" sind wertende Zuspitzungen; die genannte Ursachenmischung ist eine Experteneinordnung, kein abschließender Befund.<br/><br/><strong>Quellenvielfalt:</strong> Creditreform (über Berichterstattung), Reuters/Yahoo Finance, Taylor Wessing, Statistisches Bundesamt (Methodik) – mehrere Quellen; der Schätzcharakter der Werte wurde ausdrücklich benannt.]]></description>
+    </item>
+
+    <!-- ════════ NAHER OSTEN / POLITIK ════════ -->
+    <item>
+      <title>Naher Osten &amp; Politik: Streit um Atominspektionen im Iran dauert an – IAEA-Chef Grossi verweist auf unterschriebenes Memorandum, Teheran macht Inspektionen von einem endgültigen Abkommen abhängig</title>
+      <link>https://www.npr.org/2026/06/24/g-s1-129770/iran-nuclear-inspection</link>
+      <guid isPermaLink="false">wn-2026-06-24-iran-iaea-inspektionen</guid>
+      <category>Welt</category>
+      <category>Naher Osten</category>
+      <category>Politik</category>
+      <category>Diplomatie</category>
+      <category>Atomprogramm</category>
+      <pubDate>Wed, 24 Jun 2026 12:00:00 +0200</pubDate>
+      <description><![CDATA[Im Ringen um die Kontrolle des iranischen Atomprogramms widersprechen sich Washington/Wien und Teheran weiter öffentlich. Der Generaldirektor der Internationalen Atomenergiebehörde (IAEA), Rafael Grossi, erklärte am 24. Juni, Inspektoren würden iranische Anreicherungsanlagen besuchen; er verwies auf ein von beiden Präsidenten unterzeichnetes Memorandum, das „ausdrücklich" festhalte, dass die nuklearen Aktivitäten an Material und Anlagen von der IAEA überwacht würden – „um das zu tun, müssen wir inspizieren". Ein iranischer Vize-Außenminister wies dies zurück: Solche Fragen würden „nur im Rahmen eines endgültigen Abkommens" und erst nach „praktischem Handeln der anderen Seite" – der Aufhebung aller Sanktionen – entschieden. Seit dem zwölftägigen Krieg gegen Iran 2025 hatte Teheran der IAEA den Zugang zu Anreicherungsanlagen verwehrt. Die widersprüchlichen Darstellungen setzen ähnliche Aussagen vom Vortag fort.<br/><br/><strong>Auswirkung:</strong> Unklarheit über die tatsächliche Reichweite des US-iranischen Zwischenabkommens hält ein zentrales Risiko offen: Ohne IAEA-Inspektionen bleibt der Stand des iranischen Atomprogramms verifizierbar nur eingeschränkt, was Sicherheits- und Energiemärkte (Straße von Hormus, Ölpreis) nervös hält. Für Europa und Deutschland – mitbetroffen über Energiepreise und die Bemühungen um eine diplomatische Lösung – ist die fehlende gemeinsame Lesart des Abkommens das eigentliche Problem.<br/><br/><strong>Bias-Hinweis:</strong> Die zentrale Streitfrage – ob bereits eine verbindliche Inspektionszusage existiert – ist genau der umstrittene Punkt: Grossis Darstellung (Verweis auf ein Memorandum) und die iranische Gegendarstellung (nur nach einem Endabkommen) widersprechen sich direkt und sind hier den jeweiligen Akteuren zugeordnet, nicht als gesicherte Lage dargestellt. Der Wortlaut des Memorandums ist öffentlich nicht im Detail belegt; beide Seiten haben ein Interesse an ihrer jeweiligen Lesart.<br/><br/><strong>Quellenvielfalt:</strong> NPR, NBC News, ABC News, IranWire – mehrere unabhängige Quellen mit gegensätzlichen Perspektiven (auch iranische); die Positionen wurden den Akteuren ausdrücklich zugeordnet.]]></description>
+    </item>
+
+    <!-- ════════ POSITIV & WISSENSCHAFT / EUROPA ════════ -->
+    <item>
+      <title>Positiv &amp; Wissenschaft: Europäischer Forschungsrat vergibt rund 838 Millionen Euro an 319 Spitzenforschende – „Advanced Grants" für grundlagenorientierte Projekte</title>
+      <link>https://erc.europa.eu/news-events/news/erc-2025-advanced-grants-results</link>
+      <guid isPermaLink="false">wn-2026-06-24-erc-advanced-grants</guid>
+      <category>Europa</category>
+      <category>Wissenschaft</category>
+      <category>Forschung</category>
+      <category>Positiv</category>
+      <category>EU</category>
+      <pubDate>Wed, 24 Jun 2026 11:00:00 +0200</pubDate>
+      <description><![CDATA[Der Europäische Forschungsrat (ERC) hat die Gewinnerinnen und Gewinner seiner „Advanced Grants" 2025 bekanntgegeben und vergibt rund 838 Millionen Euro an 319 führende Forschende in ganz Europa. Die Mittel stammen aus dem EU-Rahmenprogramm Horizont Europa und fördern ambitionierte, neugiergetriebene Grundlagenforschung über alle Disziplinen hinweg; die Förderung läuft in der Regel über fünf Jahre. Die geförderten Projekte sind an Universitäten und Forschungseinrichtungen quer durch die EU und assoziierte Länder angesiedelt – darunter zahlreiche Vorhaben in Deutschland sowie etwa in Großbritannien (mehrere Geförderte an der Universität Oxford) und Frankreich (16 Geförderte am CNRS). Laut ERC stieg die Zahl der Bewerbungen aus dem nicht-europäischen Ausland zuletzt deutlich an.<br/><br/><strong>Auswirkung:</strong> Die Förderung stärkt Europas Position in der Spitzenforschung, schafft hochqualifizierte Stellen und finanziert Projekte, die ohne kommerziellen Verwertungsdruck Grundlagenwissen schaffen – die Basis für spätere Innovationen in Medizin, Energie, Materialwissenschaft und Digitalisierung. Für Deutschland als einen der größten Standorte bedeutet das zusätzliche Mittel und internationale Sichtbarkeit. Die steigenden Bewerbungen aus dem Ausland deuten darauf hin, dass Europa als Forschungsstandort an Attraktivität gewinnt.<br/><br/><strong>Bias-Hinweis:</strong> Die Mitteilung stammt vom ERC bzw. der EU-Kommission selbst und ist insofern eine positiv gerahmte Eigendarstellung eines Fördergebers; die langfristige wissenschaftliche und gesellschaftliche Wirkung der einzelnen Projekte ist noch offen und lässt sich erst über Jahre beurteilen. Die genannten Zahlen (838 Mio. Euro, 319 Geförderte) sind offizielle Angaben des ERC.<br/><br/><strong>Quellenvielfalt:</strong> Europäischer Forschungsrat (Primärquelle), Pressemitteilung der EU-Kommission, Universität Oxford, CNRS, Open Access Government – mehrere Quellen; der Eigendarstellungs-Charakter der Fördermitteilung wurde benannt.]]></description>
+    </item>
 
     <!-- ════════ AUSGABE 23. JUNI 2026 (Nachrichten der letzten 24h) ════════ -->
 
