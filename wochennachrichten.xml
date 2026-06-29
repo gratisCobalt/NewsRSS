@@ -6,9 +6,126 @@
     <atom:link href="https://example.com/wochennachrichten/feed.xml" rel="self" type="application/rss+xml" />
     <description>Wöchentliche Zusammenfassung der wichtigsten Nachrichten aus aller Welt mit Schwerpunkt Europa und Deutschland – Politik, Wirtschaft &amp; Finanzen, IT/Tech. Inklusive Einordnung der Auswirkungen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Sun, 28 Jun 2026 18:00:00 +0200</lastBuildDate>
-    <pubDate>Sun, 28 Jun 2026 18:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 29 Jun 2026 18:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 29 Jun 2026 18:00:00 +0200</pubDate>
     <generator>Claude Code</generator>
+
+    <!-- ════════ AUSGABE 29. JUNI 2026 (Nachrichten der letzten 24h) ════════ -->
+
+    <!-- ════════ DEUTSCHLAND / WICHTIGSTE MELDUNG ════════ -->
+    <item>
+      <title>Deutschland: Schüsse in einer Jugendhilfeeinrichtung in Stade – mehrere Tote, Tatverdächtiger festgenommen; Hintergrund offenbar ein familiärer Sorgerechtsstreit</title>
+      <link>https://www.nbcnews.com/world/germany/shooting-stade-northern-germany-police-rcna352199</link>
+      <guid isPermaLink="false">wn-2026-06-29-stade-schuesse</guid>
+      <category>Deutschland</category>
+      <category>Kriminalität</category>
+      <category>Niedersachsen</category>
+      <pubDate>Mon, 29 Jun 2026 13:00:00 +0200</pubDate>
+      <description><![CDATA[In einer Jugendhilfeeinrichtung im niedersächsischen Stade (rund 45 km westlich von Hamburg, etwa 50.000 Einwohner) sind am Montag, 29. Juni, Schüsse gefallen. Nach Polizeiangaben kamen mehrere Menschen ums Leben; berichtet wird zunächst von fünf Todesopfern (vier Frauen, ein Mann) unmittelbar am Tatort, ein sechstes Opfer soll später im Krankenhaus seinen Verletzungen erlegen sein. Mehrere weitere Personen wurden teils schwer verletzt. Bei den Opfern handelt es sich nach Behördenangaben um Mitarbeitende der Einrichtung, nicht um Bewohnerinnen. Ein 45-jähriger, in Deutschland geborener türkischer Staatsangehöriger wurde kurz nach der Tat festgenommen; zudem wurde eine 65-jährige Frau als mutmaßliche Fahrerin eines Fluchtfahrzeugs in Gewahrsam genommen. Als möglicher Hintergrund gilt ein Termin des Verdächtigen zu künftigen Sorgerechtsfragen für seine drei Monate alte Tochter; das Kind und die Mutter waren anwesend, blieben aber unverletzt. Organisierte Kriminalität und politischer Extremismus wurden von den Ermittlern den Berichten zufolge ausgeschlossen.<br/><br/><strong>Auswirkung:</strong> Die Tat erschüttert eine Einrichtung, die eigentlich Schutz bieten soll, und trifft Mitarbeitende der Jugend- und Familienhilfe. Sie dürfte erneut Debatten über Sicherheit in sozialen Einrichtungen und über Eskalationen in Sorgerechtskonflikten auslösen. Die Ermittlungen zu Tathergang und Motiv dauern an.<br/><br/><strong>Bias-Hinweis:</strong> Die Opferzahl ist in den ersten Stunden uneinheitlich (fünf bzw. sechs Tote) – die Angaben sind vorläufig und werden hier als solche gekennzeichnet. Die Nennung von Alter und Staatsangehörigkeit des Verdächtigen kann in Schlagzeilen migrationspolitisch instrumentalisiert werden; da Polizei und Ermittler bislang von einem familiären Hintergrund ausgehen und Extremismus ausschließen, ist eine solche Verallgemeinerung nicht belegt und wird hier vermieden. Das Motiv ist nicht abschließend geklärt; "offenbar"/"mutmaßlich" kennzeichnet noch nicht bestätigte Angaben.<br/><br/><strong>Quellenvielfalt:</strong> NBC News, CNN, Al Jazeera, ABC News, Washington Post, CBS News – übereinstimmend bei Ort, Festnahme und familiärem Hintergrund; Differenzen bei der genauen Opferzahl werden offen benannt statt geglättet.]]></description>
+    </item>
+
+    <!-- ════════ EUROPA / KLIMA & GESUNDHEIT (AKTUALISIERUNG) ════════ -->
+    <item>
+      <title>Europa: WHO meldet über 1.300 zusätzliche Hitzetote seit dem 21. Juni – Rekordhitzewelle verlagert sich nach Osten (Aktualisierung)</title>
+      <link>https://www.france24.com/en/europe/20260628-more-than-1-300-excess-deaths-linked-to-record-breaking-europe-heatwave-who-says</link>
+      <guid isPermaLink="false">wn-2026-06-29-europa-hitze-who-update</guid>
+      <category>Europa</category>
+      <category>Klima</category>
+      <category>Gesundheit</category>
+      <category>Deutschland</category>
+      <pubDate>Sun, 28 Jun 2026 20:00:00 +0200</pubDate>
+      <description><![CDATA[Die Weltgesundheitsorganisation (WHO) beziffert die Zahl der zusätzlichen Todesfälle ("Übersterblichkeit") infolge der laufenden Rekordhitzewelle in Europa auf mehr als 1.300 seit dem 21. Juni. Besonders betroffen ist Frankreich, wo die nationale Gesundheitsbehörde allein seit dem 24. Juni rund 1.000 zusätzliche Todesfälle registrierte, überwiegend bei Menschen ab 65 Jahren; zudem werden seit dem 18. Juni mindestens 74 Ertrinkungstote gemeldet. In Spanien stieg die Zahl hitzebedingter Todesfälle bis zum 26. Juni auf etwa 327. Temperaturrekorde fielen unter anderem in Österreich, Tschechien, Frankreich, Deutschland und Polen, vielerorts um die 40 °C. Eine Schnell-Attributionsanalyse stuft das Ereignis als die schwerste je in der untersuchten Region gemessene Hitzewelle ein; eine vergleichbare Junihitze wäre demnach ohne den menschengemachten Klimawandel "praktisch unmöglich" gewesen. Die Hitze verlagert sich nun nach Osteuropa. Diese Meldung aktualisiert frühere Hitzewellen-Einträge in diesem Feed.<br/><br/><strong>Auswirkung:</strong> Die Gesundheitssysteme stehen unter Druck, besonders bei älteren und vorerkrankten Menschen. Hitzewarnungen, Trinkwasser- und Kühlangebote sowie Vorsicht an unbewachten Badestellen bleiben relevant. Mittelfristig verstärkt die Welle die Debatte über Hitzeschutzpläne, Stadtbegrünung und Klimaanpassung in Deutschland und der EU.<br/><br/><strong>Bias-Hinweis:</strong> "Übersterblichkeit" ist eine statistische Schätzung (erwartete vs. tatsächliche Todesfälle), keine Zählung individuell bestätigter Hitzetoter – die Zahlen sind vorläufig und werden je nach Quelle und Zeitraum unterschiedlich angegeben. Die Klima-Attribution stammt aus einer Schnellanalyse und ist eine wissenschaftliche Wahrscheinlichkeitsaussage, kein Einzelfallbeweis; sie wird als solche gekennzeichnet, ohne sie zu dramatisieren oder zu relativieren.<br/><br/><strong>Quellenvielfalt:</strong> France 24, Euronews, WHO (zitiert), NBC News, Al Jazeera – übereinstimmend bei Größenordnung und Schwerpunktländern; die Spannbreite der Zahlen wird benannt.]]></description>
+    </item>
+
+    <!-- ════════ EUROPA / POLITIK ════════ -->
+    <item>
+      <title>Serbien: Proteste gehen weiter, obwohl Präsident Vučić einen Rücktritt "in Wochen" und Neuwahlen ankündigt – Demonstrierende bleiben skeptisch</title>
+      <link>https://www.aljazeera.com/news/2026/6/28/serbias-protesters-press-on-even-after-vucic-promises-to-step-aside</link>
+      <guid isPermaLink="false">wn-2026-06-29-serbien-vucic-proteste</guid>
+      <category>Europa</category>
+      <category>Politik</category>
+      <category>Serbien</category>
+      <pubDate>Sun, 28 Jun 2026 18:00:00 +0200</pubDate>
+      <description><![CDATA[In der serbischen Stadt Kraljevo demonstrierten am Sonntag, 28. Juni, erneut Tausende Menschen – einen Tag, nachdem Präsident Aleksandar Vučić angekündigt hatte, binnen Wochen zurückzutreten und vorgezogene Präsidentschafts- und Parlamentswahlen zu ermöglichen. Auslöser der seit Monaten anhaltenden, studentisch geprägten Protestwelle war der Einsturz eines Vordachs am Bahnhof von Novi Sad Ende 2024, bei dem 16 Menschen starben; viele machen Korruption und Pfusch bei staatlichen Bauprojekten verantwortlich. Es ist die größte Protestbewegung seit dem Sturz von Slobodan Milošević im Jahr 2000. Viele Demonstrierende zeigten sich von der Rücktrittsankündigung unbeeindruckt: Sie und einige Analysten vermuten, Vučić könne ins mächtigere Amt des Ministerpräsidenten wechseln und die Präsidentschaft einem Vertrauten überlassen. Die Kundgebung fand bei über 35 °C statt.<br/><br/><strong>Auswirkung:</strong> Der angekündigte Rücktritt könnte ein Wendepunkt sein, doch die anhaltenden Proteste zeigen, dass das Vertrauen in die Führung tief erschüttert ist. Für die EU-Beitrittsperspektive Serbiens und die Stabilität auf dem Westbalkan ist der Ausgang bedeutsam.<br/><br/><strong>Bias-Hinweis:</strong> Die Deutung, der Rücktritt sei ein "Machterhalt in anderer Form", ist eine Einschätzung von Demonstrierenden und Analysten, keine festgestellte Tatsache – sie wird hier als Bewertung gekennzeichnet. Zugleich ist faktisch korrekt, dass Vučić ohnehin nicht erneut als Präsident kandidieren darf. Regierungsnahe und oppositionsnahe Darstellungen weichen stark voneinander ab; berichtet werden hier die belegten Eckdaten (Anlass, Größenordnung, Ankündigung) getrennt von der Interpretation.<br/><br/><strong>Quellenvielfalt:</strong> Al Jazeera, CBC, Sight Magazine, Türkiye Today, Yahoo News – übereinstimmend bei Anlass und Ablauf; die Skepsis der Demonstrierenden wird als Position, nicht als Fakt wiedergegeben.]]></description>
+    </item>
+
+    <!-- ════════ WELT / POLITIK (AKTUALISIERUNG) ════════ -->
+    <item>
+      <title>USA &amp; Iran: Nach erneutem Schlagabtausch am Wochenende vereinbaren beide Seiten ein vorläufiges "Stillhalten" – Gespräche in Doha geplant, freie Schifffahrt durch die Straße von Hormus</title>
+      <link>https://www.cbsnews.com/live-updates/us-iran-war-peace-talks-timetable-unclear-strait-of-hormuz-clashes/</link>
+      <guid isPermaLink="false">wn-2026-06-29-usa-iran-stillhalten-doha</guid>
+      <category>Welt</category>
+      <category>Politik</category>
+      <category>Naher Osten</category>
+      <pubDate>Sun, 28 Jun 2026 22:00:00 +0200</pubDate>
+      <description><![CDATA[Nach einem erneuten Schlagabtausch am Wochenende haben die USA und der Iran vereinbart, ihre wechselseitigen Angriffe vorerst einzustellen ("for now stand down") und sich erneut an den Verhandlungstisch zu setzen. Der Iran erklärte, am 28. Juni ballistische Raketen und Drohnen auf die US-Basis Ali al-Salem in Kuwait sowie das Hauptquartier der 5. US-Flotte in Bahrain abgefeuert zu haben – als Vergeltung für amerikanische Angriffe auf fünf iranische Küstenstandorte. Beide Seiten erklärten, Schiffe könnten die Straße von Hormus wieder frei passieren. Für Dienstag sind in Doha (Katar) Gespräche angesetzt, die sich auf das Schifffahrtsmanagement in der Meerenge und eine weitere Deeskalation konzentrieren sollen. Hintergrund ist ein Anfang des Monats unterzeichnetes Memorandum mit einem 60-Tage-Fenster für ein endgültiges Abkommen, das auch Irans Atomprogramm adressieren soll. Diese Meldung aktualisiert frühere Nahost-Einträge in diesem Feed.<br/><br/><strong>Auswirkung:</strong> Eine offene Straße von Hormus ist für die globalen Öl- und Gaslieferungen und damit auch für Energiepreise in Europa zentral. Die Waffenruhe bleibt fragil; ein Scheitern der Gespräche könnte die Märkte und die regionale Sicherheitslage rasch wieder belasten.<br/><br/><strong>Bias-Hinweis:</strong> Wer den jüngsten Schlagabtausch begonnen hat und wie er einzuordnen ist, wird von Washington und Teheran gegensätzlich dargestellt; beide Seiten betreiben Eskalations- bzw. Deeskalationskommunikation im eigenen Interesse. Begriffe wie "Waffenruhe" oder "Sieg" sind teils PR-getrieben – hier werden die wechselseitigen Angaben als Behauptungen der jeweiligen Seite gekennzeichnet und die belegten Eckpunkte (geplante Gespräche, freie Passage) davon getrennt.<br/><br/><strong>Quellenvielfalt:</strong> CBS News, CNN, RFE/RL, Wikipedia (Chronologie), House of Commons Library – die Darstellungen der Konfliktparteien werden gegenübergestellt statt einer Seite zu folgen.]]></description>
+    </item>
+
+    <!-- ════════ WIRTSCHAFT & FINANZEN ════════ -->
+    <item>
+      <title>Wirtschaft &amp; Finanzen: Europas Börsen schließen nahezu unverändert, US-Wachstum für Q1 nach oben revidiert – schwindende Zinssenkungsfantasie stützt den Dollar</title>
+      <link>https://www.ajg.com/news-and-insights/weekly-financial-markets-update-june-29-2026/</link>
+      <guid isPermaLink="false">wn-2026-06-29-maerkte-bip-dollar</guid>
+      <category>Wirtschaft</category>
+      <category>Finanzen</category>
+      <category>Welt</category>
+      <category>Börse</category>
+      <pubDate>Mon, 29 Jun 2026 17:30:00 +0200</pubDate>
+      <description><![CDATA[An den europäischen Börsen verlief der Handel zuletzt richtungslos: Der paneuropäische Stoxx 600 schloss nahezu unverändert (gut +0,1 % bzw. teils leicht im Minus), während DAX, FTSE 100 und CAC 40 jeweils rund 0,2 % nachgaben. In den USA wurde das Wirtschaftswachstum für das erste Quartal 2026 auf eine annualisierte Rate von 2,1 % nach oben revidiert (zuvor 1,6 %), getragen vor allem von Unternehmensinvestitionen – insbesondere KI-bezogene Computertechnik – sowie Exporten und Staatsausgaben. Der US-Dollar-Index legte seit Anfang Mai rund 3,5 % zu, da Anlegerinnen und Anleger frühere Erwartungen einer Zinssenkung der US-Notenbank Fed zunehmend gegen die Möglichkeit einer Zinserhöhung eintauschen. Am Anleihemarkt wurde im Juni reichlich Investment-Grade-Schuld begeben (über 120 Mrd. US-Dollar in der ersten Monatshälfte).<br/><br/><strong>Auswirkung:</strong> Ein festerer Dollar und steigende US-Renditen können Kapital aus Europa abziehen und exportorientierte sowie hoch verschuldete Unternehmen belasten; zugleich verbilligt ein starker Dollar US-Importe. Für die EZB und europäische Anleger bleibt die Frage zentral, ob die Fed eher lockert oder strafft – davon hängen Wechselkurse, Finanzierungskosten und Aktienbewertungen mit ab.<br/><br/><strong>Bias-Hinweis:</strong> Tagesaktuelle Indexbewegungen sind Momentaufnahmen und je nach Handelsschluss/Quelle leicht unterschiedlich; sehr präzise Punktstände wurden daher bewusst vermieden. Zins- und Wechselkursprognosen sind Markterwartungen, keine Gewissheiten – "könnte"/"dürfte" kennzeichnet Szenarien. Marktkommentare einzelner Finanzhäuser können Eigeninteressen widerspiegeln und werden hier nur für belegte Datenpunkte (BIP-Revision, Dollar-Index) herangezogen.<br/><br/><strong>Quellenvielfalt:</strong> Gallagher (Wochenupdate), CaixaBank Research, CNBC, Trading Economics – übereinstimmend bei BIP-Revision und Dollar-Trend; uneinheitliche Tagesstände werden nicht als Einzelwahrheit dargestellt.]]></description>
+    </item>
+
+    <!-- ════════ IT & TECH ════════ -->
+    <item>
+      <title>IT/Tech: Technologiewerte unter Druck – Berichte über eine mögliche Verschiebung des OpenAI-Börsengangs und eine Apple-Warnung vor höheren Vorleistungskosten belasten die Stimmung</title>
+      <link>https://www.cnbc.com/2026/06/28/stock-futures-today-live-updates.html</link>
+      <guid isPermaLink="false">wn-2026-06-29-tech-openai-ipo-apple</guid>
+      <category>IT</category>
+      <category>Tech</category>
+      <category>Welt</category>
+      <category>KI</category>
+      <category>Börse</category>
+      <pubDate>Mon, 29 Jun 2026 16:00:00 +0200</pubDate>
+      <description><![CDATA[Technologieaktien gerieten zuletzt unter Druck. Auslöser waren nach Marktberichten eine Warnung von Apple vor höheren Vorleistungs- bzw. Inputkosten sowie Berichte über eine mögliche Verschiebung des lange erwarteten Börsengangs (IPO) von OpenAI. In Asien entwickelten sich die Märkte schwächer; der Schwellenländerindex MSCI EM verzeichnete laut einem Wochenbericht seine schwächste Woche seit März. Parallel hält ein bereits zuvor gemeldeter Branchentrend an: Anbieter setzen verstärkt auf Effizienz und Kostenkontrolle ("Effizienz statt maximaler Rechenlast") statt auf immer größere Modelle.<br/><br/><strong>Auswirkung:</strong> Für europäische und deutsche Tech-Investoren und KI-nutzende Unternehmen sind zwei Dinge relevant: Erstens hängen viele Bewertungen stark an wenigen großen KI-/Tech-Werten, weshalb einzelne Warnungen breite Indexbewegungen auslösen können. Zweitens deuten Effizienzfokus und vorsichtigere IPO-Pläne auf eine realistischere Einschätzung der hohen Infrastruktur- und Energiekosten von KI hin – das ist auch für die EU-Debatte über KI-Regulierung und Wettbewerbsfähigkeit von Bedeutung.<br/><br/><strong>Bias-Hinweis:</strong> Sowohl die OpenAI-IPO-Verschiebung als auch die Tragweite der Apple-Warnung beruhen auf Marktberichten und sind nicht durch belastbare Primärmitteilungen der Unternehmen bestätigt – Angaben daher mit Vorsicht und im Konjunktiv. "Schwächste Woche seit März" ist eine relative Einordnung, kein Krisensignal; Börsenkommentare neigen zu zuspitzenden Narrativen ("Tech-Ausverkauf"), die hier vermieden werden.<br/><br/><strong>Quellenvielfalt:</strong> CNBC, Gallagher (Wochenupdate), Schwab Market Update – mehrere Finanzquellen; mangels Primärbestätigung der Unternehmensangaben bewusst als "laut Berichten" gekennzeichnet.]]></description>
+    </item>
+
+    <!-- ════════ WELT / EUROPA / UNGLÜCK ════════ -->
+    <item>
+      <title>Frankreich: Fallschirmsprung-Flugzeug stürzt bei Nancy ab – alle elf Insassen tot, schwerstes Unglück dieser Art in Frankreich seit rund 30 Jahren</title>
+      <link>https://www.aljazeera.com/news/2026/6/28/at-least-11-dead-in-civilian-plane-crash-in-eastern-france-authorities</link>
+      <guid isPermaLink="false">wn-2026-06-29-frankreich-flugzeugabsturz</guid>
+      <category>Welt</category>
+      <category>Europa</category>
+      <category>Frankreich</category>
+      <category>Unglück</category>
+      <pubDate>Sun, 28 Jun 2026 14:00:00 +0200</pubDate>
+      <description><![CDATA[Beim Absturz eines Flugzeugs für Fallschirmsprünge im Nordosten Frankreichs sind am Sonntag, 28. Juni, alle elf Menschen an Bord ums Leben gekommen. Die Maschine – nach Daten von Flugverfolgungsdiensten eine einmotorige Pilatus PC-6 – war kurz zuvor vom Flugfeld Nancy-Essey am Rande der Stadt Nancy gestartet und stürzte etwa 300 Meter von der Landebahn entfernt gegen 11 Uhr Ortszeit fast senkrecht ab. Unter den Toten waren fünf Sprunglehrer, fünf Anfänger und der Pilot. Verkehrsminister Philippe Tabarot sprach vom schwersten Fallschirmsprung-Flugunglück in Frankreich seit rund 30 Jahren. Die Unglücksursache wird untersucht; Flugdaten zeigen, dass die Maschine kurz nach dem Start nach links abkippte und weniger als eine Minute später vom Radar verschwand.<br/><br/><strong>Auswirkung:</strong> Ein tragisches Unglück mit elf Toten; die Untersuchung dürfte sich auf technische Defekte und Wartung der Maschine konzentrieren und könnte Folgen für Sicherheitsauflagen im Sportspringen haben.<br/><br/><strong>Bias-Hinweis:</strong> Die Absturzursache ist offen; Angaben zu einem "Defekt" beruhen auf vorläufigen Beobachtungen und Flugdaten, nicht auf einem amtlichen Untersuchungsergebnis – Spekulationen über Schuld werden vermieden. Flugzeugtyp und Hergang stammen aus Tracking-Diensten und behördlichen Erstangaben und können sich präzisieren.<br/><br/><strong>Quellenvielfalt:</strong> Al Jazeera, NBC News, ABC News, CNN, Fox News – übereinstimmend bei Opferzahl, Ort und Einordnung als schweres Unglück; offene Ursache wird klar benannt.]]></description>
+    </item>
+
+    <!-- ════════ POSITIV / WISSENSCHAFT ════════ -->
+    <item>
+      <title>Positiv &amp; Wissenschaft: Das Gehirn unter Vollnarkose verarbeitet offenbar weiterhin Sprache – Studie unterscheidet Reaktionen auf Substantive, Verben und Adjektive</title>
+      <link>https://www.sciencedaily.com/news/top/science/</link>
+      <guid isPermaLink="false">wn-2026-06-29-narkose-sprache-gehirn</guid>
+      <category>Wissenschaft</category>
+      <category>Positiv</category>
+      <category>Medizin</category>
+      <category>Neurowissenschaft</category>
+      <pubDate>Sun, 28 Jun 2026 11:00:00 +0200</pubDate>
+      <description><![CDATA[Forschende berichten, dass das Gehirn unter Allgemeinanästhesie leistungsfähiger ist als lange angenommen: Selbst tief narkotisierte Patientinnen und Patienten verarbeiteten Sprache offenbar auf erstaunlich differenziertem Niveau und reagierten unterschiedlich auf Wortarten wie Substantive, Verben und Adjektive. Die am 28. Juni über Wissenschaftsmedien verbreitete Studie liefert neue Einblicke in die Frage, wie viel Sprachverarbeitung ohne bewusstes Erleben möglich ist.<br/><br/><strong>Auswirkung:</strong> Die Ergebnisse könnten helfen, Narkosetiefe und das Risiko ungewollter Wachheit ("Awareness") während Operationen besser zu verstehen, und befeuern die Grundlagenforschung zu Bewusstsein und Sprachverarbeitung. Klinische Konsequenzen sind noch offen, aber die Richtung ist vielversprechend.<br/><br/><strong>Bias-Hinweis:</strong> Es handelt sich um eine Einzelstudie; "verarbeitet Sprache" bedeutet nicht "ist bei Bewusstsein" oder "erinnert sich" – diese Unterscheidung wird hier ausdrücklich gemacht, um überzogene Schlagzeilen ("Patienten hören alles mit") zu vermeiden. Reichweite, Stichprobengröße und Reproduzierbarkeit sind aus der Kurzmeldung nicht abschließend beurteilbar; Ergebnisse bedürfen unabhängiger Bestätigung.<br/><br/><strong>Quellenvielfalt:</strong> ScienceDaily (Aufbereitung der Studienmeldung) – wegen Einzelquelle und fehlender unabhängiger Replikation bewusst zurückhaltend formuliert.]]></description>
+    </item>
+
+    <!-- ════════ POSITIV / WISSENSCHAFT ════════ -->
+    <item>
+      <title>Positiv &amp; Wissenschaft: Bodenbakterien machen Pflanzen widerstandsfähiger gegen salzige Böden – Hoffnung für die Landwirtschaft in trockenen Regionen</title>
+      <link>https://www.sciencedaily.com/news/top/science/</link>
+      <guid isPermaLink="false">wn-2026-06-29-bodenbakterien-salztoleranz</guid>
+      <category>Wissenschaft</category>
+      <category>Positiv</category>
+      <category>Landwirtschaft</category>
+      <category>Klima</category>
+      <pubDate>Sun, 28 Jun 2026 10:00:00 +0200</pubDate>
+      <description><![CDATA[Forschende haben beschrieben, dass nützliche Bodenbakterien Pflanzen einen unerwarteten Überlebensvorteil auf salzhaltigen Böden verschaffen: Die Mikroben regen die Bildung von Lignin an – einem natürlichen Verstärkungsstoff in Zellwänden –, was die Pflanzen widerstandsfähiger gegen Salzstress macht. Die Meldung wurde am 28. Juni über Wissenschaftsmedien verbreitet.<br/><br/><strong>Auswirkung:</strong> Versalzung von Böden ist ein wachsendes Problem in vielen trockenen und küstennahen Anbauregionen und wird durch Klimawandel und Bewässerung verschärft. Ein mikrobieller Ansatz könnte – sofern er sich im Feld bestätigt – helfen, Erträge ohne teure Gentechnik oder Chemikalien zu sichern, und passt zur aktuellen Debatte über klimaresiliente Landwirtschaft (auch in Süd- und Osteuropa).<br/><br/><strong>Bias-Hinweis:</strong> Laborergebnisse lassen sich nicht automatisch auf reale Felder übertragen; "könnte helfen" kennzeichnet eine Perspektive, kein einsatzbereites Verfahren. Die Kurzmeldung erlaubt keine Aussage zu Pflanzenarten, Skalierbarkeit und Langzeitwirkung – diese Einschränkungen werden offen benannt, um aus einem Grundlagenbefund keine fertige Lösung zu machen.<br/><br/><strong>Quellenvielfalt:</strong> ScienceDaily (Aufbereitung der Studienmeldung) – Einzelquelle; daher als vielversprechender Grundlagenbefund, nicht als Praxisreife dargestellt.]]></description>
+    </item>
 
     <!-- ════════ AUSGABE 28. JUNI 2026 (Nachrichten der letzten 24h) ════════ -->
 
