@@ -6,11 +6,110 @@
     <atom:link href="https://example.com/wochennachrichten/feed.xml" rel="self" type="application/rss+xml" />
     <description>Wöchentliche Zusammenfassung der wichtigsten Nachrichten aus aller Welt mit Schwerpunkt Europa und Deutschland – Politik, Wirtschaft &amp; Finanzen, IT/Tech. Inklusive Einordnung der Auswirkungen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 30 Jun 2026 18:00:00 +0200</lastBuildDate>
-    <pubDate>Tue, 30 Jun 2026 18:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 01 Jul 2026 18:00:00 +0200</lastBuildDate>
+    <pubDate>Wed, 01 Jul 2026 18:00:00 +0200</pubDate>
     <generator>Claude Code</generator>
 
-    <!-- ════════ AUSGABE 30. JUNI 2026 (Nachrichten der letzten 24h) ════════ -->
+    <!-- ════════ AUSGABE 1. JULI 2026 (Nachrichten der letzten 24h) ════════ -->
+
+    <!-- ════════ DEUTSCHLAND / POLITIK ════════ -->
+    <item>
+      <title>Deutschland: Koalitionsausschuss von Union und SPD ringt in Berlin um großes Reformpaket zu Steuern, Rente, Arbeitsmarkt und Pflege – Merz erwartet einen "großen Sprung nach vorn"</title>
+      <link>https://www.zdfheute.de/politik/deutschland/merz-erwartet-einigung-reformpaket-100.html</link>
+      <guid isPermaLink="false">wn-2026-07-01-koalitionsausschuss-reformpaket</guid>
+      <category>Deutschland</category>
+      <category>Politik</category>
+      <category>Wirtschaft</category>
+      <pubDate>Wed, 01 Jul 2026 12:00:00 +0200</pubDate>
+      <description><![CDATA[Die Spitzen von CDU/CSU und SPD kamen am Mittwoch, 1. Juli, in Berlin zu einem Koalitionsausschuss zusammen, um ein umfangreiches Reformpaket noch vor der Sommerpause zu schnüren. Gebündelt verhandelt werden Einkommensteuer, Rente, Gesundheit, Pflege und Arbeitsmarkt. Beim Streitpunkt Steuern peilt die Koalition eine Entlastung vor allem kleiner und mittlerer Einkommen zum 1. Januar 2027 an; strittig bleibt deren Gegenfinanzierung. Beim Arbeitsmarkt geht es um eine mögliche Flexibilisierung der Arbeitszeit (wöchentliche statt täglicher Höchstarbeitszeit). Bei der Rente will man den Empfehlungen der Rentenkommission folgen (schrittweise längeres Arbeiten, neue Kapitalsäule); eine Gesundheitsreform soll bereits kommende Woche in den Bundestag. Kanzler Friedrich Merz sprach vorab von einem erhofften "großen Sprung nach vorn"; ein Scheitern einzelner Punkte wurde nicht ausgeschlossen.<br/><br/><strong>Auswirkung:</strong> Von den Beschlüssen hängen konkrete Entlastungen und Belastungen für Millionen Steuerzahler, Rentner und Beschäftigte ab. Gelingt die Einigung, könnte sie Planungssicherheit für Haushalte und Unternehmen schaffen; ein Teilscheitern würde die Handlungsfähigkeit der noch jungen Koalition infrage stellen. Endgültige Wirkung entsteht erst mit den konkreten Gesetzen, die teils bis Jahresende ausformuliert werden sollen.<br/><br/><strong>Bias-Hinweis:</strong> Regierungsnahe Darstellungen betonen den "großen Sprung", oppositions- und teils wirtschaftsnahe Stimmen das drohende Scheitern – beide Rahmungen sind wertend. Berichtet werden hier die verhandelten Themenfelder und der Status (offen, noch nicht beschlossen); Merz' "großer Sprung" ist ausdrücklich als Erwartung/Zitat gekennzeichnet, nicht als Ergebnis. Solange kein Beschluss vorliegt, bleiben Details vorläufig.<br/><br/><strong>Quellenvielfalt:</strong> ZDFheute, Tagesspiegel, NWZ/nw.de, Werra-Rundschau, Bloomberg – übereinstimmend bei Anlass (Koalitionsausschuss am 1.7.), Themenfeldern und offenem Ausgang; Einschätzungen zur Erfolgswahrscheinlichkeit unterscheiden sich je nach Quelle und werden hier nicht als Fakt übernommen.]]></description>
+    </item>
+
+    <!-- ════════ DEUTSCHLAND / WIRTSCHAFT & FINANZEN ════════ -->
+    <item>
+      <title>Deutschland: Renten steigen zum 1. Juli um 4,24 Prozent – aktueller Rentenwert von 40,79 auf 42,52 Euro; zugleich treten mehrere weitere Änderungen in Kraft</title>
+      <link>https://www.bundesregierung.de/breg-de/aktuelles/rentenanpassung-2026-2337000</link>
+      <guid isPermaLink="false">wn-2026-07-01-rentenanpassung-juli</guid>
+      <category>Deutschland</category>
+      <category>Wirtschaft</category>
+      <category>Finanzen</category>
+      <category>Soziales</category>
+      <pubDate>Wed, 01 Jul 2026 08:00:00 +0200</pubDate>
+      <description><![CDATA[Zum 1. Juli 2026 steigen die gesetzlichen Renten in Deutschland um 4,24 Prozent. Der aktuelle Rentenwert – die Rechengröße, die einen Entgeltpunkt in Euro umrechnet – erhöht sich von 40,79 auf 42,52 Euro. Für einen "Standardrentner" mit 45 Beitragsjahren bei Durchschnittsverdienst bedeutet das rechnerisch rund 77,85 Euro mehr pro Monat. Die Anpassung gilt bundesweit einheitlich. Zum Monatsbeginn treten zudem weitere Änderungen in Kraft, die Verbraucherinnen und Verbraucher betreffen.<br/><br/><strong>Auswirkung:</strong> Rund 21 Millionen Rentnerinnen und Rentner erhalten mehr Geld – angesichts einer für 2026 auf etwa 2,9 Prozent prognostizierten Inflation (getrieben u. a. von Energiepreisen) fällt der reale Kaufkraftgewinn aber kleiner aus als die Nominalzahl vermuten lässt. Höhere Rentenausgaben belasten zugleich die Rentenkasse und verschärfen die Debatte um die im Koalitionsausschuss verhandelte Rentenreform.<br/><br/><strong>Bias-Hinweis:</strong> Die 4,24 Prozent sind eine Nominalgröße; sie werden hier bewusst der Inflation gegenübergestellt, um weder eine überzogene "kräftige Rentenerhöhung" zu suggerieren noch den realen Zuwachs kleinzureden. Regierungsmitteilungen stellen die Entlastung in den Vordergrund; die Finanzierungsseite (Beitrags- und Steuerzuschuss-Belastung) wird ergänzt, um ein ausgewogenes Bild zu geben. Frühere Prognosen nannten niedrigere Werte (z. B. 3,73 %); maßgeblich ist der amtlich festgelegte Wert von 4,24 %.<br/><br/><strong>Quellenvielfalt:</strong> Bundesregierung (Primärquelle), germanpedia, iamExpat, Meyka – übereinstimmend bei Erhöhungssatz (4,24 %) und neuem Rentenwert (42,52 €); die Einordnung zur realen Kaufkraft stützt sich auf EU-Kommission/Bundesbank-Inflationsprognosen.]]></description>
+    </item>
+
+    <!-- ════════ EUROPA / POLITIK ════════ -->
+    <item>
+      <title>EU-Parlament leitet Verfahren gegen rechte Europapartei "Europa der Souveränen Nationen" (ESN) ein – am Ende könnten Parteistatus und über 2 Mio. Euro EU-Zuschüsse entzogen werden</title>
+      <link>https://www.euronews.com/my-europe/2026/07/01/european-parliament-to-start-procedure-to-ban-alternative-for-germanys-eu-party</link>
+      <guid isPermaLink="false">wn-2026-07-01-eu-esn-verfahren</guid>
+      <category>Europa</category>
+      <category>Politik</category>
+      <category>EU</category>
+      <pubDate>Wed, 01 Jul 2026 11:00:00 +0200</pubDate>
+      <description><![CDATA[Das Europäische Parlament hat am 1. Juli ein Prüfverfahren gegen die rechte Europapartei "Europa der Souveränen Nationen" (ESN) angestoßen, der u. a. die deutsche AfD angehört. Mehr als 180 Abgeordnete unterzeichneten den Antrag, mit dem die Behörde für europäische politische Parteien und Stiftungen (APPF) prüfen soll, ob die Partei die Grundwerte der EU einhält. Grundlage ist ein rund 300-seitiges Schreiben der APPF vom 22. Mai. Wird ein Verstoß festgestellt, könnte der ESN der Status als europäische Partei und damit über 2 Millionen Euro jährliche EU-Zuschüsse entzogen werden. Betroffen wäre nur die EU-Partei; die gleichnamige Fraktion im Parlament (derzeit 27 Abgeordnete) und die Mandate der Abgeordneten blieben unberührt.<br/><br/><strong>Auswirkung:</strong> Ein Entzug von Status und Förderung würde die europaweite Vernetzung und Finanzierung rechter Parteien schwächen. Kritiker sehen darin zugleich einen heiklen Präzedenzfall, weil eine Verwaltungsbehörde bzw. wenige Sachverständige über die Stellung einer von Millionen gewählten Partei mitentscheiden. Das Verfahren dürfte den Streit über den Umgang mit der Rechten in der EU weiter anheizen.<br/><br/><strong>Bias-Hinweis:</strong> Die Wortwahl schwankt je nach Quelle stark zwischen "Verbot"/"ban" und dem neutraleren "Prüf-/Aberkennungsverfahren" – tatsächlich geht es um Parteistatus und Förderung, nicht um ein Verbot der Partei oder ihrer Mandate; das wird hier klargestellt. Rechte Medien rahmen den Schritt als Angriff auf Demokratie und Wählerwillen, andere als Schutz der EU-Grundwerte; beide Deutungen sind Wertungen. Berichtet werden die belegten Fakten (Antrag von 180+ Abgeordneten, APPF-Prüfung, mögliche Folgen für Status und Zuschüsse).<br/><br/><strong>Quellenvielfalt:</strong> Euronews, Agence Europe, EUalive, Hungarian Conservative (rechts-konservativ) – übereinstimmend bei Verfahrensschritt und möglichen finanziellen Folgen; die Bewertung (Demokratieschutz vs. Wählerentrechtung) unterscheidet sich klar nach politischer Ausrichtung und wird hier offengelegt statt übernommen.]]></description>
+    </item>
+
+    <!-- ════════ EUROPA / WIRTSCHAFT ════════ -->
+    <item>
+      <title>EU führt zum 1. Juli einen pauschalen 3-Euro-Zoll auf Kleinsendungen aus Nicht-EU-Ländern ein – vor allem Billig-Onlinehändler wie Temu und Shein betroffen</title>
+      <link>https://www.consilium.europa.eu/en/press/press-releases/2025/12/12/customs-council-agrees-to-levy-customs-duty-on-small-parcels-as-of-1-july-2026/</link>
+      <guid isPermaLink="false">wn-2026-07-01-eu-3-euro-zoll-kleinsendungen</guid>
+      <category>Europa</category>
+      <category>Wirtschaft</category>
+      <category>EU</category>
+      <category>Handel</category>
+      <pubDate>Wed, 01 Jul 2026 07:00:00 +0200</pubDate>
+      <description><![CDATA[Seit dem 1. Juli 2026 erhebt die EU einen festen Zoll von 3 Euro auf Warensendungen mit einem Wert unter 150 Euro, die aus Nicht-EU-Ländern eingeführt werden. Solche Kleinsendungen kamen bislang zollfrei in die EU. Der Zoll wird je unterschiedlicher Warenart in einer Sendung fällig, nicht pauschal pro Paket, und gilt für Waren, für die Nicht-EU-Händler im EU-Import-One-Stop-Shop (IOSS) registriert sind. Die Maßnahme ist befristet bis 1. Juli 2028; ab November 2026 könnte zusätzlich eine EU-weite Bearbeitungsgebühr von rund 2 Euro pro Paket hinzukommen. Als am stärksten betroffen gelten E-Commerce-Plattformen wie Temu und Shein.<br/><br/><strong>Auswirkung:</strong> Für europäische Händler soll fairerer Wettbewerb entstehen, da der bisherige Preisvorteil zollfreier Kleinimporte sinkt; Verbraucher müssen mit höheren Endpreisen für Billigimporte rechnen. Die EU begründet den Schritt auch mit Verbraucherschutz, Betrugsbekämpfung und Umweltbelangen (Masse an Einzelsendungen). Wirksamkeit und Durchsetzung hängen von der Registrierung der Händler und der Zollabwicklung ab.<br/><br/><strong>Bias-Hinweis:</strong> Schlagzeilen rahmen den Schritt teils als "Ende des ultrabilligen Versands" oder gezielten Schlag gegen Temu/Shein – das ist zugespitzt. Sachlich handelt es sich um eine allgemeine, befristete Zollregel für alle Kleinsendungen; die besondere Betroffenheit einzelner Plattformen ergibt sich aus deren Geschäftsmodell, ist aber keine namentliche Sondersteuer. Diese Unterscheidung wird hier bewusst getroffen.<br/><br/><strong>Quellenvielfalt:</strong> Rat der EU/Consilium (Primärquelle), Euronews, Carra Globe, marketing4ecommerce – übereinstimmend bei Höhe (3 €), Wertgrenze (150 €), Startdatum (1.7.2026) und Befristung (bis 2028); die Zuspitzung auf Temu/Shein stammt aus der Medienrahmung und wird als solche eingeordnet.]]></description>
+    </item>
+
+    <!-- ════════ WELT / POLITIK ════════ -->
+    <item>
+      <title>Ukraine-Krieg: Ukrainische Drohnen treffen erneut das Raumfahrt-Kommunikationszentrum Dubna nördlich von Moskau – Teil einer 40-Tage-Kampagne gegen russische Militärinfrastruktur</title>
+      <link>https://www.cnn.com/2026/06/30/europe/moscow-dubna-attack-ukraine-intl</link>
+      <guid isPermaLink="false">wn-2026-07-01-ukraine-dubna-drohnen</guid>
+      <category>Welt</category>
+      <category>Politik</category>
+      <category>Ukraine-Krieg</category>
+      <pubDate>Tue, 30 Jun 2026 22:00:00 +0200</pubDate>
+      <description><![CDATA[In der Nacht zum 30. Juni griffen ukrainische Streitkräfte erneut das Raumfahrt-Kommunikationszentrum in Dubna im Gebiet Moskau an – nach eigenen Angaben zum zweiten Mal binnen gut einer Woche (erster Treffer laut ukrainischem Militär am 22. Juni). Die Anlage liegt mehr als 500 km von der ukrainischen Grenze entfernt und dient laut ukrainischer Darstellung u. a. der Aufklärung und der Koordinierung russischer Besatzungstruppen. Der Angriff ist Teil einer von Präsident Selenskyj gebilligten 40-tägigen Operation gegen militärische Ziele, Rüstungsbetriebe sowie Logistik- und Energieinfrastruktur. Nach Berichten kamen bei den nächtlichen Angriffen auch Zivilisten zu Schaden, darunter ein getötetes Kleinkind. Parallel hatte Kanzler Merz zuletzt auf der Ukraine-Wiederaufbaukonferenz in Gdańsk (25./26. Juni) dazu aufgerufen, in Verhandlungen einzutreten und "die Frontlinie einzufrieren", zugleich aber mehr Druck auf Russland gefordert.<br/><br/><strong>Auswirkung:</strong> Treffer tief im russischen Hinterland zeigen die gewachsene Reichweite ukrainischer Drohnen und zielen darauf, Russlands militärische Kommunikations- und Aufklärungsfähigkeit zu stören. Zivile Opfer erhöhen den politischen Druck auf beiden Seiten. Ob Merz' Verhandlungsappell Wirkung entfaltet, ist offen – militärische Eskalation und diplomatische Signale laufen derzeit parallel.<br/><br/><strong>Bias-Hinweis:</strong> Angaben zu Zielen, Zweck der Anlage und Schäden stammen überwiegend von der jeweils eigenen Kriegspartei und sind unabhängig schwer prüfbar; ukrainische Quellen betonen militärischen Nutzen, russische die zivilen Opfer. Beide Perspektiven werden getrennt als Behauptung gekennzeichnet. Der militärische "Erfolg" wird nicht als gesicherter Fakt übernommen, ebenso wenig ein bestimmter Schuldzuweisungs-Frame bei den zivilen Opfern.<br/><br/><strong>Quellenvielfalt:</strong> CNN, ABC News, Kyiv Independent, Ukrainska Pravda, Global News – übereinstimmend bei Ort (Dubna), Zeitpunkt (Nacht zum 30.6.) und Wiederholungscharakter des Angriffs; Opferzahlen und die Bewertung des militärischen Nutzens variieren je nach Quelle und werden vorsichtig wiedergegeben.]]></description>
+    </item>
+
+    <!-- ════════ WELT / GESUNDHEIT ════════ -->
+    <item>
+      <title>DR Kongo: Ebola-Ausbruch (Bundibugyo-Virus) mit über 300 Toten und mehr als 1.150 bestätigten Fällen – für diesen Virustyp gibt es bislang keinen zugelassenen Impfstoff</title>
+      <link>https://www.who.int/emergencies/situations/ebola-outbreak---drc-2026</link>
+      <guid isPermaLink="false">wn-2026-07-01-ebola-drkongo</guid>
+      <category>Welt</category>
+      <category>Gesundheit</category>
+      <category>Afrika</category>
+      <pubDate>Tue, 30 Jun 2026 15:00:00 +0200</pubDate>
+      <description><![CDATA[Der seit Wochen laufende Ebola-Ausbruch in der Demokratischen Republik Kongo (mit Fällen auch in Uganda) hat sich weiter verschärft. Nach Angaben des kongolesischen Gesundheitsministeriums wurden bis zum 25. Juni insgesamt 1.155 bestätigte Fälle und 304 bestätigte Todesfälle registriert; die am stärksten betroffene Provinz ist Ituri. Verursacher ist das Bundibugyo-Virus, eine Ebola-Art, für die es bislang weder einen zugelassenen Impfstoff noch eine spezifische Therapie gibt – vielversprechende Kandidaten werden erst getestet. Die WHO warnt, dass der Ausbruch mit Konflikt und Hunger in der Region zusammenfällt.<br/><br/><strong>Auswirkung:</strong> Das Fehlen eines zugelassenen Impfstoffs für diesen Virustyp erschwert die Eindämmung erheblich; die Kombination mit bewaffneten Konflikten und Versorgungsengpässen erhöht das Risiko einer weiteren Ausbreitung, auch über Grenzen hinweg. Für Europa ist das Ansteckungsrisiko nach bisherigem Stand gering, die humanitäre Lage vor Ort jedoch ernst.<br/><br/><strong>Bias-Hinweis:</strong> Fallzahlen in laufenden Ausbrüchen sind vorläufig und hängen von Test- und Meldekapazitäten ab; sie werden hier mit Stichtag (25. Juni) und Quelle gekennzeichnet, nicht als endgültig dargestellt. Es wird bewusst weder dramatisiert noch verharmlost: Die WHO-Warnung vor dem Zusammenspiel mit Konflikt und Hunger ist eine Einordnung der Behörde, keine Prognose.<br/><br/><strong>Quellenvielfalt:</strong> WHO, ECDC, US-CDC, UN News – übereinstimmend bei Virustyp (Bundibugyo), Fehlen eines zugelassenen Impfstoffs und Größenordnung der Fälle/Todesfälle; kleinere Abweichungen bei tagesaktuellen Zahlen ergeben sich aus unterschiedlichen Stichtagen und werden benannt.]]></description>
+    </item>
+
+    <!-- ════════ IT / TECH ════════ -->
+    <item>
+      <title>KI-Branche: Zum Monatswechsel mehrere neue Modelle – Anthropic stellt "Claude Sonnet 5" vor, Google veröffentlicht zwei neue Bildgenerierungsmodelle der Gemini-Reihe</title>
+      <link>https://www.artificialintelligence-news.com/</link>
+      <guid isPermaLink="false">wn-2026-07-01-ki-modelle-anthropic-google</guid>
+      <category>Welt</category>
+      <category>IT/Tech</category>
+      <category>Künstliche Intelligenz</category>
+      <pubDate>Tue, 30 Jun 2026 16:00:00 +0200</pubDate>
+      <description><![CDATA[Rund um den Monatswechsel haben mehrere KI-Anbieter neue Modelle vorgestellt. Anthropic veröffentlichte am 30. Juni "Claude Sonnet 5" und machte es nach eigenen Angaben ab dem 1. Juli zum Standardmodell für alle kostenlosen und zahlenden Privatnutzer; das Modell sei stark auf agentenbasierte Aufgaben ausgelegt. Google stellte am 30. Juni zwei neue Bildgenerierungsmodelle vor: "Gemini 3.1 Flash Image" für kostensensible Massenanwendungen und "Gemini 3 Pro Image" für qualitativ hochwertige Bildgenerierung. Zugleich verschiebt Google das Sprachmodell "Gemini 3.5 Pro" auf den Juli und begründet dies mit Rückmeldungen von Unternehmenskunden zum hohen Token-Verbrauch bei langen Aufgaben.<br/><br/><strong>Auswirkung:</strong> Der dichte Takt neuer Modelle verschärft den Wettbewerb und drückt tendenziell die Nutzungspreise – ein Vorteil auch für europäische Entwickler und Unternehmen. Zugleich zeigt Googles Verschiebung, dass Rechenkosten und Zuverlässigkeit im Praxiseinsatz zunehmend zum Engpass werden. Eine stärkere Abhängigkeit von wenigen US-Anbietern bleibt für Europa ein strategisches Thema.<br/><br/><strong>Bias-Hinweis:</strong> <em>Interessenkonflikt/Transparenz:</em> Diese Nachrichtenzusammenfassung wird mit einem Claude-Modell von Anthropic erstellt – über Anthropic-Produkte wird daher bewusst zurückhaltend und nur anhand belegbarer Eckdaten berichtet, ohne Wertung der Leistungsfähigkeit. Leistungs- und Positionierungsangaben ("stark agentisch", Standardmodell) stammen von den Herstellern selbst und sind nicht unabhängig geprüft; sie werden als Firmenangaben gekennzeichnet. Es wird kein Produkt empfohlen.<br/><br/><strong>Quellenvielfalt:</strong> artificialintelligence-news.com, buildfastwithai, crescendo.ai (KI-Branchenmedien) – übereinstimmend bei Veröffentlichungsdaten und Modellnamen; Preis- und Leistungsangaben variieren je nach Quelle und Herstellerkommunikation und werden vorsichtig wiedergegeben.]]></description>
+    </item>
+
+    <!-- ════════ POSITIVE NACHRICHT / WISSENSCHAFT ════════ -->
+    <item>
+      <title>Positive Nachricht – Wissenschaft: "Vesuvius Challenge" liest erstmals eine komplette verkohlte Herculaneum-Schriftrolle vollständig per Röntgen und KI – zutage tritt ein philosophischer Text (Philodemus)</title>
+      <link>https://www.cnn.com/2026/06/26/science/papyrus-scroll-vesuvius-ai-scli-intl</link>
+      <guid isPermaLink="false">wn-2026-07-01-vesuvius-schriftrolle-ki</guid>
+      <category>Welt</category>
+      <category>Wissenschaft</category>
+      <category>Positive Nachricht</category>
+      <category>Kultur</category>
+      <pubDate>Mon, 29 Jun 2026 14:00:00 +0200</pubDate>
+      <description><![CDATA[Das Forschungsprojekt "Vesuvius Challenge" hat in den vergangenen Tagen bekannt gegeben, erstmals eine der beim Vesuv-Ausbruch 79 n. Chr. verkohlten Papyrusrollen aus Herculaneum vollständig – von Anfang bis Ende – virtuell "entrollt" und gelesen zu haben, ohne sie physisch zu öffnen. Möglich wurde dies durch hochauflösende Röntgen-Tomografie und Künstliche Intelligenz, die die Tinte im 3D-Datensatz direkt sichtbar machen. Der Inhalt der Rolle PHerc. 1667 ist ein philosophischer Text über Ethik, menschliche Antriebe und praktische Weisheit (phronesis); Titel und Autor konnten als Werk des epikureischen Philosophen Philodemus ("Über die Götter", Buch 8) bestimmt werden. Aus einer weiteren Rolle (PHerc. 172) wurden über 70 Textspalten gewonnen.<br/><br/><strong>Auswirkung:</strong> Erstmals wird eine ganze antike Schriftrolle für die dauerhafte wissenschaftliche Auswertung zugänglich, die seit fast 2.000 Jahren als unlesbar galt. Das eröffnet die Aussicht, hunderte weitere verkohlte Rollen aus Herculaneum zerstörungsfrei zu erschließen – ein potenziell enormer Zuwachs an überliefertem antikem Wissen und ein Beispiel für einen konstruktiven, kulturbewahrenden Einsatz von KI.<br/><br/><strong>Bias-Hinweis:</strong> Formulierungen wie "erstmals vollständig gelesen" beziehen sich auf die belegten, veröffentlichten Ergebnisse des Projekts; einzelne Lesarten und Zuschreibungen (Autor, Werktitel) sind Gegenstand laufender Fachprüfung und können sich noch präzisieren – das wird hier offengelegt, statt einen abgeschlossenen Forschungsstand zu suggerieren. Begeisterte Technik-Berichterstattung neigt dazu, KI-Leistungen zu überhöhen; hier wird die menschliche paläografische Arbeit als gleichwertiger Teil des Erfolgs mitgenannt.<br/><br/><strong>Quellenvielfalt:</strong> CNN, Smithsonian Magazine, Artnet News, Greek Reporter, Greek City Times – übereinstimmend bei Kern (erste vollständig virtuell gelesene Herculaneum-Rolle, Zuschreibung an Philodemus); Detailangaben zu Spaltenzahl und Datierung der Einzelmeldungen variieren leicht und werden vorsichtig zusammengeführt.]]></description>
+    </item>
 
     <!-- ════════ WELT / POLITIK ════════ -->
     <item>
