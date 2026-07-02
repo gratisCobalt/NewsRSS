@@ -6,9 +6,110 @@
     <atom:link href="https://example.com/wochennachrichten/feed.xml" rel="self" type="application/rss+xml" />
     <description>Wöchentliche Zusammenfassung der wichtigsten Nachrichten aus aller Welt mit Schwerpunkt Europa und Deutschland – Politik, Wirtschaft &amp; Finanzen, IT/Tech. Inklusive Einordnung der Auswirkungen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 01 Jul 2026 18:00:00 +0200</lastBuildDate>
-    <pubDate>Wed, 01 Jul 2026 18:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 02 Jul 2026 18:00:00 +0200</lastBuildDate>
+    <pubDate>Thu, 02 Jul 2026 18:00:00 +0200</pubDate>
     <generator>Claude Code</generator>
+
+    <!-- ════════ AUSGABE 2. JULI 2026 (Nachrichten der letzten 24h) ════════ -->
+
+    <!-- ════════ DEUTSCHLAND / POLITIK & WIRTSCHAFT ════════ -->
+    <item>
+      <title>Deutschland: Schwarz-rote Koalition beschließt umfassendes Reformpaket – rund 10 Mrd. Euro Einkommensteuer-Entlastung ab 2027, Rentenumbau, strengere Krankmeldungsregeln und Bürokratieabbau</title>
+      <link>https://www.euronews.com/my-europe/2026/07/02/germanys-merz-announces-sweeping-reforms-tax-cuts-pension-overhaul-and-new-sick-leave-rule</link>
+      <guid isPermaLink="false">wn-2026-07-02-koalition-reformpaket</guid>
+      <category>Deutschland</category>
+      <category>Politik</category>
+      <category>Wirtschaft</category>
+      <category>Finanzen</category>
+      <pubDate>Thu, 02 Jul 2026 09:00:00 +0200</pubDate>
+      <description><![CDATA[Nach dem Koalitionsausschuss vom Vortag hat die Regierung aus CDU/CSU und SPD am Donnerstag, 2. Juli, ein Reformpaket mit rund 34 Einzelmaßnahmen vorgestellt (Arbeitstitel u. a. "Programm für Wiederbelebung und Beschäftigung"). Kernpunkte: eine Einkommensteuer-Entlastung von etwa 10 Mrd. Euro pro Jahr, gezielt für kleine und mittlere Einkommen, zum 1. Januar 2027; ein Rentenumbau, bei dem die Koalition zusagt, alle 33 Empfehlungen der Rentenkommission umzusetzen (u. a. eine Kopplung des Renteneintrittsalters an die Lebenserwartung nach 2031, über die bisherige Grenze von 67 Jahren hinaus), mit Gesetzen bis Jahresende; strengere Krankmeldungsregeln (ärztliches Attest ab dem ersten Krankheitstag statt ab dem vierten; Abschaffung der pandemiebedingten telefonischen Krankschreibung); eine Lockerung des Arbeitsrechts (Verdopplung der zulässigen Befristung ohne Sachgrund auf bis zu 48 Monate) sowie ein Abbau von Melde- und Berichtspflichten für Unternehmen.<br/><br/><strong>Auswirkung:</strong> Betroffen sind Millionen Steuerzahler, Beschäftigte und künftige Rentner. Die Steuerentlastung würde Nettoeinkommen erhöhen, die Attestpflicht ab Tag 1 und längere Befristungen verschieben das Verhältnis zwischen Arbeitgeber- und Arbeitnehmerinteressen. Die konkrete Wirkung entsteht erst mit den Gesetzen, die teils bis Jahresende ausformuliert werden; die Gegenfinanzierung der Entlastung ist noch offen und dürfte Bund und Sozialkassen belasten.<br/><br/><strong>Bias-Hinweis:</strong> Regierungsnahe Darstellungen rahmen das Paket als "großen Wurf"/Aufbruch, kritische Stimmen als "teuren Kompromiss" oder "Rentenschock" – beide Etiketten sind Wertungen und werden hier nicht übernommen. Die international verbreitete Einordnung, das Paket ziele darauf, einen "Aufschwung der extremen Rechten" zu kontern (u. a. bei Al Jazeera), ist eine Deutung des politischen Motivs, kein Inhalt des Pakets; sie wird als Interpretation gekennzeichnet. Berichtet werden die belegten Maßnahmen und Zahlen.<br/><br/><strong>Quellenvielfalt:</strong> Euronews, Al Jazeera, Washington Post/AP, US News, xpert.digital – übereinstimmend bei den Kernmaßnahmen (rund 10 Mrd. Euro Entlastung ab 2027, 33 Rentenempfehlungen, Attest ab Tag 1, 48-Monats-Befristung); Bewertung des Gesamterfolgs unterscheidet sich je nach Quelle und wird offengelegt statt übernommen.]]></description>
+    </item>
+
+    <!-- ════════ DEUTSCHLAND / IT & TECH ════════ -->
+    <item>
+      <title>Deutschland/Tech: Infineon eröffnet in Dresden die "Smart Power Fab" – 5 Mrd. Euro Investition, rund 1.000 neue Stellen, mehrere Monate vor Plan</title>
+      <link>https://www.prnewswire.com/news-releases/infineon-opens-the-worlds-largest-fab-for-power-semiconductors-and-analogmixed-signal-technologies-in-dresden-302816962.html</link>
+      <guid isPermaLink="false">wn-2026-07-02-infineon-dresden-fab</guid>
+      <category>Deutschland</category>
+      <category>Tech</category>
+      <category>Wirtschaft</category>
+      <category>Halbleiter</category>
+      <pubDate>Thu, 02 Jul 2026 10:00:00 +0200</pubDate>
+      <description><![CDATA[Der Halbleiterkonzern Infineon hat am 2. Juli in Dresden seine neue "Smart Power Fab" eröffnet – nach eigenen Angaben mehrere Monate früher als geplant. Die Investition beträgt rund 5 Mrd. Euro, es entstehen etwa 1.000 neue Arbeitsplätze; die Fertigungskapazität am Standort Dresden wird verdoppelt. Produziert werden Leistungshalbleiter sowie Analog-/Mixed-Signal-Chips, die u. a. in Stromversorgungen für KI-Rechenzentren, Elektrofahrzeugen, Windkraftanlagen und Stromnetzen zum Einsatz kommen.<br/><br/><strong>Auswirkung:</strong> Der Ausbau stärkt Europas Chip-Fertigungskapazität und die im Rahmen des EU-Chips-Act angestrebte technologische Souveränität – gerade bei Leistungshalbleitern, die für Energiewende und KI-Infrastruktur zentral sind. Einordnend: Die zunächst geplante Intel-Großfab in Magdeburg (rund 30 Mrd. Euro) wurde im Juli 2025 abgesagt; Deutschlands Halbleiterausbau konzentriert sich damit kurzfristig auf Leistungs- und Spezialchips, nicht auf modernste Logik-Fertigung.<br/><br/><strong>Bias-Hinweis:</strong> Die Formulierung "weltgrößte Fabrik" ist eine Eigenangabe des Unternehmens (Primärquelle PR Newswire) und wird hier ausdrücklich als Herstellerangabe, nicht als unabhängig geprüfte Tatsache gekennzeichnet. Unternehmensmitteilungen betonen naturgemäß den Erfolg (Jobs, Vorsprung); die Einordnung zur Intel-Absage ergänzt den Kontext, um kein einseitig positives Bild der deutschen Halbleiterlage zu zeichnen.<br/><br/><strong>Quellenvielfalt:</strong> Infineon/PR Newswire (Primär-/Unternehmensquelle), Manila Times, Branchenberichte (Semiengineering/Datacenter Knowledge) – übereinstimmend bei Investitionssumme (5 Mrd. €), Stellenzahl (~1.000) und vorgezogener Eröffnung; die Superlative ("weltgrößte") stammen vom Unternehmen.]]></description>
+    </item>
+
+    <!-- ════════ EUROPA / POLITIK ════════ -->
+    <item>
+      <title>Europa: Irland übernimmt zum 1. Juli für sechs Monate die EU-Ratspräsidentschaft – Schwerpunkte Wettbewerbsfähigkeit, Werte und Sicherheit</title>
+      <link>https://www.euronews.com/my-europe/2026/07/01/five-pressing-tasks-for-ireland-as-it-takes-over-eu-council-presidency</link>
+      <guid isPermaLink="false">wn-2026-07-02-irland-eu-ratspraesidentschaft</guid>
+      <category>Europa</category>
+      <category>Politik</category>
+      <category>EU</category>
+      <pubDate>Wed, 01 Jul 2026 13:00:00 +0200</pubDate>
+      <description><![CDATA[Irland hat zum 1. Juli 2026 turnusgemäß die rotierende Präsidentschaft im Rat der EU übernommen – zum achten Mal, bis zum 31. Dezember 2026. In dieser Zeit leitet Dublin rund 180 Arbeitsgruppen und Ausschüsse und richtet u. a. informelle Ministertreffen und zwei Gipfel aus. Als Schwerpunkte nennt die Präsidentschaft Wettbewerbsfähigkeit (Vereinfachung von Regeln, Binnenmarkt, Energiewende), "Werte" sowie innere und äußere Sicherheit (Kampf gegen organisierte Kriminalität, Migration, Schutz kritischer Infrastruktur). In der Gesetzgebungs-Pipeline stehen u. a. die Spar- und Investitionsunion, ein Cybersecurity Act, das "28. Regime", der digitale Euro sowie die Defence Readiness Roadmap und ein Paket zur militärischen Mobilität.<br/><br/><strong>Auswirkung:</strong> Die Ratspräsidentschaft setzt für ein halbes Jahr Tagesordnung und Kompromisslinien im Ministerrat und beeinflusst so das Tempo bei Dossiers wie digitalem Euro, Cybersicherheit und Verteidigungsbereitschaft gegenüber einer möglichen russischen Bedrohung. Direkte Gesetzeswirkung entsteht dadurch nicht; die Präsidentschaft moderiert, entscheidet aber nicht allein.<br/><br/><strong>Bias-Hinweis:</strong> Die genannten Prioritäten sind die Selbstdarstellung der irischen Präsidentschaft und werden als solche wiedergegeben, nicht als neutrale Bewertung. Kritische Einordnungen – etwa der auf rund 185 Mio. Euro geschätzte Kostenaufwand, berichtet u. a. vom eurokritischen Portal Brussels Signal – sind eine von mehreren Perspektiven und werden entsprechend eingeordnet.<br/><br/><strong>Quellenvielfalt:</strong> Euronews, EU-Kommission, EP Think Tank, Rat der EU, Brussels Signal – übereinstimmend bei Zeitraum, Rolle und genannten Prioritäten; Bewertungen (Kosten, Erfolgsaussichten) unterscheiden sich je nach Ausrichtung.]]></description>
+    </item>
+
+    <!-- ════════ EUROPA / WIRTSCHAFT & FINANZEN ════════ -->
+    <item>
+      <title>Europa/Finanzen: Inflation im Euroraum sinkt im Juni laut Schnellschätzung auf 2,8 Prozent – niedrigster Wert seit Februar, aber weiter über dem EZB-Ziel von 2 Prozent</title>
+      <link>https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Inflation_in_the_euro_area</link>
+      <guid isPermaLink="false">wn-2026-07-02-eurozone-inflation-juni</guid>
+      <category>Europa</category>
+      <category>Wirtschaft</category>
+      <category>Finanzen</category>
+      <category>EU</category>
+      <pubDate>Wed, 01 Jul 2026 11:00:00 +0200</pubDate>
+      <description><![CDATA[Die Verbraucherpreisinflation im Euroraum ist im Juni 2026 laut vorläufiger Schnellschätzung auf 2,8 Prozent gesunken – nach 3,2 Prozent im Mai und unter der Markterwartung von rund 3,0 Prozent. Es ist der niedrigste Wert seit Februar, also vor der durch den Iran-Krieg ausgelösten Verteuerung von Energie. Die Rate liegt weiterhin über dem 2-Prozent-Ziel der Europäischen Zentralbank. Die EZB hatte am 11. Juni ihre Leitzinsen um 25 Basispunkte angehoben – die erste Erhöhung seit September 2023. Laut EZB-Projektionen soll die Inflation 2026 im Schnitt bei rund 3,0 Prozent liegen, 2027 bei 2,3 Prozent und 2028 wieder bei 2,0 Prozent; das Wachstum wird für 2026 auf nur 0,8 Prozent geschätzt.<br/><br/><strong>Auswirkung:</strong> Ein Rückgang der Teuerung entlastet Verbraucher und Unternehmen und verringert den Druck auf die EZB, weiter zu straffen. Solange die Energiepreise vom Nahost-Krieg getrieben werden, bleibt der Ausblick aber fragil; sinkende Ölpreise wären Voraussetzung für die prognostizierte Rückkehr zum 2-Prozent-Ziel bis 2028.<br/><br/><strong>Bias-Hinweis:</strong> Die 2,8 Prozent sind eine vorläufige Schnellschätzung (Flash) und können bei der endgültigen Berechnung revidiert werden – dies wird bewusst kenntlich gemacht, um weder ein voreiliges "Inflation besiegt" noch Alarmismus zu suggerieren. Die Gegenüberstellung mit dem EZB-Ziel dient der Einordnung, nicht der Wertung.<br/><br/><strong>Quellenvielfalt:</strong> Eurostat (Schnellschätzung), EZB (Zinsentscheid und Projektionen vom 11. Juni), Trading Economics – übereinstimmend bei Richtung (Rückgang) und Größenordnung; die konkrete Endzahl steht unter Revisionsvorbehalt.]]></description>
+    </item>
+
+    <!-- ════════ WELT / POLITIK (NAHER OSTEN) ════════ -->
+    <item>
+      <title>Welt/Naher Osten: USA und Iran melden nach indirekten Gesprächen in Doha "positive Fortschritte" – Verhandlungen pausieren für die Trauerfeiern für Ajatollah Chamenei</title>
+      <link>https://www.aljazeera.com/news/2026/7/1/us-iran-negotiations-whats-the-latest</link>
+      <guid isPermaLink="false">wn-2026-07-02-usa-iran-doha-gespraeche</guid>
+      <category>Welt</category>
+      <category>Politik</category>
+      <category>Naher Osten</category>
+      <pubDate>Thu, 02 Jul 2026 08:00:00 +0200</pubDate>
+      <description><![CDATA[In Doha haben die USA und der Iran indirekte Gespräche auf Arbeitsebene geführt, bei denen es laut dem vermittelnden Katar "positive Fortschritte" gegeben haben soll. Die iranische Delegation reiste ab, weil die Islamische Republik die Diplomatie für die mehrtägigen Trauerfeiern für den getöteten Obersten Führer Ajatollah Ali Chamenei unterbricht; diese sind vom 4. bis 9. Juli in Iran und Irak geplant. Weitere Gespräche sollen "zum frühestmöglichen Zeitpunkt" nach der Trauerfeier angesetzt werden. Auf dem Tisch liegen laut Berichten die Freigabe eingefrorener iranischer Vermögen, mögliche Gebühren für Schiffe in der Straße von Hormus, langfristige Sanktionserleichterungen und das Atomprogramm. Hintergrund ist der 2026er Iran-Krieg (großangelegte US- und israelische Angriffe ab dem 28. Februar, bei denen Chamenei getötet wurde) sowie ein am 17. Juni unterzeichnetes Memorandum, das die Waffenruhe um 60 Tage verlängert.<br/><br/><strong>Auswirkung:</strong> Der Ausgang berührt unmittelbar die Energiemärkte: Bleibt die Straße von Hormus offen und gebührenfrei, dämpft das die Ölpreise – und damit indirekt auch die europäische Inflation. Ein Scheitern nach der Trauerpause könnte die brüchige Waffenruhe gefährden und Preise wie Sicherheitslage in der Region erneut belasten.<br/><br/><strong>Bias-Hinweis:</strong> "Positive Fortschritte" ist eine Aussage der beteiligten bzw. vermittelnden Seiten (Katar, US-Regierung) und nicht unabhängig überprüfbar; ein Abkommen liegt nicht vor. Die Darstellung des Konflikts unterscheidet sich je nach Quelle deutlich (etwa Al Jazeera vs. Times of Israel). Berichtet werden hier die belegbaren Fakten: Gespräche fanden statt, wurden für die Trauerfeier unterbrochen, ein Ergebnis steht aus.<br/><br/><strong>Quellenvielfalt:</strong> Al Jazeera, CNN, Times of Israel, CBS News, Britannica – übereinstimmend bei Ort (Doha), Vermittler (Katar), Pause wegen der Trauerfeier und offenen Streitpunkten; die Bewertung der "Fortschritte" ist eine Partei-/Vermittlerangabe.]]></description>
+    </item>
+
+    <!-- ════════ WELT / WIRTSCHAFT ════════ -->
+    <item>
+      <title>Welt/Wirtschaft: US-Arbeitsmarkt schwächelt – im Juni nur rund 57.000 neue Stellen, Lohnwachstum den dritten Monat in Folge unter der Inflation</title>
+      <link>https://www.nbcnews.com/business/economy/june-jobs-report-stable-hiring-rcna352603</link>
+      <guid isPermaLink="false">wn-2026-07-02-us-arbeitsmarkt-juni</guid>
+      <category>Welt</category>
+      <category>Wirtschaft</category>
+      <category>USA</category>
+      <pubDate>Thu, 02 Jul 2026 15:00:00 +0200</pubDate>
+      <description><![CDATA[Die US-Wirtschaft hat laut aktuellem Arbeitsmarktbericht im Juni nur rund 57.000 neue Stellen geschaffen – ein schwacher Wert, der auf eine Abkühlung des Arbeitsmarkts hindeutet. Zudem blieb das Lohnwachstum den dritten Monat in Folge unter der Inflationsrate, die Reallöhne sinken damit.<br/><br/><strong>Auswirkung:</strong> Schwächere Beschäftigungszahlen erhöhen den Druck auf die US-Notenbank Fed, die Zinsen zu senken. Das wirkt über Dollarkurs, Kapitalflüsse und Exportnachfrage bis nach Europa – ein schwächerer US-Arbeitsmarkt kann europäische Exporteure treffen, niedrigere US-Zinsen aber die Finanzmärkte stützen.<br/><br/><strong>Bias-Hinweis:</strong> Die Einordnung als "besorgniserregendes Signal" stammt aus der Berichterstattung (u. a. NBC) und ist eine Wertung; berichtet wird hier die Kennzahl selbst. Monatszahlen sind volatil und werden häufig nachträglich revidiert – ein einzelner Wert sollte nicht überinterpretiert werden.<br/><br/><strong>Quellenvielfalt:</strong> NBC News, CBS News – übereinstimmend bei der Stellenzahl (rund 57.000) und dem hinter der Inflation zurückbleibenden Lohnwachstum; die Deutung ("worrying sign") ist redaktionell und wird als solche gekennzeichnet.]]></description>
+    </item>
+
+    <!-- ════════ WISSENSCHAFT / POSITIV ════════ -->
+    <item>
+      <title>Wissenschaft (positiv): Astronomen bestätigen erdähnlichen "Super-Earth" GJ 3378b in nur 25 Lichtjahren Entfernung – innerhalb der habitablen Zone seines Sterns</title>
+      <link>https://www.sci.news/astronomy/potentially-habitable-super-earth-gliese-3378b-14886.html</link>
+      <guid isPermaLink="false">wn-2026-07-02-super-earth-gj3378b</guid>
+      <category>Wissenschaft</category>
+      <category>Weltraum</category>
+      <category>Positiv</category>
+      <pubDate>Wed, 01 Jul 2026 12:00:00 +0200</pubDate>
+      <description><![CDATA[Ein internationales Astronomenteam hat den Gesteinsplaneten GJ 3378b (auch Gliese 3378 b) neu vermessen: Er umkreist einen lichtschwachen Roten Zwerg im Sternbild Giraffe (Camelopardalis) in nur rund 25 Lichtjahren Entfernung. Der Planet hat etwa die 2,3-fache Erdmasse und eine Umlaufzeit von 21,45 Tagen und liegt in der habitablen ("Goldilocks-")Zone – er erhält rund 90 Prozent der Strahlung, die die Erde von der Sonne bekommt. Entdeckt wurde er 2024 von französischen Astronomen (Canada-France-Hawaii-Teleskop); die überarbeitete Bestimmung von Masse und Umlaufzeit erschien am 30. Juni 2026 im Astrophysical Journal.<br/><br/><strong>Auswirkung:</strong> Wegen seiner Nähe gilt GJ 3378b als vielversprechendes Ziel künftiger Beobachtungen (etwa mit Weltraumteleskopen), die nach einer Atmosphäre und Biosignaturen suchen könnten. Ein realer Nachweis von Bewohnbarkeit steht aber aus.<br/><br/><strong>Bias-Hinweis:</strong> Der oft gebrauchte Begriff "potenziell bewohnbar" wird hier bewusst relativiert: Bislang sind nur Masse und Umlaufbahn bestimmt – Atmosphäre oder flüssiges Wasser wurden nicht nachgewiesen. Der Planet liegt am Rand der sogenannten "kosmischen Küstenlinie", jenseits derer die Sternstrahlung eine Atmosphäre abtragen kann; Bewohnbarkeit ist also eine Möglichkeit, keine Tatsache. Wissenschaftsmeldungen neigen hier zu Überzeichnung, was ausdrücklich eingeordnet wird.<br/><br/><strong>Quellenvielfalt:</strong> Astrophysical Journal (Primärstudie, 30. Juni), Sci.News, Space.com, The Debrief – übereinstimmend bei Kennzahlen (Entfernung ~25 Lj, ~2,3 Erdmassen, 21,45 Tage) und dem Vorbehalt zur "kosmischen Küstenlinie".]]></description>
+    </item>
+
+    <item>
+      <title>Wissenschaft (positiv, Europa): TU Wien weist starke Quantenverschränkung erstmals in einem zentimetergroßen Kristall nach</title>
+      <link>https://phys.org/news/2026-06-high-degree-quantum-entanglement-centimeter.html</link>
+      <guid isPermaLink="false">wn-2026-07-02-tu-wien-quantenverschraenkung</guid>
+      <category>Wissenschaft</category>
+      <category>Physik</category>
+      <category>Europa</category>
+      <category>Positiv</category>
+      <pubDate>Mon, 15 Jun 2026 12:00:00 +0200</pubDate>
+      <description><![CDATA[Forschende der TU Wien haben nach eigenen Angaben erstmals einen hohen Grad an Quantenverschränkung in einem zentimetergroßen Kristall nachgewiesen – konkret in der "Strange-Metal"-Verbindung Ce3Pd20Si6 aus Cer, Palladium und Silizium. Möglich wurde dies mit einer Methode aus der Quanteninformationstheorie (Quanten-Fisher-Information); gemessen wurde am Institut Laue-Langevin in Grenoble mittels inelastischer Neutronenstreuung bei sehr tiefen Temperaturen und einem fein abgestimmten Magnetfeld. Die Studie erschien am 15. Juni 2026 in Nature Physics.<br/><br/><strong>Auswirkung:</strong> Das Ergebnis schlägt eine Brücke zwischen Festkörper- und Quantenphysik: Verschränkung lässt sich damit direkt in einem makroskopischen Material quantifizieren. Das ist Grundlagenforschung – ein unmittelbarer technischer Nutzen (etwa für Quantensensorik oder Materialdesign) ist denkbar, aber noch nicht belegt.<br/><br/><strong>Bias-Hinweis:</strong> Populäre Überschriften wie "Quantenverschränkung in einem Kristall, den man in der Hand halten kann" verkürzen den Befund. Es geht nicht darum, den ganzen Kristall in eine Überlagerung zu versetzen, sondern um die kollektive Verschränkung seiner Bestandteile – dies wird hier klargestellt, um Sensationsdeutungen zu vermeiden. Die Formulierung "erstmals" ist eine Angabe der beteiligten Gruppe.<br/><br/><strong>Quellenvielfalt:</strong> Nature Physics (Primärstudie, 15. Juni), phys.org, TechExplorist, SciTechDaily – übereinstimmend bei Material (Ce3Pd20Si6), Methode (Quanten-Fisher-Information/Neutronenstreuung, ILL Grenoble) und Erstnachweis-Charakter.]]></description>
+    </item>
 
     <!-- ════════ AUSGABE 1. JULI 2026 (Nachrichten der letzten 24h) ════════ -->
 
