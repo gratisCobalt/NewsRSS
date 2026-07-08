@@ -6,9 +6,82 @@
     <atom:link href="https://example.com/wochennachrichten/feed.xml" rel="self" type="application/rss+xml" />
     <description>Wöchentliche Zusammenfassung der wichtigsten Nachrichten aus aller Welt mit Schwerpunkt Europa und Deutschland – Politik, Wirtschaft &amp; Finanzen, IT/Tech. Inklusive Einordnung der Auswirkungen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 07 Jul 2026 18:00:00 +0200</lastBuildDate>
-    <pubDate>Tue, 07 Jul 2026 18:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 08 Jul 2026 18:00:00 +0200</lastBuildDate>
+    <pubDate>Wed, 08 Jul 2026 18:00:00 +0200</pubDate>
     <generator>Claude Code</generator>
+
+    <!-- ════════ AUSGABE 8. JULI 2026 (Nachrichten der letzten 24h) ════════ -->
+
+    <!-- ════════ WELT / POLITIK ════════ -->
+    <item>
+      <title>Welt/Nahost: USA greifen nach Tankerangriffen in der Straße von Hormus über 80 Ziele im Iran an und verhängen erneut Öl-Sanktionen – Teheran droht mit "vernichtender Antwort"</title>
+      <link>https://www.cnn.com/2026/07/07/world/live-news/nato-summit-trump</link>
+      <guid isPermaLink="false">wn-2026-07-08-usa-iran-schlaege-hormus</guid>
+      <category>Welt</category>
+      <category>Naher Osten</category>
+      <category>Iran</category>
+      <category>USA</category>
+      <category>Politik</category>
+      <category>Energie</category>
+      <pubDate>Tue, 07 Jul 2026 23:00:00 +0200</pubDate>
+      <description><![CDATA[Das US-Militär hat nach eigenen Angaben (US Central Command) am Dienstag (7. Juli 2026) mehr als 80 Ziele im Iran angegriffen; die US-Regierung setzte zugleich Sanktionen gegen iranische Ölverkäufe wieder in Kraft. Als Auslöser nennen die USA Angriffe auf Handelsschiffe in der Straße von Hormus: Am 7. Juli wurden nach Medienberichten zwei Tanker – der katarische LNG-Tanker "Al Rekayat" und der saudisch geflaggte Supertanker "Wedyan" – von Geschossen getroffen und beschädigt. Katar machte den Iran für den Angriff auf sein Schiff verantwortlich; ein offizielles iranisches Bekenntnis lag zunächst nicht vor. Das britische UKMTO-Lagezentrum stufte die Bedrohungslage in der Straße von Hormus als "schwerwiegend" (severe) ein. Der Iran kündigte früh am Mittwoch eine "vernichtende Antwort" auf die US-Schläge an. Hintergrund ist eine im Juni 2026 geschlossene Absichtserklärung (Memorandum of Understanding), die den Iran-Krieg beenden sollte und deren Status US-Präsident Trump nun für "beendet" erklärte.<br/><br/><strong>Auswirkung:</strong> Für Europa und Deutschland ist vor allem der Energiekanal relevant: Rund ein Fünftel des weltweit gehandelten Öls passiert die Straße von Hormus. Eine anhaltende Eskalation treibt Öl- und Gaspreise, verteuert Importe und kann die gerade nachlassende Inflation erneut anheizen – mit Folgen für Zinsentscheidungen von EZB und Fed sowie für energieintensive Industrien. Zudem verschiebt der Konflikt außen- und sicherheitspolitische Prioritäten, die parallel beim NATO-Gipfel in Ankara verhandelt wurden.<br/><br/><strong>Bias-Hinweis:</strong> Die Zahl "über 80 Ziele" beruht auf einer Mitteilung des US-Militärs und ist eine Angabe einer Konfliktpartei, keine unabhängig verifizierte Bilanz; Angaben zu Treffern und Schäden im Iran stammen teils aus iranischen Staatsmedien und sind ebenfalls parteiisch. Die Urheberschaft der Tankerangriffe ist nicht offiziell bestätigt – katarische und iranische Darstellungen weichen ab und werden hier als Zuschreibungen, nicht als Tatsache, wiedergegeben. Kampfrhetorik wie "vernichtende Antwort" oder "powerful strikes" ist Kommunikation der jeweiligen Seite und wird nicht als Sachaussage übernommen.<br/><br/><strong>Quellenvielfalt:</strong> CNN, Fox News, Reuters (via Bloomberg-Marktberichte), Wikipedia-Chronik "2026 Strait of Hormuz crisis" – übereinstimmend bei den Kernpunkten (US-Schläge, Wieder-Inkraftsetzung der Öl-Sanktionen, Tankerangriffe, erhöhte Bedrohungsstufe). Opferzahlen und exakte Zielangaben variieren je nach Quelle und Konfliktpartei und sind als vorläufig und teils interessengeleitet einzuordnen.]]></description>
+    </item>
+
+    <!-- ════════ EUROPA / POLITIK & VERTEIDIGUNG ════════ -->
+    <item>
+      <title>Europa/NATO: Gipfel in Ankara bekräftigt das 5-Prozent-Ziel bis 2035 und sagt der Ukraine rund 70 Mrd. Euro zu – neue Rüstungsaufträge sollen die Industriekapazität des Bündnisses stärken</title>
+      <link>https://www.aljazeera.com/news/2026/7/8/five-key-takeaways-from-the-nato-summit-in-ankara</link>
+      <guid isPermaLink="false">wn-2026-07-08-nato-gipfel-ankara</guid>
+      <category>Europa</category>
+      <category>NATO</category>
+      <category>Türkei</category>
+      <category>Politik</category>
+      <category>Verteidigung</category>
+      <category>Ukraine</category>
+      <pubDate>Wed, 08 Jul 2026 08:00:00 +0200</pubDate>
+      <description><![CDATA[Der NATO-Gipfel im türkischen Ankara ist am Mittwoch (8. Juli 2026) zu Ende gegangen. Die Mitglieder bekräftigten das im Vorjahr in Den Haag beschlossene neue Ausgabenziel: 5 Prozent des Bruttoinlandsprodukts für Verteidigung und Sicherheit bis 2035, davon 3,5 Prozent für Kern-Verteidigung und 1,5 Prozent für verteidigungsnahe Investitionen. Laut NATO stiegen die durchschnittlichen Kern-Verteidigungsausgaben in Europa und Kanada von 2,3 Prozent (2025) auf bisher 2,53 Prozent (2026); die USA meldeten 3,17 Prozent. 17 Mitglieder sollen das 1,5-Prozent-Ziel erreichen. Das Bündnis sagte Kiew rund 70 Mrd. Euro (etwa 80 Mrd. US-Dollar) an Unterstützung zu und kündigte neue Initiativen zur Stärkung der Rüstungsindustrie sowie Rüstungsaufträge im zweistelligen Milliardenbereich an. US-Präsident Trump zeigte sich mit den Fortschritten "zufrieden".<br/><br/><strong>Auswirkung:</strong> Für Deutschland als größte europäische Volkswirtschaft bedeutet der Kurs erhebliche zusätzliche Haushaltsbelastungen: SPD-Finanzminister Klingbeil begründete höhere Schulden bereits mit Verteidigungsbedarf und nannte für die kommenden vier Jahre einen dreistelligen Milliardenbetrag. Für die europäische Rüstungsindustrie – einschließlich deutscher Anbieter – eröffnen die Aufträge Auslastung und Arbeitsplätze, verschärfen aber auch Verteilungsdebatten zwischen Sozial-, Investitions- und Verteidigungsausgaben. Die Zusagen an die Ukraine sollen die Unterstützung verstetigen, während die USA ihr Engagement in Europa perspektivisch zurückfahren.<br/><br/><strong>Bias-Hinweis:</strong> Prozent- und Zusagezahlen stammen überwiegend aus NATO-Eigenangaben bzw. Regierungsmitteilungen und sind politisch gerahmt; ob Ziele tatsächlich erreicht werden, ist eine Projektion, keine gesicherte Tatsache. Bewertungen wie "großer Erfolg" oder Trumps "Zufriedenheit" sind politische Selbstdarstellung und werden hier nicht übernommen. Umrechnungen zwischen Euro und US-Dollar schwanken und sind kenntlich gemacht. Kritische Perspektiven (Belastbarkeit der Zusagen, Lastenteilung, Rolle der Türkei als Gastgeber) kommen in der Gipfelkommunikation naturgemäß weniger prominent vor.<br/><br/><strong>Quellenvielfalt:</strong> Al Jazeera ("Five key takeaways"), NATO.int, Foreign Policy, CSIS, Chicago Council – übereinstimmend bei den Kernpunkten (Bekräftigung des 5-Prozent-Ziels, Ukraine-Zusagen, Rüstungsinitiativen). Einordnungen zu Erfolg und Durchsetzbarkeit unterscheiden sich deutlich zwischen offiziellen Bündnisquellen und unabhängigen Analysehäusern.]]></description>
+    </item>
+
+    <!-- ════════ WIRTSCHAFT & FINANZEN ════════ -->
+    <item>
+      <title>Wirtschaft/Finanzen: Ölpreis springt nach Iran-Eskalation über 76 Dollar, Aktienmärkte geben nach – Südkoreas KOSPI verliert an zwei Tagen über 800 Punkte, Fed-Zinserhöhung bis Oktober wieder eingepreist</title>
+      <link>https://finance.yahoo.com/markets/stocks/articles/stock-market-today-july-8-164235564.html</link>
+      <guid isPermaLink="false">wn-2026-07-08-maerkte-oel-kospi</guid>
+      <category>Wirtschaft</category>
+      <category>Finanzen</category>
+      <category>Börse</category>
+      <category>Energie</category>
+      <pubDate>Wed, 08 Jul 2026 17:00:00 +0200</pubDate>
+      <description><![CDATA[Die erneute Iran-Eskalation und Sorgen um den KI-Sektor haben am Mittwoch (8. Juli 2026) die Finanzmärkte belastet. Die Ölsorte Brent stieg nach Berichten um mehr als 5 Prozent auf über 76 US-Dollar je Barrel, nachdem Präsident Trump die US-iranische Absichtserklärung für "beendet" erklärt hatte. In den USA fiel der Dow Jones je nach Handelsverlauf um rund 1 bis 1,5 Prozent, der S&amp;P 500 gab leicht nach, während der technologielastige Nasdaq zeitweise zulegte – ein Bild uneinheitlicher Sektor-Bewegungen. In Asien brach Südkoreas Leitindex KOSPI um rund 5,35 Prozent auf etwa 7.247 Punkte ein und verlor damit an nur zwei Handelstagen über 800 Punkte (von rund 8.000). Gold gab um etwa 1,7 Prozent nach, Bitcoin um rund 2,3 Prozent. Geldmarkt-Akteure erhöhten ihre Wetten auf eine Leitzinsanhebung der US-Notenbank Fed bis Oktober, da der Ölpreisanstieg neue Inflationssorgen weckt.<br/><br/><strong>Auswirkung:</strong> Für europäische und deutsche Anleger, Fonds und Altersvorsorgeprodukte verbinden sich hier zwei Risiken: ein energiegetriebener Inflationsimpuls und die hohe Abhängigkeit der Kurse von wenigen KI- und Chipwerten. Steigende Energiepreise verteuern Produktion und Logistik, während höhere Zinserwartungen die Finanzierung von Investitionen (auch in Rechenzentren und Industrie) verteuern. Für Exportnationen wie Deutschland ist zudem die Schwäche asiatischer Technologiebörsen ein Frühindikator für die globale Nachfrage.<br/><br/><strong>Bias-Hinweis:</strong> Kurs- und Prozentangaben sind Momentaufnahmen einzelner Handelstage und variieren je nach Quelle und Uhrzeit erheblich – manche Meldungen betonen "Ausverkauf", andere gleichzeitig widerstandsfähige oder steigende Einzelindizes; dies erklärt sich durch gegenläufige Sektor-Bewegungen und ist als Deutung gekennzeichnet. Formulierungen wie "KI-Blase" stammen aus Marktkommentaren und werden nicht als Faktenaussage übernommen. Die Verknüpfung von Ölpreis, Iran-Konflikt und Zinserwartung ist eine plausible, aber nicht monokausal belegte Einordnung.<br/><br/><strong>Quellenvielfalt:</strong> Yahoo Finance, Bloomberg, Rio Times ("Asia Intelligence Brief"), XTB (Marktanalyse) – übereinstimmend bei Ölpreissprung, KOSPI-Einbruch und wieder gestiegenen Zinswetten. Die genauen Tagesbewegungen der US-Indizes werden je nach betrachtetem Zeitpunkt unterschiedlich dargestellt und sind entsprechend als vorläufig ausgewiesen.]]></description>
+    </item>
+
+    <!-- ════════ IT & TECH ════════ -->
+    <item>
+      <title>IT/Tech: DeepSeek entwickelt laut Reuters einen eigenen KI-Inferenzchip – zusammen mit enttäuschend aufgenommenen Samsung-Zahlen belastet das Halbleiterwerte weltweit</title>
+      <link>https://aiweekly.co/alerts/deepseek-is-designing-its-own-inference-chip-reuters-says</link>
+      <guid isPermaLink="false">wn-2026-07-08-deepseek-eigener-chip</guid>
+      <category>IT</category>
+      <category>Tech</category>
+      <category>Künstliche Intelligenz</category>
+      <category>Halbleiter</category>
+      <category>China</category>
+      <pubDate>Tue, 07 Jul 2026 20:00:00 +0200</pubDate>
+      <description><![CDATA[Einem Reuters-Bericht zufolge entwickelt das chinesische KI-Unternehmen DeepSeek einen eigenen, auf Inferenz (den Betrieb trainierter Modelle) ausgerichteten KI-Chip, um seine Abhängigkeit vom US-Marktführer Nvidia und vom heimischen Anbieter Huawei zu verringern. Das Unternehmen soll seit rund einem Jahr mit Chipdesign-, Foundry- und Speicherfirmen sprechen. Die Nachricht traf zusammen mit den Quartalszahlen von Samsung: Der Konzern meldete einen 19-fach höheren operativen Gewinn, doch die Aktie fiel dennoch um rund 7 Prozent, der Rivale SK Hynix um etwa 6 Prozent. Auslöser waren Zweifel, ob der KI-Boom in diesem Tempo anhält. In der Folge eröffnete die Nasdaq schwächer, und Chipwerte gerieten weltweit unter Druck.<br/><br/><strong>Auswirkung:</strong> Für Europa und Deutschland ist die Meldung doppelt relevant. Erstens zeigt sie den beschleunigten Trend zur Chip-Souveränität: Wenn große KI-Anwender eigene Hardware entwerfen, verschieben sich Nachfrage und Machtverhältnisse in der Lieferkette – mit Chancen und Risiken für europäische Ausrüster (etwa in der Lithografie und bei Spezialmaterialien). Zweitens verdeutlicht die Kursreaktion trotz starker Samsung-Gewinne, wie empfindlich der Markt auf Zweifel an der KI-Ertragslage reagiert; das betrifft auch europäische Tech-Fonds und die Finanzierungskosten für Rechenzentren.<br/><br/><strong>Bias-Hinweis:</strong> Die Chip-Pläne von DeepSeek beruhen auf einem Reuters-Exklusivbericht mit Verweis auf informierte Personen; eine offizielle Bestätigung des Unternehmens zu Zeitplan, Leistungsfähigkeit oder Fertigungspartnern liegt nicht vor – die Angaben sind daher als Bericht, nicht als gesicherte Produktankündigung zu lesen. Die Zuschreibung der Kursbewegungen zu einer einzelnen Ursache ("wegen DeepSeek") ist eine Vereinfachung; mehrere Faktoren (Samsung-Zahlen, Iran/Öl, Zinserwartung, Meta-Berichte über freie Rechenkapazität) wirkten zusammen.<br/><br/><strong>Quellenvielfalt:</strong> Reuters (Exklusivbericht, referiert über AI Weekly, Mezha, BigGo Finance), Investing.com, Yahoo Finance zu Samsung – übereinstimmend bei den Kernpunkten (DeepSeek arbeitet an eigenem Inferenzchip; Samsung-Gewinnsprung bei gleichzeitigem Kursrückgang). Details zu Fertigung und Zeitplan des DeepSeek-Chips sind unbestätigt und als vorläufig gekennzeichnet.]]></description>
+    </item>
+
+    <!-- ════════ POSITIVES / WISSENSCHAFT ════════ -->
+    <item>
+      <title>Wissenschaft/Positives: Forschende der TU Wien weisen erstmals einen hohen Grad an Quantenverschränkung in einem zentimetergroßen Kristall nach – neue Brücke zwischen Quanteninformation und Festkörperphysik</title>
+      <link>https://www.sciencedaily.com/releases/2026/07/260701015242.htm</link>
+      <guid isPermaLink="false">wn-2026-07-08-tu-wien-quantenverschraenkung</guid>
+      <category>Wissenschaft</category>
+      <category>Physik</category>
+      <category>Positives</category>
+      <category>Quantenphysik</category>
+      <category>Europa</category>
+      <pubDate>Wed, 08 Jul 2026 11:00:00 +0200</pubDate>
+      <description><![CDATA[Ein Team der TU Wien hat gezeigt, dass ein zentimetergroßer Kristall eines sogenannten "seltsamen Metalls" (strange metal) einen hohen Grad an Quantenverschränkung aufweist. Untersucht wurde ein Cer-Palladium-Silizium-Kristall mittels Neutronenstreuung; über die Größe "Quanten-Fisher-Information" ließ sich die Verschränkung direkt quantifizieren. Die Daten deuten auf kollektives Verhalten von mindestens neun verschränkten Einheiten hin – bemerkenswert, weil Quantenverschränkung sonst meist nur in winzigen, gut isolierten Systemen messbar ist. Die Arbeit verknüpft Quanteninformation mit der Festkörperphysik und könnte für die Quantenmetrologie (hochpräzise Messtechnik) relevant sein. Veröffentlicht wurde die Studie unter dem Titel "Quantum Fisher information in a strange metal" in Nature Physics.<br/><br/><strong>Auswirkung:</strong> Für die europäische und deutsche Forschungslandschaft ist das Ergebnis ein Beleg für die Stärke der Grundlagenforschung im Bereich Quantenmaterialien – ein Feld, das mittel- bis langfristig für Quantensensorik, Messtechnik und potenziell neue Materialien wichtig ist. Unmittelbare Anwendungen sind damit nicht verbunden; der Wert liegt zunächst im besseren Verständnis, wie makroskopische Quantenzustände entstehen und gemessen werden können.<br/><br/><strong>Bias-Hinweis:</strong> Es handelt sich um eine erfreuliche, aber sorgfältig einzuordnende Meldung. Die zugrunde liegende Fachpublikation (Nature Physics) datiert bereits auf Mitte Juni 2026; die aktuelle Sichtbarkeit beruht auf einer Welle populärwissenschaftlicher Zusammenfassungen, teils mit zugespitzten Bildern wie "Schrödingers Ameisenhaufen". Formulierungen über künftige Anwendungen sind Ausblicke der Autoren bzw. der Berichterstattung, keine belegten Ergebnisse. "Seltsames Metall" ist ein Fachbegriff für Materialien mit ungewöhnlichem elektrischem Verhalten, keine Wertung.<br/><br/><strong>Quellenvielfalt:</strong> ScienceDaily, Phys.org, TechExplorist, SciTechDaily – übereinstimmend bei Kernbefund (hohe, direkt gemessene Verschränkung in makroskopischem Kristall), Methode (Neutronenstreuung, Quanten-Fisher-Information) und Herkunft (TU Wien, Nature Physics). Die reißerische Aufmachung einzelner Überschriften wurde hier bewusst neutralisiert und der zeitliche Kontext (Publikation Mitte Juni) transparent gemacht.]]></description>
+    </item>
 
     <!-- ════════ AUSGABE 7. JULI 2026 (Nachrichten der letzten 24h) ════════ -->
 
