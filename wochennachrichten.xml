@@ -6,9 +6,118 @@
     <atom:link href="https://example.com/wochennachrichten/feed.xml" rel="self" type="application/rss+xml" />
     <description>Wöchentliche Zusammenfassung der wichtigsten Nachrichten aus aller Welt mit Schwerpunkt Europa und Deutschland – Politik, Wirtschaft &amp; Finanzen, IT/Tech. Inklusive Einordnung der Auswirkungen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 15 Jul 2026 18:00:00 +0200</lastBuildDate>
-    <pubDate>Wed, 15 Jul 2026 18:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 16 Jul 2026 18:00:00 +0200</lastBuildDate>
+    <pubDate>Thu, 16 Jul 2026 18:00:00 +0200</pubDate>
     <generator>Claude Code</generator>
+
+    <!-- ════════ AUSGABE 16. JULI 2026 (Nachrichten der letzten 24h) ════════ -->
+
+    <!-- ════════ DEUTSCHLAND / POLITIK ════════ -->
+    <item>
+      <title>Deutschland/Politik: Kanzler Merz dringt auf Ukraine-Verhandlungen – "Zeit, die Frontlinie einzufrieren und das Töten zu beenden", Zustimmungswerte bleiben niedrig</title>
+      <link>https://www.deutschland.de/en/news/germany-news-today-foreign-policy</link>
+      <guid isPermaLink="false">wn-2026-07-16-merz-ukraine-verhandlungen</guid>
+      <category>Deutschland</category>
+      <category>Politik</category>
+      <pubDate>Wed, 15 Jul 2026 17:00:00 +0200</pubDate>
+      <description><![CDATA[Bundeskanzler Friedrich Merz (CDU) hat sich für den Beginn von Friedensverhandlungen im Ukraine-Krieg ausgesprochen. Es sei "an der Zeit, in Verhandlungen einzutreten, die Frontlinie einzufrieren und das Töten zu beenden", sagte Merz. Zugleich äußerte sich der Kanzler zu seinen gesunkenen Zustimmungswerten: Er versuche, "die Gründe zu verstehen", und zeigte sich zuversichtlich, dass die schwarz-rote Koalition in der zweiten Jahreshälfte 2026 erfolgreich weiterarbeiten werde.<br/><br/><strong>Auswirkung:</strong> Ein deutsches Plädoyer für einen Verhandlungsfrieden mit Einfrieren der Frontlinie ist außenpolitisch heikel: Es könnte als Druck auf Kyiv gelesen werden, Gebietsfragen zu vertagen, und berührt die Abstimmung mit den USA und der EU. Innenpolitisch stehen niedrige Zustimmungswerte im Kontrast zum Reformkurs der Regierung und erhöhen den Druck, sichtbare Ergebnisse zu liefern.<br/><br/><strong>Bias-Hinweis:</strong> Die Aussage "Frontlinie einfrieren" ist ein wörtliches Zitat der Position des Kanzlers und wird als solche gekennzeichnet, nicht als neutrale Bewertung der Erfolgsaussichten. Ein Teil der auffindbaren Berichterstattung über Merz' Zustimmungswerte stammt von russischen staatsnahen Portalen (news-pravda.com/„Pravda Germany"), die ein Interesse daran haben, westliche Regierungen als instabil darzustellen; diese Quellen wurden nicht als Beleg herangezogen. Zustimmungswerte sind Momentaufnahmen einzelner Institute mit methodischen Unsicherheiten.<br/><br/><strong>Quellenvielfalt:</strong> deutschland.de (Außenpolitik-Meldung), zusätzlich Sekundärberichte zu den Zustimmungswerten. Wortlaut des Verhandlungsappells und die Selbsteinschätzung zu den Umfragen stimmen überein; die konkreten Umfragezahlen variieren je nach Institut.]]></description>
+    </item>
+
+    <!-- ════════ EUROPA / POLITIK (UKRAINE) ════════ -->
+    <item>
+      <title>Europa/Ukraine: Präsident Selenskyj entlässt Verteidigungsminister Fedorow – landesweite Proteste in Kyiv, Lwiw, Charkiw, Dnipro und Odesa</title>
+      <link>https://www.npr.org/2026/07/16/g-s1-133920/ukraine-defense-minister-fired</link>
+      <guid isPermaLink="false">wn-2026-07-16-ukraine-fedorow-entlassung</guid>
+      <category>Europa</category>
+      <category>Ukraine</category>
+      <category>Politik</category>
+      <pubDate>Thu, 16 Jul 2026 08:00:00 +0200</pubDate>
+      <description><![CDATA[Der ukrainische Präsident Wolodymyr Selenskyj hat im Zuge einer Kabinettsumbildung Verteidigungsminister Mychajlo Fedorow entlassen, der den Schritt am 15. Juli bestätigte. Fedorow, erst vor rund sechs Monaten ernannt, galt als Modernisierer und Vorreiter der digitalen Transformation und der Drohnen-Innovation. Am 16. Juli protestierten in der Kyiver Innenstadt mehr als tausend Menschen, schwenkten ukrainische und EU-Fahnen und riefen "Schande" sowie "Bringt Fedorow zurück". Ähnliche Proteste gab es in Lwiw, Charkiw, Dnipro und Odesa.<br/><br/><strong>Auswirkung:</strong> Die Ablösung trifft die Ukraine in einer vergleichsweise günstigen Kriegsphase, in der der russische Vormarsch verlangsamt und russische Öl- und Militärziele mit Langstreckendrohnen getroffen werden. Ein Führungswechsel an der Spitze des Verteidigungsressorts birgt das Risiko von Unsicherheit in der Truppe und in der Rüstungsbeschaffung. Die Proteste zeigen zudem die Sensibilität der Öffentlichkeit gegenüber Personalentscheidungen in Kriegszeiten.<br/><br/><strong>Bias-Hinweis:</strong> Die Gründe der Entlassung sind offiziell nicht abschließend belegt. Berichte über ein angeblich zerrüttetes Verhältnis zwischen Fedorow und dem Oberbefehlshaber General Syrskyj beruhen auf unbestätigten ukrainischen Medienberichten und werden hier ausdrücklich als unbestätigt gekennzeichnet. Teilnehmerzahlen von Demonstrationen sind Schätzungen und variieren je nach Quelle.<br/><br/><strong>Quellenvielfalt:</strong> NPR, CNBC, RFE/RL, ABC News, Washington Post – übereinstimmend bei Entlassung, Protesten und Fedorows Rolle als Digitalisierungs-/Drohnen-Modernisierer; die inneren Motive der Umbildung werden unterschiedlich eingeordnet.]]></description>
+    </item>
+
+    <!-- ════════ EUROPA / IT & TECH ════════ -->
+    <item>
+      <title>Europa/IT &amp; Tech: EU zwingt Google zur Öffnung von Android für konkurrierende KI-Assistenten und zum Teilen von Suchdaten (DMA)</title>
+      <link>https://www.cnbc.com/2026/07/16/google-required-to-open-up-to-ai-search-engine-rivals-under-eu-mandated-changes.html</link>
+      <guid isPermaLink="false">wn-2026-07-16-eu-google-dma-android-ki</guid>
+      <category>Europa</category>
+      <category>IT/Tech</category>
+      <category>Wirtschaft</category>
+      <pubDate>Thu, 16 Jul 2026 11:00:00 +0200</pubDate>
+      <description><![CDATA[Die EU-Kommission hat unter dem Digital Markets Act (DMA) zwei Entscheidungen gegen Google getroffen. Als "Gatekeeper" muss Google künftig Daten aus der Google-Suche nicht nur mit anderen Suchdiensten, sondern auch mit KI-Chatbots (u. a. von OpenAI und Microsoft) teilen – ab Januar 2027. Zudem muss Google konkurrierenden KI-Assistenten wie ChatGPT oder Claude denselben Zugriff auf Android ermöglichen wie dem eigenen Assistenten Gemini, einschließlich Sprachaktivierung und Hintergrundaufgaben (etwa Restaurantbuchungen über Dritt-Apps); die Android-Änderungen haben bis Juli 2027 Zeit.<br/><br/><strong>Auswirkung:</strong> Die Auflagen könnten den Wettbewerb bei KI-Assistenten und Suche in Europa deutlich verschärfen und die Marktmacht von Google verringern. Für Nutzerinnen und Nutzer könnten mehr Auswahl und Interoperabilität entstehen; zugleich werfen Datenteilungspflichten reale Fragen zu Datenschutz und Anonymisierung auf.<br/><br/><strong>Bias-Hinweis:</strong> Die Darstellung folgt zwei gegenläufigen Rahmungen. Die EU-Kommission betont Wettbewerb und Fairness. Google (Kent Walker) warnt, private Suchanfragen könnten ohne ausreichende Anonymisierung "unbekannten Unternehmen" zugänglich gemacht werden und Privatsphäre, Geschäftsgeheimnisse sowie nationale Sicherheit gefährden – dies ist die interessengeleitete Position des betroffenen Unternehmens und wird als solche gekennzeichnet, nicht als feststehende Tatsache. Transparenzhinweis: Anthropic, Entwickler des in der Meldung genannten Assistenten "Claude", ist Betreiber des Werkzeugs, mit dem dieser Feed erstellt wird; die Meldung nennt Claude nur als eines von mehreren Beispielen und leitet daraus keine Wertung ab.<br/><br/><strong>Quellenvielfalt:</strong> CNBC, 9to5Google, BNN Bloomberg, Washington Times, Global Competition Review – übereinstimmend bei Kernauflagen (Suchdaten-Teilung, Android-Öffnung) und Fristen; die Bewertung der Datenschutzfolgen unterscheidet sich zwischen Kommission und Google.]]></description>
+    </item>
+
+    <!-- ════════ WELT / NAHER OSTEN ════════ -->
+    <item>
+      <title>Welt/Naher Osten: US-Angriffe auf Iran halten rund um die Uhr an – Revolutionsgarde droht mit Blockade von Öl und Gas, Raketen auf US-Verbündete am Golf</title>
+      <link>https://www.cnbc.com/2026/07/16/ukraine-russia-zelenskyy-crimea-putin.html</link>
+      <guid isPermaLink="false">wn-2026-07-16-iran-hormus-dauerangriffe</guid>
+      <category>Welt</category>
+      <category>Naher Osten</category>
+      <category>Politik</category>
+      <pubDate>Thu, 16 Jul 2026 07:00:00 +0200</pubDate>
+      <description><![CDATA[Das US-Militär hat nach eigenen Angaben das Tempo seiner Angriffe gegen den Iran als Reaktion auf iranische Attacken auf Schiffe in der Straße von Hormus erhöht und greift "rund um die Uhr" an. Die iranische Revolutionsgarde droht, die gesamte Öl- und Gasausfuhr der Region zu unterbinden; der Iran feuerte zudem Raketen auf benachbarte US-Verbündete von Bahrain bis Jordanien. US-Präsident Trump erklärte trotz der Eskalation, der Krieg könne noch mit einem Abkommen enden.<br/><br/><strong>Auswirkung:</strong> Durch die Straße von Hormus läuft rund ein Fünftel des weltweiten Öl- und Gashandels. Eine anhaltende Eskalation treibt Energiepreise und Unsicherheit – mit direkten Folgen für Europa und Deutschland (Inflation, Industriekosten) und für die Geldpolitik der Zentralbanken. Angriffe auf US-Stützpunkte in mehreren Golfstaaten weiten den Konflikt regional aus.<br/><br/><strong>Bias-Hinweis:</strong> Angaben zu militärischen Erfolgen, Schäden und Opferzahlen stammen jeweils von einer Konfliktpartei (US-Militär bzw. iranische Stellen), sind interessengeleitet und nicht unabhängig verifiziert; sie werden als Behauptungen der jeweiligen Seite gekennzeichnet. Die mediale Rahmung unterscheidet sich: Ein Teil der Berichterstattung betont die Sicherung der Schifffahrt, ein anderer die zivilen Folgen – die Meldung führt beide Perspektiven an, ohne eine als "die Wahrheit" zu übernehmen.<br/><br/><strong>Quellenvielfalt:</strong> WORLD/wng.org, CNBC, US News, FDD Overnight Brief – übereinstimmend bei intensivierten US-Angriffen, iranischer Blockadedrohung und Raketen auf US-Verbündete; Opfer- und Schadenszahlen bleiben parteiisch und unbestätigt.]]></description>
+    </item>
+
+    <!-- ════════ WELT / NAHER OSTEN (DIPLOMATIE) ════════ -->
+    <item>
+      <title>Welt/Naher Osten: Libanon und Israel schließen "positive" Rom-Gespräche ab – Einigung auf Struktur für Rückzug aus ersten "Pilotzonen" im Südlibanon</title>
+      <link>https://thedefensepost.com/2026/07/16/lebanon-israel-positive-talks/</link>
+      <guid isPermaLink="false">wn-2026-07-16-libanon-israel-rom-pilotzonen</guid>
+      <category>Welt</category>
+      <category>Naher Osten</category>
+      <category>Politik</category>
+      <pubDate>Wed, 15 Jul 2026 20:00:00 +0200</pubDate>
+      <description><![CDATA[Libanon und Israel haben in Rom eine von den USA vermittelte Verhandlungsrunde abgeschlossen. Nach zwei Tagen bezeichneten die Beteiligten die Gespräche als "produktiv" und "positiv" und einigten sich auf Struktur und Leitlinien für den Prozess der "Pilotzonen" im Südlibanon, aus denen sich israelische Kräfte in den kommenden Tagen erstmals zurückziehen könnten. Die Runde folgte auf ein Rahmenabkommen aus dem Vormonat; ein Besuch des libanesischen Präsidenten Joseph Aoun in Washington ist für den 21. Juli geplant.<br/><br/><strong>Auswirkung:</strong> Ein schrittweiser israelischer Rückzug aus dem Südlibanon könnte die Lage an einer der angespanntesten Grenzen der Region entschärfen – ein seltener diplomatischer Lichtblick inmitten der Eskalation am Golf. Konkrete Zeitpläne und die endgültige Abgrenzung der Zonen sind aber noch offen, sodass Rückschläge möglich bleiben.<br/><br/><strong>Bias-Hinweis:</strong> Die Einordnung als "positiv/produktiv" stammt teils von einem US-Beamten, also von der vermittelnden Partei, und ist entsprechend interessengeleitet; sie wird als deren Einschätzung gekennzeichnet, nicht als gesicherter Verhandlungserfolg. Details zu den Zonen und Fristen sind laut Quellen noch nicht final. Israelische und libanesische Lesarten (Umfang und Dauer eines Rückzugs bzw. verbleibender "Sicherheitszonen") unterscheiden sich; beide werden angeführt.<br/><br/><strong>Quellenvielfalt:</strong> The Defense Post, UPI, Times of Israel, Al Jazeera, Social News – übereinstimmend beim Abschluss der Rom-Runde und der Einigung auf einen Pilotzonen-Mechanismus; Reichweite und Dauer eines Rückzugs werden von den Seiten unterschiedlich dargestellt.]]></description>
+    </item>
+
+    <!-- ════════ EUROPA / WIRTSCHAFT & FINANZEN ════════ -->
+    <item>
+      <title>Europa/Wirtschaft: EU-Rat gibt Nothilfe für Landwirte gegen Düngerpreis-Krise endgültig frei – bis zu 1,5 Mrd. Euro mobilisierbar</title>
+      <link>https://www.eunews.it/en/2026/07/13/agriculture-council-gives-final-approval-to-aid-to-tackle-the-eus-high-fertiliser-costs/</link>
+      <guid isPermaLink="false">wn-2026-07-16-eu-duengerhilfe-landwirte</guid>
+      <category>Europa</category>
+      <category>Wirtschaft</category>
+      <category>Landwirtschaft</category>
+      <pubDate>Wed, 15 Jul 2026 12:00:00 +0200</pubDate>
+      <description><![CDATA[Der EU-Rat hat die von der Kommission vorgeschlagenen und vom Europäischen Parlament (7. Juli, 576 Ja-Stimmen) gebilligten Nothilfen für Landwirte endgültig verabschiedet. Zur Abfederung stark gestiegener Düngemittelpreise sollen zunächst rund 540 Mio. Euro mobilisiert werden (u. a. 300 Mio. Euro zusätzlich aus der Agrarreserve); durch nationale Aufstockungen von bis zu 200 Prozent könnte das Gesamtvolumen auf bis zu 1,5 Mrd. Euro steigen. Landwirte können Liquiditätshilfen von bis zu 80 Prozent der Mehrkosten erhalten; Vorschüsse auf Direktzahlungen dürfen von 70 auf 75 Prozent angehoben und früher ausgezahlt werden.<br/><br/><strong>Auswirkung:</strong> Die Stickstoffdünger-Preise lagen im April 2026 rund 71 Prozent über dem Schnitt von 2024. Die Hilfen sollen Liquiditätsengpässe vor der nächsten Aussaat verhindern und Ernteausfälle vermeiden – relevant für Lebensmittelpreise und Versorgungssicherheit in ganz Europa. Der Bezug zur Schließung der Straße von Hormus zeigt, wie geopolitische Energiekrisen bis in die Landwirtschaft durchschlagen.<br/><br/><strong>Bias-Hinweis:</strong> Die Zuordnung der Preissteigerungen zu bestimmten Ursachen (Krieg gegen die Ukraine, Lage im Nahen Osten/Hormus) ist eine Einordnung der Kommission; Energie- und Rohstoffpreise haben in der Regel mehrere, sich überlagernde Ursachen. Ob die Mittel tatsächlich in voller Höhe (bis 1,5 Mrd. Euro) fließen, hängt von der freiwilligen Kofinanzierung der Mitgliedstaaten ab und ist noch nicht gesichert.<br/><br/><strong>Quellenvielfalt:</strong> EUnews, EUbusiness, European Sting, Sofia Globe, Impakter – übereinstimmend bei Beschluss, Volumen (540 Mio./bis 1,5 Mrd. Euro) und Hilfsinstrumenten; die endgültige nationale Ausschöpfung ist offen.]]></description>
+    </item>
+
+    <!-- ════════ EUROPA / GESELLSCHAFT & KLIMA ════════ -->
+    <item>
+      <title>Europa/Gesellschaft &amp; Klima: Gewaltausbrüche nach Fußballspielen in Frankreich (zwei Tote, Hunderte Festnahmen) – Spanien kämpft in Aragón gegen Großbrand bei Hitzewelle</title>
+      <link>https://www.riotimesonline.com/europe-intelligence-brief-thursday-july-16-2026/</link>
+      <guid isPermaLink="false">wn-2026-07-16-frankreich-ausschreitungen-spanien-brand</guid>
+      <category>Europa</category>
+      <category>Gesellschaft</category>
+      <category>Klima</category>
+      <pubDate>Thu, 16 Jul 2026 09:00:00 +0200</pubDate>
+      <description><![CDATA[In Frankreich kam es nach Fußballspielen zu landesweiten Ausschreitungen: Zwei Menschen starben, Hunderte wurden festgenommen. Parallel kämpft Spanien in der Region Aragón während einer Hitzewelle gegen einen Großbrand. Die Lage reiht sich in einen Sommer mit wiederkehrenden Hitzewellen und Waldbränden in Südeuropa ein.<br/><br/><strong>Auswirkung:</strong> Wiederkehrende Gewalt bei Massenveranstaltungen belastet Sicherheitskräfte und die öffentliche Debatte über Prävention. Hitzewellen und Großbrände gefährden Menschen, Landwirtschaft und Infrastruktur und verursachen hohe Kosten; sie erhöhen den Druck auf Klimaanpassung und Katastrophenschutz in der EU.<br/><br/><strong>Bias-Hinweis:</strong> Opfer- und Festnahmezahlen aus einer laufenden, unübersichtlichen Lage sind vorläufig und können sich ändern; sie werden als vorläufige Behördenangaben gekennzeichnet. Ein direkter kausaler Zusammenhang zwischen einem einzelnen Brand und dem Klimawandel lässt sich nicht für das Einzelereignis beweisen – belegt ist, dass Hitzewellen und Brandrisiko im Trend zunehmen; die Meldung vermeidet daher eine monokausale Zuschreibung.<br/><br/><strong>Quellenvielfalt:</strong> Rio Times (Europe Intelligence Brief), Euronews, Yahoo News UK – übereinstimmend bei den Ausschreitungen in Frankreich und dem Aragón-Brand während der Hitzewelle; genaue Zahlen variieren je nach Aktualität.]]></description>
+    </item>
+
+    <!-- ════════ WISSENSCHAFT / POSITIV ════════ -->
+    <item>
+      <title>Wissenschaft/Positiv: Rätsel der Festkörperbatterie gelöst – Forschende klären, wie Lithium-Dendriten die Keramik zerbrechen, und zeigen drei Lösungswege auf</title>
+      <link>https://www.sciencedaily.com/releases/2026/07/260710003533.htm</link>
+      <guid isPermaLink="false">wn-2026-07-16-festkoerperbatterie-dendriten</guid>
+      <category>Wissenschaft</category>
+      <category>Energie</category>
+      <category>Positiv</category>
+      <pubDate>Wed, 15 Jul 2026 14:00:00 +0200</pubDate>
+      <description><![CDATA[Forschende (u. a. am Max-Planck-Institut) haben aufgeklärt, wie weiche Lithium-Dendriten die harte Keramik in Festkörperbatterien zerbrechen und Kurzschlüsse auslösen. Demnach dringt weiches Lithiummetall wie ein Wasserstrahl in vorhandene nanoskalige Risse der Keramik ein; hydrostatischer Druck führt dann zum Sprödbruch des Festelektrolyten. Die Arbeit zeigt drei Ingenieurspfade auf: zähere Elektrolyte, gezielt eingebrachte Mikro-Hohlräume zur Umlenkung der Rissausbreitung und schützende Anodenbeschichtungen.<br/><br/><strong>Auswirkung:</strong> Dendriten gelten als zentrales Hindernis für sichere, langlebige Festkörperbatterien mit hoher Energiedichte (angestrebt werden 400–600 Wh/kg). Ein verstandener Bruchmechanismus kann die Entwicklung sichererer Batterien für E-Autos und Elektronik beschleunigen – mit potenziell großem Nutzen für Energiewende und Industrie.<br/><br/><strong>Bias-Hinweis:</strong> Es handelt sich um Grundlagenforschung mit skizzierten Lösungswegen, nicht um ein marktreifes Produkt; ein Zeithorizont bis zur Kommerzialisierung ist offen. Formulierungen wie "größtes Hindernis gelöst" stammen teils aus zuspitzenden Schlagzeilen der Fachpresse; die Meldung beschreibt daher konkret Mechanismus und Lösungsansätze statt einer pauschalen Erfolgsmeldung.<br/><br/><strong>Quellenvielfalt:</strong> ScienceDaily, Mirage News, TechTimes (sowie ein Preprint auf arXiv) – übereinstimmend beim Bruchmechanismus und den drei Lösungspfaden; die Nähe zur Marktreife wird je nach Quelle optimistischer oder vorsichtiger dargestellt.]]></description>
+    </item>
+
+    <!-- ════════ WISSENSCHAFT / POSITIV ════════ -->
+    <item>
+      <title>Wissenschaft/Positiv: Metamaterialien machen bestehende MRT-Scanner schärfer und schneller – bessere Bilder schwer zugänglicher Körperregionen ohne neue Großgeräte</title>
+      <link>https://www.sciencedaily.com/news/health_medicine/</link>
+      <guid isPermaLink="false">wn-2026-07-16-mrt-metamaterialien</guid>
+      <category>Wissenschaft</category>
+      <category>Medizin</category>
+      <category>Positiv</category>
+      <pubDate>Wed, 15 Jul 2026 10:00:00 +0200</pubDate>
+      <description><![CDATA[Forschende haben zentrale MRT-Hardware mithilfe von Metamaterialien neu gestaltet. Dadurch können bestehende Scanner klarere Bilder von schwer einsehbaren Körperregionen liefern – und das in kürzerer Zeit.<br/><br/><strong>Auswirkung:</strong> Wenn sich vorhandene Geräte aufrüsten statt ersetzen lassen, könnte dies Diagnosen verbessern, Untersuchungszeiten verkürzen und Kosten senken – ein möglicher Gewinn für Patientinnen und Patienten und für überlastete Radiologie-Abteilungen. Kürzere Scanzeiten erhöhen zudem den Durchsatz und können Wartezeiten reduzieren.<br/><br/><strong>Bias-Hinweis:</strong> Die Ergebnisse stammen aus der Forschung; belastbare Aussagen zu breiter klinischer Praxistauglichkeit, Zulassung und realer Zeit-/Kostenersparnis erfordern weitere Studien und unabhängige Validierung. Die Meldung vermeidet daher Versprechen zu konkreten Einsparungen und beschreibt den Befund als vielversprechenden Forschungsstand.<br/><br/><strong>Quellenvielfalt:</strong> ScienceDaily (Health &amp; Medicine) als Primärquelle der Meldung. Da bislang vor allem eine Quelle vorliegt, wird der Befund ausdrücklich als früher, noch nicht breit replizierter Forschungsstand eingeordnet.]]></description>
+    </item>
 
     <!-- ════════ AUSGABE 15. JULI 2026 (Nachrichten der letzten 24h) ════════ -->
 
