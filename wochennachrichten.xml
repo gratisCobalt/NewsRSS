@@ -6,11 +6,82 @@
     <atom:link href="https://example.com/wochennachrichten/feed.xml" rel="self" type="application/rss+xml" />
     <description>Wöchentliche Zusammenfassung der wichtigsten Nachrichten aus aller Welt mit Schwerpunkt Europa und Deutschland – Politik, Wirtschaft &amp; Finanzen, IT/Tech. Inklusive Einordnung der Auswirkungen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 22 Jul 2026 18:00:00 +0200</lastBuildDate>
-    <pubDate>Wed, 22 Jul 2026 18:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 23 Jul 2026 18:00:00 +0200</lastBuildDate>
+    <pubDate>Thu, 23 Jul 2026 18:00:00 +0200</pubDate>
     <generator>Claude Code</generator>
 
-    <!-- ════════ AUSGABE 22. JULI 2026 (Nachrichten der letzten 24h) ════════ -->
+    <!-- ════════ AUSGABE 23. JULI 2026 (Nachrichten der letzten 24h) ════════ -->
+
+    <!-- ════════ EUROPA / IT & TECH ════════ -->
+    <item>
+      <title>Europa/IT &amp; Tech: EU-Kommission verhängt erste DMA-Strafe gegen Google – 890 Mio. Euro und 60 Tage Frist zur Umgestaltung der Suche</title>
+      <link>https://digital-markets-act.ec.europa.eu/commission-fines-google-eur890-million-breaches-digital-markets-act-2026-07-23_en</link>
+      <guid isPermaLink="false">wn-2026-07-23-eu-google-dma-strafe</guid>
+      <category>Europa</category>
+      <category>IT &amp; Tech</category>
+      <category>Wirtschaft</category>
+      <pubDate>Thu, 23 Jul 2026 11:00:00 +0200</pubDate>
+      <description><![CDATA[Die Europäische Kommission hat am 23. Juli eine Geldbuße von 890 Millionen Euro (rund 1 Mrd. US-Dollar) gegen Google verhängt – die erste Strafe überhaupt unter dem Digital Markets Act (DMA). Laut Kommission entfallen rund 460 Mio. Euro darauf, dass Google in der Suche eigene Dienste (etwa für Hotels, Shopping und Reisen) gegenüber Wettbewerbern bevorzugt habe, und rund 430 Mio. Euro darauf, dass App-Entwickler daran gehindert worden seien, Nutzer auf günstigere Kaufmöglichkeiten außerhalb von Google Play zu leiten. Google wurde aufgefordert, die Verstöße binnen 60 Tagen abzustellen; bei Nichtbefolgung drohen weitere Zwangsgelder. Google kündigte an, dass eine Umsetzung dazu führen könne, dass Echtzeit-Funktionen der Suche (z. B. direkte Preis- und Verfügbarkeitsanzeigen für Hotels und Flüge) sowie Schutzmechanismen bei Google Play eingeschränkt würden.<br/><br/><strong>Auswirkung:</strong> Es ist der erste echte Präzedenzfall für die Durchsetzung des DMA und ein Signal an alle als „Gatekeeper" eingestuften Konzerne. Für europäische Verbraucher und Anbieter (etwa Vergleichsportale, App-Entwickler, Reise- und Hotelplattformen) könnte sich die Sichtbarkeit in der Google-Suche verschieben. Kurzfristig ist mit Rechtsstreit und möglichen Änderungen an der Suchoberfläche zu rechnen; die transatlantische Handelsdebatte über die Regulierung großer US-Tech-Konzerne dürfte sich verschärfen.<br/><br/><strong>Bias-Hinweis:</strong> Die Höhe der Strafe wird je nach Umrechnung und Quelle als „890 Mio. Euro" oder „1 Mrd. Dollar" dargestellt – gemeint ist derselbe Betrag; hier wird der amtliche Euro-Wert der Kommission genannt. Die Darstellung der Verstöße stammt von der Kommission (Anklägerin), Googles Warnung vor dem Verlust beliebter Funktionen ist die Sicht des sanktionierten Unternehmens und zugleich Teil seiner Verhandlungsstrategie; beide Positionen sind interessengeleitet und als solche gekennzeichnet. Belegbar sind Datum, Betrag, Aufteilung und die 60-Tage-Frist.<br/><br/><strong>Quellenvielfalt:</strong> Europäische Kommission (DMA-Mitteilung), CNN Business, BleepingComputer, TechTimes, Quartz – übereinstimmend bei Betrag, Aufteilung und Frist; die Bewertung, ob die Strafe verhältnismäßig ist und wem sie nützt, unterscheidet sich zwischen EU-naher und industrienaher Berichterstattung und bleibt hier offen.]]></description>
+    </item>
+
+    <!-- ════════ EUROPA / WIRTSCHAFT & FINANZEN ════════ -->
+    <item>
+      <title>Europa/Wirtschaft &amp; Finanzen: EZB belässt Leitzinsen unverändert – Einlagensatz bleibt bei 2,25 %</title>
+      <link>https://www.ecb.europa.eu/</link>
+      <guid isPermaLink="false">wn-2026-07-23-ezb-zinsentscheid</guid>
+      <category>Europa</category>
+      <category>Wirtschaft &amp; Finanzen</category>
+      <pubDate>Thu, 23 Jul 2026 14:15:00 +0200</pubDate>
+      <description><![CDATA[Die Europäische Zentralbank (EZB) hat auf ihrer Sitzung am 23. Juli die drei Leitzinsen unverändert gelassen: Der Einlagensatz bleibt bei 2,25 %, der Hauptrefinanzierungssatz bei 2,40 % und der Spitzenrefinanzierungssatz bei 2,65 %. Die Entscheidung war von den Märkten weitgehend erwartet worden (Beobachter hatten eine Beibehaltung mit rund 95 % Wahrscheinlichkeit eingepreist), sodass die Marktreaktion begrenzt blieb. Der Schritt folgt auf die Zinserhöhung um 25 Basispunkte am 11. Juni – die erste Anhebung seit 2023. Der EZB-Rat bekräftigte sein Ziel, die Inflation mittelfristig bei 2 % zu stabilisieren.<br/><br/><strong>Auswirkung:</strong> Für Sparer, Kreditnehmer und Unternehmen im Euroraum – einschließlich Deutschlands – bedeutet die Pause vorerst Stabilität bei Finanzierungskosten (Bau-, Unternehmens- und Konsumkredite). Für die Konjunktur ist das Signal zweischneidig: Die EZB sieht offenbar weder Anlass für weitere Straffung noch Spielraum für Lockerung, solange Energiepreise (auch infolge der Spannungen um die Straße von Hormus) ein Aufwärtsrisiko für die Inflation bleiben.<br/><br/><strong>Bias-Hinweis:</strong> Belegbar sind die unveränderten Zinssätze und der Kontext der Juni-Erhöhung. Deutungen, ob die EZB „zu zögerlich" oder „angemessen vorsichtig" agiert, sind wertende Einordnungen von Analysten und wurden hier nicht übernommen. Aussagen über künftige Zinsschritte sind Erwartungen des Marktes, keine Zusagen der Notenbank.<br/><br/><strong>Quellenvielfalt:</strong> EZB (Pressemitteilung/Website), InvestingLive, FXLeaders, CryptoSlate/Predix (Prognosemärkte) – übereinstimmend bei den Zinssätzen und der eingepreisten Erwartung; abweichend allein in der Prognose kommender Sitzungen, die als Markterwartung gekennzeichnet ist.]]></description>
+    </item>
+
+    <!-- ════════ DEUTSCHLAND / GESELLSCHAFT & VERKEHR ════════ -->
+    <item>
+      <title>Deutschland/Verkehr: Deutsche Bahn verbietet Alkoholkonsum an allen 5.400 Bahnhöfen – schrittweise Einführung bis 15. Oktober</title>
+      <link>https://www.thelocal.com/20260721/deutsche-bahn-wants-to-ban-alcohol-at-every-train-station-in-germany</link>
+      <guid isPermaLink="false">wn-2026-07-23-db-alkoholverbot</guid>
+      <category>Deutschland</category>
+      <category>Gesellschaft</category>
+      <category>Verkehr</category>
+      <pubDate>Wed, 22 Jul 2026 10:00:00 +0200</pubDate>
+      <description><![CDATA[Die Deutsche Bahn (DB) hat angekündigt, den Alkoholkonsum an allen rund 5.400 Bahnhöfen in Deutschland zu verbieten. Untersagt wird das Trinken von Bier, Wein, Schnaps oder anderem Alkohol auf Bahnsteigen und in Bahnhofshallen. Das Verbot gilt nicht für den Konsum in Zügen, in Bahnhofsgaststätten und -bars; Reisende dürfen zudem verschlossene Flaschen und Dosen weiterhin im Gepäck mitführen. Rund 30 Bahnhöfe (u. a. in Köln, München und Hamburg) sind bereits alkoholfrei; als nächstes folgen zum 1. September Berlin Hauptbahnhof, Berlin Gesundbrunnen, Kiel und Braunschweig. Die vollständige Einführung an allen Standorten ist bis zum 15. Oktober vorgesehen. Die DB begründet den Schritt mit der Sicherheit von Personal und Reisenden und dem Zusammenhang zwischen übermäßigem Alkoholkonsum und Gewaltvorfällen.<br/><br/><strong>Auswirkung:</strong> Millionen Bahnreisende sind betroffen; Befürworter erwarten weniger Konflikte und mehr Sicherheit für Beschäftigte. Kritiker dürften Fragen zur praktischen Durchsetzung (Kontrolle, Personal, Ausnahmen für Gastronomie) und zur Verhältnismäßigkeit aufwerfen. Der Schritt reiht sich in eine breitere Debatte über Sicherheit im öffentlichen Raum ein.<br/><br/><strong>Bias-Hinweis:</strong> Die Verknüpfung von Alkohol mit Gewaltvorfällen ist die Begründung der DB; ob das Verbot die Sicherheit messbar erhöht, ist zum jetzigen Zeitpunkt nicht belegt und bleibt zu evaluieren. Belegbar sind der Umfang (5.400 Bahnhöfe), die Ausnahmen, der Zeitplan (1. September / 15. Oktober) und die genannten Vorreiter-Bahnhöfe. Wertungen für oder gegen das Verbot wurden hier ausgespart.<br/><br/><strong>Quellenvielfalt:</strong> The Local, Stars and Stripes, RailwayPro, Railmarket, inside.beer – übereinstimmend bei Umfang, Ausnahmen und Zeitplan; Unterschiede bestehen nur in der Betonung der Begründung (Sicherheit) gegenüber Kritik an der Durchsetzbarkeit.]]></description>
+    </item>
+
+    <!-- ════════ EUROPA / POLITIK & TECH ════════ -->
+    <item>
+      <title>Europa/Politik: Frankreich verbietet als erstes EU-Land soziale Medien für unter 15-Jährige</title>
+      <link>https://www.npr.org/2026/07/22/g-s1-134875/france-social-media-ban</link>
+      <guid isPermaLink="false">wn-2026-07-23-frankreich-social-media-verbot</guid>
+      <category>Europa</category>
+      <category>Politik</category>
+      <category>IT &amp; Tech</category>
+      <pubDate>Wed, 22 Jul 2026 20:00:00 +0200</pubDate>
+      <description><![CDATA[Das französische Parlament hat am 22. Juli ein Gesetz beschlossen, das Kindern unter 15 Jahren die Nutzung sozialer Medien untersagt. Frankreich ist damit das erste EU-Land mit einem solchen pauschalen Verbot; beide Parlamentskammern stimmten zu. Das Vorhaben gilt als Kerninitiative von Präsident Emmanuel Macron. Eine frühere Fassung hatte eine Nutzung mit Zustimmung der Eltern erlaubt; die verabschiedete Version verbietet die Plattformnutzung für die Altersgruppe vollständig. Für neue Konten soll die Regel mit Altersverifikation voraussichtlich zum 1. September gelten, für bestehende Nutzer ab 2027. Die Aufsicht übernimmt die Medienregulierungsbehörde ARCOM. Das Gesetz enthält zudem Regeln zu Handynutzung an Schulen und zur Werbung auf Plattformen.<br/><br/><strong>Auswirkung:</strong> Der Beschluss erhöht den Druck auf andere EU-Staaten – auch Deutschland, wo über Jugendschutz und Altersverifikation debattiert wird – und auf die EU-Ebene, die über einheitliche Regeln nachdenkt. Umstritten bleiben die technische Umsetzbarkeit der Altersverifikation, Datenschutzfolgen und die Wirksamkeit gegen Umgehung (etwa über VPN). Für die Plattformbetreiber entstehen neue Compliance-Pflichten.<br/><br/><strong>Bias-Hinweis:</strong> Die Berichterstattung reicht von „großer Fortschritt" (befürwortend) bis „Einschränkung der Internetfreiheit" (kritisch) – das sind gegensätzliche Wertungen, die von der jeweiligen Quelle abhängen und hier nicht übernommen werden. Belegbar sind der Parlamentsbeschluss, das Alterslimit (15), die vollständige (nicht mehr elternabhängige) Fassung, die Zeitpläne (1.9. / 2027) und die Zuständigkeit von ARCOM. Ob das Verbot in der Praxis durchsetzbar ist, ist offen.<br/><br/><strong>Quellenvielfalt:</strong> NPR, PBS NewsHour, France 24, CNBC, Reason (kritisch) – übereinstimmend bei Beschluss, Altersgrenze und Zeitplan; die Bewertung (Kinderschutz vs. Freiheits-/Datenschutzbedenken) unterscheidet sich stark je nach politischer Ausrichtung der Quelle und ist entsprechend gekennzeichnet.]]></description>
+    </item>
+
+    <!-- ════════ WELT / NAHER OSTEN ════════ -->
+    <item>
+      <title>Welt/Naher Osten: Trump droht mit Zerstörung von Infrastruktur bei Angriffen auf Schiffe – Iran kündigt Gegenschläge an</title>
+      <link>https://www.cnn.com/2026/07/22/world/live-news/the-war-with-iran</link>
+      <guid isPermaLink="false">wn-2026-07-23-usa-iran-drohungen</guid>
+      <category>Welt</category>
+      <category>Naher Osten</category>
+      <category>Politik</category>
+      <pubDate>Wed, 22 Jul 2026 20:00:00 +0200</pubDate>
+      <description><![CDATA[Im anhaltenden Konflikt zwischen den USA und dem Iran (Vorgeschichte siehe frühere Ausgaben) hat US-Präsident Donald Trump erklärt, die USA würden „jedes Mal", wenn der Iran ein Schiff in der Straße von Hormus angreife, eine Brücke oder ein Kraftwerk „bombardieren und zerstören". Ein hochrangiger iranischer Vertreter kündigte daraufhin Angriffe auf „Infrastruktur und Brücken in der gesamten Region" an. Trump nahm zudem an der Überführung der sterblichen Überreste von vier zuletzt getöteten US-Soldaten teil.<br/><br/><strong>Auswirkung:</strong> Die gegenseitige Eskalationsrhetorik erhöht das Risiko für die zivile Schifffahrt und damit für die Energiepreise – ein direkter Übertragungskanal nach Europa und Deutschland (Öl, Gas, Inflation), der auch in die Zinsabwägungen der EZB hineinspielt. Innenpolitisch in den USA wächst mit steigenden Opferzahlen und Kosten die Debatte über Dauer und Finanzierung des Krieges.<br/><br/><strong>Bias-Hinweis:</strong> Beide zitierten Aussagen sind Drohungen von Konfliktparteien, keine belegten Handlungen; sie geben Absichtsbekundungen wieder, deren Umsetzung offen ist. Zahlen zu Opfern und Schäden stammen aus Kriegsberichterstattung und sind nur eingeschränkt unabhängig verifizierbar. Belegbar sind die öffentlichen Äußerungen Trumps und der iranischen Seite sowie die Überführungszeremonie. Bewertungen von Schuld und Rechtfertigung des Konflikts bleiben ausgespart.<br/><br/><strong>Quellenvielfalt:</strong> CNN (Liveblog), WORLD, Everything Briefing – übereinstimmend bei den zitierten Drohungen und der Zeremonie; die Einordnung von Verantwortung und Ausblick unterscheidet sich je nach Quelle und wird hier offengelassen.]]></description>
+    </item>
+
+    <!-- ════════ WELT / WISSENSCHAFT (POSITIVE NACHRICHT) ════════ -->
+    <item>
+      <title>Welt/Wissenschaft: Forschende reaktivieren „Reserveantibiotikum" Vancomycin gegen resistente Krankenhauskeime</title>
+      <link>https://www.sciencedaily.com/releases/2026/07/260722032108.htm</link>
+      <guid isPermaLink="false">wn-2026-07-23-vancomycin-reaktivierung</guid>
+      <category>Welt</category>
+      <category>Wissenschaft</category>
+      <category>Gesundheit</category>
+      <pubDate>Wed, 22 Jul 2026 09:00:00 +0200</pubDate>
+      <description><![CDATA[Forschende von Scripps Research haben einen Weg gefunden, das als „letztes Mittel" geltende Antibiotikum Vancomycin gegen resistente Keime wieder wirksam zu machen. Ziel war das vancomycin-resistente Enterococcus faecium (VREfm), ein zunehmend verbreiteter Krankenhauskeim. Statt einen völlig neuen Wirkstoff zu entwickeln, kombinierten die Forschenden Vancomycin mit einem kleinen Molekül namens pghi-4, das ein für die Resistenz mitverantwortliches bakterielles Enzym (SagA) blockiert. In Laborversuchen stellte die Kombination die Fähigkeit des Antibiotikums wieder her, die resistenten Bakterien abzutöten. An potenteren Weiterentwicklungen wird bereits gearbeitet (Studie in Nature Communications).<br/><br/><strong>Auswirkung:</strong> Antibiotikaresistenzen gehören zu den größten globalen Gesundheitsrisiken; auch in europäischen und deutschen Kliniken sind resistente Enterokokken ein wachsendes Problem. Der Ansatz, bestehende Antibiotika durch „chemische Helfer" zu retten statt neue zu entwickeln, könnte – falls er sich bestätigt – schneller und günstiger zu einsetzbaren Therapien führen.<br/><br/><strong>Bias-Hinweis:</strong> Es handelt sich um präklinische Laborergebnisse; eine Wirksamkeit und Sicherheit beim Menschen ist noch nicht belegt und erfordert klinische Studien. Formulierungen wie „Durchbruch" sind mit Vorsicht zu lesen – der Weg von der Laborbank zur zugelassenen Therapie ist lang und scheitert häufig. Belegbar sind der Wirkmechanismus (pghi-4 gegen SagA), das Zielbakterium (VREfm) und die Laborergebnisse.<br/><br/><strong>Quellenvielfalt:</strong> ScienceDaily, News-Medical, EurekAlert!, Mirage News (basierend auf einer Studie in Nature Communications, Scripps Research) – übereinstimmend bei Mechanismus, Zielkeim und dem präklinischen Charakter der Ergebnisse.]]></description>
+    </item>
 
     <!-- ════════ DEUTSCHLAND / POLITIK ════════ -->
     <item>
