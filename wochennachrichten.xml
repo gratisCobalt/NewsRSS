@@ -6,9 +6,83 @@
     <atom:link href="https://example.com/wochennachrichten/feed.xml" rel="self" type="application/rss+xml" />
     <description>Wöchentliche Zusammenfassung der wichtigsten Nachrichten aus aller Welt mit Schwerpunkt Europa und Deutschland – Politik, Wirtschaft &amp; Finanzen, IT/Tech. Inklusive Einordnung der Auswirkungen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Sun, 26 Jul 2026 18:00:00 +0200</lastBuildDate>
-    <pubDate>Sun, 26 Jul 2026 18:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 27 Jul 2026 18:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 27 Jul 2026 18:00:00 +0200</pubDate>
     <generator>Claude Code</generator>
+
+    <!-- ════════ AUSGABE 27. JULI 2026 (Nachrichten der letzten 24h) ════════ -->
+
+    <!-- ════════ DEUTSCHLAND / WIRTSCHAFT & FINANZEN ════════ -->
+    <item>
+      <title>Deutschland/Wirtschaft &amp; Finanzen: ifo-Geschäftsklima steigt im Juli den dritten Monat in Folge – Erwartungen ziehen deutlich an</title>
+      <link>https://www.ifo.de/pressemitteilung/2026-07-27/ifo-geschaeftsklimaindex-gestiegen-juli-2026</link>
+      <guid isPermaLink="false">wn-2026-07-27-ifo-geschaeftsklima-juli</guid>
+      <category>Deutschland</category>
+      <category>Wirtschaft &amp; Finanzen</category>
+      <category>Konjunktur</category>
+      <pubDate>Mon, 27 Jul 2026 10:00:00 +0200</pubDate>
+      <description><![CDATA[Das ifo-Geschäftsklima ist im Juli 2026 auf 86,6 Punkte gestiegen (Vormonat rund 85,7, je nach Revision) – die dritte Verbesserung in Folge und ein Wert nahe dem höchsten Stand seit fast einem Jahr. Getragen wurde der Anstieg vor allem von den Erwartungen der Unternehmen, die sich um etwa 2,4 Punkte auf rund 86,7 verbesserten, während die Beurteilung der aktuellen Lage etwas nachgab. Besonders im verarbeitenden Gewerbe hellte sich die Stimmung merklich auf; die Nachfrage zog an und Materialengpässe ließen nach. Das ifo-Institut wertet dies als Erholung von den Belastungen durch den Iran-Konflikt trotz weiter bestehender geopolitischer Unsicherheit.<br/><br/><strong>Auswirkung:</strong> Der Index gilt als wichtigster deutscher Frühindikator; drei Anstiege in Folge deuten darauf hin, dass Unternehmen die Talsohle hinter sich sehen und wieder vorsichtig planen. Für Beschäftigung, Investitionen und die Bundesregierung – wenige Wochen vor mehreren Landtagswahlen – ist das ein positives Signal. Es ersetzt aber keinen belastbaren Aufschwung: Die aktuelle Lage wird schwächer beurteilt, und hohe Energiepreise sowie Handelskonflikte bleiben Risiken.<br/><br/><strong>Bias-Hinweis:</strong> Belegbar ist der Indexwert von 86,6 aus der amtlichen ifo-Mitteilung vom 27. Juli. Der Vormonatswert wird je nach Quelle leicht unterschiedlich angegeben (rund 85,6 bis 85,7, teils revidiert) – die Größenordnung „leichter Anstieg" ist unstrittig, die Nachkommastelle nicht. „Stimmung hellt sich auf" ist eine Umfrage-Momentaufnahme von Erwartungen, keine Messung tatsächlicher Produktion; Erwartungsindizes können drehen. Schlagzeilen wie „Aufschwung" überzeichnen einen moderaten Anstieg leicht.<br/><br/><strong>Quellenvielfalt:</strong> ifo-Institut (Primärquelle), finanzen.ch, ad-hoc-news, TradingEconomics – übereinstimmend bei Richtung (dritter Anstieg) und Treiber (Erwartungen); Abweichungen bei der exakten Höhe des Vormonatswerts und der Einordnung ( TradingEconomics nennt teils 86,7 bzw. eine stärkere Revision der Basis).]]></description>
+    </item>
+
+    <!-- ════════ WELT / WIRTSCHAFT & FINANZEN ════════ -->
+    <item>
+      <title>Welt/Wirtschaft &amp; Finanzen: Börsen stabilisieren sich, Ölpreis fällt – Entspannung im US-Iran-Konflikt stützt die Märkte</title>
+      <link>https://ts2.tech/en/stock-market-today-27-07-2026/</link>
+      <guid isPermaLink="false">wn-2026-07-27-boersen-oel-us-iran</guid>
+      <category>Welt</category>
+      <category>Wirtschaft &amp; Finanzen</category>
+      <category>Börse</category>
+      <pubDate>Mon, 27 Jul 2026 09:00:00 +0200</pubDate>
+      <description><![CDATA[Zum Wochenauftakt haben sich die asiatischen Börsen erholt und mehrheitlich höher eröffnet, gestützt von nachlassenden Sorgen um die Spannungen zwischen den USA und Iran sowie einem deutlichen Rückgang des Rohölpreises. Berichten zufolge setzten die USA ihre Angriffe auf Iran die dritte Nacht in Folge aus. Der fallende Ölpreis entlastet den Inflationsdruck, nachdem die US-Aktienmärkte die Vorwoche schwächer beendet hatten – belastet durch enttäuschende Quartalszahlen von Alphabet und Tesla sowie zuvor gestiegene Energiepreise. In dieser Woche stehen mehrere Notenbanksitzungen (Fed, BoE, BoJ) sowie Inflationsdaten aus der Eurozone an; die EZB hatte ihren Leitzins zuletzt bei 2,25 % belassen, eine mögliche Anhebung im September gilt am Markt als denkbar.<br/><br/><strong>Auswirkung:</strong> Für europäische und deutsche Anleger ist die Entspannung doppelt relevant: Ein niedrigerer Ölpreis dämpft die Inflation und verschafft der EZB Spielraum, während stabilere Aktienmärkte die Stimmung von Exporteuren und Tech-Zulieferern verbessern. Die Ruhe ist jedoch fragil – eine erneute Eskalation am Golf könnte Öl- und Aktienmärkte rasch wieder drehen.<br/><br/><strong>Bias-Hinweis:</strong> Kursbewegungen und Ölpreis sind belegbar, die Begründung „wegen US-Iran-Entspannung" ist eine gängige Markt-Interpretation – Kurse haben meist mehrere Treiber (Zinserwartungen, Quartalszahlen, Positionierung). Der Bericht über ausgesetzte US-Angriffe stützt sich auf Medienangaben unter Berufung auf Regierungskreise und ist unabhängig schwer zu verifizieren; er wird daher als Bericht, nicht als bestätigte Tatsache wiedergegeben.<br/><br/><strong>Quellenvielfalt:</strong> TS2, CNBC (Wochenausblick), IG, Elitewealth, Democracy Now (zu den ausgesetzten Angriffen) – übereinstimmend bei Marktrichtung, fallendem Öl und dem Notenbank-Kalender; Abweichungen bei der Gewichtung der Ursachen und bei den Angaben zum Iran-Konflikt.]]></description>
+    </item>
+
+    <!-- ════════ WELT / RECHT & POLITIK ════════ -->
+    <item>
+      <title>Welt/Recht &amp; Politik: Internationaler Strafgerichtshof enthebt erstmals amtierenden Chefankläger – Karim Khan abgesetzt</title>
+      <link>https://news.un.org/en/story/2026/07/1168025</link>
+      <guid isPermaLink="false">wn-2026-07-27-icc-khan-absetzung</guid>
+      <category>Welt</category>
+      <category>Politik</category>
+      <category>Recht</category>
+      <pubDate>Fri, 24 Jul 2026 18:00:00 +0200</pubDate>
+      <description><![CDATA[Die Versammlung der Vertragsstaaten des Internationalen Strafgerichtshofs (IStGH) in Den Haag hat am 24. Juli entschieden, Chefankläger Karim Khan wegen schweren Fehlverhaltens und schwerer Pflichtverletzung des Amtes zu entheben. Berichten zufolge stimmten 82 Mitgliedstaaten für die Absetzung. Khan ist damit der erste amtierende Chefankläger in der Geschichte des Gerichts, der sein Amt auf diese Weise verliert. Hintergrund sind seit knapp zwei Jahren erhobene Vorwürfe sexuellen Fehlverhaltens gegenüber einer Mitarbeiterin, die eine UN-interne Aufsichtsstelle untersucht hatte; Khan hatte im Mai 2025 pausiert und war im Juni 2026 suspendiert worden. Khan weist die Vorwürfe zurück und kündigte an, die Entscheidung anzufechten. Als Nachfolge ist der bisherige Vize Mame Mandiaye Niang im Gespräch.<br/><br/><strong>Auswirkung:</strong> Die Absetzung trifft den IStGH in einer ohnehin angespannten Lage – unter anderem laufen Verfahren mit hoher politischer Brisanz, und die US-Regierung übt massiven Druck auf das Gericht aus. Für die auf den IStGH gestützte europäische Rechts- und Außenpolitik ist die Führungslücke heikel: Sie kann laufende Ermittlungen verzögern und die Autorität des Gerichts schwächen, könnte aber auch als Beleg für funktionierende interne Kontrolle gelesen werden.<br/><br/><strong>Bias-Hinweis:</strong> Belegbar sind der Abstimmungsbeschluss und die offizielle Begründung. Die Deutung reicht von „überfälliger Rechenschaft" (Menschenrechtsorganisationen) bis „politisch motiviert" (Teile der Berichterstattung, auch Khans eigene Lesart) – beide Rahmungen werden hier kenntlich gemacht, nicht übernommen. Die Vorwürfe sind bislang nicht strafgerichtlich abschließend geklärt; „schweres Fehlverhalten" ist die Feststellung des zuständigen Gremiums, kein Strafurteil. Khans Sicht (Bestreiten, Anfechtung) wird ausdrücklich wiedergegeben.<br/><br/><strong>Quellenvielfalt:</strong> UN News (Primärmitteilung), NPR, Washington Post, Al Jazeera, Human Rights Watch, Justice Info – übereinstimmend bei Beschluss, Stimmenzahl und Erstmaligkeit; deutliche Unterschiede in der Bewertung (Rechenschaft vs. Politisierung).]]></description>
+    </item>
+
+    <!-- ════════ WELT / IT & TECH ════════ -->
+    <item>
+      <title>Welt/IT &amp; Tech: Moonshot AI stellt Kimi K3 als offene Gewichte bereit – weltweit größtes frei ladbares KI-Modell</title>
+      <link>https://qz.com/moonshot-ai-kimi-k3-open-weights-download-072726</link>
+      <guid isPermaLink="false">wn-2026-07-27-kimi-k3-open-weights</guid>
+      <category>Welt</category>
+      <category>IT/Tech</category>
+      <category>Künstliche Intelligenz</category>
+      <pubDate>Sun, 26 Jul 2026 23:30:00 +0200</pubDate>
+      <description><![CDATA[Das chinesische KI-Unternehmen Moonshot AI hat die Gewichte („open weights") seines Modells Kimi K3 zum kostenlosen Download freigegeben – laut mehreren Berichten in der Nacht zum 27. Juli, einen Tag vor dem angekündigten Termin. Mit 2,8 Billionen Parametern und einem Kontextfenster von rund einer Million Token gilt Kimi K3 als das bislang größte frei verfügbare Open-Weight-Modell. Praktisch nutzbar ist es für die meisten Teams aber nur über Hosting-Anbieter: Selbst in stark komprimierter 4-Bit-Form (MXFP4) benötigen die Gewichte rund 1,4 Terabyte schnellen Speicher. Anbieter wie Together AI und Modal boten von Tag eins an Zugang; ein technischer Bericht zu Architektur und Training wurde angekündigt.<br/><br/><strong>Auswirkung:</strong> Die Freigabe verschärft den Wettlauf um offene KI-Modelle und setzt westliche Anbieter unter Druck, die Spitzenleistung zunehmend hinter geschlossenen Diensten halten. Für Europa und Deutschland ist das zweischneidig: Offene Gewichte stärken digitale Souveränität, Forschung und lokale Anpassung – der enorme Hardwarebedarf (1,4 TB Speicher) bedeutet aber, dass ohne große Rechenzentren die Abhängigkeit von wenigen Hosting-Anbietern bleibt. Zudem stellen sich Fragen zu Sicherheit, Missbrauch und Regulierung unter dem EU-AI-Act.<br/><br/><strong>Bias-Hinweis:</strong> Belegbar sind Freigabe, Parameterzahl und Speicherbedarf. Der Titel „größtes offenes Modell" bezieht sich auf die Parameterzahl, nicht zwingend auf die beste Qualität; „Near-Frontier"-Leistungsangaben stammen teils vom Anbieter und aus Vorab-Benchmarks und sind unabhängig noch nicht umfassend bestätigt. Ein Teil der Berichterstattung stützt sich auf Tech-Blogs und Aggregatoren; der Kernvorgang (Freigabe, Größenordnung) wird jedoch übereinstimmend gemeldet. Genaue Leistungs- und Halluzinationsrisiken sind noch offen.<br/><br/><strong>Quellenvielfalt:</strong> Quartz (QZ), Hugging Face (Blog), Interconnects, TechTimes, Startup Fortune – übereinstimmend bei Freigabe, 2,8 Bio. Parametern und 1,4 TB Speicherbedarf; Abweichungen beim exakten Zeitpunkt (26. vs. 27. Juli) und bei der Leistungsbewertung.]]></description>
+    </item>
+
+    <!-- ════════ WELT / POLITIK ════════ -->
+    <item>
+      <title>Welt/Politik: Südkorea – Ex-Präsident Yoon Suk Yeol wegen Falschaussagen im Wahlkampf verurteilt</title>
+      <link>https://www.democracynow.org/2026/7/27/headlines</link>
+      <guid isPermaLink="false">wn-2026-07-27-suedkorea-yoon-urteil</guid>
+      <category>Welt</category>
+      <category>Politik</category>
+      <category>Justiz</category>
+      <pubDate>Mon, 27 Jul 2026 07:00:00 +0200</pubDate>
+      <description><![CDATA[Ein südkoreanisches Gericht hat den früheren Präsidenten Yoon Suk Yeol wegen falscher Angaben während seines Präsidentschaftswahlkampfs schuldig gesprochen und zu 18 Monaten Haft verurteilt, die für drei Jahre zur Bewährung ausgesetzt wurden. Das Urteil ist Teil der breiteren juristischen Aufarbeitung rund um Yoon, der nach seinem gescheiterten Kriegsrechtsversuch bereits im Zentrum mehrerer Verfahren steht. Wegen der Bewährung muss er in diesem Fall zunächst nicht ins Gefängnis.<br/><br/><strong>Auswirkung:</strong> Das Urteil setzt die rechtsstaatliche Aufarbeitung der südkoreanischen Verfassungskrise fort und hat Signalwirkung für den Umgang von Demokratien mit Amtsmissbrauch an der Staatsspitze. Für Europa ist Südkorea ein wichtiger Handels- und Technologiepartner (u. a. Halbleiter, Batterien); politische Stabilität in Seoul berührt daher auch europäische Lieferketten und die Sicherheitslage in Ostasien.<br/><br/><strong>Bias-Hinweis:</strong> Belegbar sind Schuldspruch, Strafmaß und Bewährung. Die Einordnung als „Sieg des Rechtsstaats" oder umgekehrt als „politische Verfolgung" ist Wertung und hängt vom politischen Lager ab; beide Deutungen werden hier bewusst nicht übernommen. Dieses Urteil betrifft nur den Vorwurf der Falschaussagen und ist von den separaten, schwerwiegenderen Verfahren (u. a. zum Kriegsrecht) zu unterscheiden – eine Vermischung wäre irreführend.<br/><br/><strong>Quellenvielfalt:</strong> Democracy Now, internationale Agenturberichte – übereinstimmend bei Schuldspruch, Strafmaß (18 Monate, 3 Jahre Bewährung) und Einordnung als Teil mehrerer Verfahren; Detailangaben können sich mit weiterer Berichterstattung präzisieren.]]></description>
+    </item>
+
+    <!-- ════════ WISSENSCHAFT / POSITIV ════════ -->
+    <item>
+      <title>Wissenschaft/Positiv: Forschende machen „Reserve-Antibiotikum" Vancomycin gegen resistente Keime wieder wirksam</title>
+      <link>https://www.sciencedaily.com/releases/2026/07/260722032108.htm</link>
+      <guid isPermaLink="false">wn-2026-07-27-vancomycin-resistenz-durchbruch</guid>
+      <category>Wissenschaft</category>
+      <category>Medizin</category>
+      <category>Positiv</category>
+      <pubDate>Sun, 26 Jul 2026 14:00:00 +0200</pubDate>
+      <description><![CDATA[Ein Forschungsteam hat einen Weg gefunden, das als „letzte Reserve" geltende Antibiotikum Vancomycin gegen resistente Bakterien wieder wirksam zu machen. Im Fokus stand der Krankenhauskeim Vancomycin-resistenter Enterococcus faecium (VREfm). Statt ein neues Medikament zu entwickeln, kombinierten die Forschenden Vancomycin mit einem kleinen Molekül namens pghi-4, das ein bakterielles Enzym (SagA) blockiert, das mit der Resistenz zusammenhängt. In Labor- und Mausversuchen wurde so die Wirkung von Vancomycin gegen die resistenten Keime wiederhergestellt. Das Team arbeitet bereits an potenteren Nachfolgeverbindungen und hält den Ansatz grundsätzlich auch für andere Erreger für übertragbar (etwa Tuberkulose oder resistente Staphylokokken). Die zugrunde liegende Studie erschien 2026 (Nature Communications); die breite Berichterstattung fällt in die Tage darauf.<br/><br/><strong>Auswirkung:</strong> Antibiotikaresistenzen zählen zu den größten globalen Gesundheitsrisiken; alte Wirkstoffe „wiederzubeleben" ist oft schneller und billiger als eine Neuentwicklung. Sollte sich der Ansatz in klinischen Studien bestätigen, könnte er Krankenhausinfektionen eindämmen – auch in Europa und Deutschland, wo VRE-Keime in Kliniken zunehmen. Bis zu einer zugelassenen Therapie sind es jedoch noch Jahre.<br/><br/><strong>Bias-Hinweis:</strong> Bewusst gegen Übertreibung eingeordnet: Die Ergebnisse stammen aus Labor- und Tierversuchen (Zellkultur, Maus), nicht aus Studien am Menschen; die Übertragbarkeit auf Patientinnen und Patienten ist noch nicht belegt. „Antibiotikum wiederbelebt" ist eine zutreffende, aber verkürzte Schlagzeile – es handelt sich um eine Wirkstoffkombination, nicht um einen sofort verfügbaren Behandlungsstandard. Das Publikationsdatum liegt knapp außerhalb der 24-Stunden-Grenze und wird transparent gemacht.<br/><br/><strong>Quellenvielfalt:</strong> ScienceDaily, EurekAlert, News-Medical, Technology Networks, Cold Spring Harbor Laboratory – übereinstimmend bei Mechanismus (SagA/pghi-4), Erreger (VREfm) und Versuchsstadium (Labor/Maus); die Reichweite der Aussage wird in den Primärquellen vorsichtiger formuliert als in Teilen der Sekundärberichterstattung.]]></description>
+    </item>
 
     <!-- ════════ AUSGABE 26. JULI 2026 (Nachrichten der letzten 24h) ════════ -->
 
