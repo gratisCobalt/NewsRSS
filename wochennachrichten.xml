@@ -6,9 +6,118 @@
     <atom:link href="https://example.com/wochennachrichten/feed.xml" rel="self" type="application/rss+xml" />
     <description>Wöchentliche Zusammenfassung der wichtigsten Nachrichten aus aller Welt mit Schwerpunkt Europa und Deutschland – Politik, Wirtschaft &amp; Finanzen, IT/Tech. Inklusive Einordnung der Auswirkungen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 30 Jul 2026 20:30:00 +0200</lastBuildDate>
-    <pubDate>Thu, 30 Jul 2026 20:30:00 +0200</pubDate>
+    <lastBuildDate>Fri, 31 Jul 2026 21:00:00 +0200</lastBuildDate>
+    <pubDate>Fri, 31 Jul 2026 21:00:00 +0200</pubDate>
     <generator>Claude Code</generator>
+
+    <!-- ════════ AUSGABE 31. JULI 2026 (Nachrichten der letzten 24h) ════════ -->
+
+    <!-- ════════ DEUTSCHLAND / WIRTSCHAFT ════════ -->
+    <item>
+      <title>Deutschland/Wirtschaft: BIP wächst im 2. Quartal 2026 um 0,2 % – Exporte tragen, Konsum bleibt schwach</title>
+      <link>https://www.destatis.de/EN/Press/2026/07/PE26_269_811.html</link>
+      <guid isPermaLink="false">wn-2026-07-31-de-bip-q2-2026</guid>
+      <category>Deutschland</category>
+      <category>Wirtschaft &amp; Finanzen</category>
+      <pubDate>Thu, 30 Jul 2026 10:00:00 +0200</pubDate>
+      <description><![CDATA[Das deutsche Bruttoinlandsprodukt (BIP) ist im zweiten Quartal 2026 (April bis Juni) preis-, saison- und kalenderbereinigt um 0,2 % gegenüber dem Vorquartal gewachsen. Das teilte das Statistische Bundesamt (Destatis) am 30. Juli in einer ersten Schnellschätzung mit. Im Vorjahresvergleich lag das BIP um 0,9 % höher. Getragen wurde das Wachstum vor allem von steigenden Exporten, während der private Konsum verhalten blieb und die Investitionen (Bruttoanlageinvestitionen) zurückgingen. Zugleich wurde das erste Quartal 2026 nachträglich von +0,3 % auf +0,4 % nach oben korrigiert.<br/><br/><strong>Auswirkung:</strong> Zwei Quartale in Folge mit leichtem Plus bedeuten, dass Deutschland derzeit nicht in einer technischen Rezession steckt, das Wachstum aber schwach und exportgetragen bleibt. Für Beschäftigte und Verbraucher heißt das: keine kräftige Erholung, aber auch kein weiterer Absturz. Die schwache Investitionstätigkeit ist ein Warnsignal für die längerfristige Wettbewerbsfähigkeit; der Rückenwind durch Exporte macht die Konjunktur anfällig für außenwirtschaftliche Schocks wie den Iran-Konflikt oder US-Zollpolitik.<br/><br/><strong>Bias-Hinweis:</strong> Es handelt sich um eine erste Schnellschätzung, die in späteren Berechnungen noch spürbar revidiert werden kann (die Aufwärtskorrektur des 1. Quartals zeigt genau das). Ob 0,2 % als „Wachstum trotz Krise" oder als „Stagnation" gerahmt werden, ist eine Wertungsfrage – die Zahl selbst ist knapp über null und statistisch nahe der Nulllinie. Politische Deutungen, die den Wert einer bestimmten Regierungsmaßnahme zuschreiben, gehen über das hinaus, was eine BIP-Schnellschätzung belegen kann.<br/><br/><strong>Quellenvielfalt:</strong> Destatis (Primärquelle), InvestingLive, Yahoo Finance/Reuters, Fisher Investments – übereinstimmend bei +0,2 % zum Vorquartal, +0,9 % im Jahresvergleich und der Aufwärtsrevision des 1. Quartals; Unterschiede in der Einordnung (Belebung vs. Schwäche).]]></description>
+    </item>
+
+    <!-- ════════ EUROPA / WIRTSCHAFT &amp; FINANZEN ════════ -->
+    <item>
+      <title>Europa/Wirtschaft: Euro-Inflation steigt im Juli auf 2,9 % – Energiepreise treiben, EZB unter Zugzwang</title>
+      <link>https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-31072026-ap</link>
+      <guid isPermaLink="false">wn-2026-07-31-eurozone-inflation-juli</guid>
+      <category>Europa</category>
+      <category>Wirtschaft &amp; Finanzen</category>
+      <pubDate>Fri, 31 Jul 2026 11:00:00 +0200</pubDate>
+      <description><![CDATA[Die jährliche Inflationsrate im Euroraum ist im Juli 2026 auf 2,9 % gestiegen, nach 2,8 % im Juni. Das geht aus der Schnellschätzung von Eurostat vom 31. Juli hervor. Haupttreiber war die Energie mit einer Jahresrate von 10,0 % (Juni: 8,5 %), gefolgt von Dienstleistungen (3,3 %) und Industriegütern ohne Energie (0,9 %); Nahrungsmittel, Alkohol und Tabak verteuerten sich mit 1,2 % langsamer als im Vormonat. Die Kerninflation (ohne Energie und Nahrungsmittel) zog leicht auf 2,5 % an (Juni: 2,4 %).<br/><br/><strong>Auswirkung:</strong> Mit 2,9 % liegt die Teuerung wieder deutlich über dem EZB-Ziel von 2 %. Nachdem die Europäische Zentralbank im Juni erstmals seit drei Jahren die Zinsen angehoben hatte (Einlagensatz 2,25 %) und im Juli pausierte, erhöht der neue Anstieg – vor allem durch Energie im Zuge des Nahost-Konflikts – den Druck, im Herbst weiter zu straffen. Höhere Zinsen verteuern Kredite und Baufinanzierungen und bremsen die ohnehin schwache Konjunktur; für Sparer steigen die Guthabenzinsen tendenziell.<br/><br/><strong>Bias-Hinweis:</strong> Es ist eine vorläufige Schätzung; die endgültigen Werte können abweichen. Der Anstieg ist maßgeblich energiegetrieben und damit teils von geopolitischen Faktoren abhängig, die die EZB nicht steuern kann – Schlagzeilen, die allein „steigende Inflation" betonen, blenden aus, dass die Kernrate mit 2,5 % vergleichsweise stabil ist. Ob und wann die EZB reagiert, ist eine Erwartung von Analysten, keine beschlossene Entscheidung.<br/><br/><strong>Quellenvielfalt:</strong> Eurostat (Primärquelle), Euronews, Xinhua, Central Banking – übereinstimmend bei 2,9 % Gesamtrate, Energie als Haupttreiber und Kernrate 2,5 %; Unterschiede vor allem in der Gewichtung der EZB-Implikationen.]]></description>
+    </item>
+
+    <!-- ════════ EUROPA / IT &amp; TECH ════════ -->
+    <item>
+      <title>Europa/IT &amp; Tech: EU startet Ausschreibung für bis zu sieben KI-„Gigafactories" – 30-Milliarden-Plan, aber wenig gesichertes Geld</title>
+      <link>https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1708</link>
+      <guid isPermaLink="false">wn-2026-07-31-eu-ki-gigafactories</guid>
+      <category>Europa</category>
+      <category>IT/Tech</category>
+      <category>Wirtschaft &amp; Finanzen</category>
+      <pubDate>Thu, 30 Jul 2026 13:00:00 +0200</pubDate>
+      <description><![CDATA[Die EU-Kommission hat am 30. Juli die Ausschreibung für bis zu sieben KI-„Gigafactories" (große Rechenzentren zum Training von KI-Modellen) eröffnet. Ziel ist es, Europas Abhängigkeit von den USA und China bei Rechenleistung zu verringern. Das Vorhaben soll insgesamt mehr als 30 Milliarden Euro mobilisieren – nach Kommissionsangaben rund 5 Mrd. Euro von der EU, weitere rund 5 Mrd. Euro von Mitgliedstaaten und etwa 20 Mrd. Euro privates Kapital. Aus dem laufenden EU-Haushalt sind zunächst allerdings nur etwa 1 Mrd. Euro fest zugesagt. Für die benötigten Chips hat Brüssel Absichtserklärungen mit den US-Herstellern AMD, Nvidia und Qualcomm geschlossen. Bewerbungen sind bis zum 12. November möglich; die Auswahl soll Anfang 2027 erfolgen.<br/><br/><strong>Auswirkung:</strong> Für Deutschland und Europa geht es um digitale Souveränität: Wer die Rechenkapazität für KI kontrolliert, bestimmt mit über Wettbewerbsfähigkeit, Datenschutz und Verteidigungsfähigkeit. Standorte, Stromversorgung und Fachkräfte für solche Rechenzentren könnten regionale Wirtschaftsimpulse geben. Zugleich zeigt die Abhängigkeit von US-Chips, dass „Souveränität" vorerst eher Ziel als Realität ist.<br/><br/><strong>Bias-Hinweis:</strong> Zwischen der Schlagzeilenzahl „30 Milliarden Euro" und dem tatsächlich gesicherten Geld (rund 1 Mrd. Euro fest aus dem EU-Budget) klafft eine große Lücke – die Gesamtsumme ist überwiegend erhofftes privates und nationales Kapital, kein beschlossenes Budget. Formulierungen wie „Europa wird zum KI-Kontinent" sind politische Zielsetzungen, keine Ergebnisse. Kritische Quellen betonen zudem, dass die Chips weiterhin aus den USA kommen.<br/><br/><strong>Quellenvielfalt:</strong> EU-Kommission (Primärquelle), Euronews, TechTimes, IBTimes UK – übereinstimmend bei bis zu sieben Gigafactories, Volumen „über 30 Mrd. Euro" und Frist 12. November; deutliche Unterschiede in der Bewertung (Aufbruch vs. „viel angekündigt, wenig gesichert").]]></description>
+    </item>
+
+    <!-- ════════ WELT / IT &amp; TECH / BÖRSE ════════ -->
+    <item>
+      <title>Welt/IT &amp; Tech: Big-Tech-Quartalszahlen – Meta-Gewinn sinkt trotz Umsatzsprung, Amazon fährt Nova-KI-Modelle zurück</title>
+      <link>https://www.investing.com/news/company-news/meta-q2-2026-slides-revenue-surges-28-as-ai-spending-pressures-profits-93CH-4821966</link>
+      <guid isPermaLink="false">wn-2026-07-31-bigtech-q2-meta-amazon</guid>
+      <category>Welt</category>
+      <category>IT/Tech</category>
+      <category>Wirtschaft &amp; Finanzen</category>
+      <category>Börse</category>
+      <pubDate>Thu, 30 Jul 2026 22:00:00 +0200</pubDate>
+      <description><![CDATA[Die US-Technologiekonzerne haben ihre Quartalszahlen vorgelegt. Meta (Facebook, Instagram) meldete für das zweite Quartal 2026 einen Umsatz von 60,8 Mrd. Dollar (+28 % zum Vorjahr), verfehlte aber mit einem Nettogewinn von rund 15,8 Mrd. Dollar und einem Gewinn je Aktie von 6,18 Dollar die Analystenerwartungen (erwartet: 7,17 Dollar). Belastend wirkten um 55 % gestiegene Gesamtkosten (42,0 Mrd. Dollar), eine Rückstellung von 2,4 Mrd. Dollar für Rechtsstreitigkeiten und 1,18 Mrd. Dollar Abfindungen nach dem Stellenabbau von rund 8.000 Jobs. Die geplanten Investitionen (Capex) für 2026 hob Meta auf 130 bis 145 Mrd. Dollar an (2025: 72,2 Mrd.). Parallel wurde bekannt, dass Amazon die meisten seiner „Nova"-KI-Modelle (u.a. Premier, Omni, den Videogenerator Reel und den Bildgenerator Canvas) nicht weiterentwickelt und die Kräfte in einem neuen Frontier-Model-Research-Team bündelt.<br/><br/><strong>Auswirkung:</strong> Die Zahlen zeigen die zwei Seiten des KI-Booms: kräftig wachsende Umsätze, aber stark steigende Kosten durch Investitionen in Rechenzentren. Für europäische Anlegerinnen und Anleger ist das relevant, weil viele Fonds und ETFs stark in US-Tech investiert sind. Amazons Rückzug bei eigenen Modellen unterstreicht, wie schwierig und teuer der Aufbau konkurrenzfähiger KI ist – ein Signal auch für europäische Ambitionen (siehe EU-Gigafactories).<br/><br/><strong>Bias-Hinweis:</strong> „Gewinn sinkt" und „Umsatz springt" beschreiben dasselbe Quartal – je nach Schlagzeile entsteht ein positiver oder negativer Eindruck; beides ist korrekt. Amazon „schrottet" seine Modelle nicht vollständig: Sie bleiben für Bestandskunden im Wartungsmodus („keep the lights on"), die Entwicklung wird nur nicht priorisiert – zugespitzte Überschriften („Ende von Amazons KI-Ambitionen") überzeichnen. Die Capex-Prognose ist eine Ankündigung, keine getätigte Ausgabe.<br/><br/><strong>Quellenvielfalt:</strong> Investing.com, Variety, StockTitan (Meta); The Next Web, The Decoder, MLQ (Amazon Nova) – übereinstimmend bei Metas Umsatz (60,8 Mrd.), EPS-Verfehlung und Amazons Fokusverlagerung; Unterschiede in der Zuspitzung („KTLO" vs. „Aus").]]></description>
+    </item>
+
+    <!-- ════════ EUROPA / SICHERHEIT / POLITIK ════════ -->
+    <item>
+      <title>Europa/Sicherheit: Russische Rakete schlägt in Polen ein – NATO lässt Kampfjets aufsteigen</title>
+      <link>https://www.aljazeera.com/news/2026/7/30/nato-jets-scramble-as-russian-missile-detonates-in-poland</link>
+      <guid isPermaLink="false">wn-2026-07-31-russland-rakete-polen</guid>
+      <category>Europa</category>
+      <category>Politik</category>
+      <category>Sicherheit</category>
+      <pubDate>Thu, 30 Jul 2026 07:00:00 +0200</pubDate>
+      <description><![CDATA[Eine russische Rakete ist in der Nacht zum Donnerstag (30. Juli) im Osten Polens eingeschlagen. Das bestätigte NATO-Generalsekretär Mark Rutte. Nach polnischen Angaben riss die Explosion nahe dem Dorf Tarnawa-Kolonia bei Lublin einen rund 10 Meter breiten Krater; Verletzte oder Sachschäden an Gebäuden wurden zunächst nicht gemeldet. Es soll sich um einen Marschflugkörper des Typs Kh-101 gehandelt haben, der im Rahmen eines großangelegten russischen Angriffs auf die Ukraine in den polnischen Luftraum eindrang. Die NATO ließ zwei Kampfjets, einen Kampfhubschrauber und weitere Flugzeuge aufsteigen und aktivierte die Bodenabwehr. Der zugrundeliegende Angriff auf die Ukraine tötete nach ukrainischen Angaben mindestens acht Zivilisten und verletzte über 50.<br/><br/><strong>Auswirkung:</strong> Der Vorfall betrifft NATO-Territorium unmittelbar und erhöht die Gefahr einer ungewollten Eskalation zwischen dem Bündnis und Russland. Für Deutschland als NATO-Mitglied und wichtigen Unterstützer der Ukraine steigt der Druck, Luftverteidigung an der Ostflanke zu verstärken. Solche Zwischenfälle können zudem Energie- und Finanzmärkte verunsichern.<br/><br/><strong>Bias-Hinweis:</strong> Ob die Rakete gezielt oder als Folge des Angriffs versehentlich abirrte, war zunächst offen – Formulierungen wie „Angriff auf Polen" unterstellen Absicht, die (Stand der Meldung) nicht belegt ist. Die Opferzahlen in der Ukraine stammen von ukrainischer Seite, einer Konfliktpartei. Ruttes Wortwahl („rücksichtsloser Akt") ist eine politische Bewertung des Bündnisses, keine neutrale Tatsachenfeststellung.<br/><br/><strong>Quellenvielfalt:</strong> Al Jazeera, Bloomberg, Stars and Stripes, NBC News, Irish Times – übereinstimmend bei Einschlag in Ostpolen, NATO-Reaktion und russischem Ursprung (Kh-101); Unterschiede bei Detailzahlen und in der Frage Absicht vs. Irrläufer.]]></description>
+    </item>
+
+    <!-- ════════ WELT / NAHER OSTEN / POLITIK ════════ -->
+    <item>
+      <title>Welt/Naher Osten: Trump verkündet Abkommen zur Entwaffnung der Hamas – Umsetzung bleibt umstritten</title>
+      <link>https://www.npr.org/2026/07/31/g-s1-136500/trump-hamas-gaza</link>
+      <guid isPermaLink="false">wn-2026-07-31-hamas-entwaffnung-gaza</guid>
+      <category>Welt</category>
+      <category>Naher Osten</category>
+      <category>Politik</category>
+      <pubDate>Thu, 30 Jul 2026 20:00:00 +0200</pubDate>
+      <description><![CDATA[US-Präsident Donald Trump hat am Donnerstag (30. Juli) ein Abkommen zur Entwaffnung der Hamas im Gazastreifen verkündet – als Teil des Friedensplans nach der im Vorjahr unterzeichneten Waffenruhe. Dem Plan zufolge soll die Hamas ihre Waffen abgeben, ihre militärische Infrastruktur einschließlich des Tunnelnetzes auflösen und die Macht an eine neue technokratische palästinensische Regierung übergeben; im Gegenzug soll sich Israel schrittweise zurückziehen, humanitäre Hilfe fließen und ein internationaler Wiederaufbau beginnen. Ein genauer Entwaffnungsfahrplan soll binnen 14 Tagen erstellt werden. Über die Reihenfolge gibt es jedoch offenen Streit: Ein ranghoher Hamas-Vertreter erklärte, Israel müsse sich zuerst aus Teilen Gazas zurückziehen; israelische Stellen zweifeln, dass die Hamas ihre Waffen tatsächlich abgibt.<br/><br/><strong>Auswirkung:</strong> Gelingt die Umsetzung, könnte sie einen der längsten Konflikte der Region beruhigen und die humanitäre Lage in Gaza verbessern. Für Europa und Deutschland ginge es um weniger Migrationsdruck, mehr Stabilität im Nahen Osten und geringere Risiken für Energiepreise. Die Skepsis beider Seiten und die offene Reihenfolge machen ein Scheitern aber weiterhin möglich.<br/><br/><strong>Bias-Hinweis:</strong> „Historischer Durchbruch" ist eine Selbstdarstellung Trumps; mehrere Quellen betonen ausdrücklich, dass zentrale Punkte (Reihenfolge des Rückzugs, tatsächliche Waffenabgabe) ungeklärt sind – eine Ankündigung ist noch keine vollzogene Entwaffnung. Je nach Quelle wird das Abkommen als Erfolg oder als vage Absichtserklärung gerahmt. Beide Konfliktparteien haben ein Interesse, ihre jeweilige Bedingung („zuerst Rückzug" bzw. „zuerst Entwaffnung") als gesetzt darzustellen.<br/><br/><strong>Quellenvielfalt:</strong> NPR, ABC News, CNN, Al Jazeera, Axios – übereinstimmend bei Trumps Ankündigung, den Grundzügen des Plans und dem 14-Tage-Fahrplan; deutliche Unterschiede in der Bewertung der Erfolgsaussichten und der Betonung offener Streitpunkte.]]></description>
+    </item>
+
+    <!-- ════════ EUROPA / MIGRATION / POLITIK ════════ -->
+    <item>
+      <title>Europa/Migration: Zehntausende durchbrechen Grenze zur spanischen Exklave Ceuta – viele Tote, Streit um Schengen</title>
+      <link>https://www.cnn.com/2026/07/31/europe/spain-ceuta-migrants-intl</link>
+      <guid isPermaLink="false">wn-2026-07-31-ceuta-grenze-migration</guid>
+      <category>Europa</category>
+      <category>Politik</category>
+      <category>Migration</category>
+      <pubDate>Fri, 31 Jul 2026 15:00:00 +0200</pubDate>
+      <description><![CDATA[An der Grenze zwischen Marokko und der spanischen Nordafrika-Exklave Ceuta hat es innerhalb von rund 24 Stunden einen massiven Grenzdurchbruch gegeben. Nach spanischen Angaben gelangten etwa 60.000 Menschen über Land und See in die Exklave, viele durch Umschwimmen einer ins Meer reichenden Grenzbarriere. Bis zum Freitagabend seien nach Angaben des spanischen Innenministeriums rund 48.300 Menschen freiwillig nach Marokko zurückgekehrt. Die Zahl der Todesopfer auf der spanischen Seite stieg im Lauf des Tages an; die Angaben reichten von zunächst 18 bis zu 57 Toten – teils Ertrunkene, teils Menschen, die beim Überklettern der Wellenbrecher erdrückt wurden. Ministerpräsident Pedro Sánchez reiste nach Ceuta. Frankreich verschärfte die Kontrollen zur spanischen Grenze, Italien drohte, Spanien vorübergehend aus dem Schengen-Raum auszusetzen.<br/><br/><strong>Auswirkung:</strong> Der Vorfall belastet die EU-Migrationspolitik und den Zusammenhalt im Schengen-Raum. Für Deutschland ist relevant, dass Debatten über Binnengrenzkontrollen und Verteilung von Geflüchteten neu befeuert werden. Der Fall zeigt auch die Abhängigkeit der EU von Marokko bei der Grenzsicherung.<br/><br/><strong>Bias-Hinweis:</strong> Die Opferzahlen sind widersprüchlich und stiegen im Tagesverlauf stark an (18 → 34 → 57 je nach Quelle und Zeitpunkt) – es handelt sich um eine sich entwickelnde Lage; jede Einzelzahl ist eine Momentaufnahme. Die Zahl „60.000" ist eine Schätzung. Begriffe wie „Ansturm" oder „Invasion" transportieren Wertungen; italienische Drohungen (Schengen-Ausschluss) sind politische Positionen, keine beschlossenen Maßnahmen.<br/><br/><strong>Quellenvielfalt:</strong> CNN, Al Jazeera, CBC, NPR, Forbes – übereinstimmend bei Größenordnung (Zehntausende), hoher Zahl freiwilliger Rückkehrer und europäischen Reaktionen; deutliche Unterschiede bei der Zahl der Todesopfer (Stand der jeweiligen Meldung).]]></description>
+    </item>
+
+    <!-- ════════ DEUTSCHLAND / MIGRATION / POLITIK ════════ -->
+    <item>
+      <title>Deutschland/Migration: Zahl der Abschiebungen im ersten Halbjahr 2026 gesunken</title>
+      <link>https://www.news.de/panorama/859867633/31-juli-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-31-07-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/</link>
+      <guid isPermaLink="false">wn-2026-07-31-de-abschiebungen-halbjahr</guid>
+      <category>Deutschland</category>
+      <category>Politik</category>
+      <category>Migration</category>
+      <pubDate>Fri, 31 Jul 2026 09:00:00 +0200</pubDate>
+      <description><![CDATA[Die Zahl der Abschiebungen aus Deutschland ist im ersten Halbjahr 2026 gegenüber dem Vorjahreszeitraum zurückgegangen. Nach den berichteten Zahlen wurden von Januar bis Juni 2026 rund 9.663 Menschen abgeschoben – ein Rückgang nach mehreren Jahren mit steigenden Zahlen. Bereits im ersten Quartal 2026 war die Zahl auf 4.807 gesunken (minus 1.344 gegenüber dem Vorjahr); die meisten Rückführungen gingen in die Türkei, nach Georgien und Nordmazedonien. Als Gründe gelten laut Bundesinnenministerium ein Bündel von Maßnahmen, darunter rund 34.000 Zurückweisungen an den Grenzen und deutlich gesunkene Asylantragszahlen.<br/><br/><strong>Auswirkung:</strong> Weniger Abschiebungen bei zugleich stark gesunkenen Asylanträgen deuten darauf hin, dass insgesamt weniger Menschen irregulär einreisen – die Debatte darüber, ob das an deutscher Politik, an EU-Maßnahmen oder an veränderten Fluchtrouten liegt, bleibt aber offen. Das Thema ist innenpolitisch hoch aufgeladen und beeinflusst die Auseinandersetzung zwischen Regierung und Opposition.<br/><br/><strong>Bias-Hinweis:</strong> Die genaue Halbjahreszahl (9.663) stammt aus tagesaktueller Medienberichterstattung und sollte gegen die amtliche Statistik geprüft werden; die belastbarste Zahl ist bislang die Q1-Zahl (4.807). „Rückgang der Abschiebungen" lässt sich sowohl als Beleg wirksamer Grenzpolitik (weniger Ausreisepflichtige) als auch als Vollzugsdefizit deuten – beide Lesarten sind politisch und werden hier nicht entschieden. Ursache-Wirkungs-Aussagen einzelner Parteien sind mit Vorsicht zu behandeln.<br/><br/><strong>Quellenvielfalt:</strong> news.de, Newsworm, migrando.de (BMI-Daten) – übereinstimmend beim Rückgang und den Haupt-Zielländern; die exakte Halbjahreszahl ist je nach Quelle und Stichtag unterschiedlich präzise belegt.]]></description>
+    </item>
+
+    <!-- ════════ WELT / WISSENSCHAFT (POSITIV) ════════ -->
+    <item>
+      <title>Welt/Wissenschaft: Stanford-Forscher entdecken körpereigenes Molekül mit Ozempic-ähnlicher Wirkung</title>
+      <link>https://www.sciencedaily.com/news/health_medicine/</link>
+      <guid isPermaLink="false">wn-2026-07-31-stanford-appetit-molekuel</guid>
+      <category>Welt</category>
+      <category>Wissenschaft</category>
+      <category>Gesundheit</category>
+      <pubDate>Thu, 30 Jul 2026 12:00:00 +0200</pubDate>
+      <description><![CDATA[Forschende der Stanford Medicine haben ein natürlich im Körper vorkommendes Molekül beschrieben, das den Appetit dämpfen und das Körpergewicht senken kann – ähnlich wie die Abnehm- und Diabetesmittel vom Typ Ozempic (Wirkstoffklasse GLP-1), aber Berichten zufolge ohne einige der häufigen Nebenwirkungen. Da es sich um eine körpereigene Substanz handelt, erhoffen sich die Wissenschaftler einen sanfteren Wirkmechanismus. Die Ergebnisse stammen aus der Grundlagenforschung; ein zugelassenes Medikament ist damit noch nicht verbunden.<br/><br/><strong>Auswirkung:</strong> Übergewicht und Typ-2-Diabetes gehören auch in Deutschland zu den großen Gesundheitsproblemen. Ein körpereigener Ansatz mit weniger Nebenwirkungen könnte langfristig neue, besser verträgliche Therapien ermöglichen und den Druck auf teure, teils knappe GLP-1-Präparate mindern. Bis zu einer möglichen Anwendung am Menschen sind allerdings noch viele Jahre klinischer Prüfung nötig.<br/><br/><strong>Bias-Hinweis:</strong> Vergleiche mit „Ozempic" wecken hohe Erwartungen; es handelt sich bislang um frühe Forschung, überwiegend aus Labor- und Tiermodellen, ohne belegte Wirksamkeit und Sicherheit beim Menschen. Formulierungen wie „Ozempic ohne Nebenwirkungen" sind Zuspitzungen – die Aussage „weniger Nebenwirkungen" bezieht sich auf präklinische Beobachtungen. Positive Meldungen aus Pressemitteilungen von Forschungseinrichtungen sollten grundsätzlich zurückhaltend eingeordnet werden.<br/><br/><strong>Quellenvielfalt:</strong> ScienceDaily (Aufbereitung der Stanford-Mitteilung) als Hauptquelle; die Kernaussage (körpereigenes, appetitregulierendes Molekül, GLP-1-ähnlich) ist konsistent wiedergegeben, unabhängige klinische Bestätigung steht aus.]]></description>
+    </item>
 
     <!-- ════════ AUSGABE 30. JULI 2026 (Nachrichten der letzten 24h) ════════ -->
 
